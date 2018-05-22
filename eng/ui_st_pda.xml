@@ -351,7 +351,7 @@
 		<text>Back</text>
 	</string>
 	<string id="st_pda_action_1__1">
-		<text>Give items</text>
+		<text>Lend items</text>
 	</string>
 	<string id="st_pda_action_1__2">
 		<text>Commands</text>
@@ -433,7 +433,7 @@
 		<text>Items sold</text>
 	</string>
 	<string id="st_mm_pda_level_travel">
-		<text>Level transitions</text>
+		<text>Level travel</text>
 	</string>
 
 	<string id="st_mm_pda_dismissable">

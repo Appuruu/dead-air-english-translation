@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="encyclopedia_personae">
+		<text>Characters</text>
+	</string>
+
+
+	<string id="encyclopedia_personae_comms">
+		<text>Factions</text>
+	</string>
+
+	<string id="encyclopedia_personae_leaders">
+		<text>Faction leaders</text>
+	</string>
+
+	<string id="encyclopedia_personae_traders">
+		<text>Traders</text>
+	</string>
+
+	<string id="encyclopedia_personae_medics">
+		<text>Medics</text>
+	</string>
+
+	<string id="encyclopedia_personae_techs">
+		<text>Technicians</text>
+	</string>
+
+
+	<string id="encyclopedia_equipement">
+		<text>Equipment</text>
+	</string>
+
+	<string id="encyclopedia_mutants">
+		<text>Mutants</text>
+	</string>
+
+	<string id="encyclopedia_survival">
+		<text>Survival</text>
+	</string>
+
+	<string id="encyclopedia_hunting">
+		<text>Hunting</text>
+	</string>
+</string_table>
