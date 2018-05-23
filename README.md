@@ -37,7 +37,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_dialog_manager.xml - **done**
 
-- st_dynamic_news.xml - *done*
+- st_dynamic_news.xml - **done**
 
 - st_game_relations.xml - **done**
 
