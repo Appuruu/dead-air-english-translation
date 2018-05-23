@@ -43,7 +43,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_generate_fnames.xml - **done**
 
-- st_generate_snames.xml - *incomplete*
+- st_generate_snames.xml - **done**
 
 - st_items_artefacts.xml - *incomplete*
 
