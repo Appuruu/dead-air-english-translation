@@ -35,11 +35,11 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_dialogs_zaton.xml - **done**
 
-- st_dialog_manager.xml - *incomplete*
+- st_dialog_manager.xml - **done**
 
 - st_dynamic_news.xml - *incomplete*
 
-- st_game_relations.xml - *incomplete*
+- st_game_relations.xml - **done**
 
 - st_generate_fnames.xml - **done**
 
