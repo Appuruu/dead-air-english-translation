@@ -107,9 +107,9 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_zaton.xml - *incomplete*
 
-- st_subtitles.xml - *incomplete*
+- st_subtitles.xml - **done**
 
-- ui_st_credits.xml - *incomplete*
+- ui_st_credits.xml - **done**
 
 - ui_st_encyclopedia.xml - **done**
 
