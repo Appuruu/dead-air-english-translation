@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON DEAD CITY MAP
+<   CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT STRINGS
+	<!--
+	<!--    Modified by DoctorX
+	<!--    for DoctorX Questlines 1.6
+	<!--    October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Default Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_name">
+		<text>Get Next Task</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_text">
+		<text>Receive your next task.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_about">
+		<text>There is a contact who is willing to pay well for our services. Go see him.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_finish">
+		<text>Good luck stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_name">
+		<text>Commando Raid</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_text">
+		<text>You must stealthily infiltrate an enemy camp.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_about">
+		<text>I have a job for you. A certain faction has moved in on an area that our client would prefer they not be and they need to be removed. You must go alone. They are prepared for a large assault but they will not be expecting a lone infiltrator. Sneak into their camp and eliminate as many of them as you can.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_finish">
+		<text>Well done. Our client is pleased. He even kicked in a bonus for you.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
+		<text>Assault the Bandit Camp</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_text">
+		<text>Lead a squad of Mercenaries in a raid on a Bandit camp in the area.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_about">
+		<text>Bandits have move into the area. Take some men and clear them out.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
+		<text>Excellent work. You are a fine warrior.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_name">
+		<text>Get Next Task</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_text">
+		<text>Receive your next task.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_about">
+		<text>I have a customer for you. I've marked his location on your map.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_finish">
+		<text>Good luck stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Ambush Raid</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>Link up with some Mercs about to ambush an enemy encampment in the area.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>Hey, some of the boys have spotted an enemy camp in the area and are heading out to ambush them. If you hurry, you can probably catch up with them.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
+		<text>Great job. Here's your cut.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Extract Mercenary Prisoner</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>A Merc has been taken prisoner by the Military. Pull him out.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>Those bitches in the Military have captured one of our men! Get in there and extract him.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_finish">
+		<text>Good work. No man left behind.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>%s for Hog</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>Kill the mutant that attacked Hog and bring him its %s.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>You're out in the field a lot. If you come across a certain mutant I want you to kill it.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>Just last week I was attacked by a mutant. Bastard nearly ended me but then it disappeared before I could blast its ass. It got me good, I'm gonna have this scar the rest of my life. If you see the damn thing, kill it, gut it, bring me its goddamn %s. I will reward you well in return.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>You killed it! Great! Take that you little fuck! Thanks man, you've done well.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_name">
+		<text>Pay Dushman Mercenary Initiation Fee</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_text">
+		<text>Pay Dushman the 12,000 RU fee to join the Mercenaries.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_about">
+		<text>Ok, fine. The fee is 12,000 RU, you bring your own weapons, no spitting on the floor. Sound good?</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_finish">
+		<text>Welcome aboard, Mercenary.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>Contract Killing for Dushman</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>You have been contracted to find and eliminate a target. Return for payment when the task is complete.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>Our contractor has a list of outstanding bounties. We need volunteers to carry out these hits discretely, which will allow us to fulfil our obligations to our contractor. Are you interested?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>It is done? Great. Here your percentage:</text>
+	</string>
+
+	
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>Assault Enemy Territory for Dushman</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>Clear the area of any and all hostile threats.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>I need you to be point man on an assault. Clear the target area of any and all hostile forces.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_finish">
+		<text>Excellent work. You are a fine warrior.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+
+	<string id="cit_killers_merc_trader_stalker_task_3_name">
+		<text>Capture Enemy Documents</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_text">
+		<text>Capture the enemy documents and return them to Dushman.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_about">
+		<text>Our employer has notified us of a document he needs us to capture from the enemy. Bring it here and I will deliver your payment.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_finish">
+		<text>Good job.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>%s are required by Hog to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>I have a proposition for you. If you can bring me some new tools, you will receive payment. Are you up for it?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>Good. I've been looking all over for a %s. It should contain some oil and tools I need to do work on firearms. I will pay you for one of these toolkits if you can bring a full set back to me.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>Right, on. This is what I've been looking for, thank!</text>
+	</string>
+
+
+	
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>%s are required by Hog to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>Everything I need is here. Thank you.</text>
+	</string>
+
+
+	
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>%s are required by Hog to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>Everything I need is here. Thank you.</text>
+	</string>
+
+	
+	<string id="cit_killers_merc_medic_stalker_task_1_name">
+		<text>Найти Хирургу %s</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_text">
+		<text>Необходимо достать %s и отнести его Хирургу.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
+		<text>Отлично, теперь работа пойдёт быстрее.</text>
+	</string>
+
+
+</string_table>
