@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON YANTAR MAP
+<   CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT STRINGS
+	<!--
+	<!--    Modified by DoctorX
+	<!--    for DoctorX Questlines 1.6
+	<!--    October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Default Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_default_task_name">
+		<text>Get Next Task</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_text">
+		<text>Receive your next task.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_about">
+		<text>What? Oh, yes, great! Stalker, I need you to help one of my colleagues. Go to him quickly! He needs you!</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_finish">
+		<text>Good luck stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_1_name">
+		<text>Sakharov Research Documents</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_text">
+		<text>Some of Professor Sakharov's research papers were left behind when his scientist fled from a mutant attack. Retrieve the documents and return them to Sakharov.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
+		<text>Ah, yes, I'm glad you're here. One of my researchers just returned from the field. He had to abandon his notes after being attacked by mutants. He is terrified to go back there. I need that research, stalker. Please retrieve it for me, I will gladly compensate you for your trouble.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
+		<text>Thank you stalker! Please, take this as your payment.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Find Artefact Sample Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_2_name">
+		<text>Find %s Sample for Sakharov</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text">
+		<text>Find a sample of the %s artefact and bring it back to Sakharov so he can research it.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
+		<text>Ah, yes, good! I have been expecting you. I am in need of an experienced artefact hunter to find a sample of a particular artefact for me.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_fetch_about">
+		<text>I am researching the Anomilis Strugatskus, commonly known as %s. Find one for me and I will gladly reward you for it. You will need to take this detector with you, it will help you in locating the artefact.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_fetch_finish">
+		<text>Yes, good, good! Now my research can begin! Thank you stalker. You have done well.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Search Lab X-18 (Dark Valley) Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_3_name">
+		<text>Search Lab X-18</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_text">
+		<text>Professor Sakharov needs the research documents contained within Lab X-18 in Dark Valley.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
+		<text>Oh, yes. Good! I have an important job for you. Important research was conducted in Lab X-18 but we have been unable to gain access to analyze it. Do you think you can try to retrieve it for us? I will pay you well if you can.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
+		<text>Excellent! Thank you stalker!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
+		<text>Raise Funds To Become Ecologist</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_text">
+		<text>Sakharov wants me to raise 17,000 RU to help the Ecologists if I want to join them.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
+		<text>Ah, well, we don't normally recruit stalkers to become Ecologists. However, we just happen to currently be in a bit of a bind. We are running out of funding for our current research project. We need at least 17,000 RU to keep it going. If you are willing to raise the money for us, you can join our camp.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
+		<text>Wonderful! Excellent! Thank you! Please, make yourself at home here, fellow Ecologist.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
+
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Semenov Research Hunt</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>Assistant Semenov has contracted you to escort him around the local area to kill mutants so that he can retrieve fresh tissue samples and analyse the corpses with his scanning equipment.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>Would you mind helping me kill some mutants so that I can take readings and tissue samples? Let's say... About five different mutants. I'll be putting my life in your hands and you would need to ensure my safety. I will compensate you for your efforts.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Thank you for your assistance, friend. I have all the tissue samples I need. Here is your payment... Come back and see me again some time.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>%s Tissue Sample for Sakharov</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>Sakharov needs a tissue sample from a %s.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>I need an experienced stalker or a mutant hunter. Is that somebody you?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>I need to collect tissue samples from a %s. I don't care how you get it, just make sure it's fresh. Get here A.S.A.P. as soon as you recover what I need from the mutant.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Thank you, sir. This will help immensely in my research.</text>
+	</string>
+	<!-- yan_stalker_sakharov -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Pick up Psi-Helmet</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>Professor Sakharov has agreed to recalibrate the psi-protection helmet. He asked you to come back to pick it up in a couple days.</text>
+	</string>
+	<string id="brain_machine_deactivate_name">
+		<text>Disable the Miracle Machine</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>The Miracle Machine prevents stalkers from travelling between Yantar and the Dead City. Disabling it will require advanced psi-protective equipment.</text>
+	</string>
+</string_table>
