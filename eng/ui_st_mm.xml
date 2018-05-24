@@ -105,6 +105,9 @@
 	<string id="ui_mm_cancel">
 		<text>Cancel</text>
 	</string>
+	<string id="ui_mm_remove">
+		<text>Remove</text>
+	</string>
 	<string id="ui_mm_check_updates">
 		<text>Game updates</text>
 	</string>
@@ -116,9 +119,6 @@
 	</string>
 	<string id="ui_mm_credits">
 		<text>Credits</text>
-	</string>
-	<string id="ui_mm_crosshair_distance">
-		<text>Crosshair target distance</text>
 	</string>
 	<string id="ui_mm_default">
 		<text>Default</text>
@@ -149,12 +149,6 @@
 	</string>
 	<string id="ui_mm_dof">
 		<text>Depth of field</text>
-	</string>
-	<string id="ui_mm_dyn_crosshair">
-		<text>Dynamic crosshair</text>
-	</string>
-	<string id="ui_mm_dynamic_music">
-		<text>Dynamic music</text>
 	</string>
 	<string id="ui_mm_eax">
 		<text>EAX</text>
@@ -282,6 +276,9 @@
 	<string id="ui_mm_r2_sun_details">
 		<text>Grass shadow</text>
 	</string>
+	<string id="ui_mm_smap_size">
+		<text>Shadow Resolution</text>
+	</string>
 	<string id="ui_mm_r__actor_shadow">
 		<text>Actor shadow</text>
 	</string>
@@ -312,6 +309,21 @@
 	<string id="ui_mm_resolution">
 		<text>Resolution</text>
 	</string>
+	<string id="ui_mm_color_correction">
+		<text>Color Correction</text>
+	</string>
+	<string id="ui_mm_color_r">
+		<text>Red</text>
+	</string>
+	<string id="ui_mm_color_g">
+		<text>Green</text>
+	</string>
+	<string id="ui_mm_color_b">
+		<text>Blue</text>
+	</string>
+	<string id="ui_mm_vibrance">
+		<text>Vibrance</text>
+	</string>
 	<string id="ui_mm_return_game">
 		<text>Return to game</text>
 	</string>
@@ -320,12 +332,6 @@
 	</string>
 	<string id="ui_mm_save_game">
 		<text>Save game</text>
-	</string>
-	<string id="ui_mm_show_crosshair">
-		<text>Draw crosshair</text>
-	</string>
-	<string id="ui_mm_show_weapon">
-		<text>Show weapon</text>
 	</string>
 	<string id="ui_mm_simply">
 		<text>Basic</text>
@@ -354,6 +360,9 @@
 	<string id="ui_mm_sun_shafts">
 		<text>Sun rays</text>
 	</string>
+	<string id="ui_mm_r2_ss_shafts">
+		<text>Additional sun effects</text>
+	</string>
 	<string id="ui_mm_r2_shafts_value">
 		<text>Sun shaft intensity</text>
 	</string>
@@ -368,9 +377,6 @@
 	</string>
 	<string id="ui_mm_texture_quality">
 		<text>Texture detail</text>
-	</string>
-	<string id="ui_mm_tips">
-		<text>NPC identification</text>
 	</string>
 	<string id="ui_mm_veteran">
 		<text>Hard</text>
@@ -396,12 +402,6 @@
 	<string id="version">
 		<text>Version</text>
 	</string>
-	<string id="ui_mm_crouch_toggle">
-		<text>Crouch/stand mode</text>
-	</string>
-	<string id="ui_mm_important_save">
-		<text>Autosaving</text>
-	</string>
 	<string id="ui_mm_r1_detail_textures">
 		<text>Detailed textures</text>
 	</string>
@@ -423,9 +423,6 @@
 	<string id="ui_mm_fxaa">
 		<text>FXAA</text>
 	</string>
-	<string id="ui_mm_vibrance">
-		<text>Vibrance</text>
-	</string>
 	<string id="ui_mm_technicolor">
 		<text>Technicolour</text>
 	</string>
@@ -434,6 +431,9 @@
 	</string>
 	<string id="ui_mm_vignette">
 		<text>Vignette</text>
+	</string>
+	<string id="ui_mm_lensdirt">
+		<text>Glare on the glass</text>
 	</string>
 	<string id="ui_mm_lenswater">
 		<text>Lens water</text>
@@ -489,11 +489,53 @@
 	<string id="ui_mm_debug_hud">
 		<text>Debug HUD</text>
 	</string>
+	<string id="ui_mm_show_enemy_health">
+		<text>Debug: show enemy health</text>
+	</string>
+	<string id="ui_mm_extra_animations">
+		<text>Interface: Animations</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>Crouch/stand mode</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>Autosaving</text>
+	</string>
+	<string id="ui_mm_mechanic_feature">
+		<text>Game: Delayed repairs</text>
+	</string>
+	<string id="ui_mm_heli_spawn">
+		<text>Game: Helicopter patrols</text>
+	</string>
 	<string id="ui_mm_only_campfire">
 		<text>Game: Campfire saves</text>
 	</string>
 	<string id="ui_mm_use_battery">
 		<text>Game: Use battery</text>
+	</string>
+	<string id="ui_mm_dynamic_news">
+		<text>Game: News</text>
+	</string>
+	<string id="ui_mm_sleep_deprived">
+		<text>Game: Sleep deprivation</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Despawn dropped items</text>
+	</string>
+	<string id="ui_mm_show_tracers">
+		<text>Show tracers</text>
+	</string>
+	<string id="ui_mm_radio_mod">
+		<text>Game: Radio music</text>
+	</string>
+	<string id="ui_mm_heli_engine_sound">
+		<text>Game: Helicopter sounds</text>
+	</string>
+	<string id="ui_mm_offline_battles">
+		<text>Game: Offline battles</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC identification</text>
 	</string>
 	<string id="ui_mm_mask_hud">
 		<text>Interface: Helmet/mask</text>
@@ -501,44 +543,41 @@
 	<string id="ui_mm_letterbox">
 		<text>Interface: Letterbox</text>
 	</string>
-	<string id="ui_mm_extra_animations">
-		<text>Interface: Animations</text>
-	</string>
-	<string id="ui_mm_radio_mod">
-		<text>Game: Radio music</text>
+	<string id="ui_mm_photomode">
+		<text>Interface: Photo mode</text>
 	</string>
 	<string id="ui_mm_slot_hud">
 		<text>Interface: Belt HUD</text>
 	</string>
-	<string id="ui_mm_mechanic_feature">
-		<text>Game: Delayed repairs</text>
-	</string>
-	<string id="ui_mm_heli_engine_sound">
-		<text>Game: Helicopter sounds</text>
-	</string>
 	<string id="ui_mm_hud_draw_info">
 		<text>Interface: HUD</text>
-	</string>
-	<string id="ui_mm_heli_spawn">
-		<text>Game: Helicopter patrols</text>
 	</string>
 	<string id="ui_mm_hud_draw_map">
 		<text>Interface: Minimap</text>
 	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Dynamic crosshair</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Crosshair target distance</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Draw crosshair</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Show weapon</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>Dynamic music</text>
+	</string>
 	<string id="ui_mm_ai_die_in_anomaly">
 		<text>AI die to anomalies</text>
-	</string>
-	<string id="ui_mm_dynamic_news">
-		<text>Game: News</text>
 	</string>
 	<string id="ui_mm_faction_sel">
 		<text>Specialisation</text>
 	</string>
 	<string id="ui_mm_art_degrade">
 		<text>Artefact degradation</text>
-	</string>
-	<string id="ui_mm_sleep_deprived">
-		<text>Game: Sleep deprivation</text>
 	</string>
 	<string id="ui_mm_excl_dist">
 		<text>Online exclusion radius</text>
@@ -548,9 +587,6 @@
 	</string>
 	<string id="ui_mm_outfit_portrait">
 		<text>Portrait by outfit</text>
-	</string>
-	<string id="ui_mm_show_enemy_health">
-		<text>Debug: show enemy health</text>
 	</string>
 	<string id="ui_mm_quicksave_cnt">
 		<text>Quicksave count</text>
@@ -570,16 +606,10 @@
 	<string id="ui_mm_fov">
 		<text>FOV</text>
 	</string>
-	<string id="ui_mm_show_tracers">
-		<text>Show tracers</text>
-	</string>
-	<string id="ui_mm_release_dropped_items">
-		<text>Despawn dropped items</text>
-	</string>
 	<string id="ui_mm_hardcore_ai_aim">
 		<text>Hardcore AI aim</text>
 	</string>
 	<string id="ui_mm_localization">
-		<text>Localisation</text>
+		<text>Localization</text>
 	</string>
 </string_table>
