@@ -1,165 +1,165 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="ammo-11.43x23-fmj-old">
-		<text>Патроны .45 ACP (старые)</text>
+		<text>.45 ACP rounds (old)</text>
 	</string>
 	<string id="ammo-11.43x23-fmj-old_s">
-		<text>.45 ACP (старые)</text>
+		<text>.45 ACP (old)</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
-		<text>Патроны .45 ACP</text>
+		<text>.45 ACP rounds</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
 		<text>.45 ACP</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_descr">
-		<text>Патрон калибра .45 (11,43x23 мм) с цельнометаллической оболочечной пулей остаётся популярным уже более сотни лет. Тяжёлая пуля при относительно слабом пороховом заряде летит с не слишком большой скоростью, но обладает значительным останавливающим действием.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>The .45 (11.43x23 mm) caliber full metal jacket round has enjoyed popularity for a hundred years thanks to its ballistic performance and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 	<string id="ammo-7.92x33_fmj-old">
-		<text>Патроны 7.92x57 мм Mauser (старые)</text>
+		<text>7.92x57 mm Mauser rounds (old)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj-old_s">
-		<text>7.62x57 Mauser (старые)</text>
+		<text>7.62x57 Mauser (old)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj">
-		<text>Патроны 7.92x57 мм Mauser</text>
+		<text>7.92x57 mm Mauser rounds</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_s">
 		<text>7.62x57 Mauser</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_descr">
-		<text>Патрон 7,92x57 Mauser был принят на вооружение ещё в первой половине прошлого столетия Германской Империей, а затем Третьим Рейхом. Это был один из самых популярных патронов в период двух мировых войн. Однако в наше время патрон прежде всего используется для охоты и спортивных состязаний.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>The 7.92x57 Mauser round was adopted by the German Empire and then the Third Reich. It was one of the most popular cartridges in the period of two world wars. However, nowadays, the round is primarily used for hunting and sports.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 
 	<string id="ammo-7.62x51_fmj-old">
-		<text>Патроны 7,62x51 мм НАТО (старые)</text>
+		<text>7.62x51 mm NATO rounds (old)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj-old_s">
-		<text>7,62x51 НАТО (старые)</text>
+		<text>7.62x51 NATO (old)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj">
-		<text>Патроны 7,62x51 мм НАТО</text>
+		<text>7.62x51 mm NATO rounds</text>
 	</string>
 	<string id="ammo-7.62x51_fmj_s">
-		<text>7,62x51 НАТО</text>
+		<text>7.62x51 NATO</text>
 	</string>
 	<string id="ammo-7.62x51_fmj_descr">
-		<text>7,62x51 НАТО - армейский вариант патрона .308, который использовался силами НАТО в качестве стандартного, пока в 70-х годах во время войны во Вьетнаме не были введены боеприпасы калибра 5,56 мм. В настоящее время эти патроны чаще всего применяются наёмниками во всём мире. 7,62x51 - типичный калибр для ручных пулемётов, но также может быть использован в снайперских винтовках.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>The 7.62x51 NATO round is a military variant of the .308 round which was used as a standard-issue by the NATO forces until 5.56 ammunition was introduced in the '70s in the Vietnam War. At present, it is most commonly employed by private military contractors all over the world. The 7.62x51 round is a very common machine gun caliber, and can also be used in sniper rifles.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 	<string id="ammo-357-hp-old">
-		<text>Патроны .357 HP (старые)</text>
+		<text>.357 HP rounds (old)</text>
 	</string>
 	<string id="ammo-357-hp-old_s">
-		<text>.357 HP (старые)</text>
+		<text>.357 HP (old)</text>
 	</string>
 	<string id="ammo-357-hp">
-		<text>Патроны .357 HP</text>
+		<text>.357 HP rounds</text>
 	</string>
 	<string id="ammo-357-hp_s">
 		<text>.357 HP</text>
 	</string>
 	<string id="ammo-357-hp_descr">
-		<text>.357 НР - патрон с экспансивной пулей. Предназначение таких патронов состоит в том, чтобы при попадании пуля замедлялась, уменьшая проникновение, но при этом вызывала большие внутренние повреждения тканей. \n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]выше среднего</text>
+		<text>The .357 HP round is a hollow-point bullet. The purpose of the round is to slow down upon impact, which decreases its penetration, but at the same time causes larger internal tissue damage. \n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium - high</text>
 	</string>
 
 	<string id="ammo-12x70-buck">
-		<text>Патроны 12x70 Дробь</text>
+		<text>12x70 shot rounds</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 Дробь</text>
+		<text>12x70 shot</text>
 	</string>
 	<string id="ammo-12x70-buck_descr">
-		<text>Обычный патрон 12-го калибра, снаряжённый дробью диаметром 6 мм. На близких дистанциях обладает огромным убойным и останавливающим действием. Предназначен для стрельбы из гладкоствольного оружия и дробовиков.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]отсутствует\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]выше среднего\n \n%c[0,170,170,170]ОСОБЕННОСТЬ:\n \n%c[0,93,0,116] • %c[0,140,140,140] разлетающееся облако дроби, малая эффективная дальность</text>
+		<text>Standard 12-caliber round filled with 6 mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium - high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] expanding cloud of pellets, short eff. range</text>
 	</string>
 
 	<string id="ammo-12x76-zhekan">
-		<text>Патроны 12x76 Жекан</text>
+		<text>12x76 slug rounds</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76 Жекан</text>
+		<text>12x76 slug</text>
 	</string>
 	<string id="ammo-12x76-zhekan_descr">
-		<text>Патрон 12-го калибра с безоболочечной пулей. Обычно используется для охоты на крупных животных, но подходит и для других целей: его тяжёлая пуля не пробивает, а фактически продавливает бронежилеты.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>This heavy 12-caliber slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 	<string id="ammo-5.45x39-fmj-old">
-		<text>Патроны 5,45x39 мм (старые)</text>
+		<text>5.45x39 mm rounds (old)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj-old_s">
-		<text>5,45x39 (старые)</text>
+		<text>5.45x39 (old)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
-		<text>Патроны 5,45x39 мм</text>
+		<text>5.45x39 mm rounds</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
-		<text>5,45x39</text>
+		<text>5.45x39</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_descr">
-		<text>Армейский патрон 7Н10 калибра 5,45x39 мм с пулей повышенной пробиваемости используется в автоматических винтовках многих стран-участниц Варшавского договора. Благодаря уменьшению импульса отдачи и увеличению дальности прямого выстрела на 100 м, обеспечивает более высокую точность боя в сравнении со старым патроном калибра 7,62x39 мм.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>Military 5.45x39 7H10 caliber is an improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]AIII\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 	<string id="ammo-5.56x45-ss190-old">
-		<text>Патроны 5,56x45 мм (старые)</text>
+		<text>5.56x45 mm rounds (old)</text>
 	</string>
 	<string id="ammo-5.56x45-ss190-old_s">
-		<text>5,56x45 (старые)</text>
+		<text>5.56x45 (old)</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
-		<text>Патроны 5,56x45 мм</text>
+		<text>5.56x45 mm rounds</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
-		<text>5,56x45</text>
+		<text>5.56x45</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_descr">
-		<text>Табельный патрон войск стран НАТО калибра 5,56х45 мм для ведения прицельного огня очередями, разработанный на основе охотничьих патронов. Известен под индексом SS109. Обладает прекрасными баллистическими характеристиками.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]сильное\n \n%c[0,170,170,170]ОСОБЕННОСТЬ:\n \n%c[0,204,0,51] • %c[0,140,140,140] пониженная пробивающая способность\n%c[0,93,0,116] • %c[0,140,140,140] увеличенная фрагментация в мягких тканях</text>
+		<text>A standard-issue NATO 5.56x45 caliber round specially designed for accurate automatic fire. Provides good ballistic characteristics, having been designed on the basis of a hunting round. Widely known under its SS109 index.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,204,0,51] • %c[0,140,140,140] lowered piercing capability\n%c[0,93,0,116] • %c[0,140,140,140] enhanced fragmentation in soft tissue</text>
 	</string>
 
 
 	<string id="ammo-7.62x54-ap">
-		<text>Патроны 7,62x54 мм ПП</text>
+		<text>7.62x54 mm PP rounds</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
-		<text>7,62x54 ПП</text>
+		<text>7.62x54 PP</text>
 	</string>
 	<string id="ammo-7.62x54-ap_descr">
-		<text>Недорогой бронебойный пулемётный патрон калибра 7,62х54 мм. В силу конструктивных особенностей непригоден для стрельбы из снайперских винтовок, поэтому используется в качестве боепитания пулемёта ПКМ. Этот патрон обладает повышенной мощностью и, благодаря стальному сердечнику, обладает очень хорошей пробивающей способностью. Мощный патрон для мощного оружия.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]сильное</text>
+		<text>Cheap 7.62 caliber machine gun round. Its design makes it unsuitable for sniper rifles, so it is used only with the PKM machine gun. It is a high-powered round and thanks to a hard steel core it possesses quite good penetrative capabilities. A heavy round for a heavy gun.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]high</text>
 	</string>
 
 	<string id="ammo-7.62x54-r">
-		<text>Патроны 7,62x54R</text>
+		<text>7.62x54 mm R rounds</text>
 	</string>
 	<string id="ammo-7.62x54-r_s">
-		<text>7,62x54R</text>
+		<text>7.62x54 R</text>
 	</string>
 	<string id="ammo-7.62x54-r_descr">
-		<text>Недорогой патрон 7,62x54R винтовочного калибра, принятый на вооружение Российской Империи на рубеже 19-го века и продолжавший использоваться в СССР даже после окончания Великой Отечественной войны. Первоначально патрон был разработан для 7,62-мм винтовок Мосина, очень популярных сейчас в Зоне. Несмотря на свою дешевизну, имеет неплохие пробивные характеристики, не уступает современным типам боеприпасов.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]среднее</text>
+		<text>Cheap 7.62 PP (also known as 7.62 R) is a dated rifle caliber introduced in the Soviet Empire at the turn of the 19th century and was still used by the USSR after World War II. It was originally designed for the Mosin-Nagant standard-issue infantry rifle and is quite common in the Zone due to the popularity of the rifle. The round is relatively cheap but has surprisingly good penetrative capabilities, even in comparison to more modern ammo types. It can also be used as a cheaper solution in the PKM machine gun.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]medium</text>
 	</string>
 
 	<string id="ammo-7.62x54-7n1-old">
-		<text>Патроны 7,62x54 мм 7Н1 (старый)</text>
+		<text>7.62x54 mm 7N1 rounds (old)</text>
 	</string>
 	<string id="ammo-7.62x54-7n1-old_s">
-		<text>7,62x54 7Н1 (старый)</text>
+		<text>7.62x54 7N1 (old)</text>
 	</string>
 	<string id="ammo-7.62x54-7n1">
-		<text>Патроны 7,62x54 мм 7Н1</text>
+		<text>7.62x54 mm 7N1 rounds</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_s">
-		<text>7,62x54 7Н1</text>
+		<text>7.62x54 7N1</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_descr">
-		<text>Снайперский патрон калибра 7,62x54 мм с комбинированным свинцово-стальным сердечником, специально разработанный для СВД. В отличие от пулемётного патрона, 7Н1 обеспечивает хорошую кучность и превосходные пробивные способности.\n \n%c[0,93,0,116] • %c[0,140,140,140] Пробивает броню класса: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Повреждение тканей: %c[0,170,170,170]сильное</text>
+		<text>A 7.62 caliber sniper round with a steel penetrator specially designed for the SVD. Unlike the machine gun round, the 7N1 provides tight groupings and excellent penetration characteristics.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]high</text>
 	</string>
 
 
 	<string id="ammo-9x18-fmj-old">
-		<text>Патроны 9x18 мм (старые)</text>
+		<text>Патроны 9x18 мм (old)</text>
 	</string>
 	<string id="ammo-9x18-fmj-old_s">
-		<text>9x18 (старые)</text>
+		<text>9x18 (old)</text>
 	</string>
 	<string id="ammo-9x18-fmj">
 		<text>Патроны 9x18 мм</text>
@@ -172,10 +172,10 @@
 	</string>
 
 	<string id="ammo-9x19-fmj-old">
-		<text>Патроны 9x19 мм ЦМ (старые)</text>
+		<text>Патроны 9x19 мм ЦМ (old)</text>
 	</string>
 	<string id="ammo-9x19-fmj-old_s">
-		<text>9x19 ЦМ (старые)</text>
+		<text>9x19 ЦМ (old)</text>
 	</string>
 	<string id="ammo-9x19-fmj">
 		<text>Патроны 9x19 мм ЦМ</text>
@@ -188,10 +188,10 @@
 	</string>
 
 	<string id="ammo-9x39-ap-old">
-		<text>Патроны 9x39 мм СП-6 (старые)</text>
+		<text>Патроны 9x39 мм СП-6 (old)</text>
 	</string>
 	<string id="ammo-9x39-ap-old_s">
-		<text>9x39 СП-6 (старые)</text>
+		<text>9x39 СП-6 (old)</text>
 	</string>
 	<string id="ammo-9x39-ap">
 		<text>Патроны 9x39 мм СП-6</text>
@@ -238,10 +238,10 @@
 	</string>
 
 	<string id="ammo-7.62x39_fmj-old">
-		<text>Патроны 7,62x39 мм (старые)</text>
+		<text>Патроны 7,62x39 мм (old)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj-old_s">
-		<text>7,62x39 (старые)</text>
+		<text>7,62x39 (old)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj">
 		<text>Патроны 7,62x39 мм</text>
@@ -254,10 +254,10 @@
 	</string>
 
 	<string id="ammo-7.62x25-p-old">
-		<text>Патроны 7,62x25 мм П (старый)</text>
+		<text>Патроны 7,62x25 мм П (old)</text>
 	</string>
 	<string id="ammo-7.62x25-p-old_s">
-		<text>7,62x25 (старый)</text>
+		<text>7,62x25 (old)</text>
 	</string>
 	<string id="ammo-7.62x25-p">
 		<text>Патроны 7,62x25 мм П</text>
