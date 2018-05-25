@@ -605,10 +605,10 @@
 		<text>Do you want to fix %s?\n\n%c[255,1,255,1]+%s%</text>
 	</string>
 	<string id="st_repair_mod_message_box_condition_to_high">
-		<text>Р­С‚РёС… РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ РЅРµРґРѕСЃС‚Р°С‚РѕС‡РЅРѕ, С‡С‚РѕР±С‹ РїРѕС‡РёРЅРёС‚СЊ СЌС‚РѕС‚ РїСЂРµРґРјРµС‚.</text>
+		<text>Этих инструментов недостаточно, чтобы починить этот предмет.</text>
 	</string>
 	<string id="st_repair_mod_message_box_condition_to_low">
-		<text>Р”Р°РЅРЅС‹Р№ РїСЂРµРґРјРµС‚ РІ СЃР»РёС€РєРѕРј РїР»РѕС…РѕРј СЃРѕСЃС‚РѕСЏРЅРёРё РґР»СЏ РїРѕС‡РёРЅРєРё СЌС‚РёРјРё РёРЅСЃС‚СЂСѓРјРµРЅС‚Р°РјРё.</text>
+		<text>Данный предмет в слишком плохом состоянии для починки этими инструментами.</text>
 	</string>
 	<string id="st_upd_disconnected">
 		<text>You don't have a Universal Power Device (UPD)</text>
@@ -645,244 +645,244 @@
 	</string>
 
 	<string id="st_condition_type">
-		<text> \n \nРќР•РРЎРџР РђР’РќРћРЎРўР:</text>
+		<text> \n \nНЕИСПРАВНОСТИ:</text>
 	</string>
 
 	<string id="st_condition_type_0">
-		<text>\n%c[0,93,0,116] вЂў %c[0,140,140,140] РѕС‚СЃСѓС‚СЃС‚РІСѓСЋС‚</text>
+		<text>\n%c[0,93,0,116] • %c[0,140,140,140] отсутствуют</text>
 	</string>
 
 	<string id="st_condition_type_1">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РёР·РЅРѕС€РµРЅР° СЃС‚РІРѕР»СЊРЅР°СЏ РєРѕСЂРѕР±РєР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] изношена ствольная коробка</text>
 	</string>
 
 	<string id="st_condition_type_2">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] С‚СЂРµСЃРЅСѓС‚Р° СЃС‚РІРѕР»СЊРЅР°СЏ РєРѕСЂРѕР±РєР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] треснута ствольная коробка</text>
 	</string>
 
 	<string id="st_condition_type_3">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅРµРЅР° Р±РѕРµРІР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнена боевая пружина</text>
 	</string>
 
 	<string id="st_condition_type_4">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РёР·РЅРѕС€РµРЅР° Р±РѕРµРІР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] изношена боевая пружина</text>
 	</string>
 
 	<string id="st_condition_type_5">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅРµРЅР° РІРѕР·РІСЂР°С‚РЅР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнена возвратная пружина</text>
 	</string>
 
 	<string id="st_condition_type_6">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅР° РІРѕР·РІСЂР°С‚РЅР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирована возвратная пружина</text>
 	</string>
 
 	<string id="st_condition_type_7">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЂР°СЃРєРѕР»РѕС‚Р° СЂСѓРєРѕСЏС‚СЊ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] расколота рукоять</text>
 	</string>
 
 	<string id="st_condition_type_8">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅ РїСЂРёРєР»Р°Рґ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломан приклад</text>
 	</string>
 
 	<string id="st_condition_type_9">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅ РєСѓСЂРѕРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирован курок</text>
 	</string>
 
 	<string id="st_condition_type_10">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅ РєСѓСЂРѕРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломан курок</text>
 	</string>
 
 	<string id="st_condition_type_11">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅС‘РЅ СЃС‚РІРѕР»</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнён ствол</text>
 	</string>
 
 	<string id="st_condition_type_12">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅ СЃС‚РІРѕР»</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирован ствол</text>
 	</string>
 
 	<string id="st_condition_type_13">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] С‚СЂРµСЃРЅСѓС‚ СЃС‚РІРѕР»</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] треснут ствол</text>
 	</string>
 
 	<string id="st_condition_type_14">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅ СЃРїСѓСЃРєРѕРІРѕР№ РєСЂСЋС‡РѕРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирован спусковой крючок</text>
 	</string>
 
 	<string id="st_condition_type_15">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅ СЃРїСѓСЃРєРѕРІРѕР№ РєСЂСЋС‡РѕРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломан спусковой крючок</text>
 	</string>
 
 	<string id="st_condition_type_16">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅРµРЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнено шептало</text>
 	</string>
 
 	<string id="st_condition_type_17">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформировано шептало</text>
 	</string>
 
 	<string id="st_condition_type_18">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломано шептало</text>
 	</string>
 
 	<string id="st_condition_type_19">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅС‘РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнён ударник</text>
 	</string>
 
 	<string id="st_condition_type_20">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирован ударник</text>
 	</string>
 
 	<string id="st_condition_type_21">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломан ударник</text>
 	</string>
 
 	<string id="st_condition_type_22">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] Р·Р°РіСЂСЏР·РЅС‘РЅ Р·Р°С‚РІРѕСЂ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] загрязнён затвор</text>
 	</string>
 
 	<string id="st_condition_type_23">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅ Р·Р°С‚РІРѕСЂ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирован затвор</text>
 	</string>
 
 	<string id="st_condition_type_24">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] С‚СЂРµСЃРЅСѓС‚Р° РіР°Р·РѕРѕС‚РІРѕРґРЅР°СЏ С‚СЂСѓР±РєР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] треснута газоотводная трубка</text>
 	</string>
 
 	<string id="st_condition_type_25">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] 25</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] 25</text>
 	</string>
 
 	<string id="st_condition_type_26">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] 26</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] 26</text>
 	</string>
 
 	<string id="st_condition_type_27">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] 27</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] 27</text>
 	</string>
 
 	<string id="st_condition_type_28">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃР»РѕРјР°РЅ СЃРµРєС‚РѕСЂ РїРµСЂРµРІРѕРґС‡РёРєР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сломан сектор переводчика</text>
 	</string>
 
 	<string id="st_condition_type_29">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] РґРµС„РѕСЂРјРёСЂРѕРІР°РЅР° РїСЂРёС†РµР»СЊРЅР°СЏ РїР»Р°РЅРєР°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] деформирована прицельная планка</text>
 	</string>
 
 	<string id="st_condition_type_30">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] СЃРѕСЂРІР°РЅР° РґСѓР»СЊРЅР°СЏ СЂРµР·СЊР±Р°</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] сорвана дульная резьба</text>
 	</string>
 
 	<string id="st_condition_type_31">
-		<text>\n%c[0,204,0,51] вЂў %c[0,204,0,51] С‚СЂРµСЃРЅСѓС‚Рѕ С†РµРІСЊРµ</text>
+		<text>\n%c[0,204,0,51] • %c[0,204,0,51] треснуто цевье</text>
 	</string>
 
 	<string id="st_condition_type_32">
-		<text>\n%c[0,93,0,116] вЂў %c[0,255,0,0] РћРЁРР‘РљРђ</text>
+		<text>\n%c[0,93,0,116] • %c[0,255,0,0] ОШИБКА</text>
 	</string>
 
 
 	<string id="st_condition_type_text">
-		<text>РСЃРїСЂР°РІРёС‚СЊ: </text>
+		<text>Исправить: </text>
 	</string>
 <!--
 	<string id="st_condition_type_text_0">
-		<text>РћС‚СЃСѓС‚СЃС‚РІСѓСЋС‚</text>
+		<text>Отсутствуют</text>
 	</string>
 
 	<string id="st_condition_type_text_1">
-		<text>РР·РЅРѕС€РµРЅР° СЃС‚РІРѕР»СЊРЅР°СЏ РєРѕСЂРѕР±РєР°</text>
+		<text>Изношена ствольная коробка</text>
 	</string>
 
 	<string id="st_condition_type_text_2">
-		<text>РўСЂРµСЃРЅСѓС‚Р° СЃС‚РІРѕР»СЊРЅР°СЏ РєРѕСЂРѕР±РєР°</text>
+		<text>Треснута ствольная коробка</text>
 	</string>
 
 	<string id="st_condition_type_text_3">
-		<text>Р—Р°РіСЂСЏР·РЅРµРЅР° Р±РѕРµРІР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>Загрязнена боевая пружина</text>
 	</string>
 
 	<string id="st_condition_type_text_4">
-		<text>РР·РЅРѕС€РµРЅР° Р±РѕРµРІР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>Изношена боевая пружина</text>
 	</string>
 
 	<string id="st_condition_type_text_5">
-		<text>Р—Р°РіСЂСЏР·РЅРµРЅР° РІРѕР·РІСЂР°С‚РЅР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>Загрязнена возвратная пружина</text>
 	</string>
 
 	<string id="st_condition_type_text_6">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅР° РІРѕР·РІСЂР°С‚РЅР°СЏ РїСЂСѓР¶РёРЅР°</text>
+		<text>Деформирована возвратная пружина</text>
 	</string>
 
 	<string id="st_condition_type_text_7">
-		<text>Р Р°СЃРєРѕР»РѕС‚Р° СЂСѓРєРѕСЏС‚СЊ</text>
+		<text>Расколота рукоять</text>
 	</string>
 
 	<string id="st_condition_type_text_8">
-		<text>РЎР»РѕРјР°РЅ РїСЂРёРєР»Р°Рґ</text>
+		<text>Сломан приклад</text>
 	</string>
 
 	<string id="st_condition_type_text_9">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅ РєСѓСЂРѕРє</text>
+		<text>Деформирован курок</text>
 	</string>
 
 	<string id="st_condition_type_text_10">
-		<text>РЎР»РѕРјР°РЅ РєСѓСЂРѕРє</text>
+		<text>Сломан курок</text>
 	</string>
 
 	<string id="st_condition_type_text_11">
-		<text>Р—Р°РіСЂСЏР·РЅС‘РЅ СЃС‚РІРѕР»</text>
+		<text>Загрязнён ствол</text>
 	</string>
 
 	<string id="st_condition_type_text_12">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅ СЃС‚РІРѕР»</text>
+		<text>Деформирован ствол</text>
 	</string>
 
 	<string id="st_condition_type_text_13">
-		<text>РўСЂРµСЃРЅСѓС‚ СЃС‚РІРѕР»</text>
+		<text>Треснут ствол</text>
 	</string>
 
 	<string id="st_condition_type_text_14">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅ СЃРїСѓСЃРєРѕРІРѕР№ РєСЂСЋС‡РѕРє</text>
+		<text>Деформирован спусковой крючок</text>
 	</string>
 
 	<string id="st_condition_type_text_15">
-		<text>РЎР»РѕРјР°РЅ СЃРїСѓСЃРєРѕРІРѕР№ РєСЂСЋС‡РѕРє</text>
+		<text>Сломан спусковой крючок</text>
 	</string>
 
 	<string id="st_condition_type_text_16">
-		<text>Р—Р°РіСЂСЏР·РЅРµРЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>Загрязнено шептало</text>
 	</string>
 
 	<string id="st_condition_type_text_17">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>Деформировано шептало</text>
 	</string>
 
 	<string id="st_condition_type_text_18">
-		<text>РЎР»РѕРјР°РЅРѕ С€РµРїС‚Р°Р»Рѕ</text>
+		<text>Сломано шептало</text>
 	</string>
 
 	<string id="st_condition_type_text_19">
-		<text>Р—Р°РіСЂСЏР·РЅС‘РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>Загрязнён ударник</text>
 	</string>
 
 	<string id="st_condition_type_text_20">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>Деформирован ударник</text>
 	</string>
 
 	<string id="st_condition_type_text_21">
-		<text>РЎР»РѕРјР°РЅ СѓРґР°СЂРЅРёРє</text>
+		<text>Сломан ударник</text>
 	</string>
 
 	<string id="st_condition_type_text_22">
-		<text>Р—Р°РіСЂСЏР·РЅС‘РЅ Р·Р°С‚РІРѕСЂ</text>
+		<text>Загрязнён затвор</text>
 	</string>
 
 	<string id="st_condition_type_text_23">
-		<text>Р”РµС„РѕСЂРјРёСЂРѕРІР°РЅ Р·Р°С‚РІРѕСЂ</text>
+		<text>Деформирован затвор</text>
 	</string>
 
 	<string id="st_condition_type_text_24">
-		<text>РўСЂРµСЃРЅСѓС‚Р° РіР°Р·РѕРѕС‚РІРѕРґРЅР°СЏ С‚СЂСѓР±РєР°</text>
+		<text>Треснута газоотводная трубка</text>
 	</string>
 
 	<string id="st_condition_type_text_25">
@@ -898,124 +898,124 @@
 	</string>
 
 	<string id="st_condition_type_text_28">
-		<text>РЎР»РѕРјР°РЅ СЃРµРєС‚РѕСЂ РїРµСЂРµРІРѕРґС‡РёРєР°</text>
+		<text>Сломан сектор переводчика</text>
 	</string>
 
 	<string id="st_condition_type_text_29">
-		<text>РЎР»РѕРјР°РЅР° РїСЂРёС†РµР»СЊРЅР°СЏ РїР»Р°РЅРєР°</text>
+		<text>Сломана прицельная планка</text>
 	</string>
 
 	<string id="st_condition_type_text_30">
-		<text>РЎРѕСЂРІР°РЅР° РґСѓР»СЊРЅР°СЏ СЂРµР·СЊР±Р°</text>
+		<text>Сорвана дульная резьба</text>
 	</string>
 
 	<string id="st_condition_type_text_31">
-		<text>РўСЂРµСЃРЅСѓС‚Рѕ С†РµРІСЊРµ</text>
+		<text>Треснуто цевье</text>
 	</string>
 
 	<string id="st_condition_type_text_32">
-		<text>РћС€РёР±РєР°</text>
+		<text>Ошибка</text>
 	</string>
 -->
 
 	<string id="st_condition_type_text_0">
-		<text>РћС‚СЃСѓС‚СЃС‚РІСѓСЋС‚</text>
+		<text>Отсутствуют</text>
 	</string>
 
 	<string id="st_condition_type_text_1">
-		<text>Р—Р°РјРµРЅР° СЃС‚РІРѕР»СЊРЅРѕР№ РєРѕСЂРѕР±РєРё</text>
+		<text>Замена ствольной коробки</text>
 	</string>
 
 	<string id="st_condition_type_text_2">
-		<text>Р—Р°РјРµРЅР° СЃС‚РІРѕР»СЊРЅРѕР№ РєРѕСЂРѕР±РєРё</text>
+		<text>Замена ствольной коробки</text>
 	</string>
 
 	<string id="st_condition_type_text_3">
-		<text>Р§РёСЃС‚РєР° Р±РѕРµРІРѕР№ РїСЂСѓР¶РёРЅС‹</text>
+		<text>Чистка боевой пружины</text>
 	</string>
 
 	<string id="st_condition_type_text_4">
-		<text>Р—Р°РјРµРЅР° Р±РѕРµРІРѕР№ РїСЂСѓР¶РёРЅС‹</text>
+		<text>Замена боевой пружины</text>
 	</string>
 
 	<string id="st_condition_type_text_5">
-		<text>Р§РёСЃС‚РєР° РІРѕР·РІСЂР°С‚РЅРѕР№ РїСЂСѓР¶РёРЅС‹</text>
+		<text>Чистка возвратной пружины</text>
 	</string>
 
 	<string id="st_condition_type_text_6">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ РІРѕР·РІСЂР°С‚РЅРѕР№ РїСЂСѓР¶РёРЅС‹</text>
+		<text>Выправление возвратной пружины</text>
 	</string>
 
 	<string id="st_condition_type_text_7">
-		<text>Р—Р°РјРµРЅР° СЂСѓРєРѕСЏС‚Рё</text>
+		<text>Замена рукояти</text>
 	</string>
 
 	<string id="st_condition_type_text_8">
-		<text>Р—Р°РјРµРЅР° РїСЂРёРєР»Р°РґР°</text>
+		<text>Замена приклада</text>
 	</string>
 
 	<string id="st_condition_type_text_9">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ РєСѓСЂРєР°</text>
+		<text>Выправление курка</text>
 	</string>
 
 	<string id="st_condition_type_text_10">
-		<text>Р—Р°РјРµРЅР° РєСѓСЂРєР°</text>
+		<text>Замена курка</text>
 	</string>
 
 	<string id="st_condition_type_text_11">
-		<text>Р§РёСЃС‚РєР° СЃС‚РІРѕР»Р°</text>
+		<text>Чистка ствола</text>
 	</string>
 
 	<string id="st_condition_type_text_12">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ СЃС‚РІРѕР»Р°</text>
+		<text>Выправление ствола</text>
 	</string>
 
 	<string id="st_condition_type_text_13">
-		<text>Р—Р°РјРµРЅР° СЃС‚РІРѕР»Р°</text>
+		<text>Замена ствола</text>
 	</string>
 
 	<string id="st_condition_type_text_14">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ СЃРїСѓСЃРєРѕРІРѕРіРѕ РєСЂСЋС‡РєР°</text>
+		<text>Выправление спускового крючка</text>
 	</string>
 
 	<string id="st_condition_type_text_15">
-		<text>Р—Р°РјРµРЅР° СЃРїСѓСЃРєРѕРІРѕРіРѕ РєСЂСЋС‡РєР°</text>
+		<text>Замена спускового крючка</text>
 	</string>
 
 	<string id="st_condition_type_text_16">
-		<text>Р§РёСЃС‚РєР° С€РµРїС‚Р°Р»Р°</text>
+		<text>Чистка шептала</text>
 	</string>
 
 	<string id="st_condition_type_text_17">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ С€РµРїС‚Р°Р»Р°</text>
+		<text>Выправление шептала</text>
 	</string>
 
 	<string id="st_condition_type_text_18">
-		<text>Р—Р°РјРµРЅР° С€РµРїС‚Р°Р»Р°</text>
+		<text>Замена шептала</text>
 	</string>
 
 	<string id="st_condition_type_text_19">
-		<text>Р§РёСЃС‚РєР° СѓРґР°СЂРЅРёРєР°</text>
+		<text>Чистка ударника</text>
 	</string>
 
 	<string id="st_condition_type_text_20">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ СѓРґР°СЂРЅРёРєР°</text>
+		<text>Выправление ударника</text>
 	</string>
 
 	<string id="st_condition_type_text_21">
-		<text>Р—Р°РјРµРЅР° СѓРґР°СЂРЅРёРєР°</text>
+		<text>Замена ударника</text>
 	</string>
 
 	<string id="st_condition_type_text_22">
-		<text>Р§РёСЃС‚РєР° Р·Р°С‚РІРѕСЂР°</text>
+		<text>Чистка затвора</text>
 	</string>
 
 	<string id="st_condition_type_text_23">
-		<text>Р’С‹РїСЂР°РІР»РµРЅРёРµ Р·Р°С‚РІРѕСЂР°</text>
+		<text>Выправление затвора</text>
 	</string>
 
 	<string id="st_condition_type_text_24">
-		<text>Р—Р°РјРµРЅР° РіР°Р·РѕРѕС‚РІРѕРґРЅРѕР№ С‚СЂСѓР±РєРё</text>
+		<text>Замена газоотводной трубки</text>
 	</string>
 
 	<string id="st_condition_type_text_25">
@@ -1031,23 +1031,23 @@
 	</string>
 
 	<string id="st_condition_type_text_28">
-		<text>Р—Р°РјРµРЅР° СЃРµРєС‚РѕСЂР° РїРµСЂРµРІРѕРґС‡РёРєР°</text>
+		<text>Замена сектора переводчика</text>
 	</string>
 
 	<string id="st_condition_type_text_29">
-		<text>Р—Р°РјРµРЅР° РїСЂРёС†РµР»СЊРЅРѕР№ РїР»Р°РЅРєРё</text>
+		<text>Замена прицельной планки</text>
 	</string>
 
 	<string id="st_condition_type_text_30">
-		<text>РќР°СЂРµР·РєР° РґСѓР»СЊРЅРѕР№ СЂРµР·СЊР±С‹</text>
+		<text>Нарезка дульной резьбы</text>
 	</string>
 
 	<string id="st_condition_type_text_31">
-		<text>Р—Р°РјРµРЅР° С†РµРІСЊСЏ</text>
+		<text>Замена цевья</text>
 	</string>
 
 	<string id="st_condition_type_text_32">
-		<text>РћС€РёР±РєР°</text>
+		<text>Ошибка</text>
 	</string>
 
 
