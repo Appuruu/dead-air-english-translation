@@ -442,103 +442,106 @@
 		<text>AK-12</text>
 	</string>
 	<string id="st_wpn_ak12_descr">
-		<text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional "Kalashnikov type" action with long stroke gas piston and rotary bolt locking. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n \n%c[0,140,140,140]USABLE PARTS: \n%c[0,93,0,116] • %c[0,140,140,140] rotating locking head [2 locks][A] \n%c[0,93,0,116] • %c[0,140,140,140] rotating bolt [Russia] \n%c[0,93,0,116] • %c[0,140,140,140] gas tube [B] \n%c[0,93,0,116] • %c[0,140,140,140] triple fire mode trigger mechanism with hammer \n%c[0,93,0,116] • %c[0,140,140,140] barrel [A]5.45mm</text>
+		<text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional "Kalashnikov type" action with long stroke gas piston and rotary bolt locking. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] TGP-A suppressor</text>
 	</string>
 	<string id="st_wpn_fn57">
 		<text>FN Five-seveN</text>
 	</string>
 	<string id="st_wpn_fn57_descr">
-		<text>FN Five-seveN - самозарядный пистолет, разработанный и производимый бельгийской фирмой Fabrique Nationale of Herstal. Название представляет собой комбинацию, с одной стороны Five-seveN это «5-7» (5,7 - калибр оружия, который равен .224), а с другой первая и последняя буква названия, пишущиеся заглавными - это аббревиатура фирмы Fabrique Nationale. Five-seveN полноразмерный самозарядный пистолет, выполненный по схеме с полусвободным затвором, который использует патроны 5,7х28 мм. В его конструкции широко применяются полимеры, обладает всё возрастающей популярностью на гражданском рынке, а характеристики пистолета также сделали его популярным в спецназе и других силовых структурах.</text>
+		<text>The Five-seveN is a delayed blowback operated, semi automatic firearm. The Five-seveN pistol was designed by FN Herstal as a complimentary sidearm for the P90 submachine gun. The P90 and Five-seveN share the same ammunition, the 5.7x28mm SS190 cartridge. The idea behind the ammunition and weapon is to provide good penetration against targets protected by body armour, while keeping the weapon's weight, dimensions and recoil at reasonable levels.</text>
 	</string>
 	<string id="st_wpn_pp2000">
-		<text>ПП-2000</text>
+		<text>PP-2000</text>
 	</string>
 	<string id="st_wpn_pp2000_descr">
-		<text>ПП-2000 - российский 9-мм пистолет-пулемёт, разработанный коллективом конструкторов тульского КБ приборостроения под руководством В.П. Грязева и А.Г. Шипунова. ПП-2000 позиционируется как оружие для подразделений правоохранительных органов, действующих в городских условиях, а также как личное оружие самообороны для отдельных категорий военнослужащих. В 2006 году началось серийное производство ПП-2000 для МВД РФ. Корпус выполнен из высокопрочного пластика. Канал ствола хромирован, также может комплектоваться глушителем, коллиматорным либо оптическим прицелом, на крышке ствольной коробки серийных экземпляров установлена универсальная прицельная планка. Изредка, небольшими партиями, попадает в Зону через бандитов по неизвестным каналам поставки.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм</text>
+		<text>This 9-mm russian submachine gun is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defense weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] 9x19 compatible suppressor</text>
 	</string>
 	<string id="st_wpn_vityaz">
-		<text>«Витязь»</text>
+		<text>Vityaz</text>
 	</string>
 	<string id="st_wpn_vityaz_descr">
-		<text>Вариант ПП-19 с 30-зарядным секторным магазином под патрон 9x19 мм, разработан в 2004 году.  Основан, в зависимости от исполнения, на АКС-74У или на АК-105. Применяется для вооружения патрульно-постовых служб, ГИБДД, внутриведомственной охраны, и подразделений МВД РФ. Изредка, небольшими партиями, попадает в Зону через бандитов по неизвестным каналам поставки.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм</text>
+		<text>A variant of PP-19 with 30-round magazine chambered for 9x19mm, designed in 2004. It is used by patrol groups, Russian traffic police, Russian security police, and by units of the MVD.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor</text>
 	</string>
 	<string id="st_wpn_bizon">
-		<text>«Бизон»</text>
+		<text>Bizon</text>
 	</string>
 	<string id="st_wpn_bizon_descr">
-		<text>В 1993 году Калашников и Драгунов (младшие) изготовили первый вариант нового пистолета-пулемёта под названием ПП-19 «Бизон». Он был разработан под «макаровский» патрон 9х18 (как стандартный, так и высокоимпульсный, модернизированный). Его отличительной чертой является наличие шнекового (от немецкого «шнек» - «улитка») подствольного магазина ёмкостью 64 патрона. Автоматика ПП-19 построена на основе отдачи свободного затвора, ударно-спусковой механизм курковый, вместе с предохранителем заимствованы от автомата АК-74. Огонь ведётся с закрытого затвора, что повышает точность стрельбы одиночными выстрелами. На исходной модели ПП-19 установлены прицельные устройства, идентичные таковым на автомате АКС74У. Малораспространен в Зоне Отчуждения.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1</text>
+		<text>This submachine gun has been developed in Izhevsk at the famous IZHMASH state arms factory during the early 1990s, first appearing to the public in 1993. Influenced by the Calico submachine guns, Bizon (Bison) SMG combined high capacity helical magazine with more conventional appearance and layout. The Bizon is built on shortened AKS-74 receivers, made from stamped steel. It featured a simple blowback action, hammer fired from closed bolt. The Bizon is capable of semi automatic and automatic fire, with typical AK-type safety - selector lever at the right side of the receiver. Sights are similar to ones found on the AKS-74U, with hooded front post and flip up rear.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP 1S-03 "Kobra", 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor</text>
 	</string>
 	<string id="st_wpn_galil">
 		<text>Galil AR</text>
 	</string>
 	<string id="st_wpn_galil_descr">
-		<text>Галиль (англ. Galil) - израильский автомат, разработанный конструктором Исраэлем Галили на основе финского автомата Valmet Rk 62, в свою очередь, являющегося вариантом автомата Калашникова. С точки зрения внутреннего устройства Galil аналогичен автомату Калашникова за исключением применения другого патрона. Автоматика работает за счёт отвода части пороховых газов из канала ствола через газоотводное отверстие, просверлённое под углом 30 градусов назад непосредственно в газовую камеру. Газовый поршень хромирован. Рукоятка затвора в отличие от автомата Калашникова загнута вверх для того, чтобы её можно было использовать обеими руками. Слева над пистолетной рукояткой имеется дополнительный флажок предохранителя-переводчика режимов стрельбы. Производство автоматических винтовок «Галил» для израильской армии было прекращено в 2006 году, в 2007 году «Галил» были окончательно сняты с вооружения ЦАХАЛ (некоторое количество осталось на вооружении рот почётного караула и отдельных небоевых частей). Имеет высокое распространение среди отрядов «Монолита», являясь желанным трофеем среди многих опытыных сталкеров, ищущих мощное и надежное оружие.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1\n%c[0,93,0,116] • %c[0,140,140,140] прицел Galil 4x (после модификации)</text>
+		<text>Formally accepted into service with the IDF in 1972, the IMI Galil is designed for operation in arid conditions and is based on the Finnish RK 62, which itself was derived from the Soviet AK-47. The Galil is noted for its reliability in combat conditions, and ease of maintenance. It has a line chambered for 5.56x45mm and one for 7.62x51mm.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor\n%c[0,93,0,116] • %c[0,140,140,140] Galil 4x scope (after modification)</text>
 	</string>
 	<string id="st_wpn_m249">
 		<text>M249</text>
 	</string>
 	<string id="st_wpn_m249_descr">
-		<text>M249 SAW - вариант ручного пулемёта FN Minimi для армии США калибра 5,56х45 мм производства FN Herstal (Бельгия), серийное производство началось в 1980-х годах. Пулемёт поступил на службу в вооружённых силах ряда стран, среди них: Австралия, Бельгия, Канада, Франция, Греция, Испания, Италия, Индонезия, Малайзия, Новая Зеландия, Таиланд, Швеция, Соединённое Королевство и Соединённые Штаты Америки. Оружие в настоящее время изготавливается на заводах FN Herstal. Весьма редкое оружие в Зоне, попадает в ее пределы лишь через наемников в единичных экземплярах.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] Barska ES AC10632</text>
+		<text>The M249 is a belt fed 5.56x45 machine gun. It is the American adaptation of the Belgian FN Minimi. The M249 has seen action in every major conflict involving the United States since the U.S. invasion of Panama in 1989. Soldiers are generally satisfied with the weapon's performance, though there have been reports of clogging with dirt and sand.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140]Barska ES AC10632 scope</text>
 	</string>
 	<string id="st_wpn_abakan">
-		<text>АН-94</text>
+		<text>AN-94</text>
 	</string>
 	<string id="st_wpn_ak74">
-		<text>АК-74</text>
+		<text>AK-74</text>
 	</string>
 	<string id="st_wpn_ak74m">
-		<text>АК-74М</text>
+		<text>AK-74М</text>
 	</string>
 	<string id="st_wpn_aks74">
-		<text>АКС-74</text>
+		<text>AKS-74</text>
 	</string>
 	<string id="st_wpn_ak101">
-		<text>АК-101</text>
+		<text>AK-101</text>
 	</string>
 	<string id="st_wpn_ak74u">
-		<text>АКС-74У</text>
+		<text>AKS-74U</text>
 	</string>
 	<string id="st_wpn_ak74u_nimble">
-		<text>АКС-74У (заказной)</text>
+		<text>AKS-74U (custom)</text>
 	</string>
 	<string id="st_wpn_beretta">
 		<text>Beretta 92F</text>
 	</string>
 	<string id="st_wpn_bm16">
-		<text>Обрез ТОЗ-66</text>
+		<text>TOZ-66 (sawn-off)</text>
 	</string>
 	<string id="st_wpn_bm16_descr">
+		<text>A double-barreled shotgun with shortened barrels. Lighter and more compact, effective at close range. Needing a cheap, short range weapon that's effective and lethal, many rookie stalkers resort to sawing off the buttstock and barrel on the easily acquired TOZ 66. This makes the shotgun quick to wield, but at the cost of range and accuracy.</text>
+	</string>
+	<string id="st_wpn_bm16_descr"> <!-- error -->
 		<text>Когда нужно недорогое оружие малого радиуса действия, которое будет эффективным и смертоносным, многие сталкеры-новички прибегают к отпиливанию приклада и стволов на легко приобретаемой двустволке ТОЗ-66. Это делает ружьё лёгким и манёвренным в ущерб точности и дальности стрельбы.</text>
 	</string>
 	<string id="st_wpn_bm16_full">
-		<text>ТОЗ-66</text>
+		<text>TOZ-66</text>
 	</string>
-	<string id="st_wpn_bm16_full_descr">
-		<text>Охотничье ружьё ТОЗ-66 хорошо известно опытным охотникам. В данной двустволке Тульскому оружейному заводу удалось воплотить все преимущества предыдущих курковых моделей ружей. Выпускалось оно с 1968 по 1974 год и успело завоевать славу самого крепкого ружья среди тульских двустволок. Что примечательно, даже современные модели двустволок ТОЗ значительно уступают по крепости ТОЗ-66, которая получила усиленную ствольную коробку. Являясь мощным и крайне надежным оружием, которое может себе позволить каждый сталкер, оно получило широкое распространение в Зоне, но из-за громоздкости и веса, которые весьма важны в этих местах, многие сталкеры предпочитают ему пистолет или обрез.</text>
+	<string id="st_wpn_bm16_full_descr"> <!-- revision -->
+		<text>The hunting rifle TOZ-66 is well known to experienced hunters. It was possible to accomplish all advantages of the previous models of hunting rifles in this version. It was issued from 1968 to 1974 and managed to win the glory of the strongest rifle among the twin-barrels Tula. It is noteworthy that even the modern models of double-barrels TOZ are much inferior to the TOZ-66, which received an intensified receiver. Being a powerful and extremely reliable weapon that every stalker can afford, it become widely used in the Zone, but due to the bulky design and considerable weight, many stalkers prefer a pistol or a sawed-off.</text>
 	</string>
 	<string id="st_wpn_ppsh41">
-		<text>ППШ-41</text>
+		<text>PPSh-41</text>
 	</string>
 	<string id="st_wpn_ppsh41_descr">
-		<text>\n \n%c[0,170,170,170]Пистолет-пулемёт, разработанный советским конструктором Георгием Шпагиным, принятый на вооружение в 1940 году и активно использовавшийся в Великой Отечественной войне, а также во многих вооружённых конфликтах послевоенного времени. В СССР был снят с вооружения в 1951 году и заменён автоматом Калашникова, но после этого ещё длительное время использовался различными армиями или вооружёнными формированиями по всему миру, например в войнах в Корее и во Вьетнаме, а из недавних конфликтов - на обеих афганских и войне в Ираке. Хранится в больших количествах в армейских запасах, откуча зачастую попадает на черный рынок, а оттуда и в Зону, являясь довольно статусным приобретением среди бандитов.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] Глушитель 9мм\n \n</text>
+		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. These Zone-modified versions fire the readily available 9x18mm Makarov round.\n \n%c[0,140,140,140]ATTACHMENTS:\n \n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor</text>
 	</string>
 	<string id="st_wpn_mp133">
-		<text>МП-133</text>
+		<text>MP-133</text>
 	</string>
-	<string id="st_wpn_mp133_short">
-		<text>Обрез МП-133</text>
+	<string id="st_wpn_mp133_short"> <!-- revision -->
+		<text>Obrez MP-133</text>
 	</string>
 	<string id="st_wpn_mp133_descr">
-		<text>MP-133 - российское гладкоствольное ружьё, которое применяется для различных видов охоты, спортивной стрельбы, охраны и самообороны. Ружьё разработано на базе ружья ИЖ-81 и серийно выпускается Ижевским Механическим заводом с 2000 года.</text>
+		<text>The MP-133 is a product of the Izhevsk Mechanical Plant. This shotgun is an evolution of the earlier IZh-81 pump action shotgun, and is intended for civilian and security markets. It is produced in two basic versions: standard MP-133 with tubular magazine and MP-133K with detachable box magazine, both versions can be in various barrel lengths and styles, wood or polymer funiture, fixed or side folding polymer stock or pistol grip only. The MP-133 shotgun uses traditional pump action with sliding forend that has dual action bars. Locking is achieved by a tilting locking piece, installed in the bolt and engages the notch in the barrel extension when in battery. Feed is from tubular underbarrel magazine that holds 4 rounds, though capacity can be enhanced by installing magazine extension tubes.</text>
 	</string>
 	<string id="st_wpn_mp153_short">
-		<text>Обрез МП-153</text>
+		<text>Obrez MP-153</text>
 	</string>
 	<string id="st_wpn_mp153">
-		<text>МП-153</text>
+		<text>MP-153</text>
 	</string>
 	<string id="st_wpn_mp153_descr">
-		<text>МР-153 - российское самозарядное гладкоствольное ружьё, в народе называемое «мурка», которое применяется для различных видов охоты, спортивной стрельбы, охраны правопорядка и самообороны, разработано и выпускается серийно на Ижевском Механическом заводе (индекс МР означает Mechanical Plant- Механический завод). Ружьё оснащено автоматической затворной задержкой: после отстрела последнего патрона затвор останавливается в крайнем заднем положении, что упрощает и ускоряет последующую дозарядку и сигнализирует стрелку об израсходовании боеприпасов. Ружья МР-153 пользуются довольно значительной популярностью в России, благодаря доступной цене и умеренной надёжности и живучести. К недостаткам ружья иногда относят несколько больший вес, чем у конкурентов.</text>
+		<text>The MP-153 self loading shotgun was the first semi automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi automatic shotguns of Russian origin, and is widely used to hunt various games in Russia. It is also sold for export, it is known as Remington "Spartan" SPR-453 autoloader in US. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.</text>
 	</string>
 	<string id="st_wpn_colt1911">
 		<text>Colt M1911</text>
@@ -547,7 +550,7 @@
 		<text>FNP-45</text>
 	</string>
 	<string id="st_wpn_fnx45">
-		<text>FNX-45 «Tactical»</text>
+		<text>FNX-45 "Tactical"</text>
 	</string>
 	<string id="st_wpn_cz75">
 		<text>CZ-75</text>
@@ -574,88 +577,88 @@
 		<text>M16A2</text>
 	</string>
 	<string id="st_wpn_m16a2_descr">
-		<text>Штурмовая винтовка M16A2 представляет собой вариант винтовки M16A1, адаптированный под патрон SS109/М855. Отличия от M16A1 следующие: упрочнённый ствол с шагом нарезов 1:7, улучшенные прицельные приспособления, размеченные до 800 м, новые цевьё и приклад из ударопрочного полиамида, замена режима непрерывного огня на режим с отсечкой очереди после 3-х выстрелов (на вооружении корпуса морской пехоты поступил вариант M16A2 с возможностью ведения непрерывного огня), новый пламегаситель с прорезями только в верхней части (благодаря чему компенсировался увод оружия вверх). Новая винтовка стала комплектоваться лёгкими пластиковыми магазинами на 30 патронов.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт М203\n%c[0,93,0,116] • %c[0,140,140,140] Глушитель НАТО</text>
+		<text>The M16A2 rifle entered service in the 1980s, chambered to fire the standard NATO round, the Belgian designed M855/M856 cartridge. The M16A2 is a select fire rifle, incorporating design elements requested by the Marine Corps: an adjustable, windage rear sight, longer stock, heavier barrel, case deflector for left-hand shooters and cylindrical hand guards. The M16A2 is manufactured by Colt and the Fabrique Nationale de Herstal arms company, with the variant rifles made elsewhere in the world.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher\n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor.</text>
 	</string>
 	<string id="st_wpn_mosin">
-		<text>Винтовка Мосина</text>
+		<text>Mosin-Nagant</text>
 	</string>
 	<string id="st_wpn_mosin_short">
-		<text>Обрез винтовки Мосина</text>
+		<text>Mosin-Nagant (sawn-off)</text>
 	</string>
 	<string id="st_wpn_mosin_descr">
-		<text>7,62-мм винтовка Мосина производилась в период с 1930 по 1945 годы как стандартное оружие советской пехоты. Слэнговое название «трехлинейка»  происходит от калибра ствола винтовки, который равен трём линиям (устаревшая мера длины, равная одной десятой дюйма или 2,54 мм). Производство винтовки было прекращено в начале 1945 года, а карабин выпускался вплоть до начала производства автомата Калашникова. Постепенно их снимали с вооружения армии, заменяя карабином СКС и автоматом Калашникова. В качестве оружия пехоты и бойцов нерегулярных вооружённых формирований винтовки Мосина использовались во многих войнах - от Кореи и Вьетнама до Афганистана и используются по сей день из-за огромного количества выпущенных за все время изделий - 37 млн. штук.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПУ</text>
+		<text>A basic version of the Mosin-Nagant with slightly worn interiors. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in World War II as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116]• %c[0,140,140,140] PU scope</text>
 	</string>
 	<string id="st_wpn_svt40">
-		<text>СВТ-40</text>
+		<text>SVT-40</text>
 	</string>
 	<string id="st_wpn_svt40_short">
-		<text>Обрез СВТ-40</text>
+		<text>SVT-40 (sawn-off)</text>
 	</string>
 	<string id="st_wpn_svt40_descr">
-		<text>7,62-мм самозарядная винтовка системы Токарева образца 1940 годов, была принята на вооружение РККА на смену 7,62-мм снайперской винтовке образца 1891/30 гг. в 1940 году. Винтовка работает по принципу отвода газов из канала ствола с коротким ходом газового поршня. Запирание осуществляется перекосом затвора в вертикальной плоскости. Ложа составная. Ударно-спусковой механизм - курковый. Предохранитель блокирует спусковой крючок. Как и многое раритетное оружие, попадает в Зону через бандитов (реже - сталкеров) и широко ими используется в виде относительно компактного и очень мощного обреза.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПУ специальный</text>
+		<text>The SVT-40 is a surplus semi automatic rifle chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116]• %c[0,140,140,140] PU special scope</text>
 	</string>
 	<string id="st_wpn_aek971">
-		<text>АЕК-971</text>
+		<text>AEK-971</text>
 	</string>
 	<string id="st_wpn_aek971_descr">
-		<text>Автомат калибра 5,45x39 мм, разработанный на Ковровском механическом заводе под руководством Станислава Ивановича Кокшарова на основе автомата системы Константинова (СА-006). В конструкции используется схема со сбалансированной автоматикой на основе газового двигателя, что позволяет вести более контролируемый автоматический огонь. Небольшими партиями это оружие изготавливалось для Российского МВД.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель ТГП-А\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25</text>
+		<text>Based on previous AK rifles in internal design and layout, the AEK-971 is also equipped with a recoil-balancing mechanism, resulting in more controllable automatic fire. Small batches of this rifle were manufactured for the Russian MVD.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] TGP-A suppressor\n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher</text>
 	</string>
 	<string id="st_wpn_rp">
-		<text>ПКМ</text>
+		<text>RP</text>
 	</string>
 	<string id="st_wpn_rp_descr">
-		<text>\n \n%c[0,170,170,170]Ручная модификация армейского пулемёта с ленточным питанием. Несмотря на высокую массу и неудовлетворительную точность боя, нашёл себе применение в Зоне. В основном используется для подавления превосходящего по численности противника и при зачистках логовищ мутантов.\n \n</text>
+		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable machine gun.</text>
 	</string>
 	<string id="st_wpn_rpk74">
-		<text>РПК-74</text>
+		<text>RPK-74</text>
 	</string>
 	<string id="st_wpn_rpk74_descr">
-		<text>Ручной пулемёт, разработанный в середине семидесятых годов для замены в войсках пулемёта РПК под патрон 7,62x39 мм в рамках перехода на систему стрелкового оружия под малоимпульсный патрон 5,45x39 мм. Он построен на основе автомата АК-74, но имеет магазин большей ёмкости.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1 \n%c[0,93,0,116] • %c[0,140,140,140] Глушитель ТГП-А</text>
+		<text>The RPK (Ruchnoy Pulemyot Kalashnikova or Kalashnikov hand-held machine gun) is a 5.45x45mm light machine gun, developed by Mikhail Kalashnikov in the late 1950s. It was created as part of a program designed to standardize the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. Today, the RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations. The Polish Army adopted the weapon in 1974, where it is used in airborne assault, reconnaissance and special operations units. The RPK was also manufactured under license in Bulgaria and Romania.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1 scopes \n%c[0,93,0,116] • %c[0,140,140,140] TGP-A suppressor</text>
 	</string>
 	<string id="st_wpn_vsk94">
-		<text>ВСК-94</text>
+		<text>VSK-94</text>
 	</string>
 	<string id="st_wpn_vsk94_descr">
-		<text>Бесшумная снайперская винтовка ВСК-94 была создана в тульском КБП (Конструкторском Бюро Приборостроения) на базе малогабаритного автомата 9А-91 в качестве более дешёвой альтернативы специальной снайперской винтовке ВСС «Винторез» калибра 9 мм.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1М2-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель для 9А-91/ВСК-94</text>
+		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmored targets at ranges up to 400m.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1M2-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] 9A-91/VSK-94 suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_sks">
-		<text>СКС-45</text>
+		<text>SKS-45</text>
 	</string>
 	<string id="st_wpn_sks_short">
-		<text>Обрез СКС-45</text>
+		<text>SKS-45 (sawn-off)</text>
 	</string>
 	<string id="st_wpn_sks_descr">
-		<text>\n \n%c[0,170,170,170]Советский самозарядный карабин конструкции Сергея Симонова принят на вооружение в 1949 году. Заменённый в начале 1950-х годов на переднем крае войсковой службы автоматом АК, он остался в запасе на десятилетия и до сих пор используется в качестве парадно-церемониального оружия.</text>
+		<text>The SKS-45 is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.</text>
 	</string>
 	<string id="st_wpn_type63">
-		<text>Тип 63</text>
+		<text>Type 63</text>
 	</string>
 	<string id="st_wpn_type63_descr">
-		<text>Тип 63 - китайская автоматическая винтовка, созданная на основе СКС для замены самозарядного карабина Тип 56. Механизм запирания был позаимствован у автомата Type 56 (лицензионный вариант АК). Ствольная коробка - фрезерованная (у оружия раннего выпуска) или штампованная (у позднего выпуска). Вместо неотъёмного магазина СКС применяются секторные магазины на 20 или 30 патронов, однако возможность снаряжения пустого магазина из обойм без отделения от оружия сохранилась. Появилась возможность стрельбы очередями. Снята с вооружения НОАК в 1978 году из-за низкой эффективности.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПУ</text>
+		<text>The Type 63, often incorrectly referred to as Type 68 by Western sources, is a Chinese-designed rifle with a resemblance to the SKS. However, the weapon uses a rotating bolt working system from the AK-47 rifle instead of the tilting bolt system of the SKS.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PU scope</text>
 	</string>
 	<string id="st_wpn_k98">
 		<text>Mauser 98k</text>
 	</string>
 	<string id="st_wpn_k98_descr">
-		<text>\n \n%c[0,170,170,170]Mauser 98k - магазинная винтовка, официально принятая на вооружение в 1935 году. Являлась основным и наиболее массовым стрелковым оружием вермахта. Конструктивно является укороченной и незначительно изменённой модификацией винтовки Mauser 98. Буква «k» в конце названия - сокращение от немецкого слова «Kurz» - «короткий». Винтовка Mauser 98k выпускалась вплоть до 1945 года, было выпущено более 14 млн экземпляров. После Второй мировой войны винтовка Mauser 98k находилась на вооружении во многих странах мира, в том числе в ГДР и ФРГ. В Зону попала контрабандным путем из армейских хранилищ путем подкупа военных криминальным авторитетом Йогой во времена войны группировок, после чего тот был убит, а винтовки пошли по рукам между разрозненными группами бандитов и быстро распространились.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел серии ZF\n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО (модифицированный)\n \n</text>
+		<text>During World War II, certain Mauser "Karabiner" 98k rifles were selected for their exceptional accuracy and fitted with the ZF39 telescopic sight. These rifles were used by Nazi Germany as sniper rifles. In skilled hands, they had an effective range of up to 1000 meters.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ZF scope series\n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor (alternate).</text>
 	</string>
 	<string id="st_wpn_g43">
 		<text>G43</text>
 	</string>
 	<string id="st_wpn_g43_descr">
-		<text>\n \n%c[0,170,170,170]Адаптируя газоотвотводную систему советских винтовок СВТ-40, в нацистской Германии на основе более ранней модели Gewehr 41 разработали новую самозарядную винтовку. Получившаяся винтовка получила обозначение Gewehr 43. Производство G43 продолжалось вплоть до конца войны в довольно существенных количествах, всего было произведено около 400 000 шт. При этом винтовки имели самую простую отделку, в их конструкции широко использовались литье и штамповка, наружная поверхность многих деталей имела весьма грубую обработку и покрытие. На базе G43 был создан целый ряд экспериментальных разработок, включающих автоматическую винтовку, имеющую возможность стрельбы очередями, а также вариант под патрон 7,92?33 мм Kurz, использовавший 30-патронные магазины от Stg.44, но в серии эти варианты не выпускались. По окончании войны производство винтовок G43 не возобновлялось, но небольшое их количество использовалось в ранний послевоенный период Чехословацкой армией в качестве снайперского оружия. В Зону попала, наряду с Маузером 98k и другим раритетным оружием, контрабандным путем из армейских хранилищ.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ZF-41 (интегрированный)\n \n</text>
+		<text>Adopting a simple gas-operated mechanism from Soviet SVT rifles, Nazi Germany developed the Gewehr 43 semi-automatic rifle. It was renamed Karabiner 43 in 1944. Equipped with the ZF 4 telescopic sight, it is an effective sniper rifle.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ZF-41 scope (integrated)</text>
 	</string>
 	<string id="st_wpn_mossberg590">
 		<text>Mossberg 590A1</text>
 	</string>
 	<string id="st_wpn_mossberg590_descr">
-		<text>Гладкоствольное ружьё Mossberg 590 было создано американской фирмой O.F.Mossberg and sons в середине 1970х как «военизированная» модификация их популярного ружья Mossberg 500. Милитаризация включала упрочнение ряда деталей оружия, установку ствольной накладки-кожуха для защиты рук от ожогов, более стойкое матовое покрытие наружных поверхностей для защиты от износа и коррозии, металлическую спусковую скобу - основание блока УСМ. Mossberg 590 является магазинным гладкоствольным ружьём. Перезарядка при помощи подвижного цевья (помповый), магазин трубчатый несменный, расположен под стволом. Запирание ствола - установленной на завторе качающейся личинкой за казённую часть ствола. Ствольная коробка выполнена из алюминиевого сплава. Предохранитель расположен сверху на задней части ствольной коробки и одинаково удобен как для правшей, так и для левшей.</text>
+		<text>Mossberg 590 was developed by O.F.Mossberg &amp; sons company during 1970s in US as a modification of the Mossberg model 500 shotgun for adoption by the US Military. Modifications included strenghtening of the receiver, installation of the vented heatshield around the barrel, a bayonet lug and extended magazine and an aluminum trigger guard instead of plastic one. Standard finish is Parkerizing, and the gun is provided with replacement pistol grip, which allows easy converion to 'Cruiser' modification. Since 1987, this was the standard shotgun of US Armed forces; officially replaced in US Army with Benelli M1014 semi automatic shotgun, Mossberg 590 shotguns are still used by US Navy and US Marine Corp.</text>
 	</string>
 	<string id="st_wpn_m4">
 		<text>М4</text>
 	</string>
 	<string id="st_wpn_m4_descr">
-		<text>Автомат, созданный в США на основе М16А2 изначально для вооружения экипажей боевых машин и расчётов техники. Несмотря на это, Командование Специальных Операций США (US SOCOM) приняло этот автомат в качестве единого для всех американских сил специальных операций. В настоящее время на него переходит и вся Армия США, так как большее удобство укороченного карабина в современных условиях, когда большую часть армии составляют мотопехота, экипажи боевых машин и вспомогательные войска, является очень серьёзным достоинством. Основными отличиями М4 от М16А2 являются ствол меньшей длины и выдвижной телескопический приклад. По Зоне распространяется преимущественно через наемников и «Монолит».\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт M203</text>
+		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher</text>
 	</string>
 	<string id="st_wpn_m4a1">
 		<text>M4A1</text>
@@ -663,77 +666,83 @@
 	<string id="st_wpn_m4a1_descr">
 		<text>В 1996 году по заказу сил специальных операций на основе винтовки М16А3 был разработан аналогичный карабин М4А1, отличавшийся возвратом к полностью автоматическому огню вместо режима огня с отсечкой по 3 выстрела. Модификация М4А1, кроме короткого ствола и телескопического приклада, получила сменную рукоятку для переноски и соответственно сменный прицел (могут устанавливаться оптический, коллиматорный или ночной прицелы). С технической точки зрения модели М4 и М4А1 почти не отличаются от соответствующих им вариантов винтовки М16А2 и М16А3. По Зоне распространяется преимущественно через наемников и «Монолит».\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт M203 (после модификации)</text>
 	</string>
+	<string id="st_wpn_m4a1_descr">
+		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armor. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi automatic.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher (after modification)</text>
+	</string>
 	<string id="st_wpn_m16">
 		<text>М16</text>
 	</string>
 	<string id="st_wpn_m16_descr">
-		<text>M16 (официальное обозначение - Rifle, Caliber 5.56 mm, M16) - американская автоматическая винтовка калибра 5,56 мм, разработанная на базе винтовки AR-15 и принятая на вооружение в 1960-х годах. В 1964 году винтовка M16 официально принимается на вооружение, сменив M14. В 1966 году новой винтовкой вооружаются все американские подразделения во Вьетнаме. Винтовка показала себя крайне ненадёжным видом стрелкового оружия. В целом следует признать, что уже к началу 1970х годов винтовка М16 являлась полноценным боевым оружием, имеющим целый ряд существенных достоинств (ну и недостатки, разумеется, у неё тоже были). По сравнению с главным противником М16 на мировой арене - автоматом Калашникова (АКМ), М16 имела большую точность и кучность стрельбы одиночными выстрелами, была более комфортна и удобна в обращении. С другой стороны, М16 требовала гораздо более тщательного ухода, более качественных боеприпасов. По надёжности в особенно тяжёлых условиях (загрязнение, запыление) АКМ также превосходил М16. M16 и её варианты до настоящего времени остаются основным вооружением американской пехоты. Это одна из наиболее распространённых моделей стрелкового оружия в мире - было выпущено более 8 миллионов экземпляров.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт M203</text>
+		<text>The M16 is the U.S. military designation for a family of rifles derived from the ArmaLite AR-15 and further developed by Colt starting in 1960s. The M16 rifle family including the M16/A1/A2/A3/A4 has been the primary infantry rifle of the United States military since the 1960s. With its variants, it has been in use by 15 NATO countries, and is the most produced firearm in its caliber. The M16 is a lightweight, 5.56x45mm caliber, air cooled, gas operated, magazine fed assault rifle, with a rotating bolt, actuated by direct impingement gas operation. The rifle is made of steel, aluminum, and composite plastics.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher</text>
 	</string>
 	<string id="st_wpn_mp412">
 		<text>MP-412 Rex</text>
 	</string>
 	<string id="st_wpn_mp412_descr">
-		<text>MP-412 Rex - револьвер российского производства под патроны .357 Smith end Wesson Magnum (9х33 мм) и .38 Smith and Wesson Special (9,1х29 мм). Разработанный на Ижевском Механическом заводе в конце 1990-х. Предназначался для экспорта (REX - Revolver for Export), однако в массовое производство так и не пошёл. Этот новый револьмер ИжМеха отличают две главных особенности - переламывающаяся рамка в духе Смит-Вессонов конца XIX - начала ХХ века, и полимерная рамка, точнее - её нижняя часть вместе с рукояткой. Верхняя часть рамки, удерживающая ствол - стальная. Револьвер имеет отключаемый эжектор, во включённом состоянии выбрасывающий стрелянные гильзы из барабана при открытии рамки (при выключенном эжекторе пгильзы только частично выдвигаются из барабана).</text>
+		<text>The MP412 REX is a Russian double-action .357 magnum revolver with a break-action chamber and an automatic ejector. It was designed for export (REX, Revolver for EXport), but never put into full production due to lack of a market. The weapon was designed by IZHMECH, the state-owned Russian Izhevsk Mechanical Plant, which also designed and produced the Makarov PM semi-automatic pistol.</text>
 	</string>
 	<string id="st_wpn_vz61">
-		<text>Skorpion</text>
+		<text>Skorpion vz.61</text>
 	</string>
 	<string id="st_wpn_vz61_descr">
-		<text>Skorpion (Скорпион) - чехословацкий автоматический пистолет, разрабатывался для вооружения танкистов, связистов и военнослужащих других специальностей. Скорпион был принят на вооружение в ЧССР в 1961 году (отсюда обозначение vz.61 - vzor 61, то есть образец 1961 года). Базовый вариант имел калибр 7,65?17 мм, но в 1982 году в ходе перевооружения армии Чехословакии на стандартный пистолетный патрон 9?18 мм стран Восточного блока, был адаптирован под этот патрон. Такой вариант получил обозначение Vz.82. Весьма популярен в криминальном мире за счет своей простоты, дешевизны и удобства скрытого ношения. Через черный же рынок получил широкое распространение и в Зоне Отчуждения.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм (после модификации)</text>
+		<text>Originally chambered for .32 ACP when adopted by the Czechoslovak Army in 1961, mass production of the Skorpion vz. 68 never took place. Even so, a large number of pre-production vz. 68 models made their way into the Zone. \n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_ump45">
 		<text>UMP 45</text>
 	</string>
 	<string id="st_wpn_ump45_descr">
-		<text>Пистолет-пулемёт UMP (Universal Machinen Pistole - универсальный пистолет-пулемёт) был разработан в дополнение к достаточно дорогим MP5 как более дешёвый и в чём-то более современный вариант и представлен в 1996 году. С патронами .45 ACP он обладает более высоким останавливающим действием, но при этом и более сильной отдачей. Из-за этого для лучшего контроля автоматического огня темп стрельбы был значительно снижен по сравнению с MP5.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО</text>
+		<text>The UMP was developed by HK in the 1990s, first appearing on the market in 1999. The idea behind the UMP was to create lightweight and powerful submachine gun, that was also cheaper than the MP-5. The UMP, being targeted primarily for US law enforcement, appeared in .45ACP and .40SW chamberings, and later in 9mm. Providing greater stopping power than the MP5, the UMP45 also produces more recoil. This makes controlling full automatic fire more difficult. The UMP45's cyclic rate of fire was lowered significantly to combat this problem.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor</text>
 	</string>
 	<string id="st_wpn_gsh18">
-		<text>ГШ-18</text>
+		<text>Gsh-18</text>
 	</string>
 	<string id="st_wpn_gsh18_descr">
-		<text>Российский пистолет, разработанный в конце 1990-х годов в тульском Конструкторском бюро приборостроения. Название получил по первым буквам фамилий конструкторов, под руководством которых проектировался: Грязева Василия Петровича и Шипунова Аркадия Георгиевича, и числа «18», означающего ёмкость магазина. Серийно производится с 2001 года, предлагается на экспорт. В 2000 году ГШ-18 принят на вооружение спецподразделений Министерства юстиции РФ, в 2001 году - на вооружение спецподразделений и отдельных категорий сотрудников МВД РФ. В 2003 году, по результатам конкурса на новый армейский пистолет, способный заменить стоящий на вооружении Пистолет Макарова, принят на вооружение Российской армии. С бронебойными патронами 7Н21 и 7Н31 способен пробивать 8-мм стальной лист на расстоянии 20 метров.</text>
+		<text>The GSh-18 is a 9x19mm semi automatic pistol developed in the early 1990s at the KBP Instrument Design Bureau in Tula. The pistol's name is derived from its designers - Gryazev and Shipunow, and the number 18 denotes the magazine capacity. The GSh-18 is a recoil-operated, locked breech pistol. The weapon has an unusual cam-rotated barrel with 10 locking lugs. The GSh-18 is striker fired and features a pre-set trigger that pre-cocks the pistol when the slide recoils after firing a shot, the striker firing pin is then fully cocked by pulling the trigger back to the rear. With the 7N21 and 7N31 armor-piercing bullets, it can pierce 8mm of steel at 20 meters.</text>
 	</string>
 	<string id="st_wpn_ak">
-		<text>AK</text>
+		<text>AK-47</text>
 	</string>
 	<string id="st_wpn_aks">
-		<text>AKС</text>
+		<text>AKS-47</text>
 	</string>
 	<string id="st_wpn_akms">
-		<text>AKMС</text>
+		<text>AKMS</text>
 	</string>
 	<string id="st_wpn_ak_descr">
-		<text>7,62-мм автомат Калашникова (АК) - автомат, принятый на вооружение в СССР в 1949 году. АК и его модификации являются самым распространённым стрелковым оружием в мире. По имеющимся оценкам, к этому типу (включая лицензионные и нелицензионные копии, а также сторонние разработки на базе АК) принадлежит до 1/5 всего имеющегося на Земле стрелкового огнестрельного оружия.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1\n%c[0,204,0,51] • %c[0,204,0,51] установка прицелов невозможна в связи с отсутствием крепления «ласточкин хвост»\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25 (после модификации)</text>
+		<text>The AK-47 can be described as a hybrid of previous rifle technology. Mikhail Kalashnikov designed this automatic rifle combining the best features of the American M1 and the German StG44. The Kalashnikov is a gas operated 7.62x39 assault rifle and by far the most prolific small arm of the 2nd half of the 20th century. It had been and still is, in more or less modified form, manufactured in dozens of countries and has been used in hundreds of conflicts since its introduction.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor\n%c[0,204,0,51] • %c[0,204,0,51] No scope due to the absence of a dovetail mount\n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher (after modification)</text>
 	</string>
 	<string id="st_wpn_aks_descr">
-		<text>АКС (Индекс ГРАУ - 56-А-212М) - вариант АК с откидным металлическим прикладом, предназначавшийся для воздушно-десантных войск. Был принят одновременно с АК. Первоначально выпускался со штампованной ствольной коробкой, а с 1951 года - фрезерованной из-за высокого процента брака при штамповке.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1\n%c[0,204,0,51] • %c[0,204,0,51] установка прицелов невозможна в связи с отсутствием крепления «ласточкин хвост»\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25 (после модификации)</text>
+		<text>A variant of the AK-47, equipped with an under folding metal shoulder stock in place of the fixed wooden stock. It was designed for use inside armored vehicles and by paratroopers.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor\n%c[0,204,0,51] • %c[0,204,0,51] No scope due to the absence of a dovetail mount\n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher (after modification)</text>
 	</string>
 	<string id="st_wpn_akms_descr">
-		<text>Вариант АКМ со складным прикладом. Система крепления приклада была изменена относительно АКС (складывался вниз-вперёд, под ствольную коробку). Модификация разработана специально для десантников.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1\n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25 (после модификации)</text>
+		<text>A variant of the AKM, equipped with an under-folding metal shoulder stock in place of the fixed wooden stock. The metal stock of the AKMS is somewhat different from the folding stock of the previous AK-47 model as it has a modified locking mechanism, which locks both support arms of the AKMS stock instead of just one.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor\n%c[0,93,0,116] • %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher (after modification)</text>
 	</string>
 	<string id="st_wpn_saiga12s">
-		<text>«Сайга»</text>
+		<text>Saiga-12S</text>
 	</string>
 	<string id="st_wpn_saiga12s_descr">
-		<text>«Сайга-12С» - вариант исполнения ружья со складывающимся пластмассовыми прикладом, рукояткой управления огнём (по типу автомата АК) и цевьём охотничьего типа. Длина ствола 580 или 680 мм. Прицельные приспособления - мушка и целик (либо регулируемая прицельная планка по специальному заказу) расположены над газоотводной трубкой.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель ПБС-1</text>
+		<text>The Saiga-12 is a Kalashnikov pattern, 12 gauge combat shotgun, manufactured by Izhmash. The Saiga-12 is recognizable by its Kalashnikov design with the large lever safety on the right side of the receiver, the optic mounting rail on the left and the large top mounted dust cover held in place by the rear of the recoil spring assembly. Earning respect in the Zone for its lethality, it is intended for engaging targets at short range (50 meters or less) or in confined spaces.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] PBS-1 suppressor</text>
 	</string>
 	<string id="st_wpn_tt33">
 		<text>TT-33</text>
 	</string>
 	<string id="wpn_tt33_descr">
-		<text>Культовый советский пистолет ТТ-33 представляет собой усовершенствованную версию полуавтоматического пистолета ТТ-30, разработанного в 1930-м году на замену устаревшему револьверу системы Нагана обр. 1895 года. Несмотря на то, что производство ТТ-33 в России продолжалось с 1933 по 1954 года, некоторые экземпляры до сих пор стоят на вооружении и собираются в странах Третьего мира. Пистолет ТТ отличается простотой конструкции и в силу этого - невысокой себестоимостью производства и лёгкостью в обслуживании. Нетипичный для пистолетов очень мощный патрон обеспечивает необычно высокую проникающую способность и дульную энергию около 500 Дж.</text>
+		<text>The TT-33 is a Russian 7.62x25mm pistol. It was developed in the early 1930s by Fedor Tokarev as a service pistol for the Soviet military to replace the Nagant M1895 revolver. Many communist or Soviet bloc countries made a variation of the TT-33 pistol, until it was eventually replaced by 9x18mm Makarov PM in 1952. Production of the TT-33 in the USSR ended in 1954.</text>
 	</string>
 	<string id="st_wpn_oc33">
-		<text>ОЦ-33 «Пернач»</text>
+		<text>OTs-33 "Pernach"</text>
 	</string>
 	<string id="st_wpn_oc33_descr">
-		<text>Пистолет ОЦ-33 был разработан в середине 1990-х годов в ЦКИБ СОО (Центральное КБ Спортивного и Охотничьего Оружия) под руководством И.Я. Стечкина для замены устаревшего и давно снятого с производства пистолета АПС конструкции того же автора. В настоящее время, в связи с включением ЦКИБ СОО в состав тульского КБ Приборостроения, выпуском и продвижением ОЦ-33 занимается КБП. В незначительных количествах ОЦ-33 состоит на вооружении различных подразделений МВД РФ. По сравнению с пистолетом Стечкина АПС, ОЦ-33 отличается улучшенными характеристиками, более простой конструкцией и более удобен в обращении. Имеется возможность установки ПБС и иных аксессуаров.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм (после модификации)</text>
+		<text>OTs-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OTs-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS.n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_g3">
 		<text>HK G3</text>
 	</string>
 	<string id="st_wpn_g3_descr">
 		<text>HK G3 (нем. Gewehr 3 - Винтовка 3) - немецкая автоматическая винтовка, принятая на вооружение армией ФРГ в 1959 году. G3 построена на основе автоматики с полусвободным затвором, имеющим Г-образную форму. Винтовка отличается высокой надёжностью и удобством использования, однако имеет в конструкции ряд мелких деталей, которые могут потеряться даже при неполной разборке. Дополнительным преимуществом G3 над конкурентами - бельгийской FN FAL и американской М14 - стала более низкая цена, объясняемая большим количеством штампованных (а позже и пластмассовых) деталей, а также простой конструкцией. Из-за высокой надежности и мощности винтовка обрела популярность у незаконных бандформирований, участвовала во многих вооруженных конфликтах и в большом количестве присутствует на черном рынке.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech</text>
+	</string>
+	<string id="st_wpn_g3_descr">
+		<text>The G3 is a battle rifle developed in the 1950s by the German arms manufacturer Heckler &amp; Koch GmbH in collaboration with the Spanish state owned design and development agency CETME (Centro de Estudios Tecnicos de Materiales Especiales). It is designed to use the 7.62x51mm NATO round, and uses a Roller-delayed blowback action. The rifle owes its design to the CETME mod. A, which was designed by the german engineer Dr. Ludwig Vorgrimler. In 1957, Heckler &amp; Koch bought the license to manufacture the rifle, where small modifications were made to the CETME design. Officially adopted into service in 1959, by the Bundeswehr as the G3, it remained in service until 1995 when it was replaced by the G36. Despite having been officially replaced by the German army, it is still in limited use.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes</text>
 	</string>
 	<string id="st_wpn_g3sg1">
 		<text>G3 SG1</text>
@@ -745,31 +754,31 @@
 		<text>G36</text>
 	</string>
 	<string id="st_wpn_gauss">
-		<text>Гаусс-винтовка «Изделие 62»</text>
+		<text>Gauss rifle "Item #62"</text>
 	</string>
 	<string id="st_wpn_groza">
-		<text>ОЦ-14-4A</text>
+		<text>OTs-14 Groza</text>
 	</string>
 	<string id="st_wpn_groza_descr">
-		<text>Автоматно-гранатомётный комплекс, на 70% унифицированный с автоматами типа АКС-74У (основные отличия - калибр 9х39 мм, компоновочная схема «булл-пап» и более широкие возможности для модернизации). Разработан для вооружения подразделений быстрого реагирования. Очень ценим военными и сталкерами за способность надёжно поражать защищённого бронежилетом или расположенного в укрытии противника. Может быть собран в 4-х различных конфигурациях, в зависимости от боевой задачи. Распространённая в Зоне версия автомата оснащена подствольным гранатомётом ГП-25.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПО4х34\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25 (интегрированный)</text>
+		<text>The OTs-14 "Groza" ("Thunder") modular assault rifle was developed during the early 1990s at the TSKIB SOO. It was intended for various special forces in the Russian Army and Internal Affairs Ministry as an dedicated urban warfare weapon. Briefly manufactured in small numbers at the Tula Arms factory during the mid-1990s, the OTs-14 saw action in Chechnya in 1999, but fell out of favor and are no longer being made. It is a bullpup design, with removable foregrip which can be replaced with a 40mm grenade launcher. Adopted for Spetsnaz forces and specialist front-line combat units, the OTs-14-4A allows for assembly of one of four weapon versions, depending on the mission. This Zone version is equipped with the GP-25 grenade launcher. \n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PO 4x34 scope\n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher (integrated)</text>
 	</string>
 	<string id="st_wpn_groza_nimble">
-		<text>ОЦ-14-1А «Гроза-1»</text>
+		<text>OTs-14-1A (custom)</text>
 	</string>
 	<string id="st_wpn_groza_nimble_descr">
-		<text>Один из вариантов усовершенствованного ОЦ-14-4А. В версии «Гроза-1» темп стрельбы, настильность и ёмкость магазина удалось улучшить благодаря использованию более лёгкого патрона калибра 7,62х39 мм. Данный тип автомата выпускался только в малых опытных партиях для спецподразделений МВД.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт ГП-25 (интегрированный)</text>
+		<text>Being the only variant of the OTs-14-4A, the OTs-14-1A "Groza-1" is chambered for 7.62x39mm. Fire rate, flatness and magazine capacity are improved thanks to the use of this lighter, faster round. The Groza-1 was only produced in small batches.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] GP-25 grenade launcher (integrated)</text>
 	</string>
 	<string id="st_wpn_hpsa">
 		<text>Browning Hi-Power</text>
 	</string>
 	<string id="st_wpn_hpsa_descr">
-		<text>Модифицированная модель пистолета первой половины 20-го века, которая такая же надёжная, точная и мощная, как оригинальный образец. Эта модель получила репутацию одного из лучших пистолетов 20-го века и пользуется большой популярностью среди бандитов, могущих позволить себе покупку и обслуживание такого оружия.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм (после модификации)</text>
+		<text>The Browning Hi-Power is a single-action, 9mm semi automatic pistol. It is based on the ideas of American firearms inventor John Browning, created and patented in 1922, later patented by FN Herstal. Browning died in 1926, before he had finished developing a production version, but FN arms designer Dieudonne Saive fully developed it. The Hi-Power pistol was noted for its 13 round magazine capacity, twice that of contemporary designs such as the Luger or Mauser 1910. This modified variant of the Browning HP pistol, despite its venerable age, enjoys popularity around the world.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_kiparis">
-		<text>«Кипарис»</text>
+		<text>Kiparis</text>
 	</string>
 	<string id="st_wpn_kiparis_descr">
-		<text>Начиная с 1949 года на вооружение Советской Армии стал поступать новый вид оружия - автоматы под 7,62-мм патрон образца 1943 г. - так называемый "промежуточный". В связи с этим пистолеты-пулемёты, сыгравшие чрезвычайно большую роль в Великой Отечественной войне, были изъяты из армейского использования и надолго преданы забвению. Но жизнь показала, что автоматическое, или, согласно некоторым классификациям, самострельное (в отличие от самозарядного), оружие под пистолетный патрон и в наше время может иметь свою нишу. Поэтому в начале 1970-х годов в результате работ по конкурсной теме «Букет» появились первые образцы нового поколения пистолетов-пулемётов под патрон 9x18 мм ПМ. Одним из них был пистолет-пулемёт ОЦ-02 «Кипарис», за основу которого была взята компоновочная схема чехословацкого автоматического пистолета Scorpion образца 1961 года. Однако выпускать ОЦ-02 «Кипарис» стали лишь с 1992 года для подразделений МВД РФ. Из-за своей компактности и простоты данный ПП получил широкое распространение в криминальной среде, где долгое время подпольно изготавливался кустарным способом.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм</text>
+		<text>OTs-02 "Kiparis" (Cypress) is a sub-machine gun, developed in 1972 by order of the Ministry of Defense of the USSR by weapon designers from TsKIB COO of Tula. The layout is based on the Czechoslovak sub-machine gun Scorpion Vz.61 (1961 variant). The OTs-02 "Kiparis" automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor</text>
 	</string>
 	<string id="st_wpn_l85">
 		<text>L85A2</text>
@@ -787,16 +796,16 @@
 		<text>MP5SD</text>
 	</string>
 	<string id="st_wpn_mp5_descr">
-		<text>MP5 заслуженно пользуется огромной популярностью благодаря надёжности, удобству в обращении и высокой точности стрельбы. Принятый на вооружение армейских и полицейских подразделений многих стран, он появился на чёрном рынке и со временем добрался до Зоны.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632\n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм (после модификации)</text>
+		<text>The MP5 is one of the most famous and wide spread firearms of its class. The MP5's compactness, accuracy and reliability have made it a favorite of numerous military, law enforcement, intelligence and security organizations the world over. The MP5A3 is fitted with a retractable metal stock. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632 scopes\n%c[0,93,0,116] • %c[0,140,140,140] 9mm suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
-		<text>Опытный образец пистолета-пулемёта, основанный на модели HK MP5A3. Разработанный как следующее поколение, он опережает своего предшественника из-за более высокого калибра, скорострельности и точности.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632\n%c[0,93,0,116] • %c[0,140,140,140] глушитель Gemtech (после модификации)</text>
+		<text>A submachine gun prototype based on the excellent H&amp;K MP5A3 model. Designed as a next generation close quarter combat weapon, it benefits from a higher caliber, rate of fire and accuracy.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632 scopes\n%c[0,93,0,116] • %c[0,140,140,140] GemTech suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_mp5sd_descr">
-		<text>Пистолет-пулемёт MP5SD был разработан на основе конструкции MP5A2 для использования специальными подразделениями армии и полиции. Пистолет-пулемёт MP5SD изготавливается в вариантах с постоянным прикладом - MP5SD2 и складным - MP5SD3, либо же вообще без приклада - MP5SD4. От обычного MP5 это оружие отличается наличием интегрированного глушителя. Стрельба ведётся стандартными патронами 9mm Parabellum, имеющими сверхзвуковую начальную скорость пули. С целью снижения начальной скорости на уровень дозвуковой в стенках ствола имеются 30 отверстий, которые отводят часть пороховых газов в расширительную камеру глушителя. В Зоне данную разновидность MP5 предпочитают использовать наемники и бандиты.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632\n%c[0,93,0,116] • %c[0,140,140,140] интегрированный ПБС</text>
+		<text>A variant of the MP5 with an integrated suppressor. In the Zone, mercenaries prefer this variant to the normal one.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632 scopes\n%c[0,93,0,116] • %c[0,140,140,140] special MP5SD suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_pb">
-		<text>ПБ</text>
+		<text>PB</text>
 	</string>
 	<string id="st_wpn_pkm_nimble">
 		<text>ПКМ (заказной)</text>
@@ -805,58 +814,58 @@
 		<text>\n \n%c[0,170,170,170]Ручная модификация армейского пулемёта с ленточным питанием. Несмотря на высокую массу и неудовлетворительную точность боя, нашёл себе достаточно широкое применение в Зоне. В основном используется для подавления превосходящего по численности противника и при зачистках логов мутантов.\nОсобенность данного образца заключается в особо надёжной конструкции возвратного механизма. Модификции увеличили массу оружия, хотя для предыдущего владельца это не было проблемой. Так же на пулемёте установлен коллиматорный прицел, который позволяет быстро наводить прицеливание на необходимую цель.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] коллиматорный прицел Кобра ЭКП-1С-03 (интегрированный)</text>
 	</string>
 	<string id="st_wpn_aps">
-		<text>АПС</text>
+		<text>APS</text>
 	</string>
 	<string id="st_wpn_aps_descr">
 		<text>\n%c[0,170,170,170]Пистолет, разработанный в конце 1940-х - начале 1950-х годов конструктором И. Я. Стечкиным и принятый на вооружение Вооружённых Сил СССР в 1951 году, одновременно с пистолетом Макарова. АПС предназначен для вооружения офицеров, принимающих непосредственное участие в боевых действиях, а также для солдат и сержантов некоторых специальных подразделений.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель 9мм (после модификации)</text>
 	</string>
 	<string id="st_wpn_pm">
-		<text>ПМ</text>
+		<text>PM</text>
 	</string>
 	<string id="st_wpn_protecta">
 		<text>Armsel Protecta</text>
 	</string>
 	<string id="st_wpn_rg6">
-		<text>РГ-6</text>
+		<text>RG-6</text>
 	</string>
 	<string id="st_wpn_rg6_descr">
-		<text>Гранатомёт револьверного типа используется для повышения огневой мощи пехоты в условиях городского боя. Применялся в некоторых локальных конфликтах, например войне в Чечне. Камеры барабана переднего заряжания, образованы шестью нарезными стволами, идентичными используемым в подствольных гранатомётах. Предназначен для борьбы с противником в укрытиях и ведению огня по площадям, полезен также при нападении на хорошо охраняемые объекты или в бою с особо живучими тварями.</text>
+		<text>The RG-6 (index 6G30) was in development between 1993 and 1994 by the TSKIB SOO. The new stand-alone, rapid firing multishot launcher was required to increase the firepower of the infantry during the urban combat, due to recent small scale conflicts, such as the Chechen Wars. The RG-6 entered limited production by mid-1990s and is now in use by various elements of the Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). The RG-6 is designed to fire all standard 40mm caseless grenades, available for general issue underbarrel launchers, such as GP-25 and GP-30. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and "Gvozd" (Nail) nonlethal tear gas grenade for riot control. The drum is also front-loaded. Widely used for rapid suppression of enemy firing positions and, when in the open, attacking defended fixed targets or fighting particularly tough mutants.</text>
 	</string>
 	<string id="st_wpn_m79">
 		<text>M79</text>
 	</string>
 	<string id="st_wpn_m79_descr">
-		<text>M79 - однозарядный 40-мм гранатомёт, принятый на вооружение в 1961 году армией США. Разработан в период 1951-1961 годов американской корпорацией Спрингфилдский арсенал (англ. Springfield Armory). Неофициальное название - «слоновое ружье».</text>
+		<text>The M79 grenade launcher is a single shot, shoulder-fired, break-action grenade launcher that fires a 40x46mm grenade, which uses what the US Army calls the High-Low Propulsion System to keep recoil low. First appeared during the Vietnam War.</text>
 	</string>
 	<string id="st_wpn_rpd">
-		<text>РПД</text>
+		<text>RPD</text>
 	</string>
 	<string id="st_wpn_rpd_descr">
-		<text>7,62-мм ручной пулемёт Дегтярёва (РПД, Индекс ГРАУ - 56-Р-327) - советский ручной пулемёт, разработанный в 1944 году под патрон 7,62?39 мм. РПД стал одним из первых принятых на вооружение образцов оружия под патрон образца 1943 года. С начала 1950-х и до середины 1960-х он являлся основным оружием поддержки уровня отделения, а затем стал постепенно заменяться на РПК, более предпочтительный с точки зрения унификации. Впрочем, РПД до сих пор находится на складах армейских резервов. Как и многие другие образцы советского вооружения, РПД широко поставлялся на экспорт, в дружественные СССР страны, а также выпускался за рубежом, например, в КНР под обозначением Тип 56. Пулемет по сей день принимает участие во многих конфликтах в странах третьего мира и в больших количествах имеется на армейских складах и черном рынке оружия.</text>
+		<text>The RPD (Degtyaryov hand-held machine gun) is a light machine gun developed in the Soviet Union by Vasily Degtyaryov for the intermediate 7.62x39mm M43 cartridge.</text>
 	</string>
 	<string id="st_wpn_rpg7">
-		<text>РПГ-7</text>
+		<text>RPG-7</text>
 	</string>
 	<string id="st_wpn_sig220">
 		<text>SIG P220</text>
 	</string>
 	<string id="st_wpn_sig220_nimble">
-		<text>SIG P220 «Альпиец»</text>
+		<text>SIG P220 "Alpine"</text>
 	</string>
 	<string id="st_wpn_sig220_nimble_descr">
-		<text>Уникальная модель SIG P220. Была выпущена малой партией по заказу неизвестного спецподразделения. Данная модификация характерна стволом из особо прочной стали и полимерным кожухом ствола.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель .45ACP</text>
+		<text>A unique model of the SIG-Sauer P220 handgun. Part of a small limited edition made for an unidentified special forces unit. The model benefits from an increased magazine capacity, a high durability steel barrel and an ultra-durable polymer receiver.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] .45 ACP Suppressor</text>
 	</string>
 	<string id="st_wpn_scar">
-		<text>FN SCAR-L</text>
+		<text>FN SCAR-H</text>
 	</string>
 	<string id="st_wpn_scar_descr">
-		<text>FN SCAR (англ. Special Operations Forces Combat Assault Rifle - боевая штурмовая винтовка для сил специальных операций) - оружейная система, разработанная американским подразделением бельгийской компании FN Herstal для участия в конкурсе на создание нового автомата для бойцов USSOCOM в 2004 году. В большом количестве неизвестными лицами поставляется для опытных бойцов группировки «Монолит».\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт М203</text>
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher</text>
 	</string>
 	<string id="st_wpn_sig550">
 		<text>SG 550</text>
 	</string>
 	<string id="st_wpn_sig550_descr">
-		<text>Представитель относительно нового семейства штурмовых винтовок. Благодаря высокой надёжности, точности боя и удобству в обращении, является одним из лучших образцов вооружения этого класса. Оснащён складывающимся вбок прикладом скелетного типа и лёгкими алюминиевыми сошками на нижней части пластикового цевья. В Зоне встречается нечасто и стоит немалых денег; обычно его специально заказывают для себя бывалые сталкеры или заполучают в качестве трофея в боях с патрулями «Монолита».\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech\n%c[0,93,0,116] • %c[0,140,140,140] подствольный гранатомёт М203</text>
+		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonized buttstock and a lightweight aluminum bipod that folds into grooves in the lower handguard.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes\n%c[0,93,0,116] • %c[0,140,140,140] M203 grenade launcher</text>
 	</string>
 	<string id="st_wpn_sig550_nimble">
 		<text>SG 550-S (заказной)</text>
@@ -868,55 +877,55 @@
 		<text>SG 552 «Commando»</text>
 	</string>
 	<string id="st_wpn_sig552_descr">
-		<text>Компактный вариант штурмовой винтовки SIG SG 550, со стволом 226 мм, предназначенный для специальных полицейских подразделений. В отличие от SG 550 возвратная пружина позади затворной рамы и действует непосредственно на неё, а не на шток газового поршня. Автомат имеет изменённый пламегаситель и может оснащаться планками Пикатинни для установки дополнительных аксессуаров. Весьма частый выбор опытных наемников.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech</text>
+		<text>The SG 552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family. This SG 552 Commando comes equipped with an EOTech holographic sight, which enhances its CQC capabilities.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes</text>
 	</string>
 	<string id="st_wpn_ace21">
 		<text>Galil ACE-21</text>
 	</string>
 	<string id="st_wpn_ace21_descr">
-		<text>Семейство автоматов (штурмовых, автоматических винтовок) Galil ACE разработано и выпускается израильской оружейной компанией IWI Ltd. В основу семейства автоматов Galil ACE положена конструкция автомата Galil, в свою очередь являющегося развитием автомата Калашникова АК. В линейке автоматов Galil ACE основное внимание уделено эргономике оружия, удобству его использования и комплектации дополнительными аксессуарами, а также гибкостью применения - линейка оружия Galil ACE включает в себя три самых распространённых в мире типа боеприпасов (5.56х45 НАТО, 7.62х39 М43 и 7.62х51 НАТО), в различных вариантах длины ствола. Основными отличиями от предшественников стали перенос рукоятки взведения затвора на левую сторону оружия (теперь можно удобно передёрнуть затвор левой рукой, не отрывая правой от рукоятки управления огнём), в конструкции оружия появилась затворная задержка, автомат получил интегральные направляющие планки Пикатинни для установки оптики и аксессуаров, а также регулируемый телескопический приклад.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель НАТО\n%c[0,93,0,116] • %c[0,140,140,140] прицелы ACOG, Barska ES AC10632, EOTech</text>
+		<text>The Galil ACE family is designed and produced by the Israeli arms company IWI Ltd. The basis of the ACE Galil rifles is the Galil assault rifle, which in its turn is based on Kalashnikov's AK rifle. The Galil ACE focuses on ergonomics, ease of use and integration with additional attachments, as well as flexibility in combat - the Galil ACE family includes the three most common types of ammunition in the world (5.56x45 NATO, 7.62x39 M43 and NATO 7.62x51), with multiple barrel lengths for each type. This particular variant utilizes 5.56x45 NATO rounds and has a compact barrel. In the Zone, this assault rifle is a real rarity.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] NATO suppressor\n%c[0,93,0,116] • %c[0,140,140,140] ACOG, Barska ES AC10632, EOTech scopes</text>
 	</string>
 	<string id="st_wpn_spas12">
 		<text>SPAS-12</text>
 	</string>
 	<string id="st_wpn_sv98">
-		<text>СВ98</text>
+		<text>SV98</text>
 	</string>
 	<string id="st_wpn_sv98_descr">
-		<text>СВ-98 (Индекс ГРАУ - 6В10) - российская магазинная снайперская винтовка, созданная в 1998-2000 гг. коллективом конструкторов под руководством Владимира Стронского и серийно выпускаемая концерном «Ижмаш». СВ-98 предназначена для поражения появляющейся, движущейся, открытой и демаскированной, незащищённой и снабжёнными средствами индивидуальной бронезащиты живой силы противника на дальности до 1000 м. Винтовка состоит на вооружении и используетсяподразделениями МВД.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПКС-07 (интегрированный)</text>
+		<text>The SV-98 (Snaiperskaya Vintovka Model 1998) is a Russian bolt action sniper rifle designed by Vladimir Stronskiy. In 2003 special operations troops were armed with the 7.62 mm 6S11 sniper system comprising the SV-98 sniper rifle (index 6V10) and 7N14 sniper enhanced penetration round. The rifle has been used in combat during operations in Chechnya.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PKS-07 scope (integrated)</text>
 	</string>
 	<string id="st_wpn_svd">
-		<text>СВД</text>
+		<text>SVD</text>
 	</string>
 	<string id="st_wpn_svd_descr">
-		<text>Первоначально предназначавшаяся для пехотных снайперов в каждом советском пехотном отделении СВД не была оружием отдельной специализированной снайперской бригады. Являясь относительно лёгкой для снайперской винтовки, хорошо сбалансированной и имеющей полуавтоматический режим стрельбы, по точности СВД показывает хорошие, но не выдающиеся результаты. Эффективная дальность стрельбы до 800 метров.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель КЗРЗП (после модификации)</text>
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialized sniper teams. Relatively light for a sniper rifle but well balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] KZRZP suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_svd_worn_descr">
-		<text>Первоначально предназначавшаяся для пехотных снайперов в каждом советском пехотном отделении, СВД не была оружием отдельной специализированной снайперской бригады. Являясь относительно лёгкой для снайперской винтовки, хорошо сбалансированной и имеющей полуавтоматический режим стрельбы, по точности СВД показывает хорошие, но не выдающиеся результаты. Эффективная дальность стрельбы до 800 метров.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,204,0,51] • %c[0,204,0,51] невозможно установить глушитель</text>
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialized sniper teams. Relatively light for a sniper rifle but well balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1 scopes</text>
 	</string>
 	<string id="st_wpn_svd_nimble">
-		<text>СВД «Рысь»</text>
+		<text>SVD "Lynx"</text>
 	</string>
 	<string id="st_wpn_svd_nimble_descr">
-		<text>Вариант снайперской винтовки СВД штучной сборки. Внешне не сильно отличается от стандартного образца, но в деле демонстрирует гораздо более внушительное соотношение точности и убойной силы.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел 1П59 «Гиперон» (интегрированный)</text>
+		<text>A hand-assembled version of the SVDm-2 sniper rifle with improved mechanisms for increased flatness. Little difference in appearance, but provides an ideal combination of accuracy and stopping power.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] 1P59 "Hyperon" scope (integrated)</text>
 	</string>
 	<string id="st_wpn_svu">
-		<text>ОЦ-03 СВУ</text>
+		<text>OTs-03 SVU</text>
 	</string>
 	<string id="st_wpn_svu_descr">
-		<text>ОЦ-О3 СВУ является модернизированной версией снайперской винтовки СВД, первоначально созданной для воздушно-десантных войск СССР, но в производство не пошла. Впоследствии, уже в начале 1990-х винтовка была принята на вооружение российского Министерства Внутренних Дел. Разработанная в компактной конфигурации «булл-пап», СВУ оснащена мощным дульным тормозом-компенсатором, снижающим отдачу и громкость выстрела.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель СВУ (интегрированный)</text>
+		<text>The OTs-03 SVU is a modified version of the SVD sniper rifle, created for use by the airborne infantry, but later employed mainly by the Russian Ministry of Internal Affairs. Designed in a compact bullpup configuration, the SVU can be equiped with a recoil absorbing muzzle brake with an affixed sound and flash suppressor.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] SVU suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_svu_nimble">
-		<text>ОЦ-03 СВУ-A</text>
+		<text>OTs-03 SVU-A</text>
 	</string>
 	<string id="st_wpn_svu_nimble_descr">
-		<text>Укороченная снайперская винтовка с увеличенным темпом стрельбы - самый компактный вариант из семейства винтовок СВУ / СВД. Её уникальной особенностью является автоматический режим стрельбы, добавленный по требованию МВД РФ. Хотя в целом данное оружие не предназначено для ближнего боя, автоматический режим огня оказывается полезен в экстренных случаях, когда снайпер оказывается обнаружен противником. Обратной стороной уменьшенных габаритов является сниженная точность и скорость полёта пули. Чтобы компенсировать сильную отдачу при автоматической стрельбе, СВУ-А комплектуется интегрированным глушителем-пламегасителем, который также является эффективным дульным тормозом. Этот экземпляр винтовки ранее принадлежал Максу, легендарному хранителю группировки «Свобода».\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1\n%c[0,93,0,116] • %c[0,140,140,140] глушитель СВУ (интегрированный)</text>
+		<text>This shortened sniper rifle is the most compact member of the SVU / Dragunov BP family of sniper rifles. Its unique feature is an automatic fire mode added to regular SVU at the special request of some customers of Russian Federation Interior Ministry. Although the weapon is generally not suited for close-combat situations, the automatic fire has proven itself to be a reliable emergency solution for exposed marksmen. Drawbacks of decreased size, i.e. lowered accuracy and lower muzzle velocity, result in decreased kinetic energy of each fired projectile. To compensate for increased recoil in auto-fire mode, SVU-A features a permanent suppressor which also serves as a very effective muzzle brake. This particular model of SVU-A used to belong to Max, the legendary guardian of Freedom.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] SVU suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_l96a1">
 		<text>L96A1</text>
 	</string>
 	<string id="st_wpn_l96a1_descr">
-		<text>Accuracy International L96A1 Tross / Arctic Warfare - снайперская винтовка британского производства, разработанная в компании Accuracy International. В середине 1980-х годов винтовка была принята на вооружение Британской армии под обозначением L96. Винтовка комплектуется оптическим прицелом Leupold Mark 4 с фиксированной кратностью х10. Технически представляет собой 5 зарядную (в .308 калибре) винтовку с продольно-скользящим поворотным затвором. Подача патронов при стрельбе производится из отъёмных коробчатых магазинов ёмкостью 5, либо 10 патронов. В целом представляет собой высокоточную тактическую винтовку экстра-класса, отлично зарекомендовавшую себя надёжной работой в самых тяжёлых условиях в различных армиях мира. В зависимости от патрона и ствола даёт разброс пуль от 0.4 до 0.7 МОА. То есть, при использовании некоторых патронов, базовая модель AW укладывает пять выстрелов со ста метров в круг от 11,6 до 20,3 мм.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел Leupold Mark 4 (интегрированный)</text>
+		<text>The Accuracy International Arctic Warfare rifle is a family of bolt-action sniper rifles designed and manufactured by the British company, Accuracy International. It has proved popular as a civilian, police and military rifle since its introduction in the 1980s. The rifles have some features which improve performance in very cold conditions, without impairing operation in less extreme conditions.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] Leupold Mark 4 scope (integrated)</text>
 	</string>
 	<string id="st_wpn_toz34">
 		<text>TОЗ-34</text>
@@ -925,55 +934,55 @@
 		<text>Заказной TОЗ-34</text>
 	</string>
 	<string id="st_wpn_toz34_obrez">
-		<text>Обрез TОЗ-34</text>
+		<text>TОЗ-34 (sawn-off)</text>
 	</string>
 	<string id="st_wpn_toz34_obrez_descr">
-		<text>Обрез ТОЗ-34 с отпиленными стволами и прикладом для улучшения манёвренности. ТОЗ-34 был разработан талантливыми конструкторами Тульского оружейного завода Н.И. Коровяковым и В.П. Очневым в 1965 году. Доступная цена, большая убойная сила и возможность выстрела из обоих стволов одновременно быстро сделали обрез этого ружья популярным среди начинающих бандитов и, частично, сталкеров.</text>
+		<text>Intended for professional and amateur hunting the TOZ-34 is a over/under shotgun. Modifications made to this gun by removing much of the barrel and the stock makes this shotgun more compact and easier to carry. Popular among rookies and bandits as they can hide it easily in their trench coats.</text>
 	</string>
 	<string id="st_wpn_toz34_descr">
-		<text>ТОЗ-34 имеет непревзойденную точность выстрела по сравнению с конкурентами. Именно она сделала 34-ку культовой. Причем точность эта доступна не только охотникам с большим опытом, но и новичкам. За это тридцатьчетвертому прощали и не самое лучшее качество сборки, явные изъяны конструкции и другие минусы. Ведь самое главное в охоте - это добыча. А она либо есть, либо ее нет. И с этим у ТОЗ-34 было все в полном порядке. Кроме того, 34-ка совершила настоящую революцию в оружейной промышленности СССР. Это была первая модель с вертикальным расположением стволов, да еще и имеющая такой малый вес. Масса тридцатьчетвертого была от 3,15 до 3,3 килограмма, в зависимости от плотности древесины приклада и цевья. Низкая посадка стволов в ствольной коробке, бескурковая конструкция, оригинальное крепление стволов добавило интереса к модели со стороны охотников. Модель быстро вошла в моду и стала мечтой любителей любительской и промысловой стрельбы.</text>
+		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.</text>
 	</string>
 	<string id="st_wpn_toz34_nimble_descr">
-		<text>ТОЗ-34 имеет непревзойденную точность выстрела по сравнению с конкурентами. Именно она сделала 34-ку культовой. Причем точность эта доступна не только охотникам с большим опытом, но и новичкам. За это тридцатьчетвертому прощали и не самое лучшее качество сборки, явные изъяны конструкции и другие минусы. Ведь самое главное в охоте - это добыча. А она либо есть, либо ее нет. И с этим у ТОЗ-34 было все в полном порядке. Кроме того, 34-ка совершила настоящую революцию в оружейной промышленности СССР. Это была первая модель с вертикальным расположением стволов, да еще и имеющая такой малый вес. Масса тридцатьчетвертого была от 3,15 до 3,3 килограмма, в зависимости от плотности древесины приклада и цевья. Низкая посадка стволов в ствольной коробке, бескурковая конструкция, оригинальное крепление стволов добавило интереса к модели со стороны охотников. Модель быстро вошла в моду и стала мечтой любителей любительской и промысловой стрельбы. На данную модель установлен оптический прицел Leupold Mark переменной кратности.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел Leupold Mark 4 (интегрированный)</text>
+		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] Leupold Mark 4 scope (integrated)</</text>
 	</string>
 	<string id="st_wpn_umirotvoritel">
-		<text>Неопознанное оружие</text>
+		<text>Unidentified weapon</text>
 	</string>
 	<string id="st_wpn_umirotvoritel_descr">
-		<text>Неизвестный образец оружия. Явно неисправный - нажатие на спусковой крючок не приводит к какому-либо результату. Образец тяжёлый и определённо высокотехнологичный. Судя по всему оружие не огнестрельное. Наиболее вероятно, что работает с электромагнитными полями. Можно только предполагать, какой разрушительный потенциал оно в себе таит.</text>
+		<text>An unknown weapon, the firing mechanism of which has not been established. The weapon appears faulty - squeezing the trigger doesn't do anything. It's very heavy and definitely high-tech. Of note is that it appears not to fire bullets based on ignition. Most probably, the rounds are propelled by electro-magnetic forces. One can only suspect what kind of destructive potential it possesses.</text>
 	</string>
 	<string id="st_wpn_usp">
 		<text>USP</text>
 	</string>
 	<string id="st_wpn_usp_nimble">
-		<text>USP «Марш»</text>
+		<text>USP "March"</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Heckler end Koch USP - самозарядный пистолет, разработанный немецкой компанией Heckler end Koch. Впервые представлен в 1993 году. Предназначен для вооружения полиции и армии. Отличается высокой живучестью и надёжностью, хорошей точностью стрельбы. Из недостатков можно отметить значительные размеры оружия, даже в компактном варианте, довольно высоко расположенный центр тяжести и массивный затвор, несколько затрудняющий скрытое ношение.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель .45ACP (после модификации)</text>
+		<text>Heckler end Koch USP, originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fiber-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] .45 ACP suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_usp_nimble_descr">
-		<text>USP Match - чисто спортивный вариант пистолета. Помимо длинного ствола имел специальный груз около дульной части пистолета, для уменьшения подброса ствола. Ствол имеет полигональную нарезку, а ударно-спусковой механизм оснащается регулировкой на усилие спуска. С 1999 года снят с производства и заменён на USP Elite.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] глушитель GemTech (после модификации)</text>
+		<text>A compact, large caliber pistol with short bolt movement and lightweight bolt assembly. Used to belong to a mercenary called Wolfhound. Appears to be a modified USP Compact pistol.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] GemTech suppressor (after modification)</text>
 	</string>
 	<string id="st_wpn_val">
-		<text>АС «Вал»</text>
+		<text>AS "Val"</text>
 	</string>
 	<string id="st_wpn_vihr">
-		<text>СР-3М «Вихрь»</text>
+		<text>SR-3M "Vikhr"</text>
 	</string>
 	<string id="st_wpn_9a91">
 		<text>9А-91</text>
 	</string>
 	<string id="st_wpn_vintorez">
-		<text>ВСС «Винторез»</text>
+		<text>VSS "Vintorez"</text>
 	</string>
 	<string id="st_wpn_vintorez_descr">
-		<text>Разработанная в то же время, что и автомат специальный «Вал», винтовка снайперская специальная «Винторез» предназначена для малошумной снайперской стрельбы. Используется главным образом спецназом при проведении бесшумных и тайных операций. Является идеальной снайперской винтовкой в Условиях Зоны - компактная, тихая, мощная и легкая. Для стрельбы применяются специальные дозвуковые боеприпасы 9x39 СП-5 и СП-6.\n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицелы Кобра ЭКП-1С-03, 1П29 «Тюльпан», ПСО-1М2-1\n%c[0,93,0,116] • %c[0,140,140,140] Глушитель ВСС (интегрированный)</text>
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 meters. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 meters.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] EKP-1S-03 Kobra, 1P29, PSO-1M2-1 scopes\n%c[0,93,0,116] • %c[0,140,140,140] VSS suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble">
-		<text>ВСС «Прибой»</text>
+		<text>VSS "Tide"</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble_descr">
-		<text>Специальный вариант знаменитой снайперской винтовки ВСС. Эта модель была глубоко модернизирована. Внутренний механизм заменён на улучшенный, что привело к увеличению дульной скорости пули и точности стрельбы. Благодаря этому повышена эффективная дальность и улчшена настильность тяжёлых дозвуковых патронов. \n \n%c[0,140,140,140]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n%c[0,93,0,116] • %c[0,140,140,140] прицел ПСО-1 (интегрированный)\n%c[0,93,0,116] • %c[0,140,140,140] Глушитель ВСС (интегрированный)</text>
+		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customized. Its internal mechanism has been replaced with a better one, which results in increased muzzle velocity and accuracy. It has an effective range of up to 600 meters.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] PSO-1 scope (integrated)\n%c[0,93,0,116] • %c[0,140,140,140] VSS suppressor (integrated)</text>
 	</string>
 	<string id="st_wpn_walther">
 		<text>Walther P99</text>
