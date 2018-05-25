@@ -117,16 +117,16 @@
 	<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
 
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
-		<text>Р”РѕР±С‹С‚СЊ РґРµРЅСЊРіРё РґР»СЏ РІСЃС‚СѓРїР»РµРЅРёСЏ РІ В«РЎРІРѕР±РѕРґСѓВ»</text>
+		<text>Добыть деньги для вступления в «Свободу»</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
-		<text>Р›СѓРєР°С€ С…РѕС‡РµС‚ 15000 Р·Р° РїСЂР°РІРѕ РІСЃС‚СѓРїРёС‚СЊ РІ В«РЎРІРѕР±РѕРґСѓВ».</text>
+		<text>Лукаш хочет 15000 за право вступить в «Свободу».</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>Рђ, С…РѕСЂРѕС€Рѕ. РўС‹ РЅРµ РїРѕР¶Р°Р»РµРµС€СЊ, С‡С‚Рѕ РїСЂРёС€С‘Р» РІ В«РЎРІРѕР±РѕРґСѓВ». РџСЂРѕСЃС‚Рѕ Р·Р°РїР»Р°С‚Рё 15000 - Рё С‚С‹ СЃ РЅР°РјРё.</text>
+		<text>А, хорошо. Ты не пожалеешь, что пришёл в «Свободу». Просто заплати 15000 - и ты с нами.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РІ В«РЎРІРѕР±РѕРґСѓВ».</text>
+		<text>Добро пожаловать в «Свободу».</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
