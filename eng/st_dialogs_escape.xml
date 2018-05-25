@@ -3,74 +3,74 @@
 	<!-- esc_2_12_stalker_trader -->
 	<string id="esc_2_12_stalker_trader_start_dialog_0">
 		<text>Hey, stalker! What do you need?</text>
-	</string>
+	</string> 
 	
 	<string id="esc_2_12_stalker_trader_start_dialog_1">
-		<text>A fresh faceвЂ¦ or have I seen you around before, stalker? I'm the guy around here to see if you need to buy or sell equipment. If you are seeking a source of income, I'm always in need of someone willing to do dirty work. I look over this camp, and all stalkers are welcome here to rest, as long as they stay out of trouble. I'll also warn you not to mess with the military; I pay good money to keep them away from this place. Stalkers should be relatively safe as long as they don't leave camp.</text>
+		<text>A fresh face… or have I seen you around before, stalker? I'm the guy around here to see if you need to buy or sell equipment. If you are seeking a source of income, I'm always in need of someone willing to do dirty work. I look over this camp, and all stalkers are welcome here to rest, as long as they stay out of trouble. I'll also warn you not to mess with the military; I pay good money to keep them away from this place. Stalkers should be relatively safe as long as they don't leave camp.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11">
-		<text>РќРѕРІС‹Рµ, РЅРѕРІС‹Рµ. РЇ С‚СѓС‚ РЅРµ РѕСЃРѕР±Рѕ РґР°РІРЅРѕ. Р РµС€РёР» РІРѕС‚, РЅР°РєРѕРЅРµС†, Р·Р°РіР»СЏРЅСѓС‚СЊ, РїРѕР·РґРѕСЂРѕРІР°С‚СЊСЃСЏ.</text>
+		<text>Новые, новые. Я тут не особо давно. Решил вот, наконец, заглянуть, поздороваться.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111">
-		<text>РџРѕРЅСЏС‚РЅРѕ, РѕР±РѕР·РЅР°Р»СЃСЏ Р·РЅР°С‡РёС‚. РќСѓ, РµСЃР»Рё РµСЃС‚СЊ РєР°РєРёРµ РІРѕРїСЂРѕСЃС‹, С‚Рѕ РІРїРµСЂС‘Рґ, РЅР° С‡С‚Рѕ СЃРјРѕРіСѓ - РѕС‚РІРµС‡Сѓ.</text>
+		<text>Понятно, обознался значит. Ну, если есть какие вопросы, то вперёд, на что смогу - отвечу.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_110">
-		<text>Р•С‰С‘ С‡РµРіРѕ СЂР°СЃСЃРєР°Р·Р°С‚СЊ? РЎРїСЂР°С€РёРІР°Р№, РїРѕРєР° СЏ РІ РЅР°СЃС‚СЂРѕРµРЅРёРё.</text>
+		<text>Ещё чего рассказать? Спрашивай, пока я в настроении.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1119">
-		<text>Р”Р° РІСЂРѕРґРµ РІСЃС‘ СЏСЃРЅРѕ.</text>
+		<text>Да вроде всё ясно.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1111">
-		<text>Р”РµРЅРµРі Сѓ РјРµРЅСЏ РІСЃРµРіРѕ РЅРёС‡РµРіРѕ, РЅРѕ РЅР°С‡РёРЅР°С‚СЊ РєР°Рє-С‚Рѕ РЅР°РґРѕ. РќРµ РїРѕРґСЃРєР°Р¶РµС€СЊ, С‡С‚Рѕ РІ РїРµСЂРІСѓСЋ РѕС‡РµСЂРµРґСЊ СЃРµР±Рµ Р»СѓС‡С€Рµ РІР·СЏС‚СЊ?</text>
+		<text>Денег у меня всего ничего, но начинать как-то надо. Не подскажешь, что в первую очередь себе лучше взять?</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11111">
-		<text>Р§РµРіРѕ Р±С‹ С‚РµР±Рµ РїРѕСЃРѕРІРµС‚РѕРІР°С‚СЊвЂ¦ Р СЋРєР·Р°Рє Сѓ С‚РµР±СЏ РµСЃС‚СЊ? Р•СЃР»Рё РЅРµС‚ - РІРѕС‚, СЃРјРѕС‚СЂРё, РїРѕ-РґРµС€С‘РІРєРµ РѕС‚РґР°Рј. РЈРґРѕР±РЅС‹Р№, РєСЂРµРїРєРёР№, РІРјРµСЃС‚РёС‚РµР»СЊРЅС‹Р№. РР»Рё С‚С‹ РІ СЂСѓРєР°С… С…Р°Р±Р°СЂ С‚Р°СЃРєР°С‚СЊ СЃРѕР±СЂР°Р»СЃСЏ? РЎРёСЃС‚РµРјР° Р±С‹СЃС‚СЂРѕРіРѕ СЃР±СЂРѕСЃР° Рє РЅРµРјСѓ - С…РѕСЂРѕС€РµРµ РґРѕРїРѕР»РЅРµРЅРёРµ. Р—Р°С‡РµРј РЅСѓР¶РЅР°, СЃРїСЂР°С€РёРІР°РµС€СЊ? РЎР°Рј РґРѕРіР°РґР°РµС€СЊСЃСЏ, РєРѕРіРґР° СЃ РїРѕР»РЅС‹Рј Р±Р°СЂР°С…Р»Р° СЂСЋРєР·Р°РєРѕРј РѕС‚ СЃРѕР±Р°Рє РїРѕР±РµРіР°С‚СЊ РїСЂРёРґС‘С‚СЃСЏ.\nР•СЃР»Рё СѓРІРµСЂРµРЅ, С‡С‚Рѕ СЃРјРѕР¶РµС€СЊ РїРµСЂРµР¶РёС‚СЊ СЃРµРіРѕРґРЅСЏС€РЅРёР№ РґРµРЅСЊ - РїРѕР·Р°Р±РѕС‚СЊСЃСЏ Рѕ РЅРѕС‡Р»РµРіРµ, РїРѕС‚РѕРјСѓ РєР°Рє СЃРµРіРѕРґРЅСЏС€РЅСЋСЋ РЅРѕС‡СЊ РµС‰С‘ РЅРёРєС‚Рѕ РЅРµ РѕС‚РјРµРЅСЏР». РџРѕ-С…РѕСЂРѕС€РµРјСѓ СЏ Р±С‹ СЃРїР°Р»СЊРЅРёРє С‚РµР±Рµ РїСЂРµРґР»РѕР¶РёР», РЅРѕ РЅР° С‚РѕР№ РЅРµРґРµР»Рµ РїРѕСЃР»РµРґРЅРёР№ РїСЂРѕРґР°Р» - РїСЂРёРґС‘С‚СЃСЏ РїРѕРєР° РѕР±РѕР№С‚РёСЃСЊ РѕРґРЅРёРј РїРѕРєСЂС‹РІР°Р»РѕРј. Р’ С‡РёСЃС‚РѕРј РїРѕР»Рµ РѕРЅРѕ С‚РµР±Рµ РјР°Р»Рѕ РїРѕРјРѕР¶РµС‚, Р±РѕР»СЊРЅРѕ СѓР¶ РЅРѕС‡Рё С…РѕР»РѕРґРЅС‹Рµ, Р° РІРѕС‚ РІ Р»Р°РіРµСЂРµ РІРѕР·Р»Рµ РєРѕСЃС‚РµСЂРєР° РїРѕРєРµРјР°СЂРёС‚СЊ - СЃР°РјРѕРµ РґРµР»Рѕ. Р РґР°Р¶Рµ РЅРµ РІР·РґСѓРјР°Р№ РЅР° С‡СѓР¶РѕРј РјРµСЃС‚Рµ РЅРѕС‡РµРІР°С‚СЊ, СЂРµС€РёР» РІР·РґСЂРµРјРЅСѓС‚СЊ - СЃР°Рј СѓСЃС‚СЂР°РёРІР°Р№ СЃРІРѕС‘ РјРµСЃС‚Рѕ, С‚Р°РєРёРµ Р·РґРµСЃСЊ РїСЂР°РІРёР»Р°.\nРџСЂРѕ РїСЂРѕС‚РёРІРѕРіР°Р· Рё СЃС‡С‘С‚С‡РёРє РіРµР№РіРµСЂР° РґР°Р¶Рµ СЂР°СЃСЃРєР°Р·С‹РІР°С‚СЊ РЅРµ Р±СѓРґСѓ, С‚СѓС‚ Рё С‚Р°Рє РІСЃС‘ РїРѕРЅСЏС‚РЅРѕ. Р‘РµР· РЅРёС… Р»РёР±Рѕ РјР°С‚С‘СЂС‹Р№ СЃС‚Р°Р»РєРµСЂ С…РѕРґРёС‚, РєРѕС‚РѕСЂС‹Р№ С‚СѓС‚ РєР°Р¶РґСѓСЋ С‚СЂРѕРїРєСѓ Р·РЅР°РµС‚, Р»РёР±Рѕ РЅР° РіРѕР»РѕРІСѓ Р±РѕР»СЊРЅРѕР№.\nР•СЃР»Рё РѕС…РѕС‚РёС‚СЊСЃСЏ РІР·РґСѓРјР°РµС€СЊ, С‚Рѕ РІРѕС‚ РЅРѕР¶ Р»РµР¶РёС‚ С…РѕСЂРѕС€РёР№, РєР°Р±Р°РЅРѕРІ СЃР°РјРѕРµ РѕРЅРѕ СЃРІРµР¶РµРІР°С‚СЊ. Р РїРµС‡РєРё РґРІСѓС… РІРёРґРѕРІ, РїРѕРґ СЂР°Р·РЅРѕРµ С‚РѕРїР»РёРІРѕ, С‡С‚РѕР±С‹ РјСЏСЃРѕ РІ Р»СЋР±С‹С… СѓСЃР»РѕРІРёСЏС… РіРѕС‚РѕРІРёС‚СЊ. РР»Рё, РєР°Рє РІР°СЂРёР°РЅС‚, РѕРґРЅРѕСЂР°Р·РѕРІС‹Рµ РЅР°Р±РѕСЂС‹ РґР»СЏ СЂРѕР·Р¶РёРіР° РєРѕСЃС‚СЂРѕРІ Рё РїСЂРёРіРѕС‚РѕРІР»РµРЅРёСЏ РїРёС‰Рё - Сѓ Р»СЋР±РѕРіРѕ РїСЂРёРІР°Р»Р° СЃРјРѕР¶РµС€СЊ СЃРµР±Рµ С‚СѓС€РєР°РЅР° Р·Р°РєРѕРїС‚РёС‚СЊ.</text>
+		<text>Чего бы тебе посоветовать… Рюкзак у тебя есть? Если нет - вот, смотри, по-дешёвке отдам. Удобный, крепкий, вместительный. Или ты в руках хабар таскать собрался? Система быстрого сброса к нему - хорошее дополнение. Зачем нужна, спрашиваешь? Сам догадаешься, когда с полным барахла рюкзаком от собак побегать придётся.\nЕсли уверен, что сможешь пережить сегодняшний день - позаботься о ночлеге, потому как сегодняшнюю ночь ещё никто не отменял. По-хорошему я бы спальник тебе предложил, но на той неделе последний продал - придётся пока обойтись одним покрывалом. В чистом поле оно тебе мало поможет, больно уж ночи холодные, а вот в лагере возле костерка покемарить - самое дело. И даже не вздумай на чужом месте ночевать, решил вздремнуть - сам устраивай своё место, такие здесь правила.\nПро противогаз и счётчик гейгера даже рассказывать не буду, тут и так всё понятно. Без них либо матёрый сталкер ходит, который тут каждую тропку знает, либо на голову больной.\nЕсли охотиться вздумаешь, то вот нож лежит хороший, кабанов самое оно свежевать. И печки двух видов, под разное топливо, чтобы мясо в любых условиях готовить. Или, как вариант, одноразовые наборы для розжига костров и приготовления пищи - у любого привала сможешь себе тушкана закоптить.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111111">
-		<text>РћС…, Р°Р¶ РіРѕР»РѕРІР° РєСЂСѓРіРѕРј, РґР° Рё Р»РµРіС‡Рµ РІС‹Р±РёСЂР°С‚СЊ РЅРµ СЃС‚Р°Р»Рѕ.</text>
+		<text>Ох, аж голова кругом, да и легче выбирать не стало.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1112">
-		<text>РЎС‚РѕР»СЊРєРѕ С‚СѓС‚ РІСЃРµРіРѕвЂ¦ РђР¶ РіР»Р°Р·Р° СЂР°Р·Р±РµРіР°СЋС‚СЃСЏ. Р’РµСЂС‘РІРєРё РІСЃСЏРєРёРµ, С‚СЂСЏРїРєРё РєР°РєРёРµ-С‚Рѕ, С‚РµРєСЃС‚РѕР»РёС‚ СЃ РєР°РЅРёС„РѕР»СЊСЋ РІРѕРЅ РІРёР¶Сѓ. РљСѓРґР° РѕРЅРѕ С‚РµР±Рµ, РЅРµСѓР¶РµР»Рё РїРѕРєСѓРїР°СЋС‚?</text>
+		<text>Столько тут всего… Аж глаза разбегаются. Верёвки всякие, тряпки какие-то, текстолит с канифолью вон вижу. Куда оно тебе, неужели покупают?</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11121">
-		<text>РџРѕРєСѓРїР°СЋС‚, РґР° РµС‰С‘ РєР°Рє! Р”Р»СЏ РЅРѕРІРёС‡РєР° СЌС‚Рѕ РІСЃС‘, РєРѕРЅРµС‡РЅРѕ, РјСѓСЃРѕСЂ СЃРїР»РѕС€РЅРѕР№, РґР° Рё РЅРµ РІСЃСЏРєРёР№ Р·Р°РјРѕСЂР°С‡РёРІР°С‚СЊСЃСЏ Р·Р°С…РѕС‡РµС‚. РќРѕ СЃРјРµРєР°Р»РёСЃС‚С‹Р№ СЃС‚Р°Р»РєРµСЂ РІСЃСЏРєРѕРјСѓ РіРІРѕР·РґСЋ РїСЂРёРјРµРЅРµРЅРёРµ РЅР°Р№РґС‘С‚, РµСЃР»Рё РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ РЅСѓР¶РЅС‹Рµ РїРѕРґ СЂСѓРєРѕР№ Р±СѓРґСѓС‚. Рђ РЅР° РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ СЌС‚Рё, РєСЃС‚Р°С‚Рё, СЃРµР№С‡Р°СЃ СЃРїСЂРѕСЃ РѕС‡РµРЅСЊ Р±РѕР»СЊС€РѕР№ - РѕРЅРё Рё РІ С…РѕР·СЏР№СЃС‚РІРµ С…РѕСЂРѕС€Рё, Рё Сѓ С‚РµС…РЅРёРєРѕРІ СЃРїСЂРѕСЃ РЅР° РЅРёС… РІСЃРµРіРґР° РµСЃС‚СЊ. РўР°Рє С‡С‚Рѕ РїСЂРѕРґР°РІР°С‚СЊ РёС… РїРµСЂРІРѕРјСѓ РІСЃС‚СЂРµС‡РЅРѕРјСѓ РѕСЃРѕР±Рѕ РЅРµ СЃРїРµС€Рё, РµСЃР»Рё С‚Р°РєРѕР№ РЅР°Р№РґС‘С€СЊ. Р СЋРєР·Р°Рє РґР»СЏ РѕС…РѕС‚С‹ СЃРјР°СЃС‚РµСЂРёС‚СЊ, РїРµС‡РєСѓ РїРѕС…РѕРґСѓСЋ СЃРІР°СЂРіР°РЅРёС‚СЊ, РґРµС‚РµРєС‚РѕСЂ СЃРїР°СЏС‚СЊ - СЃ РЅСѓР¶РЅС‹Рј РЅР°Р±РѕСЂРѕРј РїРѕРґ СЂСѓРєРѕР№ РІРµСЃСЊ С‚РІРѕР№ С…Р»Р°Рј СЃСЂР°Р·Сѓ РІ РґРµР»Рѕ РїРѕР№РґС‘С‚. РќСѓ Р° РµСЃР»Рё РІСЃС‘ Р¶Рµ СЂРµС€РёР», С‡С‚Рѕ РЅРµ РґР»СЏ С‚РµР±СЏ РїРѕРґРѕР±РЅС‹Рј Р·Р°РЅРёРјР°С‚СЊСЃСЏ - С‚Р°С‰Рё РІСЃС‘ РїРѕРґРѕР±РЅРѕРµ Р±Р°СЂР°С…Р»Рѕ СЃСЋРґР°. РЇ-С‚Рѕ СЃ СЂР°РґРѕСЃС‚СЊСЋ РєСѓРїР»СЋ, РіР»Р°РІРЅРѕРµ - РЅР° С†РµРЅС‹ РЅРµ Р¶Р°Р»СѓР№СЃСЏ.</text>
+		<text>Покупают, да ещё как! Для новичка это всё, конечно, мусор сплошной, да и не всякий заморачиваться захочет. Но смекалистый сталкер всякому гвоздю применение найдёт, если инструменты нужные под рукой будут. А на инструменты эти, кстати, сейчас спрос очень большой - они и в хозяйстве хороши, и у техников спрос на них всегда есть. Так что продавать их первому встречному особо не спеши, если такой найдёшь. Рюкзак для охоты смастерить, печку походую сварганить, детектор спаять - с нужным набором под рукой весь твой хлам сразу в дело пойдёт. Ну а если всё же решил, что не для тебя подобным заниматься - тащи всё подобное барахло сюда. Я-то с радостью куплю, главное - на цены не жалуйся.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111211">
-		<text>Р’РѕРЅ РѕРЅРѕ РєР°Рє, РєС‚Рѕ Р±С‹ Р·РЅР°Р»!</text>
+		<text>Вон оно как, кто бы знал!</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1113">
-		<text>Рђ РµСЃС‚СЊ С‡РµРіРѕ Р¶СЂР°С‚СЊ РїРѕРІРєСѓСЃРЅРµРµ? Рђ С‚Рѕ Р·Р°РґРѕР»Р±Р°Р»СЃСЏ СЏ, РЅР° РѕРґРЅРёС… СЃСѓС…Р°СЂСЏС… СЃ РІРѕРґРєРѕР№ СЃРёРґРµС‚СЊ.</text>
+		<text>А есть чего жрать повкуснее? А то задолбался я, на одних сухарях с водкой сидеть.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11131">
-		<text>РС€СЊ С‚С‹, РёРЅС‚РµР»Р»РёРіРµРЅС†РёСЏ РєР°РєР°СЏ! РќРµС‚ Р±С‹ СЂР°РґРѕРІР°С‚СЊСЃСЏ, С‡С‚Рѕ РІРѕРѕР±С‰Рµ РµСЃС‚СЊ С‡С‚Рѕ РїРѕР¶СЂР°С‚СЊ, С‚Р°Рє РѕРЅ РµС‰С‘ Рё Р¶Р°Р»СѓРµС‚СЃСЏ. Р›Р°РґРЅРѕ, РЅРµ С…РјСѓСЂСЊСЃСЏ С‚С‹ С‚Р°Рє, СЃР»РёС€РєРѕРј СѓР¶ С‡Р°СЃС‚Рѕ СЃР°Р»Р°РіРё СЃ С‚Р°РєРёРјРё РІРѕРїСЂРѕСЃР°РјРё РїСЂРёС…РѕРґСЏС‚.\nР’ РѕР±С‰РµРј, С‚СѓС‚ РІСЃС‘ РїСЂРѕСЃС‚Рѕ. РҐРѕСЂРѕС€СѓСЋ, С‡РµР»РѕРІРµС‡РµСЃРєСѓСЋ РµРґСѓ РїСЂРёРІРѕР·СЏС‚ СЃСЋРґР° Р»РёС€СЊ РЅРµР±РѕР»СЊС€РёРјРё РїР°СЂС‚РёСЏРјРё. Р’ РѕСЃРЅРѕРІРЅРѕРј СЌС‚Рѕ РєРѕРЅСЃРµСЂРІС‹ РІСЃРµС… РІРёРґРѕРІ, С…Р»РµР±, РІРѕРґРєР°, РµС‰Рµ С‡РµРіРѕ РїРѕ РјРµР»РѕС‡Рё. РљР°Рє РїРѕРІРµР·РµС‚, РІ РѕР±С‰РµРј. РџСЂРѕ С†РµРЅС‹ Р»СѓС‡С€Рµ РґР°Р¶Рµ РЅРµ РЅР°С‡РёРЅР°Р№, СЏ РїРѕ СЃС‚Рѕ СЂР°Р· РЅР° РґРЅСЋ С‚Р°РєРѕРµ РІС‹СЃР»СѓС€РёРІР°СЋ. РҐРѕС‡РµС€СЊ РЅРѕСЂРјР°Р»СЊРЅРѕ РµСЃС‚СЊ - РїР»Р°С‚Рё. Р”РµС„РёС†РёС‚ РµСЃС‚СЊ РґРµС„РёС†РёС‚. РџСЂР°РІРґР°, Р—РѕРЅР° - СЃР°РјРѕ РїРѕ СЃРµР±Рµ РјРµСЃС‚Рѕ РѕРїР°СЃРЅРѕРµ, РїРѕС‚РѕРјСѓ Рё Р·РґРѕСЂРѕРІСЊРµРј С‚СѓС‚ СЂРёСЃРєРѕРІР°С‚СЊ - РґРµР»Рѕ РѕР±С‹С‡РЅРѕРµ. РўР°Рє С‡С‚Рѕ РјРµСЃС‚РЅС‹Рµ СЂРµР±СЏС‚Р° РґР°РІРЅРѕ РїСЂРёСѓС‡РёР»РёСЃСЊ СЃР°РјРё СЃРµР±Рµ РµРґСѓ РґРѕР±С‹РІР°С‚СЊ РёР· РІСЃРµРіРѕ, С‡С‚Рѕ РїРѕРґ СЂСѓРєСѓ РїРѕРґРІРµСЂРЅС‘С‚СЃСЏ. Рђ РїРѕРґРІРѕСЂР°С‡РёРІР°РµС‚СЃСЏ РѕР±С‹С‡РЅРѕ С‡С‚Рѕ-С‚Рѕ Р·Р»РѕРµ Рё СЂР°РґРёРѕР°РєС‚РёРІРЅРѕРµвЂ¦ РќРѕ РЅР° СѓРґРёРІР»РµРЅРёРµ РїРёС‚Р°С‚РµР»СЊРЅРѕРµ, РІРµРґСЊ РјСЏСЃРѕ - РѕРЅРѕ Рё Сѓ РјСѓС‚Р°РЅС‚РѕРІ РјСЏСЃРѕ. РљР°Р±Р°РЅС‹, РїР»РѕС‚Рё, С…РёРјРµСЂС‹ - СЌС‚Рѕ СЃР°РјС‹Р№ СЃРјР°Рє. Р С„РѕРЅРёС‚ РЅРµ С‚Р°Рє СЃРёР»СЊРЅРѕ, Рё РЅР° РІРєСѓСЃ РѕС‚ С‚РѕР№ Р¶Рµ РїСЂРѕСЃС‚РѕР№ СЃРІРёРЅРёРЅС‹ РЅРµ РѕС‚Р»РёС‡РёС€СЊ. РќРµРєРѕС‚РѕСЂС‹Рµ СЌС‚Рѕ РјСЏСЃРѕ РїРѕС‚РѕРј СЃРјРµС€РёРІР°СЋС‚ СЃ С…Р»РµР±РѕРј, Р·Р°РІРѕСЂР°С‡РёРІР°СЋС‚ РІ Р±СѓРјР°РіСѓ Рё РѕСЃС‚Р°РІР»СЏСЋС‚ РЅР° РЅРµСЃРєРѕР»СЊРєРѕ РґРЅРµР№, С‡С‚РѕР±С‹ СЂР°РґРёР°С†РёСЏ РІС‹РІРѕРґРёР»Р°СЃСЊ. Р Р°РґРёР°С†РёСЏ С‚Рѕ РјРѕР¶РµС‚ Рё РІС‹РІРѕРґРёС‚СЃСЏ, РЅРѕ РІРѕС‚ Р·Р°РїР°С€РѕРє РѕС‚ РїРѕР»СѓС‡РёРІС€РµРіРѕСЃСЏ В«РїСЂРѕРґСѓРєС‚Р°В» СѓР¶Рµ РЅРµ РІС‹РІРµС‚СЂРёС€СЊ.</text>
+		<text>Ишь ты, интеллигенция какая! Нет бы радоваться, что вообще есть что пожрать, так он ещё и жалуется. Ладно, не хмурься ты так, слишком уж часто салаги с такими вопросами приходят.\nВ общем, тут всё просто. Хорошую, человеческую еду привозят сюда лишь небольшими партиями. В основном это консервы всех видов, хлеб, водка, еще чего по мелочи. Как повезет, в общем. Про цены лучше даже не начинай, я по сто раз на дню такое выслушиваю. Хочешь нормально есть - плати. Дефицит есть дефицит. Правда, Зона - само по себе место опасное, потому и здоровьем тут рисковать - дело обычное. Так что местные ребята давно приучились сами себе еду добывать из всего, что под руку подвернётся. А подворачивается обычно что-то злое и радиоактивное… Но на удивление питательное, ведь мясо - оно и у мутантов мясо. Кабаны, плоти, химеры - это самый смак. И фонит не так сильно, и на вкус от той же простой свинины не отличишь. Некоторые это мясо потом смешивают с хлебом, заворачивают в бумагу и оставляют на несколько дней, чтобы радиация выводилась. Радиация то может и выводится, но вот запашок от получившегося «продукта» уже не выветришь.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111311">
-		<text>РќСѓ С…РѕС‚СЊ С‡С‚Рѕ-С‚Рѕ, Рё РЅР° С‚РѕРј СЃРїР°СЃРёР±Рѕ.</text>
+		<text>Ну хоть что-то, и на том спасибо.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1114">
-		<text>РџРѕС‡РµРјСѓ РѕСЂСѓР¶РёСЏ СЏ Сѓ С‚РµР±СЏ РІ РїСЂРѕРґР°Р¶Рµ РЅРµ РІРёР¶Сѓ? РњРЅРµ Р±С‹ Р°РІС‚РѕРјР°С‚ РєР°РєРѕР№, РёР»Рё РґСЂРѕР±РѕРІРёРє РїРѕР»СѓС‡С€Рµ.</text>
+		<text>Почему оружия я у тебя в продаже не вижу? Мне бы автомат какой, или дробовик получше.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11141">
-		<text>РќРµ РґРѕР·РІРѕР»РµРЅРѕ РјРЅРµ РёРј С‚РѕСЂРіРѕРІР°С‚СЊ, РІРѕСЏРєРё Р·Р°РїСЂРµС‚РёР»Рё. РџРѕРґРїРѕСЂС‚РёР»Рё Р±РёР·РЅРµСЃ Р·РЅР°С‚РЅРѕ, РєРѕРЅРµС‡РЅРѕ, РЅРѕ РїРѕРЅСЏС‚СЊ С‚РѕР¶Рµ РјРѕР¶РЅРѕ. Р•СЃР»Рё СЏ РїСЂСЏРјРѕ Сѓ РЅРёС… РїРѕРґ РЅРѕСЃРѕРј СЃС‚РІРѕР» РєР°РєРѕРјСѓ-РЅРёР±СѓРґСЊ РїСЂРёРґСѓСЂРєСѓ РїСЂРѕРґР°Рј, Р° РѕРЅ РїРѕС‚РѕРј РїРѕР»РѕРІРёРЅСѓ РљРџРџ РїРµСЂРµСЃС‚СЂРµР»СЏРµС‚? РћРЅРё Р¶Рµ РІРµСЃСЊ РЅР°С€ Р»Р°РіРµСЂСЊ СЃ Р·РµРјР»С‘Р№ СЃСЂР°РІРЅСЏСЋС‚, РґР° Рё РјРµРЅСЏ Рє СЃС‚РµРЅРєРµ РїСЂРёСЃС‚Р°РІСЏС‚. Рђ С‚Р°Рє С…РѕС‚СЊ РєР°РєР°СЏ-РЅРёРєР°РєР°СЏ РіР°СЂР°РЅС‚РёСЏ, С‡С‚Рѕ СЏ Рє СЌС‚РѕРјСѓ РґРµР»Сѓ РїСЂРёС‡Р°СЃС‚РµРЅ РЅРµ Р±С‹Р». РЎРєР°Р¶Рё СЃРїР°СЃРёР±Рѕ, С‡С‚Рѕ С…РѕС‚СЊ РЅР° РїР°С‚СЂРѕРЅС‹ РґРѕРіРѕРІРѕСЂРёС‚СЊСЃСЏ СЃРјРѕРі. РљР°Р»РёР±СЂ РїСѓСЃС‚СЊ Рё СЃР»Р°Р±С‹Р№, РЅРѕ РѕС‚ РјРµР»РѕС‡Рё РІСЃСЏРєРѕР№ РѕС‚СЃСЂРµР»СЏС‚СЊСЃСЏ С…РІР°С‚РёС‚. Рђ РєСЂСѓРїРЅР°СЏ РґРёС‡СЊ РІ РЅР°С€Рё РјРµСЃС‚Р° РїРѕС‡С‚Рё Рё РЅРµ Р·Р°РіР»СЏРґС‹РІР°РµС‚.</text>
+		<text>Не дозволено мне им торговать, вояки запретили. Подпортили бизнес знатно, конечно, но понять тоже можно. Если я прямо у них под носом ствол какому-нибудь придурку продам, а он потом половину КПП перестреляет? Они же весь наш лагерь с землёй сравняют, да и меня к стенке приставят. А так хоть какая-никакая гарантия, что я к этому делу причастен не был. Скажи спасибо, что хоть на патроны договориться смог. Калибр пусть и слабый, но от мелочи всякой отсреляться хватит. А крупная дичь в наши места почти и не заглядывает.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111411">
-		<text>РЎРїР°СЃРёР±Рѕ, Р±Р»РёРЅ, РѕР±СЂР°РґРѕРІР°Р».</text>
+		<text>Спасибо, блин, обрадовал.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
@@ -102,45 +102,45 @@
 	<!-- esc_2_12_stalker_nimble -->
 	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
 	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
-		<text>Рћ, РЅР°РєРѕРЅРµС†-С‚Рѕ, РґРѕР»РіРѕР¶РґР°РЅРЅС‹Р№ РљРџРљ! Р”РІРµ РЅРµРґРµР»Рё РµРіРѕ РѕС‚ РЎРїРѕСЂС‹ Р¶РґСѓ, СЃРїР°СЃРёР±Рѕ! Р’РѕС‚ С‚РІРѕСЏ РЅР°РіСЂР°РґР°.</text>
+		<text>О, наконец-то, долгожданный КПК! Две недели его от Споры жду, спасибо! Вот твоя награда.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
-		<text>РЇ С‚СѓС‚ РІРµС‰РёС†Сѓ РѕРґРЅСѓ РїСЂРёРЅС‘СЃ, РїРѕ Р·Р°РґР°РЅРёСЋ.</text>
+		<text>Я тут вещицу одну принёс, по заданию.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_no">
-		<text>РќРµ РґСѓРјР°СЋ, С‡С‚Рѕ СЏ РёРјРµРЅРЅРѕ С‚РѕС‚, РєС‚Рѕ С‚РµР±Рµ РЅСѓР¶РµРЅ.</text>
+		<text>Не думаю, что я именно тот, кто тебе нужен.</text>
 	</string>
 
 
 	<string id="esc_2_12_stalker_nimble_about_0">
-		<text>РЈ РјРµРЅСЏ РµСЃС‚СЊ Рє С‚РµР±Рµ РїР°СЂР° РІРѕРїСЂРѕСЃРѕРІ.</text>
+		<text>У меня есть к тебе пара вопросов.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_01">
-		<text>РљРѕРЅРµС‡РЅРѕ, С‡С‚Рѕ РёРЅС‚РµСЂРµСЃСѓРµС‚?</text>
+		<text>Конечно, что интересует?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_011">
-		<text>Р Р°СЃСЃРєР°Р¶Рё Рѕ СЃРµР±Рµ.</text>
+		<text>Расскажи о себе.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_0111">
-		<text>Р”Р° РЅРёС‡РµРіРѕ РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ. Р’СЃСЏРєРѕРµ Р±С‹РІР°Р»Рѕ, РєР°Рє Рё СЃРѕ РІСЃРµРјРё С‚СѓС‚: Рё РІ Р°РЅРѕРјР°Р»РёРё РїРѕРїР°РґР°Р», Рё РІ РїР»РµРЅСѓ Сѓ Р±Р°РЅРґРёС‚РѕРІ Р±С‹Р»вЂ¦ РЇ Р¶Рµ РІ Р—РѕРЅСѓ РµС‰С‘ РїР°С†Р°РЅРѕРј РїСЂРёС€С‘Р». Р’РЅР°С‡Р°Р»Рµ РїРѕ РјРµР»РѕС‡Рё Р±РµРіР°Р» - Р°РЅС‚РёСЂР°РґС‹, РїР°С‚СЂРѕРЅС‹ Р±СЂРѕРЅРµР±РѕР№РЅС‹РµвЂ¦ РџРѕС‚РѕРј СЃ РЎРёРґРѕСЂРѕРІРёС‡РµРј СЂР°Р±РѕС‚Р°Р» - РґРѕР»Рі РѕС‚РґР°РІР°Р», РѕРЅ РјРЅРµ СЂР°Р·РѕРє С€РєСѓСЂСѓ СЃРїР°СЃ. РџРѕРєР° РґР»СЏ РЅРµРіРѕ РєР°С€С‚Р°РЅС‹ РёР· РѕРіРЅСЏ С‚Р°СЃРєР°Р», Р·Р°РІС‘Р» РїР°СЂСѓ РїРѕР»РµР·РЅС‹С… Р·РЅР°РєРѕРјСЃС‚РІ, РЅСѓ Рё РїРµСЂРµС€РµР» СЌРєСЃРєР»СЋР·РёРІРЅС‹Рµ Р·Р°РєР°Р·С‹, РЅР° СЃРµРІРµСЂ РїРѕРґР°Р»СЃСЏ, РЅР° РЎРєР°РґРѕРІСЃРє, С…РѕСЂРѕС€РёРµ РґРµРЅСЊРіРё СЂСѓР±РёР» С‚Р°Рј, РєР°Рє СЃС‹СЂ РІ РјР°СЃР»Рµ РєР°С‚Р°Р»СЃСЏ. Р’ РѕРґРёРЅ РїСЂРµРєСЂР°СЃРЅС‹Р№ РґРµРЅСЊ РїСЂРёС…РѕРґСЏС‚ СЂРµР±СЏС‚Р° Рё РіРѕРІРѕСЂСЏС‚: В«РњРѕРЅРѕР»РёС‚РѕРІС†С‹ СЂР°РґР°СЂ РЅР°Р·Р°Рґ РѕС‚Р±РёР»РёВ». Р РёСЃРєРѕРІР°С‚СЊ СЏ РЅРµ С…РѕС‚РµР» Р±РѕР»СЊС€Рµ, СЃ С‚Р°РєРёРј-С‚Рѕ РїРѕР»РѕР¶РµРЅРёРµРј, РЅР°РЅСЏР» РїСЂРѕРІРѕРґРЅРёРєР° РЅСѓ Рё РѕС‚РїСЂР°РІРёР»СЃСЏ СЃСЋРґР°, РЅР° РјР°Р»СѓСЋ СЂРѕРґРёРЅСѓ СЃРІРѕСЋ, С‚Р°Рє СЃРєР°Р·Р°С‚СЊ. РњРѕРЅРѕР»РёС‚РѕРІС†С‹ СЃСѓРјРµР»Рё Р·Р°РїСѓСЃС‚РёС‚СЊ Р’С‹Р¶РёРіР°С‚РµР»СЊ РѕР±СЂР°С‚РЅРѕ Рё РѕС‚СЂРµР·Р°Р»Рѕ РЅР°С€РёС… СЂРµР±СЏС‚ РЅР° СЃРµРІРµСЂРµ, РІСЃРµС… РґРѕ РµРґРёРЅРѕРіРѕ. РљР°Рє РїРѕС‚РѕРј СѓР¶Рµ СѓР·РЅР°Р» - СЃРѕ В«РЎРєР°РґРѕРІСЃРєР°В» РІСЃРµС… РЅР°С€РёС… С‚РѕР¶Рµ РІС‹Р±РёР»Рё. РќСѓ Р° Р·РґРµСЃСЊ С‚РµРїРµСЂСЊвЂ¦ Р° С‡С‚Рѕ Р·РґРµСЃСЊ. Р—Р°РіРЅСѓР»СЃСЏ РјРѕР№ Р±РёР·РЅРµСЃ. РљР»РёРµРЅС‚С‹ С‚СѓС‚ СЃР°РјРё Р±РѕСЃС‹Рµ, РЅРёРєР°РєРёС… Р±РѕР»СЊС€РёС… Р·Р°РєР°Р·РѕРІ РЅРµ Р¶РґРё; РІРѕСЏРєРё СЃРѕРІСЃРµРј РѕР±РѕСЂР·РµР»Рё, РїРµСЂРµРєСЂС‹РІР°СЋС‚ РІСЃРµ РєР°РЅР°Р»С‹ СЃ РѕСЂСѓР¶РёРµРј, РЅР° СѓСЃС‚СѓРїРєРё РЅРµ РёРґСѓС‚. РќРµРјРЅРѕРіРѕ РїРѕРјРѕС‚Р°Р»СЃСЏ С‚СѓРґР°-СЃСЋРґР° Рё СѓРґР°Р»РѕСЃСЊ РєРѕРµ-РєР°Рє РѕСЂРіР°РЅРёР·РѕРІР°С‚СЊ С‚СѓС‚ РЅРµР±РѕР»СЊС€РѕРµ РґРµР»СЊС†Рµ: С‚Р°Рє РєР°Рє РѕСЂСѓР¶РёРµ СЃРµР№С‡Р°СЃ РІ СЃРёР»СЊРЅРѕРј РґРµС„РёС†РёС‚Рµ Рё РєР°РЅР°Р»С‹ РІСЃРµ РїРµСЂРµРєСЂС‹С‚С‹, СЏ РёС… РїСЂРёРЅРёРјР°СЋ РІ Р»СЋР±РѕРј, РґР°Р¶Рµ СЃР°РјРѕРј РЅРµРїСЂРёРіР»СЏРґРЅРѕРј, РІРёРґРµ Рё СЃР±С‹РІР°СЋ РёС…, РІРѕС‚, РўРµС…РЅР°СЂСЋ. РћРЅ РјСѓР¶РёРє С‚РѕР»РєРѕРІС‹Р№, РёР· Р»СЋР±РѕРіРѕ СЂР¶Р°РІРѕРіРѕ РІРµСЃР»Р° РїР°СЂСѓ РїСЂРёРіРѕРґРЅС‹С… РґРµС‚Р°Р»РµР№ СЃРµР±Рµ РґРѕСЃС‚Р°РЅРµС‚, С‡РµРј РїРѕС‚РѕРј Рё СЂРµРјРѕРЅС‚РёСЂСѓРµС‚. РќСѓ Рё РјРЅРµ СЃ СЌС‚РѕРіРѕ С‡С‚Рѕ-С‚Рѕ РїРµСЂРµРїР°РґР°РµС‚. Рђ Р·Р° СЃС‚РІРѕР»С‹ СЏ РїР»Р°С‡Сѓ С‚РµРј, С‡С‚Рѕ РёРјРµСЋ - С‚РѕРїР»РёРІРѕРј. РњРЅРѕРіРѕ РµРіРѕ С‚СѓС‚ РЅРµ СЃС‹С‰РµС€СЊ; С‚РѕРІР°СЂ С…РѕРґРѕРІРѕР№, Р»СЋР±РѕРјСѓ РЅРѕРІРёС‡РєСѓ РЅСѓР¶РµРЅ; Р·Р°РїР°СЃС‹ РёРјРµСЋС‚СЃСЏ, РґР° Рё РїР°СЂР° РєР°РЅР°вЂ¦ Р”Р°. Р§С‚Рѕ-С‚Рѕ Р·Р°РіРѕРІРѕСЂРёР»СЃСЏ СЏ. Р’ РѕР±С‰РµРј, РµСЃР»Рё СѓР±РёС‚С‹Р№ СЃС‚РІРѕР» РЅР°Р№РґРµС€СЊ, С‚Р°С‰Рё СЃСЋРґР°, РґРѕРіРѕРІРѕСЂРёРјСЃСЏ.</text>
+		<text>Да ничего интересного. Всякое бывало, как и со всеми тут: и в аномалии попадал, и в плену у бандитов был… Я же в Зону ещё пацаном пришёл. Вначале по мелочи бегал - антирады, патроны бронебойные… Потом с Сидоровичем работал - долг отдавал, он мне разок шкуру спас. Пока для него каштаны из огня таскал, завёл пару полезных знакомств, ну и перешел эксклюзивные заказы, на север подался, на Скадовск, хорошие деньги рубил там, как сыр в масле катался. В один прекрасный день приходят ребята и говорят: «Монолитовцы радар назад отбили». Рисковать я не хотел больше, с таким-то положением, нанял проводника ну и отправился сюда, на малую родину свою, так сказать. Монолитовцы сумели запустить Выжигатель обратно и отрезало наших ребят на севере, всех до единого. Как потом уже узнал - со «Скадовска» всех наших тоже выбили. Ну а здесь теперь… а что здесь. Загнулся мой бизнес. Клиенты тут сами босые, никаких больших заказов не жди; вояки совсем оборзели, перекрывают все каналы с оружием, на уступки не идут. Немного помотался туда-сюда и удалось кое-как организовать тут небольшое дельце: так как оружие сейчас в сильном дефиците и каналы все перекрыты, я их принимаю в любом, даже самом неприглядном, виде и сбываю их, вот, Технарю. Он мужик толковый, из любого ржавого весла пару пригодных деталей себе достанет, чем потом и ремонтирует. Ну и мне с этого что-то перепадает. А за стволы я плачу тем, что имею - топливом. Много его тут не сыщешь; товар ходовой, любому новичку нужен; запасы имеются, да и пара кана… Да. Что-то заговорился я. В общем, если убитый ствол найдешь, тащи сюда, договоримся.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_012">
-		<text>РџРѕРґСЃРєР°Р¶Рё, РіРґРµ Р±С‹ РјРЅРµ С‚СѓС‚ Р°СЂС‚РµС„Р°РєС‚РѕРІ РїРѕРґРЅСЏС‚СЊ, РµСЃР»Рё РЅРµ СЃРµРєСЂРµС‚?</text>
+		<text>Подскажи, где бы мне тут артефактов поднять, если не секрет?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_0121">
-		<text>РђСЂС‚РµС„Р°РєС‚С‹вЂ¦ Р—РґРµСЃСЊ С‚РµР±Рµ Р»РѕРІРёС‚СЊ РЅРµС‡РµРіРѕ, СЌС‚Рѕ РѕРґРЅРѕР·РЅР°С‡РЅРѕ. Р‘РµСЂРё РїР°СЂСѓ-С‚СЂРѕР№РєСѓ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ, РїСЂРѕС‚РёРІРѕРіР°Р· РїРѕР»СѓС‡С€Рµ, РґРµС‚РµРєС‚РѕСЂ - Рё РІР°Р»Рё РЅР° РЎРІР°Р»РєСѓ, РІРѕС‚ С‡С‚Рѕ СЏ С‚РµР±Рµ СЃРєР°Р¶Сѓ. РўР°Рј, РЅР° РєСѓС‡Р°С… РјСѓСЃРѕСЂР°, В«Р‘РѕР»РІР°РЅРєРёВ» С‡Р°СЃС‚Рѕ РІСЃС‚СЂРµС‡Р°СЋС‚СЃСЏ, РїР°РєСѓРµС€СЊ РёС… РІ РєРѕРЅС‚РµР№РЅРµСЂС‹ Рё РЅРµСЃРµС€СЊ РЅР° Р±РѕР»РѕС‚Р°, Рє С‡РёСЃС‚РѕРЅРµР±РѕРІС†Р°Рј. Р РµР±СЏС‚Р° РѕС‚Р»РёС‡РЅС‹Рµ, СЏ СЃ РЅРёРјРё РґР°РІРЅРѕ РґРµР»Р° РІРµРґСѓ - РЅРёРєРѕРіРґР° РЅРµ РїРѕРґРІРѕРґРёР»Рё. РҐРІРѕСЃС‚С‹ СЃРѕР±Р°С‡СЊРё Рё РїСЂРѕС‡РёРµ С‡Р°СЃС‚Рё РјСѓС‚Р°РЅС‚РѕРІ С‚РѕР¶Рµ СЃ СЂР°РґРѕСЃС‚СЊСЋ Сѓ С‚РµР±СЏ РїСЂРёРјСѓС‚.</text>
+		<text>Артефакты… Здесь тебе ловить нечего, это однозначно. Бери пару-тройку контейнеров, противогаз получше, детектор - и вали на Свалку, вот что я тебе скажу. Там, на кучах мусора, «Болванки» часто встречаются, пакуешь их в контейнеры и несешь на болота, к чистонебовцам. Ребята отличные, я с ними давно дела веду - никогда не подводили. Хвосты собачьи и прочие части мутантов тоже с радостью у тебя примут.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_01211">
-		<text>Р СЃРєРѕР»СЊРєРѕ СЏ Р·Р° В«Р‘РѕР»РІР°РЅРєСѓВ» СЌС‚Сѓ РїРѕР»СѓС‡Сѓ С…РѕС‚СЊ?</text>
+		<text>И сколько я за «Болванку» эту получу хоть?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_012111">
-		<text>РўС‹СЃСЏС‡ РїСЏС‚СЊ-С€РµСЃС‚СЊ, РµСЃР»Рё РјРЅРµ РїР°РјСЏС‚СЊ РЅРµ РёР·РјРµРЅСЏРµС‚. РќРѕСЂРјР°Р»СЊРЅС‹Рµ РґРµРЅСЊРіРё РґР»СЏ РЅР°С€РёС… РјРµСЃС‚, РїР°СЂСѓ С‚Р°РєРёС… РІ РґРµРЅСЊ РЅРѕСЃРёС‚СЊ Р±СѓРґРµС€СЊ - СЃ РіРѕР»РѕРґСѓ С‚РѕС‡РЅРѕ РЅРµ РїРѕРјСЂРµС€СЊ, РµС‰Рµ Рё РЅР° РїР°С‚СЂРѕРЅС‹ РѕСЃС‚Р°РЅРµС‚СЃСЏ.</text>
+		<text>Тысяч пять-шесть, если мне память не изменяет. Нормальные деньги для наших мест, пару таких в день носить будешь - с голоду точно не помрешь, еще и на патроны останется.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_999">
-		<text>РЎРїР°СЃРёР±Рѕ, СЏ РІСЃС‘ РїРѕРЅСЏР».</text>
+		<text>Спасибо, я всё понял.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_9999">
-		<text>Р‘С‹Р» СЂР°Рґ РїРѕРјРѕС‡СЊ.</text>
+		<text>Был рад помочь.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_nimble_get_order_0">
@@ -213,19 +213,19 @@
 		<text>Sure. Automatic shotgun Eliminator, with an extended magazine. For 8,000.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_311">
-		<text>Sure. Behold Storm, a submachine and grenade launcher in one. This prototype is a modified version of a conventional weapon designed for special units operating in the Zone. Technical innovation at its best from our Slavic brothersвЂ¦ Add 16,000 and it's yours.</text>
+		<text>Sure. Behold Storm, a submachine and grenade launcher in one. This prototype is a modified version of a conventional weapon designed for special units operating in the Zone. Technical innovation at its best from our Slavic brothers… Add 16,000 and it's yours.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_312">
 		<text>Sure. Here's Storm, a submachine and grenade launcher with an extended magazine, for an extra 16,000.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_321">
-		<text>Here it is - GP37, a new-generation assault rifle. Accurate, reliable, and convenient with a built-in optical scope. It was previously owned by a UN observer. Their group was sent to the Zone to investigate. However, the situation turned for the worseвЂ¦ 16,000 and the rifle is yours.</text>
+		<text>Here it is - GP37, a new-generation assault rifle. Accurate, reliable, and convenient with a built-in optical scope. It was previously owned by a UN observer. Their group was sent to the Zone to investigate. However, the situation turned for the worse… 16,000 and the rifle is yours.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_322">
 		<text>Here it is - GP37, a new-generation assault rifle. The price is 16,000.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_331">
-		<text>Just a sec. Here's a modular FT-200M rifle, the brainchild of Belgian gunmakers. Accurate, all-purpose, handy for both righties and lefties, comes with an optical scope and a grenade launcher. I got it from some unlucky UN observersвЂ¦ That'll be 16,000 extra.</text>
+		<text>Just a sec. Here's a modular FT-200M rifle, the brainchild of Belgian gunmakers. Accurate, all-purpose, handy for both righties and lefties, comes with an optical scope and a grenade launcher. I got it from some unlucky UN observers… That'll be 16,000 extra.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_332">
 		<text>Here's a modular FT-200M rifle. That'll be 16,000 extra.</text>
@@ -261,7 +261,7 @@
 		<text>Here. A SEVA suit. The price is 24,000, like we agreed.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_711">
-		<text>There it is, a combat exoskeleton as large as life. The best protection you can get in the Zone from bullets, claws or grenade fragments, with the exception of armoured vehicles. But it also takes after armoured vehicles in that it relieves your weight burden - within reason, of course. 48,000 and it's yours, warts and allвЂ¦ errвЂ¦ by that I mean batteries and servomotors.</text>
+		<text>There it is, a combat exoskeleton as large as life. The best protection you can get in the Zone from bullets, claws or grenade fragments, with the exception of armoured vehicles. But it also takes after armoured vehicles in that it relieves your weight burden - within reason, of course. 48,000 and it's yours, warts and all… err… by that I mean batteries and servomotors.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_get_order_712">
 		<text>There it is, a combat exoskeleton as large as life. 48,000 and it's yours.</text>
@@ -309,22 +309,22 @@
 		<text>Sure thing. The price is 10,000, and I'll need 2,000 of that in advance.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_122">
-		<text>You refused to pick up your last orderвЂ¦ So this one will cost you 12,000, and I'll need 4,000 of that in advance.</text>
+		<text>You refused to pick up your last order… So this one will cost you 12,000, and I'll need 4,000 of that in advance.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_123">
-		<text>HrmвЂ¦ You know, I probably can't help you there. The demand is too high.</text>
+		<text>Hrm… You know, I probably can't help you there. The demand is too high.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_13">
 		<text>An assault weapon.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_131">
-		<text>Something high-calibre and with rapid fire capability, okayвЂ¦ The regular price is 20,000, with a 4,000 advance payment. What do you say?</text>
+		<text>Something high-calibre and with rapid fire capability, okay… The regular price is 20,000, with a 4,000 advance payment. What do you say?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_132">
 		<text>You're a tough customer. I'll have to charge you 24,000 and I need 8,000 paid in advance. Deal?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_133">
-		<text>Right now is a bad timeвЂ¦ the military are making things hot at the Cordon. Someone attacked their outpost the other day, which made them even more difficult to deal with.</text>
+		<text>Right now is a bad time… the military are making things hot at the Cordon. Someone attacked their outpost the other day, which made them even more difficult to deal with.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_14">
 		<text>A sniper weapon.</text>
@@ -333,19 +333,19 @@
 		<text>For you I can get the best for only 20,000, but you'll have to pay me 4,000 in advance.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_142">
-		<text>Working with you entails a certain amount of riskвЂ¦ I can try to arrange your order for 24,000, but you'll need to make a 8,000 down payment.</text>
+		<text>Working with you entails a certain amount of risk… I can try to arrange your order for 24,000, but you'll need to make a 8,000 down payment.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_143">
-		<text>Sorry, this type of weapon is hard to come by right now. My contact for sniper stuff isвЂ¦ let's say he's indisposed.</text>
+		<text>Sorry, this type of weapon is hard to come by right now. My contact for sniper stuff is… let's say he's indisposed.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_15">
 		<text>An armoured suit.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_151">
-		<text>Yeah, I can think of somethingвЂ¦ suitable. It'll cost you 40,000, but you'll have to pay me 8,000 in advance.</text>
+		<text>Yeah, I can think of something… suitable. It'll cost you 40,000, but you'll have to pay me 8,000 in advance.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_152">
-		<text>Yeah, I can think of somethingвЂ¦ suitable. You refused to collect your last order, so the price will be 48,000 and you'll have to pay me 16,000 in advance.</text>
+		<text>Yeah, I can think of something… suitable. You refused to collect your last order, so the price will be 48,000 and you'll have to pay me 16,000 in advance.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_153">
 		<text>I won't be able to do any better than the last suit I got for you. That one was both unique and top of the line.</text>
@@ -354,7 +354,7 @@
 		<text>A suit with a closed-cycle respiratory module.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_161">
-		<text>That's a tall orderвЂ¦ Won't be easy to obtain, not by a long shot. I can try to get one of these babies for 30,000, but I have to ask for a down payment of 6,000.</text>
+		<text>That's a tall order… Won't be easy to obtain, not by a long shot. I can try to get one of these babies for 30,000, but I have to ask for a down payment of 6,000.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_162">
 		<text>You let me down on the last order, so I have to think twice this time. I can try to get one of these babies for 36,000, but I have to ask for a down payment of 12,000.</text>
@@ -372,13 +372,13 @@
 		<text>You didn't treat me very nicely on the last order, so this one'll set you back 72,000. Keep in mind I'll need 24,000 of that paid right now.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_173">
-		<text>No way. Since they closed the manufacturing plant, vacant exoskeletons are typically found only on corpsesвЂ¦ That's just not my method.</text>
+		<text>No way. Since they closed the manufacturing plant, vacant exoskeletons are typically found only on corpses… That's just not my method.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_18">
 		<text>Nothing right now.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_place_order_2">
-		<text>Sorry, my shop is closed at the moment. Temporary difficulties with order shipmentsвЂ¦</text>
+		<text>Sorry, my shop is closed at the moment. Temporary difficulties with order shipments…</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_start_11">
 		<text>Hello! I'm Nimble. People come to me for unique weapons: rare models, prototypes, unique shooters, stuff like that, plus elite equipment; the latest modifications of protective and combat suits. I check every item personally, so quality is guaranteed.</text>

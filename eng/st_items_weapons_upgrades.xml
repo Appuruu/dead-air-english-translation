@@ -2,7 +2,7 @@
 <string_table>
 	<string id="st_prop_bullet_speed">
 		<text>Flatness</text>
-	</string>
+	</string> 
 	<string id="st_prop_calibre">
 		<text>Calibre</text>
 	</string>
@@ -76,22 +76,22 @@
 		<text>Change of calibre to 9x19</text>
 	</string>
 	<string id="st_up_add_b5_descr">
-		<text>РљРѕРјРїР»РµРєСЃРЅР°СЏ РїРµСЂРµРґРµР»РєР° РІСЃРµС… СЃРѕСЃС‚Р°РІР»СЏСЋС‰РёС… РѕСЂСѓР¶РёСЏ РґР»СЏ СЃРјРµРЅС‹ РєР°Р»РёР±СЂР° РІ СѓС‰РµСЂР± РЅР°РґС‘Р¶РЅРѕСЃС‚Рё.</text>
+		<text>Комплексная переделка всех составляющих оружия для смены калибра в ущерб надёжности.</text>
 	</string>
 	<string id="st_up_add_b5_name">
-		<text>РЎРјРµРЅР° РєР°Р»РёР±СЂР° РЅР° 7.62x39</text>
+		<text>Смена калибра на 7.62x39</text>
 	</string>
 	<string id="st_up_add_b6_descr">
-		<text>РљРѕРјРїР»РµРєСЃРЅР°СЏ РїРµСЂРµРґРµР»РєР° РІСЃРµС… СЃРѕСЃС‚Р°РІР»СЏСЋС‰РёС… РѕСЂСѓР¶РёСЏ РґР»СЏ СЃРјРµРЅС‹ РєР°Р»РёР±СЂР° РІ СѓС‰РµСЂР± РЅР°РґС‘Р¶РЅРѕСЃС‚Рё.</text>
+		<text>Комплексная переделка всех составляющих оружия для смены калибра в ущерб надёжности.</text>
 	</string>
 	<string id="st_up_add_b6_name">
-		<text>РЎРјРµРЅР° РєР°Р»РёР±СЂР° РЅР° 7.62x51</text>
+		<text>Смена калибра на 7.62x51</text>
 	</string>
 	<string id="st_up_add_b7_descr">
-		<text>РљРѕРјРїР»РµРєСЃРЅР°СЏ РїРµСЂРµРґРµР»РєР° РІСЃРµС… СЃРѕСЃС‚Р°РІР»СЏСЋС‰РёС… РѕСЂСѓР¶РёСЏ РґР»СЏ СЃРјРµРЅС‹ РєР°Р»РёР±СЂР° РІ СѓС‰РµСЂР± РЅР°РґС‘Р¶РЅРѕСЃС‚Рё.</text>
+		<text>Комплексная переделка всех составляющих оружия для смены калибра в ущерб надёжности.</text>
 	</string>
 	<string id="st_up_add_b7_name">
-		<text>РЎРјРµРЅР° РєР°Р»РёР±СЂР° РЅР° 7.62x54</text>
+		<text>Смена калибра на 7.62x54</text>
 	</string>
 	<string id="st_up_addd_a1_descr">
 		<text>Magazine capacity increase without increasing weapon part length</text>
@@ -625,10 +625,10 @@
 		<text>Addition of an active counter-weight to the barrel jacket</text>
 	</string>
 	<string id="st_up_bard_c6_descr">
-		<text>РљРѕРјРїР»РµРєСЃРЅР°СЏ РїРµСЂРµРґРµР»РєР° РІСЃРµС… СЃРѕСЃС‚Р°РІР»СЏСЋС‰РёС… РѕСЂСѓР¶РёСЏ РґР»СЏ СЃРјРµРЅС‹ РєР°Р»РёР±СЂР° РІ СѓС‰РµСЂР± РЅР°РґС‘Р¶РЅРѕСЃС‚Рё.</text>
+		<text>Комплексная переделка всех составляющих оружия для смены калибра в ущерб надёжности.</text>
 	</string>
 	<string id="st_up_bard_c6_name">
-		<text>РЎРјРµРЅР° РєР°Р»РёР±СЂР° РЅР° 7.62x54</text>
+		<text>Смена калибра на 7.62x54</text>
 	</string>
 	<string id="st_up_barp_a1_descr">
 		<text>Replacement of a regular barrel with a longer one improves accuracy and flatness, but reduces the rate of fire.</text>
@@ -946,40 +946,40 @@
 		<text>Adjustable range-finder sight</text>
 	</string>
 	<string id="st_up_opt_binoc1_descr">
-		<text>РљРѕРЅС‚СЂР°СЃС‚РЅС‹Рµ С„РёР»СЊС‚СЂС‹ СѓР»СѓС‡С€Р°СЋС‚ РІРёРґРёРјРѕСЃС‚СЊ РІ СѓСЃР»РѕРІРёСЏС… РїР»РѕС…РѕРіРѕ РѕСЃРІРµС‰РµРЅРёСЏ.</text>
+		<text>Контрастные фильтры улучшают видимость в условиях плохого освещения.</text>
 	</string>
 	<string id="st_up_opt_binoc1_name">
-		<text>РЈСЃС‚Р°РЅРѕРІРєР° РєРѕРЅС‚СЂР°СЃС‚РЅС‹С… С„РёР»СЊС‚СЂРѕРІ</text>
+		<text>Установка контрастных фильтров</text>
 	</string>
 	<string id="st_up_opt_binoc2_descr">
-		<text>Р—Р°РјРµРЅР° Р»РёРЅР·, РЅР° СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РёРµ 15-РєСЂР°С‚РЅС‹Рј РїСЂРёС†РµР»Р°Рј. РњР°СЃСЃР° СѓРІРµР»РёС‡РёРІР°РµС‚СЃСЏ РЅР° 0,2 РєРі.</text>
+		<text>Замена линз, на соответствующие 15-кратным прицелам. Масса увеличивается на 0,2 кг.</text>
 	</string>
 	<string id="st_up_opt_binoc2_name">
-		<text>РЈР»СѓС‡С€РµРЅРёРµ РѕРїС‚РёС‡РµСЃРєРёС… Р»РёРЅР·</text>
+		<text>Улучшение оптических линз</text>
 	</string>
 	<string id="st_up_opt_binoc3_descr">
-		<text>Р—Р°РјРµРЅР° РѕРїС‚РёС‡РµСЃРєРёС… РїСЂРёР±РѕСЂРѕРІ РЅР° СЂРµРіСѓР»РёСЂСѓРµРјС‹Рµ. РР·-Р·Р° СѓСЃС‚Р°РЅРѕРІРєРё РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… РјРµС…Р°РЅРёР·РјРѕРІ СѓРІРµР»РёС‡РёР»Р°СЃСЊ РјР°СЃСЃР°.</text>
+		<text>Замена оптических приборов на регулируемые. Из-за установки дополнительных механизмов увеличилась масса.</text>
 	</string>
 	<string id="st_up_opt_binoc3_name">
-		<text>РќР°СЃС‚СЂР°РёРІР°РµРјС‹Рµ Р»РёРЅР·С‹</text>
+		<text>Настраиваемые линзы</text>
 	</string>
 	<string id="st_up_stk_binoc1_descr">
-		<text>Р—Р°РјРµРЅР° РјРµС‚Р°Р»Р»РёС‡РµСЃРєРёС… РєСЂРµРїР»РµРЅРёР№ РЅР° РїРѕР»РёРјРµСЂРЅС‹Рµ РґР»СЏ СЃРЅРёР¶РµРЅРёСЏ РјР°СЃСЃС‹.</text>
+		<text>Замена металлических креплений на полимерные для снижения массы.</text>
 	</string>
 	<string id="st_up_stk_binoc1_name">
-		<text>РџРѕР»РёРјРµСЂРЅС‹Рµ РєСЂРµРїР»РµРЅРёСЏ</text>
+		<text>Полимерные крепления</text>
 	</string>
 	<string id="st_up_stk_binoc2_descr">
-		<text>Р—Р°РјРµРЅР° РєР°СЂРєР°СЃР° РЅР° Р°Р»СЋРјРёРЅРёРµРІС‹Р№. Р­С‚Рѕ СѓРјРµРЅСЊС€Р°РµС‚ РјР°СЃСЃСѓ Рё СѓРІРµР»РёС‡РёРІР°РµС‚ СѓРґРѕР±СЃС‚РІРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ.</text>
+		<text>Замена каркаса на алюминиевый. Это уменьшает массу и увеличивает удобство использования.</text>
 	</string>
 	<string id="st_up_stk_binoc2_name">
-		<text>РђР»СЋРјРёРЅРёРµРІС‹Р№ РєР°СЂРєР°СЃ</text>
+		<text>Алюминиевый каркас</text>
 	</string>
 	<string id="st_up_stk_binoc3_descr">
-		<text>Р—Р°РјРµРЅР° РґРІРёР¶СѓС‰РёС…СЃСЏ РґРµС‚Р°Р»РµР№ РЅР° Р°РЅР°Р»РѕРіРё РёР· С‚РёС‚Р°РЅР°. РњРµРЅСЊС€РёР№ РІРµСЃ Рё Р±РѕР»СЊС€Р°СЏ СЌС„С„РµРєС‚РёРІРЅРѕСЃС‚СЊ.</text>
+		<text>Замена движущихся деталей на аналоги из титана. Меньший вес и большая эффективность.</text>
 	</string>
 	<string id="st_up_stk_binoc3_name">
-		<text>РњРµС…Р°РЅРёС‡РµСЃРєРёРµ С‡Р°СЃС‚Рё РёР· С‚РёС‚Р°РЅР°</text>
+		<text>Механические части из титана</text>
 	</string>
 	<string id="st_up_pri_a1_descr">
 		<text>A pneumatic stock is used to reduce recoil during burst fire.</text>
@@ -1960,10 +1960,10 @@
 		<text>Three round burst firing mode</text>
 	</string>
 	<string id="st_up_zatp_c8_descr">
-		<text>РЈР»СѓС‡С€РµРЅРёРµ Р°РІС‚РѕРјР°С‚РёРєРё РґСЂРѕР±РѕРІРёРєР° РїРѕР·РІРѕР»СЏРµС‚ РЅРµР·РЅР°С‡РёС‚РµР»СЊРЅРѕ РїРѕРІС‹СЃРёС‚СЊ СЃРєРѕСЂРѕСЃС‚СЂРµР»СЊРЅРѕСЃС‚СЊ.</text>
+		<text>Улучшение автоматики дробовика позволяет незначительно повысить скорострельность.</text>
 	</string>
 	<string id="st_up_zatp_c8_name">
-		<text>РЈР»СѓС‡С€РµРЅРёРµ Р°РІС‚РѕРјР°С‚РёРєРё</text>
+		<text>Улучшение автоматики</text>
 	</string>
 	<string id="st_upgr_cost">
 		<text>Cost</text>
@@ -2032,10 +2032,10 @@
 		<text>Suit durability</text>
 	</string>
 	<string id="st_prop_not_available">
-		<text>РњРѕРґРёС„РёРєР°С†РёСЏ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ РґР°РЅРЅС‹Рј РѕСЂСѓР¶РёРµРј</text>
+		<text>Модификация не поддерживается данным оружием</text>
 	</string>
 	<string id="st_prop_not_available_no_reason">
-		<text>РњРѕРґРёС„РёРєР°С†РёСЏ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ РґР°РЅРЅС‹Рј СЃРЅР°СЂСЏР¶РµРЅРёРµРј</text>
+		<text>Модификация не поддерживается данным снаряжением</text>
 	</string>
 	<string id="st_gauss_cannot_be_repaired">
 		<text>It's not clear how the weapon works. It can't be repaired without additional information about its design.</text>
@@ -2080,16 +2080,16 @@
 		<text>Preceding modifications required</text>
 	</string>
 	<string id="st_upgr_rusty_profile">
-		<text>РѕСЂСѓР¶РёРµ РїСЂРѕСЂР¶Р°РІРµР»Рѕ, РїСЂРѕРІРµРґРµРЅРёРµ РјРѕРґРёС„РёРєР°С†РёР№ РЅРµРІРѕР·РјРѕР¶РЅРѕ</text>
+		<text>оружие проржавело, проведение модификаций невозможно</text>
 	</string>
 	<string id="st_upgr_worn_profile">
-		<text>РєРѕСЂСЂРѕР·РёСЏ РѕСЂСѓР¶РёСЏ РЅРµ РїРѕР·РІРѕР»СЏРµС‚ РІС‹РїРѕР»РЅСЏС‚СЊ РјРѕРґРёС„РёРєР°С†РёРё РІС‹С€Рµ Р±Р°Р·РѕРІРѕРіРѕ СѓСЂРѕРІРЅСЏ</text>
+		<text>коррозия оружия не позволяет выполнять модификации выше базового уровня</text>
 	</string>
 	<string id="st_upgr_standard_profile">
-		<text>РЅРµРѕР±С…РѕРґРёРјР° РјРѕРґРµСЂРЅРёР·Р°С†РёСЏ РїРµСЂРµРґ СѓСЃС‚Р°РЅРѕРІРєРѕР№ РґР°РЅРЅРѕР№ РјРѕРґРёС„РёРєР°С†РёРё</text>
+		<text>необходима модернизация перед установкой данной модификации</text>
 	</string>
 	<string id="st_upgr_no_reason">
-		<text>РєРѕРЅСЃС‚СЂСѓРєС†РёСЏ РїСЂРµРґРјРµС‚Р° РЅРµ РїРѕР·РІРѕР»СЏРµС‚ РїСЂРѕРІРµСЃС‚Рё РґР°РЅРЅСѓСЋ РјРѕРґРёС„РёРєР°С†РёСЋ</text>
+		<text>конструкция предмета не позволяет провести данную модификацию</text>
 	</string>
 	<string id="st_up_arm_c9_name">
 		<text>Armadillo protective coating based on sapphire crystals</text>
@@ -2104,9 +2104,9 @@
 		<text>Rubberised cloth under-layer</text>
 	</string>
 	<string id="st_up_upgrade_not_available_name">
-		<text>РњРѕРґРµСЂРЅРёР·Р°С†РёСЏ РЅРµРІРѕР·РјРѕР¶РЅР°</text>
+		<text>Модернизация невозможна</text>
 	</string>
 	<string id="st_up_upgrade_not_available_descr">
-		<text>РЈР»СѓС‡С€РµРЅРёРµ РЅРµРґРѕСЃС‚СѓРїРЅРѕ</text>
+		<text>Улучшение недоступно</text>
 	</string>
 </string_table>
