@@ -187,20 +187,16 @@
 	
 	<!---   zat_b7_bandit_boss_sultan_task --->
 	<string id="zat_b7_bandit_boss_sultan_task_1_name">
-		<text>РЈР±РёС‚СЊ СЃС‚Р°Р»РєРµСЂР°</text>
-
+		<text>Убить сталкера</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_text">
-		<text>РЎСѓР»С‚Р°РЅ РїРѕСЂСѓС‡РёР» РЅР°Р№С‚Рё Рё СѓР±РёС‚СЊ СЃС‚Р°Р»РєРµСЂР°</text>
-
+		<text>Султан поручил найти и убить сталкера</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_about">
-		<text>РўСѓС‚ РµС‰С‘ РЅРµ РІСЃРµ РїРѕРЅСЏР»Рё, РєС‚Рѕ РІ Р—РѕРЅРµ С…РѕР·СЏРёРЅ! Р РєРѕРµ-РєС‚Рѕ РІСЃС‘ РµС‰С‘ СЃС‡РёС‚Р°РµС‚, С‡С‚Рѕ РјРѕР¶РµС‚ Р±РµР·РЅР°РєР°Р·Р°РЅРЅРѕ РѕР±РјР°РЅС‹РІР°С‚СЊ РјРµРЅСЏ, РёР»Рё РµС‰С‘ РєР°Рє-Р»РёР±Рѕ РІС‹СЂР°Р¶Р°С‚СЊ РєРѕ РјРЅРµ РЅРµСѓРІР°Р¶РµРЅРёРµ. РќРµРєРѕС‚РѕСЂС‹Рµ РёР· РЅРёС… РґРѕР»Р¶РЅС‹ РјРЅРµ РґРµРЅРµРі, РЅРµРєРѕС‚РѕСЂС‹Рµ Р·Р°РїРѕСЂРѕР»Рё РІР°Р¶РЅС‹Рµ СЃРґРµР»РєРёвЂ¦ Р’СЃРµ РѕРЅРё РЅРµ Р±РѕР»РµРµ С‡РµРј РєСЂС‹СЃС‹, РєРѕС‚РѕСЂС‹С… РЅСѓР¶РЅРѕ РїСЂРѕСЃС‚Рѕ СЂР°СЃС‚РѕРїС‚Р°С‚СЊ. Р•СЃР»Рё Р±РµСЂС‘С€СЊСЃСЏ, СЏ РѕС‚РјРµС‡Сѓ С†РµР»СЊ РЅР° С‚РІРѕС‘Рј РџР”Рђ.</text>
-
+		<text>Тут ещё не все поняли, кто в Зоне хозяин! И кое-кто всё ещё считает, что может безнаказанно обманывать меня, или ещё как-либо выражать ко мне неуважение. Некоторые из них должны мне денег, некоторые запороли важные сделки… Все они не более чем крысы, которых нужно просто растоптать. Если берёшься, я отмечу цель на твоём ПДА.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
-		<text>РќРµРїР»РѕС…Рѕ СЃСЂР°Р±РѕС‚Р°Р», РЅРµРїР»РѕС…Рѕ! Р”РµСЂР¶Рё, РєР°Рє РѕР±РµС‰Р°Р»:</text>
-
+		<text>Неплохо сработал, неплохо! Держи, как обещал:</text>
 	</string>
 	<!-- zat_a2_stalker_mechanic -->
 	<string id="zat_a2_stalker_mechanic_task_1_name">
@@ -429,8 +425,7 @@
 		<text>You need to take the PDA with Tremor's recordings to Skadovsk and show it to Beard. The recordings make it clear that the medic was the one responsible for stalker disappearances.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_start_1">
-		<text>РџСЂРёРІРµС‚!</text>
-
+		<text>Привет!</text>
 	</string>
 	<string id="zat_b22_find_proof_name">
 		<text>Missing stalkers: find proof of Tremor's involvement</text>
