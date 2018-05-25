@@ -614,7 +614,7 @@
 		<text>VSK-94</text>
 	</string>
 	<string id="st_wpn_vsk94_descr">
-		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmored targets at ranges up to 400m.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] ï %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1M2-1 scopes\n%c[0,93,0,116] ï %c[0,140,140,140] 9A-91/VSK-94 suppressor (integrated)</text>
+		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmored targets at ranges up to 400m.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] ï %c[0,140,140,140] EKP 1S-03 Kobra, 1P29, PSO-1M2-1 scopes\n%c[0,93,0,116] ï %c[0,140,140,140] 9A-91/VSK-94 suppressor</text>
 	</string>
 	<string id="st_wpn_sks">
 		<text>SKS-45</text>
@@ -959,7 +959,7 @@
 		<text>SR-3M "Vikhr"</text>
 	</string>
 	<string id="st_wpn_9a91">
-		<text>9–ê-91</text>
+		<text>9A-91</text>
 	</string>
 	<string id="st_wpn_vintorez">
 		<text>VSS "Vintorez"</text>
