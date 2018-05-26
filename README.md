@@ -73,13 +73,13 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_mm_faction_select.xml - **done**
 
-- st_quests_agroprom.xml - *incomplete*
+- st_quests_agroprom.xml - **done**
 
 - st_quests_bar.xml - *incomplete*
 
 - st_quests_darkscape.xml - *incomplete*
 
-- st_quests_darkvalley.xml - *incomplete*
+- st_quests_darkvalley.xml - **done**
 
 - st_quests_deadcity.xml - *incomplete*
 
@@ -95,7 +95,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_pripyat.xml - **done**
 
-- st_quests_pripyat2.xml - *incomplete*
+- st_quests_pripyat2.xml - **done**
 
 - st_quests_radar.xml - **done**
 
@@ -103,7 +103,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_warlab.xml - **done**
 
-- st_quests_yantar.xml - *incomplete*
+- st_quests_yantar.xml - **done**
 
 - st_quests_zaton.xml - *incomplete*
 
