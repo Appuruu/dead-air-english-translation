@@ -31,13 +31,37 @@
 		<text>Bandit overcoat</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>%c[0,170,170,170]An ordinary that will keep the wearer warm during rain and strong winds. It provides minimal protection from any dangerous effects and partial protection against low doses of radiation when used in combination with a gas mask.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] light equipment\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+10%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
+		<text>%c[0,170,170,170]An ordinary that will keep the wearer warm during rain and strong winds. It provides minimal protection from any dangerous effects and partial protection against low doses of radiation when used in combination with a gas mask.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] light equipment\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+10%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
 	</string>
 	<string id="trenchcoat_outfit_name">
 		<text>Overcoat</text>
 	</string>
 	<string id="trenchcoat_outfit_description">
-		<text>%c[0,170,170,170]A long overcoat made of high quality leather. In criminal circles, it is considered prestigious apparel as well as a sign of status, explaining its popularity. Together with a gas mask, such an overcoat provides reliable protection against low doses of radiation.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] light equipment\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+13%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
+		<text>%c[0,170,170,170]A long overcoat made of high quality leather. In criminal circles, it is considered prestigious apparel as well as a sign of status, explaining its popularity. Together with a gas mask, such an overcoat provides reliable protection against low doses of radiation.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] light equipment\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+13%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
 	</string>
 	<string id="scientific_outfit_name">
 		<text>SEVA bodysuit</text>
@@ -49,79 +73,200 @@
 		<text>Sphere M12 headgear set</text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>%c[0,170,170,170]ќтделанный тканью алюминиево-титановый шлем с карманами дл€ стальных бронеэлементов и противогазом ѕћ . ѕоддерживает установку ночного прицела 1ѕЌ93-1. -фера €вл€етс€ самым защищЄнным шлемом, доступным в «оне, его основна€ задача - защита головы владельца ценой значительного увеличени€ массы.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлобронированный тактический шлем с ѕЌ¬\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+20%)\n \n%c[0,170,170,170] ќћѕќЌ≈Ќ“џ:\n%c[0,93,0,116] Х %c[0,140,140,140] “итановый шлем ћ12 %c[0,170,170,170]2420 г\n%c[0,93,0,116] Х %c[0,140,140,140] «абрало IV класса бронезащиты %c[0,170,170,170]370 г\n%c[0,93,0,116] Х %c[0,140,140,140] системы дыхани€ %c[0,170,170,170]145 г\n%c[0,93,0,116] Х %c[0,140,140,140] 40-мм дыхательный фильтр %c[0,170,170,170]390 г\n%c[0,93,0,116] Х %c[0,140,140,140] прибор ночного видени€ 1ѕЌ93-1 %c[0,170,170,170]1550 г\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]IV\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]III\n \n</text>
+		<text>%c[0,170,170,170]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлобронированный тактический шлем с ѕЌ¬\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+20%)\n \n
+		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] M12 titanium helmet %c[0,170,170,170]2420 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] Class IV anti-ballistic visor %c[0,170,170,170]370 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] breathing apparatus %c[0,170,170,170]145 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] 40mm breathing filter %c[0,170,170,170]390 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] 1PN93-1 nvd with mount. %c[0,170,170,170]1550 g\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]III\n \n</text>
 	</string>
 	<string id="st_helm_hardhat">
-		<text>-тальной шлем ћ40</text>
+		<text>M40 steel helmet</text>
 	</string>
 	<string id="st_helm_hardhat_descr">
-		<text>%c[0,170,170,170]-тандартный армейский стальной шлем. ѕроизводитс€ в -оссии. Ќе обеспечивает защиту от аномалий или радиации, но способен отклонить прилетевшую по касательной пулю.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] боевой шлем среднего класса\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+12%)\n \n%c[0,170,170,170] ќћѕќЌ≈Ќ“џ:\n%c[0,93,0,116] Х %c[0,140,140,140] -тальной шлем ћ40 %c[0,170,170,170]2480 г\n%c[0,93,0,116] Х %c[0,140,140,140] «абрало IIIA класса бронезащиты %c[0,170,170,170]190 г\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]IIIA\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A standard steel army helmet without any additional elements. Produced in Russia. Provides no protection against anomalies or radiation, but can deflect bullets - effectively preventing damage to the head. This helmet has never been particularly popular in the Zone, except for the use in brief armed conflicts between factions.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] medium combat helmet\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+12%)\n \n
+		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] M40 steel helmet %c[0,170,170,170]2480 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]190 g\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_cs">
 		<text>-тальной шлем „Ќ-2</text>
 	</string>
 	<string id="st_helm_cs_descr">
-		<text>%c[0,170,170,170]-тальной шлем модифицированный техниками группировки Ђ„истое небої. ¬ составе модифицированна€ система дихани€ от тактического шлема Ђ-фера 08ї, защищающа€ от химических веществ и радиоактивной пыли. Ќекоторые т€жЄлые стальные компоненты были заменены на более лЄгкие.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] боевой шлем с системой фильтрации воздуха\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+16%)\n \n%c[0,170,170,170] ќћѕќЌ≈Ќ“џ:\n%c[0,93,0,116] Х %c[0,140,140,140] -тальной шлем ћ40 (модернизированный)%c[0,170,170,170]1410 г\n%c[0,93,0,116] Х %c[0,140,140,140] «абрало IIIA класса бронезащиты %c[0,170,170,170]180 г\n \n%c[0,93,0,116] Х %c[0,140,140,140] системы дыхани€ %c[0,170,170,170]120 г\n%c[0,93,0,116] Х %c[0,140,140,140] дыхательный фильтр 2хѕƒ≈-1 (модифицированный) %c[0,170,170,170]280 г\n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]IIIA\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]-тальной шлем модифицированный техниками группировки Ђ„истое небої. ¬ составе модифицированна€ система дихани€ от тактического шлема Ђ-фера 08ї, защищающа€ от химических веществ и радиоактивной пыли. Ќекоторые т€жЄлые стальные компоненты были заменены на более лЄгкие.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] боевой шлем с системой фильтрации воздуха\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+16%)\n \n
+		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] M40 steel helmet (modernized) %c[0,170,170,170]1410 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]180 g\n \n%c[0,93,0,116] 
+		Х %c[0,140,140,140] breathing apparatus %c[0,170,170,170]120 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] дыхательный фильтр 2хѕƒ≈-1 (модифицированный) %c[0,170,170,170]280 g\n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_respirator">
-		<text>ѕротивогаз Ёќ-20 ѕЅ‘</text>
+		<text>EO-20 PBF gas mask</text>
 	</string>
 	<string id="st_helm_respirator_descr">
-		<text>%c[0,170,170,170]ћодернизированна€, значительно более компактна€ верси€ классического противогаза Ёќ-19 ѕЅ‘. ѕроста€ система обеспечивает фильтрацию воздуха от радиационных частиц и химических реагентов. «ащита от радиации была усовершенствована благодар€ добавлению в фильтры свинца, однако, следует отметить, что, противогаз не обладает необходимой надЄжностью дл€ работы в токсичной среде. ѕрактически не даЄт защиты от физических повреждений.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий противогаз\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+8%)\n \n%c[0,170,170,170] ќћѕќЌ≈Ќ“џ:\n%c[0,93,0,116] Х %c[0,140,140,140] противогаз ѕЅ‘ %c[0,170,170,170]760 г\n%c[0,93,0,116] Х %c[0,140,140,140] дыхательный фильтр Ёќ-19 2х %c[0,170,170,170]210 г\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A modernized, significantly more compact version of classic EO-19 PBF gas mask. Updated EO-20 particulate filters underwent a significant miniaturization, but their protective properties were increased nevertheless. Radiation shielding has also been enhanced thanks to the implementation of lead elements in the apparatus. It should be noted, however, that while it serves its purpose well in areas of increased radioactivity levels, the mask suffers from a high failure rate in toxic environments and is also prone to get irreversibly damaged if subjected to direct impact.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] light gas mask\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+8%)\n \n
+		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] PBF gas mask %c[0,170,170,170]760 g\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] 2x EO-19 breathing filter %c[0,170,170,170]210 g\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_cloth_mask">
-		<text>“р€пична€ маска</text>
+		<text>Cloth mask</text>
 	</string>
 	<string id="st_helm_cloth_mask_descr">
-		<text>%c[0,170,170,170]ѕростой кусок ткани, свЄрнутый в маску.  райне рекомендуетс€ носить и регул€рно смен€ть на новую при отсутствии какой-либо альтернативной защиты, так как ткань даст минимальую защиту дл€ органов дыхани€, задержива€ в себе радиоактивную пыль и часть опасных химических испарений.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] тр€пична€ маска\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, обслуживании оружи€ (+4%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A simple piece of cloth forming a mask. It is often used by stalkers to prevent deadly radiation particles from entering the body and is usually worn at all times as a form of precaution. The mask, however suited for such purpose, is not without defects as it will not protect from large concentrations of radioactive particles and the material will gradually absorb such quantities that it'll become not only incapable of protection but also dangerous to the user. It is thus advisable to take spare masks when venturing into the Zone for longer periods of time.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] cloth wrap\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, обслуживании оружи€ (+4%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_m40">
-		<text>ѕротивогаз ѕћ </text>
+		<text>PMK gas mask</text>
 	</string>
 	<string id="st_helm_m40_descr">
-		<text>%c[0,170,170,170]Ќабор ѕћ  состоит из маски противогаза и многослойного 40-милимметрового дыхательного фильтра, размещЄнного слева. Ѕыл не так давно прин€т на вооружение в качестве единого противогаза, но уже успел хорошо себ€ зарекомендовать в «оне и используетс€ всеми, начина€ от новичков и заканчива€ штурмовыми отр€дами военного спецназа. ѕользуетс€ высоким спросом, из-за чего достать его бывает довольно проблематично.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий противогаз\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+9%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]PMK set is built around a single, multi-layered, 40 mm breathing filter placed on the left side of valve apparatus. Reinforced construction makes it more resistant to physical damage at the cost of even more extra weight. The PMK mask was designed for use by Ukrainian Spetsnaz but never went into mass production.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] light gas mask\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+9%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_tactic">
-		<text>Ўлем Ђ-фера 08ї</text>
+		<text>Sphere 08 headgear set</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>%c[0,170,170,170]-овременный высококачественный шлем, использующийс€ штурмовыми ор€дами военных.  онструкци€ состоит из кевларовой каски, противогаза ѕћ  и прибора ночного видени€. “ак же существует верси€ шлема без противогаза, не пользующа€с€ попул€рностью ни у военных, ни у сталкеров.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] бронированный шлем с системой фильтрации воздуха и ѕЌ¬\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+18%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]IV\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]IV\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]IIIA\n \n</text>
+		<text>%c[0,170,170,170]A modern, high-quality, Western-made combat helmet with built-in air filtration system. Comes with multiple layers of Kevlar and hard armor to protect the user from physical damage. As it is made entirely from composites, it does not conduct electricity, thus rising overall electrical resistance of the user.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] бронированный шлем с системой фильтрации воздуха и ѕЌ¬\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+18%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]IV\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]IIIA\n \n</text>
 	</string>
 	<string id="stalker_outfit_name">
-		<text> омбинезон Ђ«ар€ї</text>
+		<text>Sunrise bodysuit</text>
 	</string>
 	<string id="ecologist_guard_outfit_name">
-		<text>Ќаучный комбинезон Ђ¬осходї</text>
+		<text>Ecologist guard suit</text>
 	</string>
 	<string id="merc_outfit_name">
-		<text> омбинезон наЄмников</text>
+		<text>Mercenary suit</text>
 	</string>
 	<string id="monolith_outfit_name">
-		<text> омбинезон Ђћонолитаї</text>
+		<text>Monolith suit</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
-		<text> омбинезон Ђ-траж свободыї</text>
+		<text>Freedom Guard bodysuit</text>
 	</string>
 	<string id="banditmerc_outfit_name">
 		<text> омбинезон бандитов</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[0,170,170,170]ѕредельно облегчЄнный костюм сталкера, производимый ремесленниками группировки Ђ-вободаї. »меет небольшой вес и повышенный комфорт при ношении за счЄт снижени€ физической защиты.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="merc_outfit_description">
-		<text>%c[0,170,170,170]ЋЄгкий комбинезон, поставл€емый наЄмникам в качестве единой экипировки. »меет слабую физическую и противоаномальную защиту, но отлично подходит дл€ дальних бросков по относительно безопасной местности.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]Outfit of choice for the Mercenaries. Lightweight overalls. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="banditmerc_outfit_description">
-		<text>%c[0,170,170,170] устарна€ верси€ комбинезона наЄмников, пользующа€с€ попул€рностью у бандитов.  ак и подобает подделке, комбинезон сделан из некачественных и дешЄвых материалов, в результате чего противоаномальна€ защита почти отсутствует, но низка€ цена позвол€ет закрыть глаза на все недочЄты.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170] устарна€ верси€ комбинезона наЄмников, пользующа€с€ попул€рностью у бандитов.  ак и подобает подделке, комбинезон сделан из некачественных и дешЄвых материалов, в результате чего противоаномальна€ защита почти отсутствует, но низка€ цена позвол€ет закрыть глаза на все недочЄты.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
-		<text> омбинезон Ђ¬етер свободыї</text>
+		<text>Wind of Freedom bodysuit</text>
 	</string>
 	<string id="svoboda_outfit_name">
 		<text> омбинезон ћ2</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>%c[0,170,170,170] омбинезон Ђƒолгаї €вл€етс€ модификацией комбинезона сталкеров с упором на физическую защиту, но ослабление антианомальной. явл€етс€ стандартной экипировкой солдат группировки Ђƒолгї.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]This modern version of Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, this suit provides good protection against anomalies while also being capable of stopping a pistol bullet. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system instead.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
@@ -131,7 +276,12 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>%c[0,170,170,170]-овременный армейский бронекостюм дл€ проведени€ штурмовых операций в зонах аномальной активности.  омпоненты: т€жЄлый бронежилет, комбинезон аномальной защиты и компенсационный костюм. ѕредоставл€ет великолепную защиту от пуль и осколков, но из-за большого веса сильно ограничивает подвижность носител€.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]очень низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]This modern military armored suit is designed for assault operations in anomalous areas. Mainly designed for Spetsnaz Units for the purposes of high risk operations. Comprises a PSZ-12p heavy military armored suit, built-in compensation suit, and an anomalous protection bodysuit. The armor provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer's mobility. Comes with built-in armor attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]
@@ -141,16 +291,61 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n\n \n</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>%c[0,170,170,170]ѕредназначен дл€ проведени€ исследовательской де€тельности в «оне. -набжЄн внешним изол€ционным покрытием и системой дыхани€ замкнутого цикла, благодар€ чему великолепно защищает от аномальных воздействий. ѕри этом стойкость к механическим воздействи€м невысока, поэтому носитель очень у€звим перед огнЄм противника. ѕроизводитс€ одним из киевских Ќ»» дл€ сталкеров, подписавших контракт с учЄными, но параллельно с этим успешно продаЄтс€ Ђналевої по завышенным ценам. -делан из бронированного комбинезона и системы дыхани€ с замкнутым циклом. »меет отличную защиту от аномальных воздействий и неплохую Ч от физических повреждений. ќдин из лучших костюмов в «оне. ѕо защите от аномалий уступает только комбинезонам серии --ѕ.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+44%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+44%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>%c[0,170,170,170]ћодифицированный дл€ работы в услови€х «оны армейский бронежилет серии ѕ-5 с бериллиевым напылением. ѕредназначен дл€ проведени€ штурмовых операций в област€х с повышенным радиационным фоном, но малоэффективен в услови€х высокой аномальной активности.   сталкерам попадает через военных, которые мен€ют армейское имущество на хабар.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]This item comprises military PS5 series body armor and beryllium sputter modified for use in the Zone. Designed for assault operations in high-radiation conditions, it is ineffective in areas of anomalous activity. The suit makes its way to the stalker community through the military, who exchange it for loot. Comes with built-in armor attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="svoboda_berill_outfit_description">
-		<text>%c[0,170,170,170]ћодифицированный под нужды группировки Ђ-вободаї бронежилет Ѕерилл. ѕредназначен дл€ проведени€ штурмовых операций. ‘изическа€ защита незначительно снижена в угоду усилени€ недостаточной антианомальной защиты. ѕопадает в hands Ђ-вободыї небольшими парти€ми через армейских генералов, которым выгодно поддерживать войну между группировками, зарабатыва€ на этом деньги.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]ћодифицированный под нужды группировки Ђ-вободаї бронежилет Ѕерилл. ѕредназначен дл€ проведени€ штурмовых операций. ‘изическа€ защита незначительно снижена в угоду усилени€ недостаточной антианомальной защиты. ѕопадает в hands Ђ-вободыї небольшими парти€ми через армейских генералов, которым выгодно поддерживать войну между группировками, зарабатыва€ на этом деньги.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>%c[0,170,170,170] омбинезон представл€ет собой сочетание двухслойной прорезиненной ткани с плексигласовой прокладкой и встроенного бронежилета.  остюм очень распространЄн из-за дешевизны и широких возможностей дл€ улучшени€, €вл€етс€ основой большинства модификаций основных комбинезонов локальных группировок. ѕроизводитс€ небольшими парти€ми за пределами «оны отчуждени€ в кустарных услови€х.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
@@ -160,7 +355,12 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
-		<text>\n \n%c[0,170,170,170]ћодернизированный вариант костюма Ђ«ар€ї дл€ нужд сталкеров, оффициально работающих на ученых. «а счет использовани€ более дорогих и качественных материалов имеет отличные, дл€ среднего комбинезона, характеристики в плане противоаномальной защиты. »спользуетс€ как исследовательскими сталкерскими группами, так и охранно-сопровождающим персоналом.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] medium armour\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>\n \n%c[0,170,170,170]ћодернизированный вариант костюма Ђ«ар€ї дл€ нужд сталкеров, оффициально работающих на ученых. «а счет использовани€ более дорогих и качественных материалов имеет отличные, дл€ среднего комбинезона, характеристики в плане противоаномальной защиты. »спользуетс€ как исследовательскими сталкерскими группами, так и охранно-сопровождающим персоналом.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] medium armour\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
@@ -170,7 +370,12 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_outfit_description">
-		<text>%c[0,170,170,170]-тандартный средний бронежилет Ђ„истого небаї, предназначенный дл€ проведени€ исследовательских операций. ќбеспечивает защиту, сравнимую с комбинезоном «ар€. »зготавливаетс€, суд€ по качеству, на заказ за пределами «оны, и это неудивительно - группировка располагает большим количеством важной информации и пользуетс€ этим, сотруднича€ с военными в обмен на материальное обеспечение.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]-тандартный средний бронежилет Ђ„истого небаї, предназначенный дл€ проведени€ исследовательских операций. ќбеспечивает защиту, сравнимую с комбинезоном «ар€. »зготавливаетс€, суд€ по качеству, на заказ за пределами «оны, и это неудивительно - группировка располагает большим количеством важной информации и пользуетс€ этим, сотруднича€ с военными в обмен на материальное обеспечение.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
@@ -180,7 +385,12 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="svoboda_outfit_description">
-		<text>%c[0,170,170,170]ћодификаци€ комбинезона сталкера, производима€ дл€ группировки Ђ-вободаї. ¬ сравнении с Ђ«арейї имеет чуть меньший вес и повышенный комфорт при ношении за счЄт уменьшени€ физической защиты.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]ћодификаци€ комбинезона сталкера, производима€ дл€ группировки Ђ-вободаї. ¬ сравнении с Ђ«арейї имеет чуть меньший вес и повышенный комфорт при ношении за счЄт уменьшени€ физической защиты.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
@@ -190,7 +400,12 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="dolg_heavy_outfit_description">
-		<text>%c[0,170,170,170]ћодификаци€ т€жЄлого костюма ЂЅулатї, приспособленна€ дл€ использовани€ в услови€х «оны. -пособен защитить от автоматной пули, но очень громоздкий, неудобный и обеспечивает слабую защиту от аномальных воздействий.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]очень низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
+		<text>%c[0,170,170,170]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armor modified in the Zone. The suit is capable of stopping a rifle bullet, however this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
 		Х %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]
 		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]
 		Х %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]
@@ -200,36 +415,128 @@
 		Х %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n</text>
 	</string>
 	<string id="cs_heavy3a_outfit_description">
-		<text>%c[0,170,170,170]Ўтатна€ экипировка т€жЄлых штурмовых отр€дов Ђ„истого небаї. ƒанный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. ќт костюмов своего класса отличаетс€ повышенной комфортностью при преодолении больших дистанций.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[255,238,153,26]средн€€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]Ўтатна€ экипировка т€жЄлых штурмовых отр€дов Ђ„истого небаї. ƒанный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. ќт костюмов своего класса отличаетс€ повышенной комфортностью при преодолении больших дистанций.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="csky_3b_outfit_description">
-		<text>%c[0,170,170,170]Ўтатна€ экипировка т€жЄлых штурмовых отр€дов Ђ„истого небаї. ƒанный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. ќт „Ќ-3а отличаетс€ меньшим удобством, но имеет разгрузочный жилет, позвол€ющий переносить большее количество полезной нагрузки.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]Ўтатна€ экипировка т€жЄлых штурмовых отр€дов Ђ„истого небаї. ƒанный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. ќт „Ќ-3а отличаетс€ меньшим удобством, но имеет разгрузочный жилет, позвол€ющий переносить большее количество полезной нагрузки.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый штурмовой комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>%c[0,170,170,170]ѕерва€ верси€ специального научного костюма --ѕ-99, созданного дл€ работы в услови€х «оны. -оздавалс€ в услови€х недостаточной информированности о происход€щем в «оне, из-за чего оказалс€ частично неудачным.  ак оказалось, костюм предоставл€ет недостаточную защиту дл€ научного персонала в плане химической и пси-защиты, а также крайне неустойчив к физическим повреждени€м при встрече с мутантами. Ќе рассчитан на ведение боевых действий, поэтому не обеспечивает никакой защиты ни от пуль, ни от осколков. ѕостепенно замен€етс€ на модернизированную версию, остава€сь пылитьс€ на складах, из-за чего достать его становитс€ всЄ проще.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]очень низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A SSP-99 chemical protection suit specifically designed for the Zone. It is used primarily by scientific expeditions and eco-stalkers. It has an integrated air filtering and conditioning system, thanks to which it offers excellent protection against radiation and chemical agents. It also includes a so called anomaly suppression system which provides exceptional heat and electrical resistance. Not fit for combat purposes, so it provides neither bullet nor shrapnel protection. Has no built-in mounts for additional modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_ecologist_outfit_grn_description">
-		<text>%c[0,170,170,170]Ќовейша€ модернизированна€ верси€ специального научного костюма --ѕ-99. Ѕыл лишЄн Ђдетских болезнейї предыдущей версии, таких как недостаточна€ химическа€ и пси-защита. “акже при изготовлении был применЄн альтернативный материал, намного более стойкий к разрыву, что повысило шансы владельца на выживание при встрече с мутантами.  остюм по прежнему не €вл€етс€ пригодным дл€ ведени€ полноценных боевый действий. ƒостать такой костюм крайне трудно из-за их малого количества в «оне и строгого учЄта.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]очень низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] голова: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] глаза: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] подбородок: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] ше€: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]Modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions as it provides good protection from radiation and biological anomalies. It is also resistant to chemical anomalies and other forms of anomalous threats. Has no built-in mounts for additional modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] научный костюм с замкнутой системой дыхани€\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
-		<text> омбинезон Ђ-≈¬јї</text>
+		<text>SEVA bodysuit</text>
 	</string>
 	<string id="st_ecologist_outfit_red_name">
-		<text>--ѕ-99</text>
+		<text>SSP-99</text>
 	</string>
 	<string id="st_ecologist_outfit_grn_name">
-		<text>--ѕ-99ћ</text>
+		<text>SSP-99M</text>
 	</string>
 	<string id="exolight_outfit_name">
 		<text>“Ѕ-1</text>
 	</string>
 	<string id="exolight_outfit_description">
-		<text>“€жЄлый бронекостюм (неоффициальное название - Ђ“Ѕ-1ї) обладает самой высокой физической защитой среди всех костюмов, доступных в «оне. ѕредположительно, изначально был создан дл€ группировки Ђћонолитї, но быстро попал в hands сталкеров, после чего стал изготавливатьс€ на заказ дл€ всех группировок. »з-за крайне большого веса используетс€ чаще всего вкупе с экзоскелетом, но иногда, при наличии антигравитационных артефактов, и без него. -реди простых сталкеров пользуетс€ спорной репутацией - одни говор€т, что из-за огромного веса и неудобства ношени€ “Ѕ-1 €вл€етс€ скорее гробом, чем защитой, иные же утверждают, что высока€ защищЄнность с лихвой покрывает все недостатки и такой бронекостюм позволит выжить даже в самых безнадЄжных услови€х, в отличие от других.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,204,0,51]очеь низка€\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]IV\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]V\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]V\n \n</text>
+		<text>“€жЄлый бронекостюм (неоффициальное название - Ђ“Ѕ-1ї) обладает самой высокой физической защитой среди всех костюмов, доступных в «оне. ѕредположительно, изначально был создан дл€ группировки Ђћонолитї, но быстро попал в hands сталкеров, после чего стал изготавливатьс€ на заказ дл€ всех группировок. »з-за крайне большого веса используетс€ чаще всего вкупе с экзоскелетом, но иногда, при наличии антигравитационных артефактов, и без него. -реди простых сталкеров пользуетс€ спорной репутацией - одни говор€т, что из-за огромного веса и неудобства ношени€ “Ѕ-1 €вл€етс€ скорее гробом, чем защитой, иные же утверждают, что высока€ защищЄнность с лихвой покрывает все недостатки и такой бронекостюм позволит выжить даже в самых безнадЄжных услови€х, в отличие от других.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] т€жЄлый бронекостюм\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]IV\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]V\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]V\n \n</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[0,170,170,170]ƒанный бронежилет разрабатывалс€ дл€ проведени€ поисковых операций в област€х с низкой аномальной активностью. ќбеспечивает минимальную защиту от мутантов, способен остановить пистолетную пулю на излЄте.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_light_outfit_description">
-		<text>%c[0,170,170,170]-тандартна€ лЄгка€ защита Ђ„истого небаї, предназначенна€ дл€ проведени€ разведки местности. Ѕронежилет обеспечивает минимальную защиту, расчитанную на внезапную встречу со слабыми мутантами или парочкой бандитов. Ќе предназначен дл€ ведени€ полноценных боевых действий.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]-тандартна€ лЄгка€ защита Ђ„истого небаї, предназначенна€ дл€ проведени€ разведки местности. Ѕронежилет обеспечивает минимальную защиту, расчитанную на внезапную встречу со слабыми мутантами или парочкой бандитов. Ќе предназначен дл€ ведени€ полноценных боевых действий.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] лЄгкий комбинезон\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
+		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 </string_table>
