@@ -162,50 +162,50 @@
 	<!-- Voronin (Duty Leader) army permission task -->
 
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_name">
-		<text>Временный договор с военными</text>
+		<text>Temporary agreement with the Military</text>
 	</string>
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_text">
-		<text>Имеется сертификат на 5 дней нейтралитета.</text>
+		<text>You own a permit, which guarantees you 5 days of neutrality with the Military.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_about">
-		<text>К военным наведаться решил? Если имеешь в наличии 25000 RU - могу оформить хоть сейчас. Скину цифровой сертификат на КПК, разошлю данные о тебе по своим каналам. Разрешение будет действовать 5 дней, продлевать нельзя. Понадобится ещё - подходи только по истечении предыдущего срока.</text>
+		<text>You decided to visit Military? If you have 25 000 RU in your pocket, I can issue you the permit right now. I'll send a digital certificate to your PDA, and I will let them know about you through their channels. Permission will be valid for 5 days and it won't be prolonged. After that, you'll have to buy another permit.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_finish">
-		<text>Срок действия истёк.</text>
+		<text>The period of permit's validity has expired.</text>
 	</string>
 
 	<!-- Informator killer permission task -->
 
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_name">
-		<text>Временный договор с наёмниками</text>
+		<text>Temporary agreement with the Mercenaries</text>
 	</string>
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_text">
-		<text>Имеется 7 дней нейтралитета.</text>
+		<text>You own a permit, which guarantees you 7 days of neutrality with the Mercenaries.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_about">
-		<text>С тебя 50000 RU, прямо на месте всё сделаю.</text>
+		<text>Pay me 50000 RU, and I'll get you the permit right now.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_finish">
-		<text>Срок действия истёк.</text>
+		<text>The period of permit's validity has expired.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 	<!-- Barmen Find meat -->
 
 	<string id="bar_visitors_barman_stalker_trader_task_1_name">
-		<text>Поиск провизии</text>
+		<text>Search for provisions</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_text">
-		<text>Принести Бармену %s.</text>
+		<text>Bring Barman %s.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_about">
-		<text>У меня возникли некоторые проблемы с поставкой свежего мяса. Интересно?</text>
+		<text>I have some problems with the supply of fresh meat. Interested?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
-		<text>Недавняя вылазка «Долга» для охоты на мутантов оказалась очень неудачной. К счастью, никто не погиб, но мяса я так и не увидел, а людей кормить чем-то надо. Так что, если есть желание подзаработать, доставь мне %s. И я буду благодарен, и «долговцам» про твою услугу расскажу.</text>
+		<text>Duty's recent mutant hunting was very unsuccessful. Fortunately, no one died, but I did get any meat. I still have to feed people with something. So, if you want to earn some money, get me a %s. I'll be very grateful, and I'll let Duty know about that.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_finish">
-		<text>Молодец, сталкер!</text>
+		<text>Well done, stalker!</text>
 	</string>
 
 
@@ -213,16 +213,16 @@
 	<!-- Barmen Find PDA -->
 
 	<string id="bar_visitors_barman_stalker_trader_task_2_name">
-		<text>Найти КПК</text>
+		<text>Find a PDA</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_text">
-		<text>Принести Бармену КПК.</text>
+		<text>Bring PDA to Barman.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_about">
-		<text>Мне нужно, чтобы ты забрал для меня КПК из одного тайника.</text>
+		<text>I need you to bring me my PDA from my stash.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
-		<text>Отлично! Вот твоя награда.</text>
+		<text>Excellent! Here is your reward.</text>
 	</string>
 
 
@@ -271,29 +271,29 @@
 	</string>
 	
 	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
-		<text>Уничтожить логово мутантов</text>
+		<text>Destroy the mutant's lair</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
-		<text>Полковник Петренко приказал зачистить местность.</text>
+		<text>Colonel Petrenko ordered me to clean the area.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
-		<text>Неподалёку отсюда мутанты устроили новое логово. Через те места постоянно ходят сталкеры - нельзя позволить, чтобы какая-нибудь псевдособака загрызла очередного новичка. Твоей задачей будет зачистить местность и обезопасить дорогу в Бар.</text>
+		<text>Some mutants have made themselves a new lair not so far away from here. Stalkers walk through that area all the time. We can not let any pseudo-dog bite any newcomer. Your task will be to clean the area and secure the way to the Bar.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_finish">
-		<text>Молодец! Держи свою награду.</text>
+		<text>Well done! Here's your reward.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_5_name">
-		<text>Спасти сталкера</text>
+		<text>Save the Stalker</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_5_text">
-		<text>Поступил приказ вернуть пропавшего сталкера.</text>
+		<text>I got an order to save the missing Stalker.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_5_about">
-		<text>На днях пропал местный сталкер. Мужики говорят, что просто пошёл на охоту и не вернулся. Я не могу организовать полноценную операцию по спасению ради одного человека, но и так просто это дело нельзя оставлять.</text>
+		<text>A few days ago, a local Stalker disappeared. The men say he just went hunting and never came back. I can't organize a full-scale rescue operation for one person, but this case can't be left alone.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_5_finish">
-		<text>Ну ты герой, хвалю! Держи, с меня причитается.</text>
+		<text>Good job! You're a hero! Here's your reward.</text>
 	</string>
 
 	<!-- bar_visitors_stalker_mechanic -->
