@@ -119,7 +119,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_faction_starts.xml - **done**
 
-- ui_st_inventory.xml - *work in progress*
+- ui_st_inventory.xml - **done**
 
 - ui_st_keybinding.xml - **done**
 
