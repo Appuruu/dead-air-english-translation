@@ -127,7 +127,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_mm.xml - **done**
 
-- ui_st_other.xml - *incomplete*
+- ui_st_other.xml - **done**
 
 - ui_st_pda.xml - **done**
 
