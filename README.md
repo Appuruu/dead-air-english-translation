@@ -11,7 +11,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_dialog_manager - **done**
 
-- st_dialogs.xml - **done**
+- st_dialogs.xml - **done** - **REVISED**
 
 - st_dialogs_bar.xml - **done**
 
