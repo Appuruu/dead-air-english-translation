@@ -73,9 +73,9 @@
 		<text>Sphere M12 headgear set</text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>%c[0,170,170,170]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n
+		<text>%c[0,170,170,170]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. Supports the installation of a night sight 1PN93-1. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлобронированный тактический шлем с ПНВ\n%c[0,153,255,255] 
+		• %c[0,140,140,140] armored helmet with night-vision\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+20%)\n \n
 		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
@@ -114,14 +114,14 @@
 	<string id="st_helm_cs_descr">
 		<text>%c[0,170,170,170]-тальной шлем модифицированный техниками группировки «Чистое небо». В составе модифицированная система дихания от тактического шлема «-фера 08», защищающая от химических веществ и радиоактивной пыли. Некоторые тяжёлые стальные компоненты были заменены на более лёгкие.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] боевой шлем с системой фильтрации воздуха\n%c[0,153,255,255] 
+		• %c[0,140,140,140] combat helmet with built-in air filtration system\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+16%)\n \n
 		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
 		• %c[0,140,140,140] M40 steel helmet (modernized) %c[0,170,170,170]1410 g\n%c[0,93,0,116] 
 		• %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]180 g\n \n%c[0,93,0,116] 
 		• %c[0,140,140,140] breathing apparatus %c[0,170,170,170]120 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] дыхательный фильтр 2хПДЕ-1 (модифицированный) %c[0,170,170,170]280 g\n
+		• %c[0,140,140,140] breathing filder 2хПДЕ-1 (modified) %c[0,170,170,170]280 g\n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
 		• %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
 		• %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
@@ -154,7 +154,7 @@
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] cloth wrap\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, обслуживании оружия (+4%)\n \n
+		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit, weapon repairs (+4%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
 		• %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
 		• %c[0,140,140,140] eyes: %c[0,170,170,170]none\n%c[0,93,0,116] 
@@ -180,9 +180,9 @@
 		<text>Sphere 08 headgear set</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>%c[0,170,170,170]A modern, high-quality, Western-made combat helmet with built-in air filtration system. Comes with multiple layers of Kevlar and hard armor to protect the user from physical damage. As it is made entirely from composites, it does not conduct electricity, thus rising overall electrical resistance of the user.\n \n
+		<text>%c[0,170,170,170]A modern, high-quality, Western-made combat helmet with built-in air filtration system and night-vision technology. Comes with multiple layers of Kevlar and hard armor to protect the user from physical damage. As it is made entirely from composites, it does not conduct electricity, thus rising overall electrical resistance of the user.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] бронированный шлем с системой фильтрации воздуха и ПНВ\n%c[0,153,255,255] 
+		• %c[0,140,140,140] armored helmet with air filtration system and night-vision\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+18%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -212,7 +212,7 @@
 	<string id="svoboda_light_outfit_description">
 		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] лёгкий комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -227,7 +227,7 @@
 	<string id="merc_outfit_description">
 		<text>%c[0,170,170,170]Outfit of choice for the Mercenaries. Lightweight overalls. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] лёгкий комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -240,9 +240,9 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="banditmerc_outfit_description">
-		<text>%c[0,170,170,170]Кустарная версия комбинезона наёмников, пользующаяся популярностью у бандитов. Как и подобает подделке, комбинезон сделан из некачественных и дешёвых материалов, в результате чего противоаномальная защита почти отсутствует, но низкая цена позволяет закрыть глаза на все недочёты.\n \n
+		<text>%c[0,170,170,170]Handicraft suit that regularly used by mercenaries, which happened to be popular among bandits. Made of low-quality and cheap materials, as a result of environmental protection is almost absent, but the relatively cheap price might convince someone to ignore all the flaws.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] лёгкий комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -263,7 +263,7 @@
 	<string id="dolg_outfit_description">
 		<text>%c[0,170,170,170]This modern version of Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, this suit provides good protection against anomalies while also being capable of stopping a pistol bullet. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system instead.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -278,7 +278,7 @@
 	<string id="military_outfit_description">
 		<text>%c[0,170,170,170]This modern military armored suit is designed for assault operations in anomalous areas. Mainly designed for Spetsnaz Units for the purposes of high risk operations. Comprises a PSZ-12p heavy military armored suit, built-in compensation suit, and an anomalous protection bodysuit. The armor provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer's mobility. Comes with built-in armor attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый бронекостюм\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -293,7 +293,7 @@
 	<string id="scientific_outfit_description">
 		<text>%c[0,170,170,170]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] научный костюм с замкнутой системой дыхания\n%c[0,153,255,255] 
+		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+44%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -312,7 +312,7 @@
 	<string id="specops_outfit_description">
 		<text>%c[0,170,170,170]This item comprises military PS5 series body armor and beryllium sputter modified for use in the Zone. Designed for assault operations in high-radiation conditions, it is ineffective in areas of anomalous activity. The suit makes its way to the stalker community through the military, who exchange it for loot. Comes with built-in armor attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый штурмовой комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -327,7 +327,7 @@
 	<string id="svoboda_berill_outfit_description">
 		<text>%c[0,170,170,170]Модифицированный под нужды группировки «-вобода» бронежилет Берилл. Предназначен для проведения штурмовых операций. Физическая защита незначительно снижена в угоду усиления недостаточной антианомальной защиты. Попадает в hands «-вободы» небольшими партиями через армейских генералов, которым выгодно поддерживать войну между группировками, зарабатывая на этом деньги.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый штурмовой комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -342,7 +342,7 @@
 	<string id="stalker_outfit_description">
 		<text>%c[0,170,170,170]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -355,7 +355,7 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
-		<text>\n \n%c[0,170,170,170]Модернизированный вариант костюма «Заря» для нужд сталкеров, оффициально работающих на ученых. За счет использования более дорогих и качественных материалов имеет отличные, для среднего комбинезона, характеристики в плане противоаномальной защиты. Используется как исследовательскими сталкерскими группами, так и охранно-сопровождающим персоналом.\n \n
+		<text>\n \n%c[0,170,170,170]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armour. Created specifically for members of the Ecologist faction, this suit is modelled after the popular Sunrise suit.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] medium armour\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
@@ -372,7 +372,7 @@
 	<string id="cs_outfit_description">
 		<text>%c[0,170,170,170]-тандартный средний бронежилет «Чистого неба», предназначенный для проведения исследовательских операций. Обеспечивает защиту, сравнимую с комбинезоном Заря. Изготавливается, судя по качеству, на заказ за пределами Зоны, и это неудивительно - группировка располагает большим количеством важной информации и пользуется этим, сотрудничая с военными в обмен на материальное обеспечение.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -387,7 +387,7 @@
 	<string id="svoboda_outfit_description">
 		<text>%c[0,170,170,170]Модификация комбинезона сталкера, производимая для группировки «-вобода». В сравнении с «Зарей» имеет чуть меньший вес и повышенный комфорт при ношении за счёт уменьшения физической защиты.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] средний комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -402,7 +402,7 @@
 	<string id="dolg_heavy_outfit_description">
 		<text>%c[0,170,170,170]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armor modified in the Zone. The suit is capable of stopping a rifle bullet, however this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый бронекостюм\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
@@ -417,7 +417,7 @@
 	<string id="cs_heavy3a_outfit_description">
 		<text>%c[0,170,170,170]Штатная экипировка тяжёлых штурмовых отрядов «Чистого неба». Данный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. От костюмов своего класса отличается повышенной комфортностью при преодолении больших дистанций.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый штурмовой комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -432,7 +432,7 @@
 	<string id="csky_3b_outfit_description">
 		<text>%c[0,170,170,170]Штатная экипировка тяжёлых штурмовых отрядов «Чистого неба». Данный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. От ЧН-3а отличается меньшим удобством, но имеет разгрузочный жилет, позволяющий переносить большее количество полезной нагрузки.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый штурмовой комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -447,7 +447,7 @@
 	<string id="st_ecologist_outfit_red_description">
 		<text>%c[0,170,170,170]A SSP-99 chemical protection suit specifically designed for the Zone. It is used primarily by scientific expeditions and eco-stalkers. It has an integrated air filtering and conditioning system, thanks to which it offers excellent protection against radiation and chemical agents. It also includes a so called anomaly suppression system which provides exceptional heat and electrical resistance. Not fit for combat purposes, so it provides neither bullet nor shrapnel protection. Has no built-in mounts for additional modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] научный костюм с замкнутой системой дыхания\n%c[0,153,255,255] 
+		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -466,7 +466,7 @@
 	<string id="st_ecologist_outfit_grn_description">
 		<text>%c[0,170,170,170]Modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions as it provides good protection from radiation and biological anomalies. It is also resistant to chemical anomalies and other forms of anomalous threats. Has no built-in mounts for additional modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] научный костюм с замкнутой системой дыхания\n%c[0,153,255,255] 
+		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -495,9 +495,9 @@
 		<text>ТБ-1</text>
 	</string>
 	<string id="exolight_outfit_description">
-		<text>Тяжёлый бронекостюм (неоффициальное название - «ТБ-1») обладает самой высокой физической защитой среди всех костюмов, доступных в Зоне. Предположительно, изначально был создан для группировки «Монолит», но быстро попал в hands сталкеров, после чего стал изготавливаться на заказ для всех группировок. Из-за крайне большого веса используется чаще всего вкупе с экзоскелетом, но иногда, при наличии антигравитационных артефактов, и без него. -реди простых сталкеров пользуется спорной репутацией - одни говорят, что из-за огромного веса и неудобства ношения ТБ-1 является скорее гробом, чем защитой, иные же утверждают, что высокая защищённость с лихвой покрывает все недостатки и такой бронекостюм позволит выжить даже в самых безнадёжных условиях, в отличие от других.\n \n
+		<text>heavy armored suit (неоффициальное название - «ТБ-1») обладает самой высокой физической защитой среди всех костюмов, доступных в Зоне. Предположительно, изначально был создан для группировки «Монолит», но быстро попал в hands сталкеров, после чего стал изготавливаться на заказ для всех группировок. Из-за крайне большого веса используется чаще всего вкупе с экзоскелетом, но иногда, при наличии антигравитационных артефактов, и без него. -реди простых сталкеров пользуется спорной репутацией - одни говорят, что из-за огромного веса и неудобства ношения ТБ-1 является скорее гробом, чем защитой, иные же утверждают, что высокая защищённость с лихвой покрывает все недостатки и такой бронекостюм позволит выжить даже в самых безнадёжных условиях, в отличие от других.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] тяжёлый бронекостюм\n%c[0,153,255,255] 
+		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -512,7 +512,7 @@
 	<string id="svoboda_light_outfit_description">
 		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] лёгкий комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
@@ -527,7 +527,7 @@
 	<string id="cs_light_outfit_description">
 		<text>%c[0,170,170,170]-тандартная лёгкая защита «Чистого неба», предназначенная для проведения разведки местности. Бронежилет обеспечивает минимальную защиту, расчитанную на внезапную встречу со слабыми мутантами или парочкой бандитов. Не предназначен для ведения полноценных боевых действий.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] лёгкий комбинезон\n%c[0,153,255,255] 
+		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
