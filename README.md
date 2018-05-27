@@ -77,7 +77,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_agroprom.xml - **done**
 
-- st_quests_bar.xml - *incomplete*
+- st_quests_bar.xml - **done**
 
 - st_quests_darkscape.xml - **done**
 
