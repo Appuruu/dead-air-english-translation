@@ -276,17 +276,17 @@
 	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
 		<text>Great, you are a good hunter after all! I have payment for you.</text>
 	</string>
-	<string id="mar_base_stalker_barmen_task_6_name">
-		<text>”ничтожить лагерь бандитов</text>
+	<string id="mar_base_stalker_barmen_task_6_name"> <!-- revision -->
+		<text>Raid Bandit Camp</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_6_text">
-		<text>Ќеобходимо зачистить данную местность от бандитов.</text>
+		<text>I have been asked to clean out a camp from the bandits.</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_6_about">
-		<text>Ќа севере есть одна очень неспокойна€ точка - сама по себе была ничем не примечательна€, но с недавних пор там обосновались бандиты. —уд€ по последним разведданным, они планируют и дальше укрепл€ть свои позиции на Ѕолотах, что не сулит нам ничего хорошего. ¬озьмЄшьс€ вырубить эту заразу на корню, пока ещЄ не поздно?</text>
+		<text>Up to the North, there is a remarkable camp not far from here. Usually the place is quiet enough, but recently some bandits have settled there. According to the latest reports, they plan to further strengthen their positions in the Swamps. This is a bad sign, would you take the mission to bring them down before it's too late?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_6_finish">
-		<text>ќтлично, теперь местность будет немного спокойнее.</text>
+		<text>Great, now the swamps will be a quieter place.</text>
 	</string>
 
 
