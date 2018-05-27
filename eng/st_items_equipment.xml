@@ -522,7 +522,7 @@
 		<text>Simple cloth sheet, commonly used both to patch clothing and spread oils and cleaning solvents onto firearm mechanisms. Can be applied by any needle or glue.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+3%)</text>
 	</string>
 	<string id="st_textile_patch_m">
 		<text>Sheet of tarpaulin</text>
@@ -531,7 +531,7 @@
 		<text>Sheet of military-grade textile that can be used for field repairs of clothing and light armor. Valued for its relatively low price and high versatility, this material is commonly used by the Zoners. Medium-grade sewing equipment and advanced glue required for use. It can also be used to improve spread of liquids during weapon maintenance.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+4%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+4%)</text>
 	</string>
 	<string id="st_textile_patch_e">
 		<text>Reinforced canvas sheet</text>
@@ -540,7 +540,7 @@
 		<text>Thick textile patch reinforced with kevlar padding. Can be used to repair medium and heavy armors. Large enough to cover multiple damaged areas. High quality sewing kits and adhesives are required to make use of it. Its alternative usage is weapon lubrication and cleaning - due to increased hardness it's able reach even less accessible areas of firearm parts.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+6%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+6%)</text>
 	</string>
 	<string id="st_steel_wool">
 		<text>Steel wool</text>
@@ -1287,7 +1287,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] personal belongings\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+3%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+3%)</text>
 	</string>
 	<string id="st_wpn_spareparts">
 		<text>Weapon spare parts</text>
@@ -1296,7 +1296,7 @@
 		<text>Spare parts for what looks to be an AKM assault rifle. The wooden parts are not in a very good condition, and the same can be said of metal elements. Only novices would be interested in buying them. However, it seems that they may be useful for equipment repairs. Certain Zoners replace some parts when finding a new weapon out in the open in order to avoid being hunted for stealing from someone's stash.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+10%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+10%)</text>
 	</string>
 	<string id="st_beadspread">
 		<text>Bedspread</text>
@@ -1366,7 +1366,7 @@
 		<text>Want to open cans of food, keep your mechanical gear tight, cut ropes or sharpen your best bullets? Use the universal and elegant Swiss knife. Packed in a small box. Commonly found in the Zone, so it is of little value. However, it can be utilized as a supportive material in both weapon and outfit repairs.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+2%)\n%c[255,238,153,26] 
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+2%)\n%c[255,238,153,26] 
 		• %c[0,140,140,140] unlimited usages</text>
 	</string>
 	<string id="st_headlamp">
@@ -1423,7 +1423,7 @@
 		<text>A tarpaulin (or hootch) is a large sheet of strong, flexible, water-resistant or waterproof material, often cloth such as canvas or polyester coated with urethane, or made of plastics such as polyethylene. It has reinforced grommets at the corners and along the sides to form attachment points for rope, allowing them to be tied down or suspended. Serves many purposes, but is mainly used to create small and simple tent-like hideouts. Trading value is low due to easily found alternatives.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for:%c[0,170,170,170] equipment repair, weapon maintenance (+5%)</text>
+		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repair, weapon maintenance (+5%)</text>
 	</string>
 	<string id="st_rope">
 		<text>Rope</text>
