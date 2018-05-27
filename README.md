@@ -59,7 +59,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_items_quest.xml - **done**
 
-- st_items_weapons.xml - *incomplete*
+- st_items_weapons.xml - **done**
 
 - st_items_weapons_upgrades.xml - *incomplete*
 
