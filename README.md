@@ -105,7 +105,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_yantar.xml - **done**
 
-- st_quests_zaton.xml - *incomplete*
+- st_quests_zaton.xml - **done**
 
 - st_subtitles.xml - **done**
 
