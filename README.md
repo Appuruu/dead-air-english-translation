@@ -81,7 +81,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_darkvalley.xml - **done**
 
-- st_quests_deadcity.xml - *incomplete*
+- st_quests_deadcity.xml - **done**
 
 - st_quests_escape.xml - *incomplete*
 
@@ -89,9 +89,9 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_jupiter.xml - *incomplete*
 
-- st_quests_marsh.xml - *incomplete*
+- st_quests_marsh.xml - **done**
 
-- st_quests_military.xml - *incomplete*
+- st_quests_military.xml - **done**
 
 - st_quests_pripyat.xml - **done**
 
