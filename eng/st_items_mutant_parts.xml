@@ -104,18 +104,17 @@
 		<text>Chunk of chimera meat</text>
 	</string>
 	<string id="mutant_rat_corpse_description">
-		<text>Among all animals caught within the Exclusion Zone, rats showed very small changes as a result of mutations while gaining good immunity to radiation and abnormal effects. Might interest scientists.\n \n
+		<text>Из всех животных, оказавшихся в пределах Зоны отчуждения, крысы претерпели наименьшие изменения в результате мутаций, приобретя хороший иммунитет к радиации и аномальным воздействиям. Может заинтересовать учёных.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,0,255,30] 
 		• %c[0,140,140,140] low-tier mutant meat\n%c[0,0,255,30] 
 		• %c[0,140,140,140] cookable\n%c[0,204,0,51] 
 		• %c[0,140,140,140] toxic food</text>
 	</string>
 	<string id="mutant_rat_corpse">
-		<text>Rat carcass</text>
+		<text>Тушка крысы</text>
 	</string>
 	<string id="mutant_rat_meat_description">
-		<text>Among all animals caught within the Exclusion Zone, rats showed very small changes as a result of mutations while gaining good immunity to radiation and abnormal effects. Might interest scientists.\n \n
-		%c[0,204,0,51]WARNING:\n \n%c[default]Stalkers are advised to refrain from eating raw meat as animals and mutants in the Zone are likely to be carrying trichinellosis or brucellosis. These diseases are transmitted by ingesting infected meat. The symptoms include fever, fatigue and appetite loss, all of which are extremely dangerous given the conditions in the Zone. Abscesses, fungal growth and tumors on the surface of the body indicate that the meat is infected and should be disposed of.\n \n
+		<text>Из всех животных, оказавшихся в пределах Зоны отчуждения, крысы претерпели наименьшие изменения в результате мутаций, приобретя хороший иммунитет к радиации и аномальным воздействиям. Может заинтересовать учёных.\n \n%c[0,204,0,51]ВНИМАНИЕ:\n \n%c[default]-талкерам рекомендуется воздержаться от употребления такого рода мяса животных и мутантов в Зоне в сыром виде, так как оно наверняка заражено трихинеллёзом или бруцеллёзом. Эти заболевания передаются при употреблении заражённого мяса. -имптомы включают в себя лихорадку, усталость и потерю аппетита, что в суровых условиях Зоны весьма опасно. Абсцессы, странные опухоли на мясе дают понять, что оно заражено, и его следует выбросить.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,0,255,30] 
 		• %c[0,140,140,140] low-tier mutant meat\n%c[0,0,255,30] 
 		• %c[0,140,140,140] cookable\n%c[0,204,0,51] 
@@ -169,14 +168,14 @@
 		<text>Pseudodog tail</text>
 	</string>
 	<string id="mutant_psy_dog_brain_description">
-		<text>Psi-dog is a subspecies (according to another version, the next stage of evolution) of pseudodogs. It is distinguished by a high level of intelligence and unique psi-abilities, which allow them to create clones and partially take control of ordinary blind dogs. All of this, according to scientists, is a result of their mutated brain. The nature of these mutations is still a matter of debate between scientists: some believe that mutations occur under the influence of strong psi-fields, others believe that the cause of the mutations is a natural evolution of pseudodogs, third group argue that these creatures created directly from laboratory experiments of psi-orientation, which were put on these mutants. Either way, this brain is a very valuable and rare scientific sample due to the low population of psi-dogs within the zone.\n \n
+		<text>Пси-собака явяется подвидом (по другой версии – следующей ступенью эвоюции) псевдособаки. Отличается высоким уровнем интеллекта и уникальными пси-способностями, позвояющими создавать свои клоны-июзии и частично брать под контроль обычных слепых псов. За всё это, по мнению учёных, отвечает её мутировавший мозг. Природа этих мутаций по прежнему является предметом споров между учёными: одни считают, что мутации происходят под действием сильных пси-полей; другие – что причина мутаций в естественной эволюции псевдособак; третьи же называют причиной непосредственно лабораторные экперименты пси-направленности, которые ставились на этих мутантах. Так или иначе, этот мозг является очень ценным и редким научным образцом вследствие низкой популяции пси-собак в пределах ЧЗО.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] mutated body part\n%c[0,153,255,255] 
 		• %c[0,140,140,140] extraordinary scientific specimen\n%c[0,153,255,255] 
 		• %c[0,140,140,140] very valuable</text>
 	</string>
 	<string id="mutant_psy_dog_brain">
-		<text>Psi-dog brain</text>
+		<text>Мозг пси-собаки</text>
 	</string>
 	<string id="mutant_krovosos_jaw_description">
 		<text>Bloodsucker tentacles contain a special gland which produces an enzyme capable of dissolving the skin and simultaneously preventing blood from clotting. Discovering the enzyme's composition could be the cornerstone of a whole series of great medical advances. Some stalkers tend to use bloodsucker teeth to make necklaces and charms. It is thus safe to say that bloodsucker jaw is one of the most popular pieces of jewelry found in the Zone.\n \n
@@ -201,8 +200,8 @@
 	<string id="mutant_snork_mask_description">
 		<text>Masks worn by snorks are apparently a version of GP-5 Soviet-made gas mask which was commonly used by soldiers as well as research and utility crews operating in the Zone when the second Chernobyl disaster occurred. Some of these people were working in numerous underground laboratories in which they were sealed from the outside world and exposed to tremendous amounts of radiation, which produced a creature we know as snork. The mask, although broken beyond use (with cracked lenses and punctured filter hose), is still in demand by the scientific community. It can also be used to repair parts of outfit, but this process results in all remaining organic material being lost.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] technological item\n%c[0,204,0,51] 
-		• %c[0,140,140,140] broken beyond repair\n%c[0,153,255,255] 
+		• %c[0,140,140,140] технологический предмет\n%c[0,204,0,51] 
+		• %c[0,140,140,140] сломано, не подлежит ремонту\n%c[0,153,255,255] 
 		• %c[0,140,140,140] common scientific specimen\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+4%)</text>
 	</string>
