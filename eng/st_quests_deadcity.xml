@@ -296,20 +296,20 @@
 	</string>
 
 	
-	<string id="cit_killers_merc_medic_stalker_task_1_name">
-		<text>Найти Хирургу %s</text>
+	<string id="cit_killers_merc_medic_stalker_task_1_name"> <!-- revision -->
+		<text>Find %s for Surgeon</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_text">
-		<text>Необходимо достать %s и отнести его Хирургу.</text>
+		<text>Surgeon is on shortage of %s, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_about">
-		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
-		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
-		<text>Отлично, теперь работа пойдёт быстрее.</text>
+		<text>Great, back to work.</text>
 	</string>
 
 
