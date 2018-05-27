@@ -305,7 +305,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] drink\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] сильное уменьшение сонливости</text>
+		Х %c[0,140,140,140] significant sleepiness decrease</text>
 	</string>
 	<string id="st_guitar_descr">
 		<text>Guitar is a string instrument widely used by stalkers of all factions throughout the Zone in order to raise spirits and fraternize. Stalkers can often be seen playing the guitar in camps, outposts or other places of relative safety - usually by the fire.\n \n
@@ -512,7 +512,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] drink\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] мощный отрезвл€ющий эффект\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] potent alcohol sobering effect\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] moderate sleepiness decrease</text>
 	</string>
 	<string id="st_textile_patch_b">
@@ -569,14 +569,14 @@
 		Х %c[0,140,140,140] made for knives\n \n%c[0,170,170,170]If you've got a blunt knife or blade, don't leave them like that, this universal set will help fix things. It has three components: a grinding bar, sharpening tool and a tool for later cleaning the blade.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] рем. комплект\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] toolkit\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high-quality product\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] usable for repairing equipment\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]10%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]20%\n \n
 		%c[0,140,140,140]SUPPORTED MATERIALS:\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] стальна€ пр€жа %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чист€щий растворитель %c[0,170,170,170]+3-7%\n \n</text>
+		Х %c[0,140,140,140] steel wool %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] cleaning solvents %c[0,170,170,170]+3-7%\n \n</text>
 	</string>
 	<string id="st_cleaning_kit_p">
 		<text>Cleaning Kit "Progress"</text>
@@ -586,18 +586,18 @@
 		Х %c[0,140,140,140] suitable for 5.7 mm, 7.85 mm, 9 mm, .45 and .357 caliber weaponry\n \n%c[0,170,170,170]A set of brushes made for cleaning weaponry. It is used all around the Zone by any stalker, can be used with a general purpose tools for more detialed cleaning or it can be used with cleaning solutions for more effective grease removal. This kit is suitable for most guns found in the Zone.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]чистки %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]cleaning %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]75%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]5%\n \n
 		%c[0,140,140,140]SUPPORTED MATERIALS:\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] оружейные смазки %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] инструменты дл€ тонкой работы %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чист€щие растворители %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] промышленна€ смазка %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] стальна€ пр€жа %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] алкоголь %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] животный жир %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чиста€ вода %c[0,170,170,170]+1%</text>
+		Х %c[0,140,140,140] gun oils %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] light tools %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] cleaning solvents %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] industrial grease %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] steel wool %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] alcohol %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] animal fat %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] clean water %c[0,170,170,170]+1%</text>
 	</string>
 	<string id="st_cleaning_kit_s">
 		<text>Cleaning kit "Aurora A108 / 12"</text>
@@ -607,18 +607,18 @@
 		Х %c[0,140,140,140] suitable for  12 gauge calibers\n \n%c[0,170,170,170]A special set of brushes for cleaning weaponry. This set is suitable for twelve gauge caliber weapons. Can be used with a general purpose tools for more detialed cleaning or it can be used with cleaning solutions for more effective grease removal.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]чистки %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]cleaning %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]75%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]5%\n \n
 		%c[0,140,140,140]SUPPORTED MATERIALS:\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] оружейные смазки %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] инструменты дл€ тонкой работы %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чист€щие растворители %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] промышленна€ смазка %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] стальна€ пр€жа %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] алкоголь %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] животный жир %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чиста€ вода %c[0,170,170,170]+1%</text>
+		Х %c[0,140,140,140] gun oils %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] light tools %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] cleaning solvents %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] industrial grease %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] steel wool %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] alcohol %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] animal fat %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] clean water %c[0,170,170,170]+1%</text>
 	</string>
 	<string id="st_cleaning_kit_r">
 		<text>Rifle cleaning kit</text>
@@ -628,18 +628,18 @@
 		Х %c[0,140,140,140] suitable for 5.45, 5.56, 7.62, 7.92, .338, 12.7 and 9x39 weapon calibers\n \n%c[0,170,170,170]A special set of brushes for cleaning weaponry. Can be used with a general purpose tools for more detialed cleaning or it can be used with cleaning solutions for more effective grease removal. This kit is suitable for long and medium caliber weaponry.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]чистки %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]cleaning %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]75%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]5%\n \n
 		%c[0,140,140,140]SUPPORTED MATERIALS:\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] оружейные смазки %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] инструменты дл€ тонкой работы %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чист€щие растворители %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] промышленна€ смазка %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] стальна€ пр€жа %c[0,170,170,170]+5%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] алкоголь %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] животный жир %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] чиста€ вода %c[0,170,170,170]+1%</text>
+		Х %c[0,140,140,140] gun oils %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] light tools %c[0,170,170,170]+2-5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] cleaning solvents %c[0,170,170,170]+2-6%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] industrial grease %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] steel wool %c[0,170,170,170]+5%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] alcohol %c[0,170,170,170]+2-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] animal fat %c[0,170,170,170]+1-4%\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] clean water %c[0,170,170,170]+1%</text>
 	</string>
 
 	<string id="st_toolkit_p">
@@ -652,7 +652,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26]
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ дефектов %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]maintaining %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]50%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]15%\n</text>
 	</string>
@@ -673,14 +673,14 @@
 		Х %c[0,140,140,140 suitable for 12 gauge weapon calibers\n \n
 		%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for 12 gauge shotguns. It can also be combined with other materials and additional kits.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] технологическое приспособление\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ дефектов %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]maintaining %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]50%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]15%\n</text>
 	</string>
 	<string id="st_toolkit_s_empty">
-		<text>Ќабор инструментов дл€ дробовиков (пустой)</text>
+		<text>Shotgun toolkit (empty)</text>
 	</string>
 	<string id="st_toolkit_s_empty_descr">
 		<text>An empty metal box which used to have tools for disassembling 12 gauge caliber weapons. Although empty, but can be useful when repairing metal parts of equipment. Not particularly in demand, so it has no real value.\n \n
@@ -693,11 +693,11 @@
 	</string>
 	<string id="st_toolkit_r_descr">
 		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[255,238,153,26] 
-		Х %c[0,140,140,140] suitable for 5.45, 5.56, 7.62, 7.92, .338, 12.7 and 9x39 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for 12 gauge shotguns. It can also be combined with other materials and addtional kits.\n \n
+		Х %c[0,140,140,140] suitable for 5.45, 5.56, 7.62, 7.92, .338, 12.7 and 9x39 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for 12 gauge shotguns. It can also be combined with other materials and additional kits.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ дефектов %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]maintaining %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]50%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]15%\n</text>
 	</string>
@@ -720,7 +720,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ поломок %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]repairing %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]10%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]25%\n</text>
 	</string>
@@ -742,7 +742,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ поломок %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]repairing %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]10%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]25%\n</text>
 	</string>
@@ -760,11 +760,11 @@
 	</string>
 	<string id="st_repair_kit_r_descr">
 		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[255,238,153,26] 
-		Х %c[0,140,140,140] suitable for  5.45, 5.56, 7.62, 7.92, .338, 12.7 and 9x39 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for rifles of any caliber. It can also be combined with other materials and addtional kits..\n \n
+		Х %c[0,140,140,140] suitable for  5.45, 5.56, 7.62, 7.92, .338, 12.7 and 9x39 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for rifles of any caliber. It can also be combined with other materials and additional kits..\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] valuable\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] предназначено дл€ %c[0,170,170,170]исправлени€ поломок %c[0,140,140,140]оружи€\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] intended for %c[0,170,170,170]repairing %c[0,140,140,140]weapons\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]10%\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] base condition gain: %c[0,170,170,170]25%\n</text>
 	</string>
@@ -1036,7 +1036,7 @@
 		<text>Military flasks are intended for storing small amounts of water. Prepared by medics and scientists. First, the water - combined with a special type of alcohol - is boiled at a very high temperature for purification and disinfection. Afterwards, it is cooled in refrigerators, to which it owes its refreshing "spark." The end result is water that is completely radiation-free. If in spite of the above, you still have doubts concerning its purity, you can always use akvatab. Due to the cost of production, military flasks are in a limited supply and are sold at a moderate price. Medics also have them in stock, but they're slightly more expensive as they include the cost of transportation.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] drink\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] незначительное health improvement\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] clean nutrition source\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+1%)</text>
 	</string>
 	<string id="st_akvatab">
@@ -1051,7 +1051,7 @@
 	<string id="st_old_book">
 		<text>Old book</text>
 	</string>
-	<string id="st_old_book_descr">
+	<string id="st_old_book_descr"> <!-- revision -->
 		<text>ќбычна€ ничем не примечательна€ книга. Ќа некоторых страницах можно заметить жирные п€тна или загнутые уголки, что указывает на то, что ей когда-то активно пользовались.   сожалению, долгое хранение в отвратительных услови€х сказалось самым негативным образом - многие листы оказались вырваны или испорчены, а переплЄт держитс€ на одном лишь честном слове. ѕусть целесообразность ее чтени€ и стоит под большим вопросом, однако дл€ такой бумаги можно найти и иное применение. \n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] personal belongings\n%c[255,238,153,26] 
@@ -1090,7 +1090,7 @@
 		<text>Mapmaking kit containing a set of pens and measurement instruments. All in a waterproof and camouflaged cover of high quality. Used by and issued to Ukrainian artillery personnel. Some maps have not yet been completed. Your PDA is much more useful than any of this.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] открывает расположение аномальных зон при использовании</text>
+		Х %c[0,140,140,140] shows the location of anomalous zones</text>
 	</string>
 	<string id="st_bottle_metal">
 		<text>"Moonshine" bottle</text>
@@ -1099,7 +1099,8 @@
 		<text>Metal bottle containing a portion of what seems to be Zone-produced vodka. It doesn't smell right and the fumes are strong.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,204,0,51] 
-		Х %c[0,140,140,140] strong, low quality alcohol\n%c[255PROPERTIES:%c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
+		Х %c[0,140,140,140] strong, low quality alcohol\n%c[255,238,153,26]
+		Х %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
 	</string>
 	<string id="st_geiger">
 		<text>Geiger counter</text>
@@ -1108,7 +1109,7 @@
 		<text>A Geiger counter measures ionizing (radioactive) radiation. It detects the emission of alpha particles, beta particles and gamma particles. Invented in 1908, Geiger counters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item \n%c[255,238,153,26] 
-		Х %c[0,140,140,140] измер€ет уровень радиоактивного заражени€</text>
+		Х %c[0,140,140,140] measures the level of radioactive contamination</text>
 	</string>
 	<string id="st_welding_goggles">
 		<text>Welding goggles</text>
@@ -1127,7 +1128,7 @@
 		Х %c[0,140,140,140] medicine\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] clean nutrition source\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] slow usage (field kit)\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] сильное уменьшение сонливости\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] significant sleepiness decrease\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+7%)</text>
 	</string>
 	<string id="st_jewelry_box">
@@ -1143,11 +1144,12 @@
 		<text>Cooking set</text>
 	</string>
 	<string id="st_cooking_descr">
-		<text>A field cooking travel kit. Contains cooking accessories and utensils for use when camping and travelling. Produces a lot of noise and is unwieldy due to its heavy weight. Very popular among larger groups of stalkers.\n \n%c[0,210,210,210]NOTES:\n%c[0,170,170,170]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
+		<text>A field cooking travel kit. Contains cooking accessories and utensils for use when camping and travelling. Quite cheap and takes up little space, it has little weight as well. This kit is very popular among large groups in stalkers.\n\n
+		%c[0,210,210,210]NOTE:\n%c[0,170,170,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,0,255,30] 
 		Х %c[0,140,140,140] low-tier field cooking equipment\n%c[0,0,255,30] 
-		Х %c[0,140,140,140] требует:%c[0,170,170,170] источник огн€\n%c[0,0,255,30] 
+		Х %c[0,140,140,140] requires:%c[0,170,170,170] fire source\n%c[0,0,255,30] 
 		Х %c[0,140,140,140] usable for cooking meats of lesser mutants</text>
 	</string>
 	<string id="st_book1">
@@ -1193,7 +1195,7 @@
 	<string id="st_itm_sleepbag_descr">
 		<text>A light sleeping bag that will keep you warm and dry when you need to rest. Be sure to pick a safe spot with a possible escape route. The bag is automatically picked up after sleeping or if hit "cancel" button.\n \n%c[0,153,255,255]WARNING:\n \n%c[0,170,170,170]Sleeping in the open may attract predators. Does not protect from radiation.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] разворачивает спальный мешок\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] sets up portable bed\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] unlimited usages\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] everyday item</text>
 	</string>
@@ -1206,7 +1208,7 @@
 	<string id="st_kit_hunt_descr">
 		<text>A whole bag full of hooks, knives and other equipment used for skinning and gutting animals and mutants. Few stalkers carry professional equipment for mutant hunting. That is probably the reason why so many Zoners suffer from indigestion after eating mutant meat. Thanks to the variety of tools, the kit can effectively improve weapon and armor maintenance.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] элемент экипировки\n%c[255,238,153,26] 
+		Х %c[0,140,140,140] equipment\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] possession increases number of body parts obtained from mutants</text>
 	</string>
 	<string id="st_porn2"> <!-- wip -->
@@ -1308,7 +1310,7 @@
 	<string id="st_tent">
 		<text>Tent</text>
 	</string>
-	<string id="st_tent_descr">
+	<string id="st_tent_descr"> <!-- wip -->
 		<text>Ѕрезентова€ палатка €вл€етс€ широко известным временным сооружением, способным предоставить укрытие от ветра, дожд€ или пыли. »спользуемый материал был подвергнут огнеупорной, водоотталкивающей и противогнилостной пропиткам.</text>
 	</string>
 	<string id="st_walkie">
@@ -1336,7 +1338,7 @@
 		<text>A favorite amongst Russians and many people the world over. A Russian vodka of high quality. Highly popular in the Zone and widely available most probably owing to an outside connection of one of the traders. In order to avoid detection by the military units stationing around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] drink\n%c[0,153,255,255] 
-		Х %c[0,14PROPERTIES:ул€тор\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] stimulant\n%c[0,204,0,51]
 		Х %c[0,140,140,140] strong alcohol\n%c[255,238,153,26] 
 		Х %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+4%)</text>
 	</string>
@@ -1346,7 +1348,7 @@
 	<string id="st_ammo_bad_descr">
 		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimize the risk of a weapon jam in the heat of battle. This ammo is in a bad condition and should be discarded.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] возможно перебрать дл€ получени€ пригодных дл€ стрельбы патронов</text>
+		Х %c[0,140,140,140] can be sorted out to obtain usable ammunition</text> <!-- revision -->
 	</string>
 	<string id="st_mili_maps">
 		<text>Military maps</text>
@@ -1355,7 +1357,7 @@
 		<text>Maps showing the location of military camps around the Zone. Each PDA comes with these maps installed, so this item is of little use to anyone.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] открывает расположение аномальных зон при использовании</text>
+		Х %c[0,140,140,140] shows the location of anomalous zones</text>
 	</string>
 	<string id="st_swiss">
 		<text>Swiss knife</text>
@@ -1392,7 +1394,7 @@
 		<text>A pack of fully charged military batteries. Very valuable and in high demand due to the relative scarcity of batteries in the Zone. Used by all factions and Zoners of all levels, from rookies to master stalkers. Supplied to traders by corrupt military officers trying to earn some extra dough in the Zone.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] зар€дка:%c[0,170,170,170] +93%</text>
+		Х %c[0,140,140,140] UPD charge:%c[0,170,170,170] +93%</text>
 	</string>
 	<string id="st_cocaine">
 		<text>Cocaine</text>
@@ -1401,14 +1403,14 @@
 		<text>Small aluminum case containing cocaine and the tools facilitating use. Cocaine is a powerful nervous system stimulant. Its effects can last from 15-30 minutes to an hour, depending on the route of administration. Cocaine increases alertness, induces feelings of well-being, competence and sexuality. Anxiety, paranoia and restlessness are common side effects. With excessive dosage, tremors, convulsions and increased body temperature are observed. Bandits are known for sniffing this drug right before launching an assault or ambush.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] среднее health improvement\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] сильное уменьшение сонливости</text>
+		Х %c[0,140,140,140] slight health restoration on use\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] significant sleepiness decrease</text>
 	</string>
-	<string id="st_tetanus"> <!-- wrong? -->
+	<string id="st_tetanus"> <!-- wip -->
 		<text>Antibiotic</text>
 	</string>
 	<string id="st_tetanus_descr">
-		<text>»нъекци€ быстродействующего антибиотика. ѕоказани€ к применению - т€жЄлые отравлени€ и высокий уровень интоксикации организма. ¬ услови€х «оны рекомендуетс€ использование инъекции после каждого приЄма в пищу 1кг местной фауны, м€со которой крайне богато разичными возбудител€ми болезней даже после термической обработки. ¬ состав этого препарата также вход€т вещества, снимающие посталкогольный синдром.\n \n
+		<text>»нъекци€ быстродействующего антибиотика. ѕоказани€ к применению - т€жЄлые отравлени€ и высокий уровень интоксикации организма. ¬ услови€х «оны рекомендуетс€ использование инъекции после каждого приЄма в пищу 1кг местной фауны, м€со которой крайне богато разичными возбудител€ми болезней даже после термической обработки. ¬ состав этого препарата также вход€т вещества, снимающие постalcoholный синдром.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] medicine\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,153,255,255] 
@@ -1459,7 +1461,7 @@
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high health improvement \n%c[0,153,255,255] 
-		Х %c[0,140,140,140] сильное уменьшение сонливости</text>
+		Х %c[0,140,140,140] significant sleepiness decrease</text>
 	</string>
 	<string id="st_radio">
 		<text>Portable radio</text>
@@ -1488,12 +1490,12 @@
 		<text>Quick release system (QRS)</text>
 	</string>
 	<string id="st_itm_qr_descr">
-		<text>ќдна из худших вещей в «оне, которые могут случитьс€ с вами - это если вас застанут врасплох. ’оть QR-система не поможет вам избежать таких ситуаций, но, безусловно, поможет выпутатьс€ из сложившихс€ обсто€тельств! ‘ункци€ такой системы весьма проста: она отцепл€ет л€мки рюкзака практически мгновенно и позвол€ет отбежать на безопасное рассто€ние налегке, без т€жести рюкзака. „тобы воспользоватьс€ QR-системой, переместите еЄ на одну из Ђ√ор€чих клавишї (F1-F4 или альтернативные). Ќажмите Ђ√ор€чую клавишуї дл€ активации системы быстрого сброса, котора€ мгновенно сбросит ваш рюкзак (и всЄ, что находитс€ внутри него). ¬аше снар€жЄнное оружие, боеприпасы, брон€ и технологические предметы останутс€ при вас, так что вы будете готовы к обороне. –юкзак вы сможете забрать позднее.\n \n
+		<text>Being caught by surprise in the Zone is one of the worst things that can happen to you. Although the QR-system does not help you prevent such situations, it certainly helps with getting out of danger. Its function is simple: it almost immediately removes the straps from your backpack and lets you escape to a safe place without the heavy backpack hampering your movement. To use it, set it as a hotkey item. Push the hotkey to activate the emergency release that instantly drops your backpack (and everything inside it) to the ground. Your equipped weapon(s), ammunition, armour and armour attachments as well as UPD remain in your possession, so you are ready to fight. You can retrieve your backpack afterwards.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] поставл€етс€ с GPS-модулем\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] мгновенное использование (отстегнуть застЄжки)\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] экипированное снар€жение не сбрасываетс€</text>
+		Х %c[0,140,140,140] build in GPS\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] very fast usage (release clamp)\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] combat gear remains with user</text>
 	</string>
 	<string id="st_itm_backpack_stash_name">
 		<text>A backpack with GPS</text>
@@ -1616,8 +1618,8 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] больша€ стойкость к физическим повреждени€м\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] небольшое восстановление здоровь€ после использовани€\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] large damage resistance bonus\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] moderate health restoration on usage\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] strong side effects</text>
 	</string>
 	<string id="st_salicidic_acid">
@@ -1628,9 +1630,9 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] больша€ стойкость к физическим повреждени€м\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] небольшое восстановление здоровь€ после использовани€\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] быстрое заживление ран\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] large damage resistance bonus\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] moderate health restoration on usage\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] fast wound healing\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] slight side effects</text>
 	</string>
 	<string id="st_tomato">
@@ -1687,7 +1689,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] drink\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,204,0,51] 
-		Х %c[0,140,140,140] слабый алкоголь</text>
+		Х %c[0,140,140,140] light alcohol</text>
 	</string>
 	<string id="st_beans">
 		<text>Baked beans</text>
@@ -1751,7 +1753,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] health improvement\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] сильное уменьшение сонливости</text>
+		Х %c[0,140,140,140] significant sleepiness decrease</text>
 	</string>
 	<string id="st_cuban_cigar">
 		<text>Cuban cigar</text>
@@ -1783,7 +1785,7 @@
 		%c[0,210,210,210]NOTE:\n%c[0,170,170,170]Smoking will help stabilizing the mental state after psi exposure.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] слабое облегчение последствий пси-облучени€\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] short relief from psi-exposure\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] damages health</text>
 	</string>
 	<string id="st_cigar1">
@@ -1794,7 +1796,7 @@
 		%c[0,210,210,210]NOTE:\n%c[0,170,170,170]Smoking will help stabilizing the mental state after psi exposure.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] слабое облегчение последствий пси-облучени€\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] short relief from psi-exposure\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] damages health</text>
 	</string>
 	<string id="st_cigar2">
@@ -1805,7 +1807,7 @@
 		%c[0,210,210,210]NOTE:\n%c[0,170,170,170]Smoking will help stabilizing the mental state after psi exposure.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] слабое облегчение последствий пси-облучени€\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] short relief from psi-exposure\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] damages health</text>
 	</string>
 	<string id="st_cigar3">
@@ -1816,7 +1818,7 @@
 		%c[0,210,210,210]NOTE:\n%c[0,170,170,170]Smoking will help stabilizing the mental state after psi exposure.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] слабое облегчение последствий пси-облучени€\n%c[0,204,0,51] 
+		Х %c[0,140,140,140] short relief from psi-exposure\n%c[0,204,0,51] 
 		Х %c[0,140,140,140] damages health</text>
 	</string>
 	<string id="st_nuts">
@@ -1835,10 +1837,10 @@
 		<text>Cold War era power unit about the size of a small walkie talkie. Accepts almost any type of batteries. Utilizes every bit of energy from inserted batteries and supplies electronic devices with power in an enhanced stream through a set of micro wires. These can be connected to any piece of equipment, regardless of its complexity or age. Allows stalkers to use and handle numerous electronic devices even if they have only one battery.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] портативный источник питани€\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] поддерживает большинство современных устройств\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] поддерживает все типы батареек\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] Ємкость %c[0,170,170,170]3 јч (ампер-часа)</text>
+		Х %c[0,140,140,140] portable energy source\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] supports most modern devices\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] accepts all battery types\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] storage capacity%c[0,170,170,170]3 Ah (ampere-hours)</text>
 	</string>
 	<string id="st_energy">
 		<text>No</text>
@@ -1852,19 +1854,19 @@
 	<string id="st_mre_descr">
 		<text>The Meal, Ready-to-Eat (commonly known as the MRE) is a self-contained, individual field ration in lightweight packaging, developed by the United States military for its service members for use in combat or other field conditions where organized food facilities are not available. One MRE can be used as one meal. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains one course along with a variety of other food and drink items. While it can be eaten cold, it usually tastes much better when heated up with the included flameless ration heater (FRH, a water-activated exothermic reaction device that emits heat).\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] военный рацион\n\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] military ration\n\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] clean nutrition source\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] 3 порции в одной упаковке. 1398 к ал в суmmе</text>
+		Х %c[0,140,140,140] 3 portions in one package. 1398 kcal in total</text>
 	</string>
 	<string id="st_ration_ru">
 		<text>Russian food ration IRP-B</text>
 	</string>
 	<string id="st_ration_ru_descr">
-		<text>Breakfast, dinner and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your health as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with a polymeric box that protects the ingredients from hazardous environmental conditions. The polymeric box has 3 sections, each respectively for breakfast, dinner and supper.\n \n
+		<text>Breakfast, dinner and supper all in one package. Includes various food items whose function is to provide the body with all minerals and micro-elements essential for your health as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with a polymeric box that protects the ingredients from hazardous environmental conditions. The polymeric box has 3 sections, each respectively for breakfast, dinner and supper.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] военный рацион\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] military ration\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] clean nutrition source\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] 7 порций в одной упаковке. 3661 к ал в суmmе</text>
+		Х %c[0,140,140,140] 7 portions in one package. 3661 kcal in total</text>
 	</string>
 	<string id="st_ration_ukr">
 		<text>Ukrainian food ration</text>
@@ -1872,9 +1874,9 @@
 	<string id="st_ration_ukr_descr">
 		<text>This Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] военный рацион\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] military ration\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] clean nutrition source\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] 6 порций в одном пакете. 3186 к ал в суmmе</text>
+		Х %c[0,140,140,140] 6 portions in one package. 3186 kcal in total</text>
 	</string>
 	<string id="st_mine_name">
 		<text>PFM-1 Fragmentaion anti-personnel mine</text>
@@ -1884,13 +1886,13 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] explosive\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] противопехотна€ мина\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]нажатие\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] blast power: %c[0,170,170,170]небольша€\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] anti-personnel mine\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]pressure\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] blast power: %c[0,170,170,170]small\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast radius: %c[0,170,170,170]2.2 m\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]нет\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]нет\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]нет</text>
+		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]none\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
 	<string id="st_ied_rpg">
 		<text>Improvised Explosive Device (RPG-7)</text>
@@ -1901,12 +1903,12 @@
 		Х %c[0,140,140,140] explosive\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140]  unnoticeable when placed on ground\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]ближнего действи€\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]proximity\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast power: %c[0,170,170,170]high\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast radius: %c[0,170,170,170]7.8 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]56 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]440 (shrapnels)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]нет</text>
+		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
 	<string id="st_ied">
 		<text>Improvised Explosive Device (chemical)</text>
@@ -1917,12 +1919,12 @@
 		Х %c[0,140,140,140] explosive\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140]  unnoticeable when placed on ground\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]ближнего действи€\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]proximity\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast power: %c[0,170,170,170]very high\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast radius: %c[0,170,170,170]12.9 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]74 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]580 (steel balls)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]нет</text>
+		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
 	<string id="st_mine_wire"> <!-- wip -->
 		<text>Booby trap</text>
@@ -1933,12 +1935,12 @@
 		Х %c[0,140,140,140] explosive\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140]  unnoticeable when placed on ground\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]ближнего действи€\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] triggering mechanism: %c[0,170,170,170]proximity\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast power: %c[0,170,170,170]low\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast radius: %c[0,170,170,170]2.1 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]5 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]120 (shrapnels)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]нет</text>
+		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
 	<string id="st_balon_gas">
 		<text>Gas tank (8 litres)</text>
@@ -2115,8 +2117,8 @@
 		Х %c[0,140,140,140] blast power: %c[0,170,170,170]low\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] blast radius: %c[0,170,170,170]1.8 m\n%c[0,93,0,116] 
 		Х %c[0,140,140,140] fragments' radius: %c[0,170,170,170]14 m\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]77 (мелкие металлические части)\n%c[0,93,0,116] 
-		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]нет</text>
+		Х %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]77 (small metal pieces)\n%c[0,93,0,116] 
+		Х %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
 	<string id="st_jerrycan_item">
 		<text>Jerrycan</text>
@@ -2287,7 +2289,8 @@
 		<text>Homemade camping stove</text>
 	</string>
 	<string id="st_wood_stove_descr">
-		<text>This compact foldable oven is intended for cooking single entree meals with dry wood. However, since wood found within the Zone is far too contaminated to be used for that purpose, stalkers rely on imported charcoal as the cheapest and most widely available burnable material. The stove can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilization of more advanced equipment. Basic fire skills are needed. Made of stainless steel and ultralight titanium.\n \n%c[0,210,210,210]NOTES:\n \n%c[0,170,170,170]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
+		<text>This compact foldable oven is intended for cooking single entree meals with dry wood. However, since wood found within the Zone is far too contaminated to be used for that purpose, stalkers rely on imported charcoal as the cheapest and most widely available burnable material. The stove can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilization of more advanced equipment. Basic fire skills are needed. Made of stainless steel and ultralight titanium.\n \n
+		%c[0,210,210,210]NOTES:\n%c[0,170,170,170]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,0,255,30] 
 		Х %c[0,140,140,140] low-tier field cooking equipment\n%c[0,0,255,30] 
@@ -2298,7 +2301,8 @@
 		<text>Field cooker</text>
 	</string>
 	<string id="st_fieldcooker_descr">
-		<text>The stove has been tested extensively over many years and has been used on countless expeditions. It is extremely robust, reliable and powerful and was designed to handle demanding situations, extreme altitudes and both low and high temperatures. It has a very high output and can be used with virtually any kind of fuel, including butane, gasoline / petrol, diesel, kerosene / paraffin, and even aviation fuel. Using the separate control knob, you can adjust the flame to the heat you want, even if you are wearing gloves.\n \n%c[0,210,210,210]NOTES:\n \n%c[0,170,170,170]Since fuels used in the multi-fuel stove are much more efficient energy-carriers than the wood or coal, the multi-fuel stove is - in the long run - significantly more cost-effective than traditional wood or coal stoves. On the other hand, these fuels are usually carried in heavy metal containers, which makes them more suited for use at bases, rather than in field operations.\n \n%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
+		<text>The stove has been tested extensively over many years and has been used on countless expeditions. It is extremely robust, reliable and powerful and was designed to handle demanding situations, extreme altitudes and both low and high temperatures. It has a very high output and can be used with virtually any kind of fuel, including butane, gasoline / petrol, diesel, kerosene / paraffin, and even aviation fuel. Using the separate control knob, you can adjust the flame to the heat you want, even if you are wearing gloves.\n \n
+		%c[0,210,210,210]NOTES:\n%c[0,170,170,170]Since fuels used in the multi-fuel stove are much more efficient energy-carriers than the wood or coal, the multi-fuel stove is - in the long run - significantly more cost-effective than traditional wood or coal stoves. On the other hand, these fuels are usually carried in heavy metal containers, which makes them more suited for use at bases, rather than in field operations.\n \n%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,0,255,30] 
 		Х %c[0,140,140,140] high-tier field cooking equipment\n%c[0,0,255,30] 
@@ -2348,7 +2352,7 @@
 	<string id="st_matches_descr">
 		<text>A simple set of sticks of pine wood impregnated with resin. Anyone who has ever tried to light a fire in the open air knows that random gusts of wind can extinguish the flames very quickly. The firstarter set allows you to create a small but steady hearth fire, the temperature of which is significantly higher than that of paper or wax. An indispensable thing in any campaign, because it easy to light up even in the wet.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] используетс€ дл€ розжига костра</text>
+		Х %c[0,140,140,140] used for starting fires</text>
 	</string>
 	
 	<!-- new - dead air -->
@@ -2356,7 +2360,7 @@
 		<text>Can of rosin</text>
 	</string>
 	<string id="jup_b200_tech_materials_acetone_descr">
-		<text>Ѕанка канифоли, используемой при пайке. –едка€ вещь в «оне: как правило, фрагменты сломавшихс€ предметов здесь соедин€ют при помощи изоленты.\n \n
+		<text>A can of rosin used for soldering. A rare thing in the Zone. Fragments of broken objects can be attached here with the help of insulating tape.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value</text>
@@ -2365,7 +2369,7 @@
 		<text>A pack of capacitors</text>
 	</string>
 	<string id="jup_b200_tech_materials_capacitor_descr">
-		<text>Ёлектрические конденсаторы служат дл€ накоплени€ электроэнергии. ѕростейший конденсатор состоит из двух металлических пластин-обкладок и диэлектрика, наход€щегос€ между ними. —ами по себе довольно редки в «оне, но весьма полезны.\n \n
+		<text>Electric capacitors can store electricity. The simplest capacitor consists of two metal plates and a dielectric between them. It is a main component is most of electrical devices due to its important job in rectifying alternative current, storing electrical energy and bypassing noise. They are quite rare in the Zone, but they are very useful.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value</text>
@@ -2383,7 +2387,7 @@
 		<text>A box of transistors</text>
 	</string>
 	<string id="jup_b200_tech_materials_transistor_descr">
-		<text> оробка качественных транзисторов - полупроводниковых деталей, способных генерировать, преобразовать и усиливать электрические колебани€. ѕредел мечтаний радиотехника, если такого чудом занесЄт в «ону.\n \n
+		<text>A box of high-quality BJT transistors. A transistor consists of three Semiconductor parts (base, emitter, collector) that serve together to generate, convert and amplify electrical oscillations. The ultimate dream of electronics engineers, if such a miracle will bring to the Area.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value</text>
@@ -2392,7 +2396,7 @@
 		<text>A coil of copper wire</text>
 	</string>
 	<string id="jup_b200_tech_materials_wire_descr">
-		<text>Ёлектротехническа€ медна€ проволока используетс€ практически во всех приборах, устройствах, аппаратах, установках, машинах, где происходит производство, передача или использование электрической энергии. ¬ «оне встречаетс€ относительно часто, €вл€€сь незаменимым элементом при работе с радиотехникой. ¬ чистом виде встречаетс€ редко, но при необходимости ее можно легко извлечь из распространенных старых радиоприемников, раций и прочей электроники.\n \n
+		<text>Electrotechnical copper wire is used practically in all devices, devices, apparatuses, installations, machines where the production, transmission or use of electric energy occurs. In its pure form it is rare, but if necessary it can be easily extracted from common old radios, walkie-talkies and other electronics.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value</text>
@@ -2407,25 +2411,25 @@
 	<string id="st_backpack_light_desc">
 		<text>ќбычный рюкзак со множеством подсумков и отделений, при помощи которого переноситс€ снар€жение, личные вещи, продукты и охотничьи принадлежности. ќдно из первых об€зательных приобретений сталкера-новичка.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] элемент экипировки</text>
+		Х %c[0,140,140,140] equipment</text>
 	</string>
 
 	<string id="st_backpack_heavy">
 		<text>Travel backpack</text>
 	</string>
 	<string id="st_backpack_heavy_desc">
-		<text> рупный рюкзак дл€ дальних путешествий. Ѕлагодар€ системе равномерного распределени€ веса, позвол€ет переносить достаточно припасов и снар€жени€ дл€ продолжительного похода до п€ти дней.\n \n
+		<text>Large backpack for long journeys. Thanks to the system of uniform weight distribution, it allows you to carry enough supplies and equipment for a long trip up to five days.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] элемент экипировки</text>
+		Х %c[0,140,140,140] equipment</text>
 	</string>
 
 	<string id="st_airtank">
 		<text>Oxygen tank</text>
 	</string>
 	<string id="st_airtank_desc">
-		<text>—тандартна€ часть сталкерской экипировки дл€ дальних вылазок. ѕозвол€ет выжить в местности с высоким уровнем радиационного и химического заражени€. ¬ комплекте имеетс€ простейша€ дыхательна€ маска, позвол€юща€ пользоватьс€ баллоном без дополнительной экипировки.\n \n
+		<text>A standard part of Stalkers gear for long trips. It allows you to survive in areas with high level of radiation and chemical contamination. The kit includes a simple breathing mask that allows you to use the breath comfortably without additional equipment.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] элемент экипировки\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] equipment\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] does not require seasoning</text>
 	</string>
 	
@@ -2433,8 +2437,9 @@
 		<text>Exoskeleton</text>
 	</string>
 	<string id="st_exobackpack_descr">
-		<text>\n \n%c[0,170,170,170]Ёкспериментальный образец военного экзоскелета. ¬ серийное производство не пошЄл ввиду чрезвычайно высокой себестоимости и некоторых огрехов в проектировании. Ќесмотр€ на это, из-за возможности значительно увеличивать мобильность носител€ пользуетс€ спросом и потому негласно выпускаетс€ малыми парти€ми за пределами ”краины. «аметным недостатком устройства €вл€етс€ его металлическа€ основа, котора€ пусть и предоставл€ет некоторую физическую защиту, но в значительной степени подвержена воздействию радиации, электричества и высоких температур.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] элемент экипировки</text>
+		<text>\n \n%c[0,170,170,170]The experimental sample of a military exoskeleton. The production of this armour discontinued because of the extremely high cost and some flaws in the design. Despite this, due to the possibility to significantly increase the mobility of the carrier it is still in demand, and therefore, secretly produced in small batches outside Ukraine. A noticeable disadvantage of the device is its metal base, which, although it provides some physical protection, but is largely exposed to radiation, electricity and high temperatures.\n \n
+		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] equipment</text>
 	</string>
 	
 
@@ -2442,16 +2447,16 @@
 		<text>Field backpack</text>
 	</string>
 	<string id="st_itm_backpack_desc">
-		<text>–юкзак из прочного материала, способный выдержать самые суровые погодные услови€. \n \n
+		<text>This backpack is made of durable material, being able to withstand the worst weather conditions. \n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] everyday item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] закладывает тайник при использовании</text>
+		Х %c[0,140,140,140] can be used to create a stash</text>
 	</string>
 	<string id="st_itm_sleepbag_name">
 		<text>Sleeping bag</text>
 	</string>
 	<string id="st_itm_sleepbag_desc">
-		<text>ѕоходный спальный мешок, достаточно тЄплый, чтобы пережить ночь в «оне.</text>
+		<text>Camp sleeping bag, warm enough to survive the night in the Zone.</text>
 	</string>
 	<string id="st_itm_repairkit_tier_1_name">
 		<text>Tools for basic work</text>
@@ -2461,17 +2466,17 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] используетс€ при создании и ремонте предметов </text>
+		Х %c[0,140,140,140] used to create and repair items</text>
 	</string>
 	<string id="st_itm_repairkit_tier_2_name">
 		<text>Tools for fine work</text>
 	</string>
-	<string id="st_itm_repairkit_tier_2_descr">
-		<text>Ќеплохой набор инструментов дл€ радиомонтажа. —одержит в себе отвЄртки, па€льник и прочие, необходиые при работе с радиоаппаратурой, инструменты. Ќезаменима€ вещь в случае поломки рации или  ѕ . Ќесмотр€ на своЄ пр€мое предназначение, в умелых руках может быть полезен при самых различных видах работ.\n \n
+	<string id="st_itm_repairkit_tier_2_descr"> <!-- revision -->
+		<text>A good set of tools for fixing electronic devices. It contains a screwdriver, a soldering iron and other tools necessary for working with radio equipment. An irreplaceable thing in situations such as breakdown of a walkie-talkie or PDA. Despite its direct purpose, it can be useful for a variety of types of work under skillful hands.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] используетс€ при создании и ремонте предметов</text>
+		Х %c[0,140,140,140] used to create and repair items</text>
 	</string>
 	<string id="st_itm_repairkit_tier_3_name">
 		<text>Calibration tools</text>
@@ -2481,7 +2486,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] используетс€ при создании и ремонте предметов</text>
+		Х %c[0,140,140,140] used to create and repair items</text>
 	</string>
 	<string id="st_drugs_kit">
 		<text>Drug making kit</text>
@@ -2491,7 +2496,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] high value\n%c[255,238,153,26] 
-		Х %c[0,140,140,140] используетс€ при создании предметов</text>
+		Х %c[0,140,140,140] used to create items</text>
 	</string>
 	<string id="st_itm_stash">
 		<text>Stash</text>
@@ -2503,16 +2508,16 @@
 		<text>Kerosene lamp</text>
 	</string>
 	<string id="st_device_glowstick_descr">
-		<text>√енерирует свет при протекании химической реакции. ’имические источники света широко примен€ютс€ сталкерами в качестве автономных источников света при различных чрезвычайных ситуаци€х и прочих случа€х, когда нет доступа к другим осветител€м. Ѕудучи полностью автономными, прочными, пожаробезопасными, водонепроницаемыми и пригодными дл€ долгого хранени€, их диапазон применени€ оказываетс€ крайне высок.\n \n
+		<text>Generates light by causing a chemical reaction. Chemical light sources are widely used by stalkers as Autonomous light sources in various emergency situations and other cases when there is no access to other lighting sources. Being completely Autonomous, durable, fireproof, waterproof and suitable for long-term storage, their range of application is extremely wide.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] неограниченное врем€ работы</text>
+		Х %c[0,140,140,140] unlimited work time</text>
 	</string>
 	<string id="st_device_glowstick">
 		<text>Glowstick</text>
 	</string>
 	<string id="st_device_lighter_descr">
-		<text>ћеталлическа€ бензинова€ ветрозащищЄнна€ зажигалка, котора€ производитс€ компанией Zippo Manufacturing Company в Ѕрэдфорде. ћодельный р€д зажигалок Zippo представл€ет собой тыс€чи разных моделей и разновидностей, производимых компанией с 1933 года, которые отличаютс€ металлом, способом его обработки, оформлением и рисунками, наносимыми на зажигалки. ƒовольно попул€рна здесь, в силу своей надЄжности, но встретить в «оне оригинал — больша€ удача, чаще всего попадаютс€ дешЄвые подделки.\n \n
+		<text>Metal gasoline windproof lighter, which is produced by Zippo Manufacturing Company in Bradford. The Zippo lighter range includes thousands of different models and varieties produced by the company since 1933, which are characterized by metal, the way it is processed, design and drawings applied to lighters. Quite popular here because of its reliability. That being said, good luck finding an original fully-functional Glowstick around because you will come across cheap, fake copies more often.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] does not require seasoning</text>
@@ -2521,10 +2526,10 @@
 		<text>Lighter</text>
 	</string>
 	<string id="st_dynamo_hand_descr">
-		<text>—амодельные динамо-машинки редко встретишь - сталкеры предпочитают носить пару компактных запасных батареек. Ќо в лагере, когда вопрос объЄма и массы экипировки не стоит так остро, така€ штука здорово выручает, позвол€€ подзар€дить аккумул€торы всей электроники, не растрачива€сь на батарейки.\n \n
+		<text>The device is a home-made portable electricity generator with a manual drive. It is based on a single-phase asynchronous motor, from an old electrical appliance. The output voltage passes through a step-down transformer to the rectifier, assembled using Soviet Diodes D242 to the Portable Power Unit. Self-excitation of the generator occurs due to the capacitor connected to the auxiliary winding of the motor. The charge is performed by rotating the rotor through a worm gear at a nominal speed of 1300-1500 rpm. Due to its design, it has quite a lot of weight or regular maintenance.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] требует регул€рного обслуживани€</text>
+		Х %c[0,140,140,140] requires regular maintenance</text>
 	</string>
 	<string id="st_dynamo_hand_name">
 		<text>Dynamo-machine</text>
