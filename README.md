@@ -9,6 +9,8 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_closecaption_generic.xml - **done**
 
+- st_dialog_manager - **done**
+
 - st_dialogs.xml - **done**
 
 - st_dialogs_bar.xml - **done**
