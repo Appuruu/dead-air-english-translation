@@ -194,61 +194,61 @@
 	
 		<!-- Hermann (Nuclear Physicist) Install Scanners Tasks -->
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_name">
-		<text>Исследование аномалий</text>
+		<text>Check for anomalies.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_text0">
-		<text>Получить сканер у Тукарева.</text>
+		<text>Get a scanner from Tokarev.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_0">
-		<text>Доставить сканер.</text>
+		<text>Deliver the scanner.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_1">
-		<text>Доставить сканер на Затон.</text>
+		<text>Deliver the scanner to Zaton.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_text2">
-		<text>Разместить сканер.</text>
+		<text>Place the scanner.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_text3">
-		<text>Доложить о выполнении.</text>
+		<text>Report on the implementation.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_about">
-		<text>Вы как нельзя кстати! Наша группа пытается найти взаимосвязь между выбросами и появлением артефактов, проводя исследования некоторых особо крупных аномальных образований в этой местности. К сожалению, уровень подготовки нашего исследовательского отряда оставляет желать лучшего, потому нам срочно требуется доброволец для выполнения следующей миссии: необходимо получить у Тукарева специальный сканер, а затем доставить и разместить его неподалёку от одной из вышеупомянутых аномалий, координаты которой я отмечу у Вас в КПК.</text>
+		<text>You're quite welcome! Our group is trying their hardest to find out what sort of relationship the emissions and the artifacts have by conducting experiments on some anomalous formations in this area. But, our research team isn't quite the most qualified, so we urgently need a volunteer for our mission. We need someone to get a scanner from Tokarev, then deliver and place the scanner near the anomalies, the coordinates will be sent to their PDA.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_2_about">
-		<text>Желаете продолжить работу над установкой сканеров? У нас ещё осталось несколько слабо изученных аномалий. Оборудование, как и обычно, сможете получить у Тукарева.</text>
+		<text>If you want to continue on installing scanners we still have anomalies we've not studied. If you wish to help us, equipment can be obtained from Tokarev.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_3_about">
-		<text>Вы прекрасно поработали, теперь мы получаем данные со всех окрестностей Юпитера! Ах, если бы только была возможность расширить наши возможности и получить информацию от более удалённых областей… На данный момент нас особенно интересуют территории Затона, но никто из сталкеров туда в ближайшее время не отправляется. Быть может, вы нам вновь поможете с нашими дальнейшими исследованиями..? Суть задачи останется прежней - необходимо будет всего лишь установить сканер в определённой области.</text>
+		<text>You've really done a great job and thanks to you we've got data from all around Jupiter! If only there was a way to get information from the very remote areas.. At the moment we're really interested in Zaton, but no stalkers are willing to help. Would you perhaps help us yet again with our research, in essence it is the same as before, installing scanners in areas which coordinates will be sent to your PDA.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_4_about">
-		<text>Да, нам всё ещё необходимо собрать как можно больше информации. Надеюсь, у Тукарева осталось достаточно датчиков.</text>
+		<text>We still need to gather as much information as possible. I hope that Tokarev has enough scanners.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_5_about">
-		<text>Похоже, мой дорогой друг, это Ваше финальное задание для нашего исследования. Осталось установить последний датчик в единственной оставшейся не исследованной нами аномальной области.</text>
+		<text>It seems that this will be your final mission for our studies, what remains to do is to install the last scanner in the only remaining unexplored anomalous region.</text>
 	</string>
 
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_finish">
-		<text>Замечательно! Ко мне уже поступает первичная информация. Вот ваша награда.</text>
+		<text>Amazing! I have already gotten all the information, and all thanks to you. Here's your reward, stalker.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_2_finish">
-		<text>Да, я уже вижу, что новый сканер исправно работает. Спасибо, я очень признателен.</text>
+		<text>I can see that the scanner is working as intended. Thank you stalker, I am very grateful.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_3_finish">
-		<text>Ах, я совершенно не ожидал увидеть Вас так скоро. Секунду, сейчас я проверю работу датчика… Да, превосходно! Сигнал с Затона поступает слабый, но вполне стабильный! Пожалуйста, примите мою благодароность.</text>
+		<text>I didn't expect to see you so soon. Let me check the sensors... Yes! This is great! The signal from Zaton is weak but its completely stable! Please accept my thanks.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_4_finish">
-		<text>Ещё один сканер установлен? Очень хорошо. Вот, примите небольшую компенсацию на ваши расходы.</text>
+		<text>You've installed another scanner? Very good. Here, a small compensation for your work.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_5_finish">
-		<text>Что же, вот и подошло к концу наше с Вами сотрудничество. Благодаря Вашим трудам, наши исследования наконец сдвинулись с мёртвой точки. Такое огромное количество аномалий для исследования, такие объёмные потоки данных для обработки! Я даже представить не могу, какие великие открытия нас могут ожидать в будущем! И всё это - благодаря Вам. Пожалуйста, примите скромную благодарность от всего нашего научного состава - Вы её более чем заслужили.</text>
+		<text>Well, this is the end of our cooperation. Thank you for your hard work, thanks to you our research has dug itself out of a dead end. We have a massive amount of anomalies and data to research! I cannot even imagine the discoveries we will uncover in the future. All of this is thanks to you, and for that please accept the modest gratitude from all of our staff, you've done more than enough.</text>
 	</string>
 
 
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_take_scanner">
-		<text>Я должен получить сканер для исследования аномалий.</text>
+		<text>I need a scanner to be able to investigate anomalies.</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_give_scanner">
-		<text>Держи. Герман сказал - выдать один.</text>
+		<text>Take this. Herman said to give you one.</text>
 	</string>
 
 	
