@@ -605,10 +605,10 @@
 		<text>Do you want to fix %s?\n\n%c[255,1,255,1]+%s%</text>
 	</string>
 	<string id="st_repair_mod_message_box_condition_to_high">
-		<text>Ётих инструментов недостаточно, чтобы починить этот предмет.</text>
+		<text>These tools are not enough to fix this item.</text> <!-- revision -->
 	</string>
 	<string id="st_repair_mod_message_box_condition_to_low">
-		<text>ƒанный предмет в слишком плохом состо€нии дл€ починки этими инструментами.</text>
+		<text>This item is too damaged to be repaired with these tools.</text> <!-- revision -->
 	</string>
 	<string id="st_upd_disconnected">
 		<text>You don't have a Universal Power Device (UPD)</text>
@@ -644,108 +644,109 @@
 		<text>Materials</text>
 	</string>
 
+	 <!-- everything below need revision -->
 	<string id="st_condition_type">
-		<text> \n \nЌ≈»—ѕ–ј¬Ќќ—“»:</text>
+		<text> \n \nISSUES:</text>
 	</string>
 
 	<string id="st_condition_type_0">
-		<text>\n%c[0,93,0,116] Х %c[0,140,140,140] отсутствуют</text>
+		<text>\n%c[0,93,0,116] Х %c[0,140,140,140] none</text>
 	</string>
 
 	<string id="st_condition_type_1">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] изношена ствольна€ коробка</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] worn receiver</text>
 	</string>
 
 	<string id="st_condition_type_2">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] треснута ствольна€ коробка</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] cracked receiver</text>
 	</string>
 
 	<string id="st_condition_type_3">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знена боева€ пружина</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty main spring</text>
 	</string>
 
 	<string id="st_condition_type_4">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] изношена боева€ пружина</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] worn main spring</text>
 	</string>
 
 	<string id="st_condition_type_5">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знена возвратна€ пружина</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_6">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирована возвратна€ пружина</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_7">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] расколота руко€ть</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] loose grip</text>
 	</string>
 
 	<string id="st_condition_type_8">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломан приклад</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken stock</text>
 	</string>
 
 	<string id="st_condition_type_9">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирован курок</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed hammer</text>
 	</string>
 
 	<string id="st_condition_type_10">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломан курок</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken hammer</text>
 	</string>
 
 	<string id="st_condition_type_11">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знЄн ствол</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty barrel</text>
 	</string>
 
 	<string id="st_condition_type_12">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирован ствол</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed barrel</text>
 	</string>
 
 	<string id="st_condition_type_13">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] треснут ствол</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] cracked barrel</text>
 	</string>
 
 	<string id="st_condition_type_14">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирован спусковой крючок</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed trigger</text>
 	</string>
 
 	<string id="st_condition_type_15">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломан спусковой крючок</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken trigger</text>
 	</string>
 
 	<string id="st_condition_type_16">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знено шептало</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_17">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформировано шептало</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_18">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломано шептало</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_19">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знЄн ударник</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty gas piston</text>
 	</string>
 
 	<string id="st_condition_type_20">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирован ударник</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed gas piston</text>
 	</string>
 
 	<string id="st_condition_type_21">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломан ударник</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken gas piston</text>
 	</string>
 
 	<string id="st_condition_type_22">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] загр€знЄн затвор</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] dirty bolt</text>
 	</string>
 
 	<string id="st_condition_type_23">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирован затвор</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed bolt</text>
 	</string>
 
 	<string id="st_condition_type_24">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] треснута газоотводна€ трубка</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] cracked gas tube</text>
 	</string>
 
 	<string id="st_condition_type_25">
@@ -761,28 +762,28 @@
 	</string>
 
 	<string id="st_condition_type_28">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сломан сектор переводчика</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken safety selector lever</text>
 	</string>
 
 	<string id="st_condition_type_29">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] деформирована прицельна€ планка</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] deformed front sight block</text>
 	</string>
 
 	<string id="st_condition_type_30">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] сорвана дульна€ резьба</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] broken muzzle brake</text>
 	</string>
 
 	<string id="st_condition_type_31">
-		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] треснуто цевье</text>
+		<text>\n%c[0,204,0,51] Х %c[0,204,0,51] cracked forend</text>
 	</string>
 
 	<string id="st_condition_type_32">
-		<text>\n%c[0,93,0,116] Х %c[0,255,0,0] ќЎ»Ѕ ј</text>
+		<text>\n%c[0,93,0,116] Х %c[0,255,0,0] ERROR</text>
 	</string>
 
 
 	<string id="st_condition_type_text">
-		<text>»справить: </text>
+		<text>Fix: </text>
 	</string>
 <!--
 	<string id="st_condition_type_text_0">
@@ -790,99 +791,99 @@
 	</string>
 
 	<string id="st_condition_type_text_1">
-		<text>»зношена ствольна€ коробка</text>
+		<text>worn barrelьна€ коробка</text>
 	</string>
 
 	<string id="st_condition_type_text_2">
-		<text>“реснута ствольна€ коробка</text>
+		<text>cracked barrelьна€ коробка</text>
 	</string>
 
 	<string id="st_condition_type_text_3">
-		<text>«агр€знена боева€ пружина</text>
+		<text>dirty main spring</text>
 	</string>
 
 	<string id="st_condition_type_text_4">
-		<text>»зношена боева€ пружина</text>
+		<text>worn main spring</text>
 	</string>
 
 	<string id="st_condition_type_text_5">
-		<text>«агр€знена возвратна€ пружина</text>
+		<text>dirty recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_text_6">
-		<text>ƒеформирована возвратна€ пружина</text>
+		<text>deformed recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_text_7">
-		<text>–асколота руко€ть</text>
+		<text>–асколота grip</text>
 	</string>
 
 	<string id="st_condition_type_text_8">
-		<text>—ломан приклад</text>
+		<text>broken stock</text>
 	</string>
 
 	<string id="st_condition_type_text_9">
-		<text>ƒеформирован курок</text>
+		<text>deformed hammer</text>
 	</string>
 
 	<string id="st_condition_type_text_10">
-		<text>—ломан курок</text>
+		<text>broken hammer</text>
 	</string>
 
 	<string id="st_condition_type_text_11">
-		<text>«агр€знЄн ствол</text>
+		<text>dirty barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_12">
-		<text>ƒеформирован ствол</text>
+		<text>deformed barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_13">
-		<text>“реснут ствол</text>
+		<text>cracked barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_14">
-		<text>ƒеформирован спусковой крючок</text>
+		<text>deformed trigger</text>
 	</string>
 
 	<string id="st_condition_type_text_15">
-		<text>—ломан спусковой крючок</text>
+		<text>broken trigger</text>
 	</string>
 
 	<string id="st_condition_type_text_16">
-		<text>«агр€знено шептало</text>
+		<text>dirty trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_17">
-		<text>ƒеформировано шептало</text>
+		<text>deformed trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_18">
-		<text>—ломано шептало</text>
+		<text>broken trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_19">
-		<text>«агр€знЄн ударник</text>
+		<text>dirty gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_20">
-		<text>ƒеформирован ударник</text>
+		<text>deformed gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_21">
-		<text>—ломан ударник</text>
+		<text>broken gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_22">
-		<text>«агр€знЄн затвор</text>
+		<text>dirty затвор</text>
 	</string>
 
 	<string id="st_condition_type_text_23">
-		<text>ƒеформирован затвор</text>
+		<text>deformed затвор</text>
 	</string>
 
 	<string id="st_condition_type_text_24">
-		<text>“реснута газоотводна€ трубка</text>
+		<text>cracked gas tube</text>
 	</string>
 
 	<string id="st_condition_type_text_25">
@@ -898,19 +899,19 @@
 	</string>
 
 	<string id="st_condition_type_text_28">
-		<text>—ломан сектор переводчика</text>
+		<text>broken safety selector lever</text>
 	</string>
 
 	<string id="st_condition_type_text_29">
-		<text>—ломана прицельна€ планка</text>
+		<text>brokenа front sight block</text>
 	</string>
 
 	<string id="st_condition_type_text_30">
-		<text>—орвана дульна€ резьба</text>
+		<text>broken muzzle brake</text>
 	</string>
 
 	<string id="st_condition_type_text_31">
-		<text>“реснуто цевье</text>
+		<text>cracked forend</text>
 	</string>
 
 	<string id="st_condition_type_text_32">
@@ -919,103 +920,103 @@
 -->
 
 	<string id="st_condition_type_text_0">
-		<text>ќтсутствуют</text>
+		<text>none</text>
 	</string>
 
 	<string id="st_condition_type_text_1">
-		<text>«амена ствольной коробки</text>
+		<text>replace the receiver</text>
 	</string>
 
 	<string id="st_condition_type_text_2">
-		<text>«амена ствольной коробки</text>
+		<text>replace the receiver</text>
 	</string>
 
 	<string id="st_condition_type_text_3">
-		<text>„истка боевой пружины</text>
+		<text>clean the main spring</text>
 	</string>
 
 	<string id="st_condition_type_text_4">
-		<text>«амена боевой пружины</text>
+		<text>replace the main spring</text>
 	</string>
 
 	<string id="st_condition_type_text_5">
-		<text>„истка возвратной пружины</text>
+		<text>clean the recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_text_6">
-		<text>¬ыправление возвратной пружины</text>
+		<text>adjust the recoil spring</text>
 	</string>
 
 	<string id="st_condition_type_text_7">
-		<text>«амена руко€ти</text>
+		<text>replace the grip</text>
 	</string>
 
 	<string id="st_condition_type_text_8">
-		<text>«амена приклада</text>
+		<text>replace the stock</text>
 	</string>
 
 	<string id="st_condition_type_text_9">
-		<text>¬ыправление курка</text>
+		<text>adjust the hammer</text>
 	</string>
 
 	<string id="st_condition_type_text_10">
-		<text>«амена курка</text>
+		<text>replace the hammer</text>
 	</string>
 
 	<string id="st_condition_type_text_11">
-		<text>„истка ствола</text>
+		<text>clean the barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_12">
-		<text>¬ыправление ствола</text>
+		<text>adjust the barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_13">
-		<text>«амена ствола</text>
+		<text>replace the barrel</text>
 	</string>
 
 	<string id="st_condition_type_text_14">
-		<text>¬ыправление спускового крючка</text>
+		<text>adjust the trigger</text>
 	</string>
 
 	<string id="st_condition_type_text_15">
-		<text>«амена спускового крючка</text>
+		<text>replace the trigger</text>
 	</string>
 
 	<string id="st_condition_type_text_16">
-		<text>„истка шептала</text>
+		<text>clean the trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_17">
-		<text>¬ыправление шептала</text>
+		<text>adjust the trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_18">
-		<text>«амена шептала</text>
+		<text>replace the trigger mechanism</text>
 	</string>
 
 	<string id="st_condition_type_text_19">
-		<text>„истка ударника</text>
+		<text>clean the gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_20">
-		<text>¬ыправление ударника</text>
+		<text>adjust the gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_21">
-		<text>«амена ударника</text>
+		<text>replace the gas piston</text>
 	</string>
 
 	<string id="st_condition_type_text_22">
-		<text>„истка затвора</text>
+		<text>clean the bolt</text>
 	</string>
 
 	<string id="st_condition_type_text_23">
-		<text>¬ыправление затвора</text>
+		<text>adjust the bolt</text>
 	</string>
 
 	<string id="st_condition_type_text_24">
-		<text>«амена газоотводной трубки</text>
+		<text>replace the gas tube</text>
 	</string>
 
 	<string id="st_condition_type_text_25">
@@ -1031,23 +1032,23 @@
 	</string>
 
 	<string id="st_condition_type_text_28">
-		<text>«амена сектора переводчика</text>
+		<text>replace the safety selector lever</text>
 	</string>
 
 	<string id="st_condition_type_text_29">
-		<text>«амена прицельной планки</text>
+		<text>replace the front sight block</text>
 	</string>
 
 	<string id="st_condition_type_text_30">
-		<text>Ќарезка дульной резьбы</text>
+		<text>adjust the muzzle brake</text>
 	</string>
 
 	<string id="st_condition_type_text_31">
-		<text>«амена цевь€</text>
+		<text>replace the forend</text>
 	</string>
 
 	<string id="st_condition_type_text_32">
-		<text>ќшибка</text>
+		<text>Error</text>
 	</string>
 
 
