@@ -117,16 +117,16 @@
 	<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
 
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
-		<text>Добыть деньги для вступления в «Свободу»</text>
+		<text>Raise Money To Join Freedom</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
-		<text>Лукаш хочет 15000 за право вступить в «Свободу».</text>
+		<text>Lukash wants 15,000 RU to let you join Freedom.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>А, хорошо. Ты не пожалеешь, что пришёл в «Свободу». Просто заплати 15000 - и ты с нами.</text>
+		<text>Ah, good. You will enjoy joining Freedom. Just pay the 15,000 RU fee and you're in.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Добро пожаловать в «Свободу».</text>
+		<text>Welcome to Freedom, bro.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
