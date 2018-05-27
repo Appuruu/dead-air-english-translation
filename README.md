@@ -125,7 +125,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_keybinding.xml - **done**
 
-- ui_st_loadscreen.xml - *incomplete*
+- ui_st_loadscreen.xml - **done**
 
 - ui_st_mm.xml - **done**
 
