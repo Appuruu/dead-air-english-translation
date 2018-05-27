@@ -87,7 +87,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_general.xml - *work in progress*
 
-- st_quests_jupiter.xml - *incomplete*
+- st_quests_jupiter.xml - **done**
 
 - st_quests_marsh.xml - **done**
 
