@@ -51,7 +51,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_items_letters.xml - *incomplete*
 
-- st_items_mutant_parts.xml - *incomplete*
+- st_items_mutant_parts.xml - **done**
 
 - st_items_outfit.xml - *incomplete*
 
