@@ -109,10 +109,10 @@
 		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_cs">
-		<text>-тальной шлем ЧН-2</text>
+		<text>Steel helmet CS-2</text>
 	</string>
 	<string id="st_helm_cs_descr">
-		<text>%c[0,170,170,170]-тальной шлем модифицированный техниками группировки «Чистое небо». В составе модифицированная система дихания от тактического шлема «-фера 08», защищающая от химических веществ и радиоактивной пыли. Некоторые тяжёлые стальные компоненты были заменены на более лёгкие.\n \n
+		<text>%c[0,170,170,170]A steel combat helmet modified by technicians of "Clear sky". Includes a modified respirator similar to the version used in tactical helmet "Fera 08", which protects against chemicals and radioactive dust. Some heavy steel components have been replaced with lighter ones.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] combat helmet with built-in air filtration system\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
@@ -121,7 +121,7 @@
 		• %c[0,140,140,140] M40 steel helmet (modernized) %c[0,170,170,170]1410 g\n%c[0,93,0,116] 
 		• %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]180 g\n \n%c[0,93,0,116] 
 		• %c[0,140,140,140] breathing apparatus %c[0,170,170,170]120 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] breathing filder 2хПДЕ-1 (modified) %c[0,170,170,170]280 g\n
+		• %c[0,140,140,140] breathing filter 2хПДЕ-1 (modified) %c[0,170,170,170]280 g\n
 		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
 		• %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
 		• %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
@@ -207,7 +207,7 @@
 		<text>Freedom Guard bodysuit</text>
 	</string>
 	<string id="banditmerc_outfit_name">
-		<text>Комбинезон бандитов</text>
+		<text>Bandit bodysuit</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
 		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
@@ -258,7 +258,7 @@
 		<text>Wind of Freedom bodysuit</text>
 	</string>
 	<string id="svoboda_outfit_name">
-		<text>Комбинезон М2</text>
+		<text>M2 bodysuit</text>
 	</string>
 	<string id="dolg_outfit_description">
 		<text>%c[0,170,170,170]This modern version of Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, this suit provides good protection against anomalies while also being capable of stopping a pistol bullet. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system instead.\n \n
@@ -355,7 +355,7 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
-		<text>\n \n%c[0,170,170,170]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armour. Created specifically for members of the Ecologist faction, this suit is modelled after the popular Sunrise suit.\n \n
+		<text>\n \n%c[0,170,170,170]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armour. Created specifically for members of the Ecologist faction, this suit is modeled after the popular Sunrise suit.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] medium armour\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
@@ -370,7 +370,7 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_outfit_description">
-		<text>%c[0,170,170,170]-тандартный средний бронежилет «Чистого неба», предназначенный для проведения исследовательских операций. Обеспечивает защиту, сравнимую с комбинезоном Заря. Изготавливается, судя по качеству, на заказ за пределами Зоны, и это неудивительно - группировка располагает большим количеством важной информации и пользуется этим, сотрудничая с военными в обмен на материальное обеспечение.\n \n
+		<text>%c[0,170,170,170]A heavier outfit worn by members of Clear Sky, providing good protection from both anomalous exposure and bullets of various calibres.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
@@ -385,7 +385,7 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="svoboda_outfit_description">
-		<text>%c[0,170,170,170]Модификация комбинезона сталкера, производимая для группировки «-вобода». В сравнении с «Зарей» имеет чуть меньший вес и повышенный комфорт при ношении за счёт уменьшения физической защиты.\n \n
+		<text>%c[0,170,170,170]This stalker bodysuit with reinforced body armour made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armour comprises armour plating and ten Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
@@ -414,8 +414,8 @@
 		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]III\n%c[0,93,0,116]
 		• %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n</text>
 	</string>
-	<string id="cs_heavy3a_outfit_description">
-		<text>%c[0,170,170,170]Штатная экипировка тяжёлых штурмовых отрядов «Чистого неба». Данный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. От костюмов своего класса отличается повышенной комфортностью при преодолении больших дистанций.\n \n
+	<string id="cs_heavy3a_outfit_description"> <!-- revision -->
+		<text>%c[0,170,170,170]Regular equipment for heavy assault units of "Clear sky". This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
@@ -429,8 +429,8 @@
 		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
 		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
-	<string id="csky_3b_outfit_description">
-		<text>%c[0,170,170,170]Штатная экипировка тяжёлых штурмовых отрядов «Чистого неба». Данный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает среднюю защиту от аномальных воздействий. От ЧН-3а отличается меньшим удобством, но имеет разгрузочный жилет, позволяющий переносить большее количество полезной нагрузки.\n \n
+	<string id="csky_3b_outfit_description"> <!-- revision -->
+		<text>%c[0,170,170,170]Regular equipment for heavy assault units of "Clear sky". This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies. While it has a lesser physical protection comparing to CS-3a, it is in demand due to its ability of taking more weight.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
@@ -492,10 +492,10 @@
 		<text>SSP-99M</text>
 	</string>
 	<string id="exolight_outfit_name">
-		<text>ТБ-1</text>
+		<text>TB-1</text>
 	</string>
-	<string id="exolight_outfit_description">
-		<text>heavy armored suit (неоффициальное название - «ТБ-1») обладает самой высокой физической защитой среди всех костюмов, доступных в Зоне. Предположительно, изначально был создан для группировки «Монолит», но быстро попал в hands сталкеров, после чего стал изготавливаться на заказ для всех группировок. Из-за крайне большого веса используется чаще всего вкупе с экзоскелетом, но иногда, при наличии антигравитационных артефактов, и без него. -реди простых сталкеров пользуется спорной репутацией - одни говорят, что из-за огромного веса и неудобства ношения ТБ-1 является скорее гробом, чем защитой, иные же утверждают, что высокая защищённость с лихвой покрывает все недостатки и такой бронекостюм позволит выжить даже в самых безнадёжных условиях, в отличие от других.\n \n
+	<string id="exolight_outfit_description"> <!-- revision -->
+		<text>heavy armored suit (Also known as "TB-1") has the highest physical protection among all suits available in the Zone. Presumably, it was originally made for Monolith elite, but soon enough it got slipped under stalkers hands. After that, all groups start requesting orders on it. Because of the extremely large weight, stalkers usually get involved into long arguments about the suit. Some say that wearing this it is like wearing a coffin because of that weight, while others argue that having extreme physical protection will save you in the most hopeless conditions.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
@@ -525,7 +525,7 @@
 		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_light_outfit_description">
-		<text>%c[0,170,170,170]-тандартная лёгкая защита «Чистого неба», предназначенная для проведения разведки местности. Бронежилет обеспечивает минимальную защиту, расчитанную на внезапную встречу со слабыми мутантами или парочкой бандитов. Не предназначен для ведения полноценных боевых действий.\n \n
+		<text>%c[0,170,170,170]A lightweight bodysuit for "Clear Sky", this suit served as standard issue for the faction’s light assault troops. Despite the fact that the body armour is incapable of protecting the wearer from regular bullets, it provides a fair amount of protection against anomalous exposure.\n \n
 		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
 		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
