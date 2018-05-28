@@ -188,7 +188,7 @@
 		<text>Slug</text>
 	</string>
 	<string id="st_af_slug_descr">
-		<text>Артефакт представляет собой желеобразное образование в форме сферы, с неглубокими широкими впадинами, отделёнными друг от друга светло-чёрным веществом. Согласно последним исследованиям учёных - это колония бактерий U-1 в активной фазе размножения, а чёрное вещество является продуктом их жизнедеятельности. В активной фазе бактериям требуется больше питательных веществ, поэтому «Слизняк» поглощает химические вещества намного активнее «Слизи», но вместе с тем вырабатывает опасные для здоровья токсины, что не позволяет носить его продолжительное время. Порождается химическими аномалиями всех видов. Распространён. Вся степень опасности бактерий U-1 в активной фазе слабо изучена, поэтому артефакты данного вида скупаются учёными в больших количествах в целях их срочного изучения в различных НИИ за пределами Зоны отчуждения.\n \n
+		<text>Formed by the "Fruit punch" anomaly. The negative qualities of this artefact are compensated by the fact that it heightens the coagulation quality of blood. It's not often that one runs into such an artefact, and they pay well for it too.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
@@ -196,7 +196,7 @@
 		<text>Mica</text>
 	</string>
 	<string id="st_af_mica_descr">
-		<text>Артефакт представляет собой желеобразное образование в форме сферы, с глубокими широкими впадинами и отверстиями, отделёнными друг от друга светло-чёрным веществом. Согласно последним исследованиям учёных - это колония бактерий U-1 в крайне агрессивном состоянии, а чёрное вещество является продуктом их жизнедеятельности. Исходя из последних наблюдений, агрессивное состояние бактерий совпадает с резкими перепадами аномальной активности (например, Выбросами), но прямой связи между этими событиями так и не было установлено. Положительных свойств не имеет. Относительно редок, встречается только в химических зонах высокой аномальной активности. Опасность бактерий U-1 в агрессивном состоянии слабо изучена, поэтому артефакты данного вида охотно скупаются учёными в целях их срочного изучения в различных НИИ за пределами Зоны отчуждения.\n \n
+		<text>Anomaly "Fruit punch" is able to create such an artefact at the rarest, most extreme collection of physical conditions. The result is a semi-transparent, hard object. A rare and expensive artefact.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
@@ -204,7 +204,7 @@
 		<text>Pellicle</text>
 	</string>
 	<string id="st_af_pellicle_descr">
-		<text>Тончайшая плёнка стекловидного вещества, очень холодная на ощупь. Учёные утверждают, что данный артефакт имеет структуру, сильно отличную от артефактов, основу которых составляют бактерии U-1, но, несмотря на это, он так же состоит из бактерий (условное название U-2). Отличается от артефактов типа «Слизь» ярким зеленоватым свечением, и низкой температурой, поддерживаемой бактериями в небольшом радиусе вокруг артефакта с неизвестной целью. Редок, образуется в зонах высокой химической аномальной активности. Вследствие малого количества материала для исследований бактерии U-2, научные организации проявляют к артефакту повышенный интерес.\n \n
+		<text>This artefact is so rare that many researchers can't even imagine that such a substance can exist in a natural setting. Emits acidic chemical components.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
@@ -212,7 +212,7 @@
 		<text>Thorn</text>
 	</string>
 	<string id="st_af_thorn_descr">
-		<text>Артефакт растительного происхождения, внешне похож на утыканный иглами ржавый шар. При втыкании артефакта в кожу, кончики игл начинают потепенный вывод углеводов из крови, аккумулируя их в ядре артефакта, при этом в кровь выделяется фермент, уменьшающий чувствительность носителя к порезам. По утверждению учёных, «Колючка» является семенем аномалии «Жгучий пух», что подтверждается его поведением: артефакт цепляется за кожу или впутывается в шерсть живых существ, проходящих мимо, и начинает созревать, паразитируя на теле. При этом в кровь выделяется фермент, делающий кожу более грубой и устойчивой к порезам и разрыву, что повышает шансы на выживание хозяина и семени-паразите на нём. В конце созревания артефакт отваливается и, при удачном стечении обстоятельств, образует новую аномалию. Обнаружить его можно у аномалий «Жгучий пух», неподалёку от них, или на теле крупных мутантов. Повсеместная распространённость и применение. Интерес к артефакту проявляют научные организации.\n \n
+		<text>The result of the interaction between the anomaly Burnt Fuzz and the body of a careless stalker. The Thorn artefact pokes the body of its owner, no matter what. But it also helps clean the body of radionuclide. Quite widespread and cheap.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
@@ -220,28 +220,29 @@
 		<text>Crystal Thorn</text>
 	</string>
 	<string id="st_af_crystal_thorn_descr">
-		<text>Артефакт растительного происхождения, внешне похож на кристальный шар с иглами. Является редкой разновидностью (по другой теории - следующим этапом эволюции) «Колючки» с идентичными механизмами развития. Отличается от неё тем, что для созревания не требует углеводов, высасывая из крови лишь малое количество микроэлементов. Обнаружить артефакт можно у аномалий «Жгучий пух», неподалёку от них или на теле крупных мутантов. Распространённость средняя. Интерес к артефакту проявляют научные организации.\n \n
+		<text>Crystallizes in the anomaly Burnt Fuzz. Naturally takes out the radiation from the organism. That is, through the ears along with some amount of blood. Blood loss is possible also through over openings. Widespread and quite effective, which is the cause for the stable price in the artefact market.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
 	<string id="st_af_sea_urchin_name">
-		<text>Sea Urchin</text>
+		<text>Urchin</text>
 	</string>
 	<string id="st_af_sea_urchin_descr">
-		<text>Артефакт растительного происхождения, внешне похож на маленькую серую сферу с большим количеством тонких игл. Является семенем «Жгучего пуха» в местах высокой аномальной активности. От «колючек» отличается очень быстрым периодом созревания. За счёт большого количества игл, способен вывести из крови огромное количество углеводов в считанные минуты, вводя в кровь вещество, иксусственно стимулирующее организм. По причине ускоренного созревания необходимость защиты носителя отпала, из-за чего семя просто паразитирует на нём. Обнаружить артефакт можно у аномалий «Жгучий пух», неподалёку от них или на теле крупных мутантов. Весьма редок, встречается ближе к северу Зоны отчуждения. Интерес к артефакту проявляют научные организации.\n \n
+		<text>The anomaly Burnt Fuzz very rarely gives rise to this artefact. Raise the blood pressure and so, the body gets rid of a large amount of red blood cells. But along with them the stored radiation leaves the body as well. In his fundamental work titled "Ionization and polarization of the components of rare artefacts", Sakharov noted that the content of this formation has a critical stability, and it's not realistic to create such an artefact in lab conditions in the next ten years.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
 
 	<!-- Dead Air -->
 	<string id="st_af_thing_descr">
-		<text>Ingot - общее название артефактов гравитационной природы, представляющих собой небольшой кусок старого ржавого металла с различными аномальными свойствами, чаще всего - уменьшение веса вещей в рюкзаке. Порождается всеми аномалиями гравитационного типа. Широко распространён в местах свалки радиоактивных отходов и, как следствие, радиоактивен. Интерес к артефакту проявляют научные организации.\n \n
+		<text>Ingot is a common name for artifacts of gravitational nature, which are small pieces of old rusty metal with various abnormal properties. Such properties can be summarized by reduction the weight of backpacks. All anomalies of the gravitational type can generate it. Usually found in radioactive waste landfill and, as a result, it's considerably radioactive. Scientific organizations are interested in the artifact.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
 	<string id="st_af_thing_name">
 		<text>Ingot</text>
 	</string>
+	<!-- doubled
 	<string id="st_af_electra_sparkler_descr">
 		<text>Полупрозрачное аморфное образование, иногда генерирующее маленькие молнии-искры. При ношении «подстегивает» организм, повышая выносливость владельца за счёт своей энергии. При длительном использовани теряет заряд и «умирает». Обнаружить можно рядом с аномалиями электрического типа. Распространение повсеместное. Интерес к артефакту проявляют научные организации и коллекционеры.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
@@ -250,20 +251,21 @@
 	<string id="st_af_electra_sparkler_name">
 		<text>«Искровик»</text>
 	</string>
+	 -->
 	<string id="st_af_drop_descr">
-		<text>Почерневшее каплевидное образование с потрескавшейся глянцевитой поверхностью. Является побочным продуктом аномалии «Жарка», возникающим при высоких температурах. С помощью артефакта можно «прижечь» открытую рану без вреда для здоровья, побочным эффектом при этом является возникающая усталость. При частом использовании «остывает» и становится непригодным к использованию. Встречается повсеместно. Интерес к артефакту проявляют научные организации и военные.\n \n
+		<text>Tear-like shade artefact compound with a glossy surface. This artifact is formed in "Burner" anomaly at high temperatures. With this artifact, you can "burn" an open wound without doing harm to health. It showed side effects in form of causing fatigue to the body. With frequent use, it "cools" down and becomes unusable. scientific organizations and military have shown interest in this artifact.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
 		• %c[0,140,140,140] valuable</text>
 	</string>
 	<string id="st_af_drop_name">
-		<text>«Капля»</text>
+		<text>Droplet</text>
 	</string>
 	<string id="st_af_surge_name">
-		<text>Токоограничитель</text>
+		<text>Surge regenerator</text>
 	</string>
 	<string id="st_af_surge_descr">
-		<text>Небольшое, но продвинутое, устройство, которое поглощает электрическую энергию вокруг себя. Служит в качестве защиты от перенапряжений, ограничивая количество электричества, вступающего в контакт с телом, путём замыкания его на землю. Представляет довольно сложную цепь из ограничивающего резистора и варистора, что в значительной степени увеличивает электрическое сопротивление тела. В результате тело попадает под более низкое напряжение и способно выдержать разряды электричества, которые ранее приводили к летальным исходам. Таким образом жизненно важно иметь токоограничитель на поясе, когда нужно приблизиться к электрическим аномалиям или другим источникам электроэнергии в Зоне. Как и любой металлический предмет, он может быть использован в качестве ремонтного материала при наличии соответствующих инструментов и навыков.\n \n
-		%c[0,204,0,51]WARNING:\n \n%c[default]Необходимо учесть, что подобный модуль не сможет работать подобающим образом и обеспечивать достаточную защиту, если ваш костюм не удовлетворяет требованиям минимальной защиты в условиях нахождения в аномальных полях.\n \n \n
+		<text>A small albeit advanced device that absorbs electrical energy from its closest surroundings. It serves as a protection of sorts as it limits the amount of electricity that comes into direct contact with the body by either blocking it or by shorting it to ground. As it is in fact a very sophisticated resistor circuit, the Surge Suppressor greatly increases electrical resistance of the body. The result is that the user is hit by a significantly lower voltage and is able to survive outbursts which would normally be lethal. It is thus of vital importance to have a surge suppressor on your belt when in proximity of electrical anomalies and other sources of electricity in the Zone. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+		%c[0,204,0,51]WARNING:\n \n%c[default]It should be noted that this module won't be able to work properly or provide the required protection if your suit does not meet the requirements of having minimum protection against anomalous activities and abnormal fields.\n \n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] effectiveness of mult. units is stackable\n%c[0,153,255,255] 
@@ -271,20 +273,20 @@
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+8%)</text>
 	</string>
 	<string id="st_af_frames_name">
-		<text>Алюминиевые рамки</text>
+		<text>Aluminum frames</text>
 	</string>
 	<string id="st_af_frames_descr">
-		<text>Вместо того, чтобы просто использовать лямки для ношения рюкзака за спиной, можно закрепить его к телу при помощи алюминиевых рамок, которые повышают удобство переноски грузов. Рамки изготавливаются из алюминия, которые выбран в качестве основы из-за своего малого веса, а мелкие внешние элементы выполнены из пластика. Это необходимо для достижения необходимой гибкости при длительных перебежках и спринте. Вся конструкция снабжена системой ремней и лямок, что позволяет легко подстроить положение рюкзака на спине и, следовательно, повысить удобство и комфорт его использования. Единичный комплект алюминиевых рамок заменяет лишь основной каркас вашего рюкзака. Однако, можно использовать несколько наборов для ещё более точной настройки и дальнейшего улучшения переноса грузов. Хоть система изготовлена из лёгкого алюминия, часть материала может оказаться полезной для мелкого ремонта одежды.\n \n
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of aluminum frames, which optimizes your carrying capabilities. The frames are made of aluminum which is the material of choice due to its light weight, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. Single set of frames replaces only the main framework of your backpack, but it's possible to use more sets to further improve your carrying capabilities. Although the system is built of light aluminum, some parts can still prove useful for minor outfit repairs.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] effectiveness of mult. units is stackable\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+6%)</text>
 	</string>
 	<string id="st_af_grid_name">
-		<text>Титановая сетка</text>
+		<text>Titanium grid</text>
 	</string>
 	<string id="st_af_grid_descr">
-		<text>Вместо того, чтобы просто использовать лямки для ношения рюкзака за спиной, можно закрепить его к телу при помощи титановой сетки, которая повышает удобство переноски грузов. Сетка изготавливается из титана, который выбран в качестве основы из-за своего малого веса и прочности, а мелкие внешние элементы выполнены из пластика. Это необходимо для достижения необходимой гибкости при длительных перебежках и спринте. Вся конструкция снабжена системой ремней и лямок, что позволяет легко подстроить положение рюкзака на спине и, следовательно, повысить удобство и комфорт его использования. Одна титановая сетка заменяет лишь основной каркас вашего рюкзака. Однако, можно использовать несколько сеток для ещё более точной настройки и дальнейшего улучшения переноса грузов. Сетки изготавливаются из титана высокого качества, следовательно разобранный каркас можно использовать в качестве дополнения при ремонте брони или шлемов с целью повышения эффективности защиты.\n \n
+		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of titanium grid, which optimizes your carrying capabilities. The grid is made of titanium which is the material of choice due to its light weight and high durability, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. A single grid replaces only the main framework of your backpack, but it's possible to use more grids to further improve your carrying capabilities. Grids are created from very high quality titanium, thus disassembled grid can be used as an effective combat outfit or helmet repair supplement.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high quality\n%c[0,153,255,255] 
@@ -292,22 +294,22 @@
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+10%)</text>
 	</string>
 	<string id="st_af_freon_name">
-		<text>Фреоновый охладитель</text>
+		<text>Freon emission module</text>
 	</string>
 	<string id="st_af_freon_descr">
-		<text>Фреоновый модуль охлаждения предназначен для поддержания постоянной температуры вокруг тела на уровне 20 градусов по Цельсию. Следовательно, чрезвычайно полезен для сведения к минимуму вредоносного воздействия высоких температур в местах, где требуется дополнительная защита. Вся система находится в вакууме и поглощает излишки тепла, понижая температуру носителя за счёт образования фреонового облака, которое охлаждает молекулы воздуха. Ещё одно свойство фреонового облака - оно в какой-то степени является диэлектриком, т.е. имеет свойство снижать воздействие электричества.\n \n
-		%c[0,204,0,51]WARNING:\n \n%c[default]Необходимо учесть, что подобный модуль не сможет работать подобающим образом и обеспечивать достаточную защиту, если ваш костюм не удовлетворяет требованиям минимальной защиты в условиях нахождения в аномальных полях.\n \n \n
+		<text>The freon emission module is designed to maintain a constant temperature around the body at the level of 24 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits a thick layer of freon-cooled air particles which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. Another feature of the freon emission module is its ability to resist electricity to a moderate extent.\n \n
+		%c[0,204,0,51]WARNING:\n \n%c[default]It should be noted that this module won't be able to work properly or provide the required protection if your suit does not meet the requirements of having minimum protection against anomalous activities and abnormal fields.\n \n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] effectiveness of mult. units is stackable\n%c[0,153,255,255] 
 		• %c[0,140,140,140] does not require UPD</text>
 	</string>
 	<string id="st_af_cooler_name">
-		<text>Модуль охлаждения</text>
+		<text>Body cooler</text>
 	</string>
 	<string id="st_af_cooler_descr">
-		<text>Охладитель тела представляет собой электрический модуль, предназначенный для поддержания постоянной температуры вокруг тела на уровне 15 градусов по Цельсию. Следовательно, чрезвычайно полезен для сведения к минимуму вредоносного воздействия высоких температур в местах, где требуется дополнительная защита. Он создаёт быстрые электрические импульсы, которые разряжают воздух, создавая вакуум, который поглощает излишки тепла и немного понижает температуру вокруг носителя. Система не требует воды для функционирования. Если разобрать устройство используя специальный набор инструментов, металлический корпус можно использовать повторно в качестве материала для ремонта брони.\n \n
-		%c[0,204,0,51]WARNING:\n \n%c[default]Необходимо учесть, что подобный модуль не сможет работать подобающим образом и обеспечивать достаточную защиту, если ваш костюм не удовлетворяет требованиям минимальной защиты в условиях нахождения в аномальных полях.\n \n \n
+		<text>The body cooler is an electric module designed to maintain a constant temperature around the body at the level of 15 degrees Celsius. It is thus extremely useful in order to minimize the effects of extreme heat in situations requiring additional protection. It emits quick electrical impulses which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. It does not require water to function. Another feature of the body cooler is its ability to resist electricity to a moderate extent. In case of disassembly of the unit using a toolkit, the metal casing can be reused as outfit repair material.\n \n
+		%c[0,204,0,51]WARNING:\n \n%c[default]It should be noted that this module won't be able to work properly or provide the required protection if your suit does not meet the requirements of having minimum protection against anomalous activities and abnormal fields.\n \n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high quality\n%c[0,153,255,255] 
@@ -316,31 +318,31 @@
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+8%)</text>
 	</string>
 	<string id="st_af_kevlar_name">
-		<text>Кевларовые пластины</text>
+		<text>Kevlar body plates</text>
 	</string>
 	<string id="st_af_kevlar_descr">
-		<text>Кевларовые пластины широко известны своими защитными свойствами и поэтому высоко ценятся. Они могут выполнять самые разнообразные функции, но наиболее важными из них являются поглощение воздействия энергии пуль из огнестрельного оружия, в основном на передней и задней части туловища. Представляют собой облегчённую альтернативу тяжёлым стальным пластинам. Кроме того, позволяют дольше поддерживать броню в хорошем состоянии за счёт значительного снижения износа брони при контакте с противниками. Используется воинскими частями всего мира.\n \n
+		<text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] effectiveness of mult. units is stackable\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+12%)</text>
 	</string>
 	<string id="st_af_ironplate_name">
-		<text>Железная пластина</text>
+		<text>Iron plate</text>
 	</string>
-	<string id="st_af_ironplate_descr">
-		<text>Самодельные железные пластины пользуются большой популярностью среди новичков в качестве дешёвой альтернативы бронежилету. Такая пластина остановит разве что пистолетную пулю на излёте, но даст защиту от осколков, порезов, укусов и прочих грубых механических повреждений. Представляет собой небольшой лист железа 20х20 см, обшитый тканью и имеющий верёвочные крепления для ношения под одеждой.\n \n
+	<string id="st_af_ironplate_descr"> <!-- revision -->
+		<text>Homemade iron plates are very popular among rookies as a cheap alternative to body armor. Such plates cannot stop pistol bullets efficiently enough, but they can protect against fragments, cuts, bites and other severe mechanical damage. Every plate is a small iron sheet 20 ? 20 cm, wrapped with a rope attachment for wearing under clothing.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,204,0,51] 
 		• %c[0,140,140,140] low-quality product\n%c[0,153,255,255] 
 		• %c[0,140,140,140] effectiveness of mult. units is stackable\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+5%)</text>
 	</string>
 	<string id="st_af_plates_name">
-		<text>Стальные пластины</text>
+		<text>Carbon steel plates</text>
 	</string>
 	<string id="st_af_plates_descr">
-		<text>Специально разработанные пластины, изготавливаются путём длительной и сложной термообработки стали. Производятся с учётом баллистических свойств брони и установки различных модификаций и модернизаций. Используются для гашения ударов на передней и задней части туловища. Такая защита имеет свою цену, поскольку толстые стальные пластины очень тяжёлые, они также значительно ограничивают скорость передвижения и манёвренность. Позволяют дольше поддерживать броню в хорошем состоянии за счёт значительного снижения износа при контакте с пулями или ударами. Широко используется отрядами специального назначения.\n \n
-		%c[0,204,0,51]WARNING:\n \n%c[default]Сталь является хорошим проводником и, находясь так близко к телу, делает носителя более уязвимым к воздействию электричества. Следует соблюдать осторожность вблизи электрических аномалий и других источников электрической энергии.\n \n
+		<text>These steel plates are specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and the back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, any type of armor plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used extensively by Spetsnaz forces.\n \n
+		%c[0,204,0,51]WARNING:\n \n%c[default]Steel is a conductor and its proximity to the skin makes the body more vulnerable to electricity. For this reason, it is suggested to proceed with caution when near electrical anomalies or other sources of electricity.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] single layer of steel plate\n%c[0,153,255,255] 
@@ -348,10 +350,10 @@
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+20%)</text>
 	</string>
 	<string id="st_af_camelbak_name">
-		<text>«Верблюжий горб»</text>
+		<text>Camelbak</text>
 	</string>
 	<string id="st_af_camelbak_descr">
-		<text>Берёт своё название из мифа, что верблюды хранят воду в своих горбах. «Верблюжий горб» позволяет переносить воду на спине или на поясе, представляет собой систему гидрации: плотный мягкий резервуар, в виде грелки, наполненный водой. Гибкий шланг с системой дозации облегчает использование даже в самых острых ситуациях. Поскольку резервуар изготовлен из высококачественного текстиля, опытные сталкеры используют его повторно в качестве материала для ремонта снаряжения.\n \n
+		<text>Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep one hydrated. Flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and integrated in the suit to protect the system from damage from any source, be it combat or anomaly. Because the container is made of a high-quality textile, experienced stalkers sometimes re-use scrapped camelbacks for quality materials to patch their field outfits.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs (+6%)</text>
@@ -364,7 +366,7 @@
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] valuable\n%c[0,153,255,255] 
-		• %c[0,140,140,140] отсутствует потребление энергии\n%c[0,153,255,255] 
+		• %c[0,140,140,140] does not require UPD\n%c[0,153,255,255] 
 		• %c[0,140,140,140] artefact storage device\n%c[0,153,255,255] 
 		• %c[0,140,140,140] maximum capacity:%c[0,170,170,170] 1\n%c[0,153,255,255] 
 		• %c[0,140,140,140] radiation intensity reduction:%c[0,170,170,170] 270 mSv / min\n%c[0,153,255,255] 
@@ -647,10 +649,10 @@
 		<text>IAM w/ Crystal Thorn</text>
 	</string>
 	<string id="st_af_sea_urchin_af_iam_name">
-		<text>IAM w/ Sea Urchin</text>
+		<text>IAM w/ Urchin</text>
 	</string>
 	<string id="st_af_drop_af_iam_name">
-		<text>IAM w/ Droplets</text>
+		<text>IAM w/ Droplet</text>
 	</string>
 
 	<string id="st_af_medusa_af_aac_name">
@@ -756,10 +758,10 @@
 		<text>AAC w/ Crystal Thorn</text>
 	</string>
 	<string id="st_af_sea_urchin_af_aac_name">
-		<text>AAC w/ Sea Urchin</text>
+		<text>AAC w/ Urchin</text>
 	</string>
 	<string id="st_af_drop_af_aac_name">
-		<text>AAC w/ Droplets</text>
+		<text>AAC w/ Droplet</text>
 	</string>
 
 	<string id="st_af_medusa_af_aam_name">
@@ -865,10 +867,10 @@
 		<text>AAM w/ Crystal Thorn</text>
 	</string>
 	<string id="st_af_sea_urchin_af_aam_name">
-		<text>AAM w/ Sea Urchin</text>
+		<text>AAM w/ Urchin</text>
 	</string>
 	<string id="st_af_drop_af_aam_name">
-		<text>AAM w/ Droplets</text>
+		<text>AAM w/ Droplet</text>
 	</string>
 
 	<string id="st_af_medusa_lead_box_name">
@@ -974,9 +976,9 @@
 		<text>LLMC w/ Crystal Thorn</text>
 	</string>
 	<string id="st_af_sea_urchin_lead_box_name">
-		<text>LLMC w/ Sea Urchin</text>
+		<text>LLMC w/ Urchin</text>
 	</string>
 	<string id="st_af_drop_lead_box_name">
-		<text>LLMC w/ Droplets</text>
+		<text>LLMC w/ Droplet</text>
 	</string>
 </string_table>
