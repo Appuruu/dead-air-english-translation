@@ -85,7 +85,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_quests_deadcity.xml - **done**
 
-- st_quests_escape.xml - *incomplete*
+- st_quests_escape.xml - **done**
 
 - st_quests_general.xml - **done**
 
