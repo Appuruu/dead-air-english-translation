@@ -1052,7 +1052,7 @@
 		<text>Old book</text>
 	</string>
 	<string id="st_old_book_descr"> <!-- revision -->
-		<text>Обычная ничем не примечательная книга. На некоторых страницах можно заметить жирные пятна или загнутые уголки, что указывает на то, что ей когда-то активно пользовались. К сожалению, долгое хранение в отвратительных условиях сказалось самым негативным образом - многие листы оказались вырваны или испорчены, а переплёт держится на одном лишь честном слове. Пусть целесообразность ее чтения и стоит под большим вопросом, однако для такой бумаги можно найти и иное применение. \n \n
+		<text>Just an old worn book. It was left for very long years under bad conditions. As a result, most pages are either torn or spoiled. Although Some pages are still readable, these papers can be used for something else.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] personal belongings\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
@@ -1211,11 +1211,11 @@
 		• %c[0,140,140,140] equipment\n%c[255,238,153,26] 
 		• %c[0,140,140,140] possession increases number of body parts obtained from mutants</text>
 	</string>
-	<string id="st_porn2"> <!-- wip -->
+	<string id="st_porn2"> <!-- revision -->
 		<text>Newspaper</text>
 	</string>
 	<string id="st_porn2_descr">
-		<text>Немного пожелтевшая газета. Выпуск, кажется, еще месячной давности, если не больше. Чтение газет - нарядy с играми в карты, чтением книг, игрой на гитаре или гyбной гармони - является одним из распространенных способов досyга в Зоне. Также газета позволяет оставаться в кyрсе происходящего за пределами ЧЗО, пyсть и с большим запозданием. Помимо новостей в газетах встречаются интересные статьи на самые разные темы, позволяющие на время отвлечься от окyжающего yжаса и переместить сознание на более приятные и отстраненные вещи вроде истории или рецепта засолки огyрцов. В слyчае нехватки бyмаги, в газеты заворачивают кyски мяса мyтантов для хранения.\n \n
+		<text>An old, yellow newspaper. Seems to be issued a month ago, if not more. Reading newspapers, playing cards, reading books, playing guitar or  harmonica are the most common ways to relax and spend time in the Zone. You can find many interesting articles and topics, the newspaper allows you to stay tuned of what is happening outside the Zone. Not to mention that it can be always used to wrap meat and food around.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] everyday item\n%c[255,238,153,26] 
 		• %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
@@ -1310,8 +1310,8 @@
 	<string id="st_tent">
 		<text>Tent</text>
 	</string>
-	<string id="st_tent_descr"> <!-- wip -->
-		<text>Брезентовая палатка является широко известным временным сооружением, способным предоставить укрытие от ветра, дождя или пыли. Используемый материал был подвергнут огнеупорной, водоотталкивающей и противогнилостной пропиткам.</text>
+	<string id="st_tent_descr">
+		<text>A temporary shelter, made to withstand harsh weather. To place the tent, raise it in an open space.</text>
 	</string>
 	<string id="st_walkie">
 		<text>Radio</text>
@@ -1406,11 +1406,11 @@
 		• %c[0,140,140,140] slight health restoration on use\n%c[0,153,255,255] 
 		• %c[0,140,140,140] significant sleepiness decrease</text>
 	</string>
-	<string id="st_tetanus"> <!-- wip -->
+	<string id="st_tetanus"> <!-- revision -->
 		<text>Antibiotic</text>
 	</string>
 	<string id="st_tetanus_descr">
-		<text>Инъекция быстродействующего антибиотика. Показания к применению - тяжёлые отравления и высокий уровень интоксикации организма. В условиях Зоны рекомендуется использование инъекции после каждого приёма в пищу 1кг местной фауны, мясо которой крайне богато разичными возбудителями болезней даже после термической обработки. В состав этого препарата также входят вещества, снимающие постalcoholный синдром.\n \n
+		<text>Fast-acting antibiotic for cases of indications-severe poisoning and high level of intoxication. Inside the Zone, it is recommended to use one shot after having meals of 1 kg of mutated meat. The composition of this drug also includes substances that relieve postalcohol syndrome.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] medicine\n%c[0,153,255,255] 
 		• %c[0,140,140,140] fast usage (syringe)\n%c[0,153,255,255] 
@@ -1926,11 +1926,11 @@
 		• %c[0,140,140,140] av. number of fragments: %c[0,170,170,170]580 (steel balls)\n%c[0,93,0,116] 
 		• %c[0,140,140,140] explosion delay: %c[0,170,170,170]none</text>
 	</string>
-	<string id="st_mine_wire"> <!-- wip -->
+	<string id="st_mine_wire">
 		<text>Booby trap</text>
 	</string>
 	<string id="st_mine_wire_descr">
-		<text>Самодельное взрывное устройство на основе боеголовки от снаряда РПГ-7 и взрывателя из аккумуляторной батареи. Похоже, что уже весьма потрёпанная, так что может рвануть в любую секунду. К счастью, отсутствие спускного механизма внушает какую-то надежду, что она не сдетонирует прямо у вас в руках, если, конечно, какой-то придурок не станет стрелять по вам и не попадёт в боеголовку. В Зоне самодельные взрывные устройства весьма популярны и часто используются сталкерами, например, чтобы забраться в недоступное место или при организации засады. Также зачастую размещаются рядом с минами, чтобы усилить мощность взрыва. Снаряд очень легко спрятать, поэтому можно организовать весьма неприметную ловушку.\n \n
+		<text>Improvised explosive device based on RPG-7 warhead and parts of a car battery. It looks like it has been carried around for quite some time and could go off any second. Fortunately, the triggering mechanism ensures that it won't unless the explosive is directly hit by a bullet or subjected to other potent physical force. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas to ambushes. They are also often placed next to mines to greatly amplify the power of explosion. IED can be effectively concealed making it virtually invisible to everyone else.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] explosive\n%c[0,153,255,255] 
 		• %c[0,140,140,140] military item\n%c[0,153,255,255] 
@@ -2377,8 +2377,8 @@
 	<string id="jup_b200_tech_materials_textolite">
 		<text>Textolite base</text>
 	</string>
-	<string id="jup_b200_tech_materials_textolite_descr">
-		<text>Представляет собой слоистый пластик на основе ткани из волокон и полимерного связующего вещества (бакелита, полиэфирной смолы, эпоксидной смолы). При должной сноровке может здорово помочь в починке.\n \n
+	<string id="jup_b200_tech_materials_textolite_descr"> <!-- revision -->
+		<text>Layered plastic based on fabric of fibers and polymeric binder (bakelite, polyester resin, epoxy resin). With proper skill it can be great help in repairing.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high value</text>
@@ -2409,7 +2409,7 @@
 		<text>Camping backpack</text>
 	</string>
 	<string id="st_backpack_light_desc">
-		<text>Обычный рюкзак со множеством подсумков и отделений, при помощи которого переносится снаряжение, личные вещи, продукты и охотничьи принадлежности. Одно из первых обязательных приобретений сталкера-новичка.\n \n
+		<text>A backpack with enough storage space. he inside has been modified to keep water out. Not a pretty solution, but it works. A popular choice among stalkers and rookies.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] equipment</text>
 	</string>
@@ -2417,8 +2417,8 @@
 	<string id="st_backpack_heavy">
 		<text>Travel backpack</text>
 	</string>
-	<string id="st_backpack_heavy_desc">
-		<text>Large backpack for long journeys. Thanks to the system of uniform weight distribution, it allows you to carry enough supplies and equipment for a long trip up to five days.\n \n
+	<string id="st_backpack_heavy_desc"> <!-- revision -->
+		<text>Large backpack for long journeys. Thanks to the uniform weight distribution system, it allows you to carry enough supplies and equipment for a long trip up to five days.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] equipment</text>
 	</string>
@@ -2459,30 +2459,30 @@
 		<text>Camp sleeping bag, warm enough to survive the night in the Zone.</text>
 	</string>
 	<string id="st_itm_repairkit_tier_1_name">
-		<text>Tools for basic work</text>
+		<text>Basic tools</text>
 	</string>
 	<string id="st_itm_repairkit_tier_1_descr">
-		<text>Набор инструментов «Юный техник». В наличии все необходимые для слесарной работы инструменты. Для опытного техника такой набор необходим для проведения самых простых апгрейдов брони и оружия. Для обычного сталкера станет удобным инструментом при создании самых простых вещей, вроде угольной печи.\n \n
+		<text>A children's toolkit. Unlikely to be suitable for maintenance, but they could be useful in the hands of a thrifty technician.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high value\n%c[255,238,153,26] 
 		• %c[0,140,140,140] used to create and repair items</text>
 	</string>
 	<string id="st_itm_repairkit_tier_2_name">
-		<text>Tools for fine work</text>
+		<text>Advanced tools</text>
 	</string>
 	<string id="st_itm_repairkit_tier_2_descr"> <!-- revision -->
-		<text>A good set of tools for fixing electronic devices. It contains a screwdriver, a soldering iron and other tools necessary for working with radio equipment. An irreplaceable thing in situations such as breakdown of a walkie-talkie or PDA. Despite its direct purpose, it can be useful for a variety of types of work under skillful hands.\n \n
+		<text>A decent set of old tools, but despite their age they appear to be in good condition. A technician could probably make use of these. It contains a screwdriver, a soldering iron and other tools necessary for working with radio equipment. An irreplaceable thing in situations such as breakdown of a walkie-talkie or PDA. Despite its direct purpose, it can be useful for a variety of types of work under skillful hands.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high value\n%c[255,238,153,26] 
 		• %c[0,140,140,140] used to create and repair items</text>
 	</string>
 	<string id="st_itm_repairkit_tier_3_name">
-		<text>Calibration tools</text>
+		<text>Expert tools</text>
 	</string>
 	<string id="st_itm_repairkit_tier_3_descr">
-		<text>Профессиональный набор инструментов для тонкой доводки оборудования. Надпись на ящике гласит, что набор произведён в ГДР. Того, что включено в комплект, достаточно для проведения почти любых работ по настройке и калибровке.\n \n
+		<text>A professional set of high quality tools for fine-tuning equipment. A technician could use these to fully modify weapons and armour.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high value\n%c[255,238,153,26] 
@@ -2491,8 +2491,8 @@
 	<string id="st_drugs_kit">
 		<text>Drug making kit</text>
 	</string>
-	<string id="st_drugs_kit_descr">
-		<text>Небольшой футляр с различными металлическими изделиями, предназначенными для изготовления наркотических препаратов. Некоторые пластиковые упаковки содержат таблетки и непонятные травы.\n \n
+	<string id="st_drugs_kit_descr"> <!-- revision -->
+		<text>A small case with various types of tools designed specifically for producing drugs. Contains some plastic packages, tablets and ampoules.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		• %c[0,140,140,140] technological item\n%c[0,153,255,255] 
 		• %c[0,140,140,140] high value\n%c[255,238,153,26] 
