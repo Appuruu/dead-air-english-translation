@@ -3,74 +3,73 @@
 	<!-- esc_2_12_stalker_trader -->
 	<string id="esc_2_12_stalker_trader_start_dialog_0">
 		<text>Hey, stalker! What do you need?</text>
-	</string> 
+	</string>
 	
 	<string id="esc_2_12_stalker_trader_start_dialog_1">
 		<text>A fresh face… or have I seen you around before, stalker? I'm the guy around here to see if you need to buy or sell equipment. If you are seeking a source of income, I'm always in need of someone willing to do dirty work. I look over this camp, and all stalkers are welcome here to rest, as long as they stay out of trouble. I'll also warn you not to mess with the military; I pay good money to keep them away from this place. Stalkers should be relatively safe as long as they don't leave camp.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11">
-		<text>Новые, новые. Я тут не особо давно. Решил вот, наконец, заглянуть, поздороваться.</text>
+		<text>Yes, new. I have not been here very long. I finally decided to take a look, and to say hello.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111">
-		<text>Понятно, обознался значит. Ну, если есть какие вопросы, то вперёд, на что смогу - отвечу.</text>
+		<text>Clearly, indicated means. Well, if there are any questions, then ask me, I will answer what I know.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_110">
-		<text>Ещё чего рассказать? Спрашивай, пока я в настроении.</text>
+		<text>More things to tell? Ask while I'm in the mood.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1119">
-		<text>Да вроде всё ясно.</text>
+		<text>Yes, everything is clear.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1111">
-		<text>Денег у меня всего ничего, но начинать как-то надо. Не подскажешь, что в первую очередь себе лучше взять?</text>
+		<text>I have nothing but money to begin with. Could you suggest me what should I do next?</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11111">
-		<text>Чего бы тебе посоветовать… Рюкзак у тебя есть? Если нет - вот, смотри, по-дешёвке отдам. Удобный, крепкий, вместительный. Или ты в руках хабар таскать собрался? Система быстрого сброса к нему - хорошее дополнение. Зачем нужна, спрашиваешь? Сам догадаешься, когда с полным барахла рюкзаком от собак побегать придётся.\nЕсли уверен, что сможешь пережить сегодняшний день - позаботься о ночлеге, потому как сегодняшнюю ночь ещё никто не отменял. По-хорошему я бы спальник тебе предложил, но на той неделе последний продал - придётся пока обойтись одним покрывалом. В чистом поле оно тебе мало поможет, больно уж ночи холодные, а вот в лагере возле костерка покемарить - самое дело. И даже не вздумай на чужом месте ночевать, решил вздремнуть - сам устраивай своё место, такие здесь правила.\nПро противогаз и счётчик гейгера даже рассказывать не буду, тут и так всё понятно. Без них либо матёрый сталкер ходит, который тут каждую тропку знает, либо на голову больной.\nЕсли охотиться вздумаешь, то вот нож лежит хороший, кабанов самое оно свежевать. И печки двух видов, под разное топливо, чтобы мясо в любых условиях готовить. Или, как вариант, одноразовые наборы для розжига костров и приготовления пищи - у любого привала сможешь себе тушкана закоптить.</text>
-	</string>
+		<text>What should I advise ... Do you have a backpack? If not - here, look, I will sell it for cheap. Comfortable, strong, roomy. A quick reset system to it is a good addition. Why do you need, you ask? You'll guess yourself when you'll have to run around with a full backpack of stuff from dogs. \n If you're sure that you can survive today - take care of the overnight stay. I would suggest a sleeping bag, but last week I sold the last one - I'll give you a blanket to cover for the time being. In the open it will not help much, it hurts the nights are cold, but in the camp near the fire a snooze is the very best thing that you can do. And do not even think of spending the night on someone else's place, decided to take a nap - set up your own place, such rules are here. \n I will not even tell you about the gas mask and the geiger counter - without them, either the experienced stalker, who knows all the paths, walks, or a rookie - you can't survive without those things. \n If you want to hunt, then the knife will do good enough, the boars itself are fresh. There is two types of stoves for different types of fuels, so that the meat can be cooked in any conditions. Or, as an option, disposable sets of fires can kill the mutant by cooking it - mutant is dead and served ready to eat. </text>
+	<string>	
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111111">
-		<text>Ох, аж голова кругом, да и легче выбирать не стало.</text>
+		<text>Oh, my head is all around now, and it's easier to choose. What else?></text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1112">
-		<text>Столько тут всего… Аж глаза разбегаются. Верёвки всякие, тряпки какие-то, текстолит с канифолью вон вижу. Куда оно тебе, неужели покупают?</text>
+		<text>I see you have a lot of textolite, rosin, oil, why do you need this crap? Do stalkers even buy it? </text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11121">
-		<text>Покупают, да ещё как! Для новичка это всё, конечно, мусор сплошной, да и не всякий заморачиваться захочет. Но смекалистый сталкер всякому гвоздю применение найдёт, если инструменты нужные под рукой будут. А на инструменты эти, кстати, сейчас спрос очень большой - они и в хозяйстве хороши, и у техников спрос на них всегда есть. Так что продавать их первому встречному особо не спеши, если такой найдёшь. Рюкзак для охоты смастерить, печку походую сварганить, детектор спаять - с нужным набором под рукой весь твой хлам сразу в дело пойдёт. Ну а если всё же решил, что не для тебя подобным заниматься - тащи всё подобное барахло сюда. Я-то с радостью куплю, главное - на цены не жалуйся.</text>
+        <text>They buy it, and how could they not?! For the beginners this is very needed, of course, the garbage is old, and not everyone wants to bother with it. But a smart stalker will find use every type of crap, if he has tools needed at hand. And these tools, by the way, are now very demanding - they are good in the economy, and technicians always have a demand for them. Well, if you still decided that it's not for you to do such a thing - drag all that stuff down here. I'll gladly buy it, the main thing - do not complain about prices.<text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111211">
-		<text>Вон оно как, кто бы знал!</text>
+		<text>Oh it's like this, who would've known..</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1113">
-		<text>А есть чего жрать повкуснее? А то задолбался я, на одних сухарях с водкой сидеть.</text>
+		<text>Is there something normal to eat? I got sick from eating breadcrumbs.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11131">
-		<text>Ишь ты, интеллигенция какая! Нет бы радоваться, что вообще есть что пожрать, так он ещё и жалуется. Ладно, не хмурься ты так, слишком уж часто салаги с такими вопросами приходят.\nВ общем, тут всё просто. Хорошую, человеческую еду привозят сюда лишь небольшими партиями. В основном это консервы всех видов, хлеб, водка, еще чего по мелочи. Как повезет, в общем. Про цены лучше даже не начинай, я по сто раз на дню такое выслушиваю. Хочешь нормально есть - плати. Дефицит есть дефицит. Правда, Зона - само по себе место опасное, потому и здоровьем тут рисковать - дело обычное. Так что местные ребята давно приучились сами себе еду добывать из всего, что под руку подвернётся. А подворачивается обычно что-то злое и радиоактивное… Но на удивление питательное, ведь мясо - оно и у мутантов мясо. Кабаны, плоти, химеры - это самый смак. И фонит не так сильно, и на вкус от той же простой свинины не отличишь. Некоторые это мясо потом смешивают с хлебом, заворачивают в бумагу и оставляют на несколько дней, чтобы радиация выводилась. Радиация то может и выводится, но вот запашок от получившегося «продукта» уже не выветришь.</text>
+		<text>Look at you, what kind of intellectual! No, it would be nice to have something to eat, so he complains. Okay, do not frown so, too often the salagoes with such questions come. \ N In general, everything is simple. Good, human food is brought here only in small batches. Basically, it is canned food of all kinds, bread, vodka, more than that in detail. How lucky, in general. About the prices better, do not even start, I listen to it a hundred times a day. If you want to eat normally - pay. Deficiency is a deficit. True, the Zone itself is a dangerous place, therefore it is normal to take health risks here. So the local guys have long been accustomed to getting their own food from everything that comes to hand under the arm. And it usually turns something evil and radioactive ... But surprisingly nutritious, because meat - it's also mutants meat. Wild boars, flesh, chimeras - this is the most relish. And the fonite is not so strong, and the taste of the same simple pork is not distinguishable. Some of this meat is then mixed with bread, wrapped in paper and left for several days to allow radiation to be removed. Radiation can be and is displayed, but here the smell from the resulting "product" is no longer that good.<text>
 	</string>
-
-	<string id="esc_2_12_stalker_trader_start_dialog_111311">
-		<text>Ну хоть что-то, и на том спасибо.</text>
+    <string id="esc_2_12_stalker_trader_start_dialog_111311">
+		<text>Well, at least something, thanks for that.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_1114">
-		<text>Почему оружия я у тебя в продаже не вижу? Мне бы автомат какой, или дробовик получше.</text>
+		<text>Why do not I see any weapons on sale? I would like to buy a gun, or better, a shotgun.</text>
 	</string>
 
+		<text>It is not allowed for me to trade weapons. It's forbidden by the soldiers. What If I sell a weapon right under their noses to some idiot, and then he shoots half the checkpoint? They will equalize our whole camp with the ground, and they will put me on the wall. And at least some guarantee that I was not involved in this case. Say thank you, that I managed to agree on the ammunition. Caliber, though weak, will be enough till you leave the Cordon. A large game in our places almost does not arrive.</text>
 	<string id="esc_2_12_stalker_trader_start_dialog_11141">
-		<text>Не дозволено мне им торговать, вояки запретили. Подпортили бизнес знатно, конечно, но понять тоже можно. Если я прямо у них под носом ствол какому-нибудь придурку продам, а он потом половину КПП перестреляет? Они же весь наш лагерь с землёй сравняют, да и меня к стенке приставят. А так хоть какая-никакая гарантия, что я к этому делу причастен не был. Скажи спасибо, что хоть на патроны договориться смог. Калибр пусть и слабый, но от мелочи всякой отсреляться хватит. А крупная дичь в наши места почти и не заглядывает.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111411">
-		<text>Спасибо, блин, обрадовал.</text>
+		<text>Thanks, dammit, im rejoiced.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
@@ -102,33 +101,33 @@
 	<!-- esc_2_12_stalker_nimble -->
 	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
 	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
-		<text>О, наконец-то, долгожданный КПК! Две недели его от Споры жду, спасибо! Вот твоя награда.</text>
+		<text>Oh, finally, the long-awaited PDA! I waited two weeks to get it from Spore, thank you! Here is your reward.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
-		<text>Я тут вещицу одну принёс, по заданию.</text>
+		<text>I brought a little thing here, on assignment.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_no">
-		<text>Не думаю, что я именно тот, кто тебе нужен.</text>
+		<text>I do not think that I'm exactly the guy you are looking for.</text>
 	</string>
 
 
 	<string id="esc_2_12_stalker_nimble_about_0">
-		<text>У меня есть к тебе пара вопросов.</text>
+		<text>I have couple of questions for you.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_01">
-		<text>Конечно, что интересует?</text>
+		<text>Of course, what interests you?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_011">
-		<text>Расскажи о себе.</text>
+		<text>Tell about yourself.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_0111">
-		<text>Да ничего интересного. Всякое бывало, как и со всеми тут: и в аномалии попадал, и в плену у бандитов был… Я же в Зону ещё пацаном пришёл. Вначале по мелочи бегал - антирады, патроны бронебойные… Потом с Сидоровичем работал - долг отдавал, он мне разок шкуру спас. Пока для него каштаны из огня таскал, завёл пару полезных знакомств, ну и перешел эксклюзивные заказы, на север подался, на Скадовск, хорошие деньги рубил там, как сыр в масле катался. В один прекрасный день приходят ребята и говорят: «Монолитовцы радар назад отбили». Рисковать я не хотел больше, с таким-то положением, нанял проводника ну и отправился сюда, на малую родину свою, так сказать. Монолитовцы сумели запустить Выжигатель обратно и отрезало наших ребят на севере, всех до единого. Как потом уже узнал - со «Скадовска» всех наших тоже выбили. Ну а здесь теперь… а что здесь. Загнулся мой бизнес. Клиенты тут сами босые, никаких больших заказов не жди; вояки совсем оборзели, перекрывают все каналы с оружием, на уступки не идут. Немного помотался туда-сюда и удалось кое-как организовать тут небольшое дельце: так как оружие сейчас в сильном дефиците и каналы все перекрыты, я их принимаю в любом, даже самом неприглядном, виде и сбываю их, вот, Технарю. Он мужик толковый, из любого ржавого весла пару пригодных деталей себе достанет, чем потом и ремонтирует. Ну и мне с этого что-то перепадает. А за стволы я плачу тем, что имею - топливом. Много его тут не сыщешь; товар ходовой, любому новичку нужен; запасы имеются, да и пара кана… Да. Что-то заговорился я. В общем, если убитый ствол найдешь, тащи сюда, договоримся.</text>
-	</string>
+		<text>Nothing too interesting. I was a Clear Sky member until the The Second Emission happened, then i left the swamps to Cordon, in Cordon, Sidorovich saved my ass so I started working with Him, after getting some connections in the trader world, I left Cordon to go to The North - Skadovsk. There I established my own business - I started selling rare weapons and equipment. Everything was going fine until those damn fanatics reactivated Brain Scorcher so I went back where I started - to Cordon, i do not expect any serious orders in here, so my business is not as good as it was.</text>
+    </string>
 	<string id="esc_2_12_stalker_nimble_about_012">
-		<text>Подскажи, где бы мне тут артефактов поднять, если не секрет?</text>
+		<text>Tell me, where could I hunt for artifacts, if not secret?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_0121">
-		<text>Артефакты… Здесь тебе ловить нечего, это однозначно. Бери пару-тройку контейнеров, противогаз получше, детектор - и вали на Свалку, вот что я тебе скажу. Там, на кучах мусора, «Болванки» часто встречаются, пакуешь их в контейнеры и несешь на болота, к чистонебовцам. Ребята отличные, я с ними давно дела веду - никогда не подводили. Хвосты собачьи и прочие части мутантов тоже с радостью у тебя примут.</text>
+		<text>Artifacts ... Here you won't find anything, travel further into The Zone. But don't forget to take a couple of containers, a better gas mask, a detector - and try walking into anomalous areas, that's what I'll tell you. There, on piles of garbage, "Bugs" are often found, you pack them in containers and carry them to the swamps, to the clean-headed ones. The guys are excellent, I have been dealing with them for a long time - never failed. Tails canine and other parts of mutants, too, with joy you will accept.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_about_01211">
 		<text>И сколько я за «Болванку» эту получу хоть?</text>
