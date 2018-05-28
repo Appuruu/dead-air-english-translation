@@ -259,13 +259,13 @@
 		<text>Silence is golden</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_text">
-		<text>Wolf asked you to shut down the megaphone on the military checkpoint for good.</text>
+		<text>Wolf asked you to shut down the megaphone in the military checkpoint for good.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_about"> <!-- revision -->
-		<text>I have a personal request. Can you hear that loud megaphone? It is coming from the military checkpoint to the south. It never shuts up! This thing must be taken down before I lose my mind... A couple of well-aimed shots would easily solve this problem, but it's dangerous to get any closer. It would be safer to deal with it from long distances, unfortunately no one has a reliable long-range rifle in this village. Maybe you can take this thing down?</text>
+		<text>I have a personal request. Can you hear that loud megaphone? It is coming from the military checkpoint to the south. It never shuts up! This thing must be taken down before I lose my mind... A couple of accurate shots would easily solve this problem, but it's dangerous to get any closer. It would be safer to deal with it from long distances. Unfortunately, no one has a reliable long-range rifle in this village. Maybe you can take this thing down?</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_finish">
-		<text>Ahhhh I can hear myself thinking again! I don't know how long it will take them to fix that loud piece of crap, but at least we got ourselves a couple of quiet nights.</text>
+		<text>Ahhhh I can hear myself thinking again! I don't know how long it will take them to fix that loud piece of crap, but at least we got ourselves a couple of quiet nights. Thank you!</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -366,56 +366,57 @@
 	</string>
 
 
+	<!-- need serious revision and comparison with the russian text, translations didn't make much sense -->
 	<string id="esc_7_11_rpg_quest_actor1">
-		<text>Привет, пацаны. Чего сидим, скучаем?</text>
+		<text>Hey, guys. Are you up to something?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor2">
-		<text>Так что ты там про поручение говорил..?</text>
+		<text>So remind me, what was the assignment again??</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text11">
-		<text>Твоё-то какое, сука, дело? Иди, куда шёл, тут и без тебя заботы такие, что хоть в петлю лезь.</text>
+		<text>What's your fucking business? Keep walking, stop pretending like you care.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor110">
-		<text>Вижу, что плохо всё. А в чём именно проблема-то?</text>
+		<text>I see that something bad happened. What is your problem exactly?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1101">
-		<text>Вот же заноза, а… Ладно, чем чёрт не шутит. Пахан наш, будь он неладен, задание выдал недавно. «Ствол мой нынешний - полное дерьмо. Хочу оружие, чтоб не клинило каждую секунду. Например, РПГ-7…» И ржёт, жирдяй поганый. А слово пахана что? Закон, мать его, вот и рыщем по всей округе. Снаряды быстро нашли - со «Свободой» удалось добазариться. А за самой трубой думаем на днях к воякам наведаться… Да уж больно стрёмно. Ты тут шибко резвый, как я погляжу, поди и её нам достать сможешь, а?</text>
+		<text>Well... first I thought it was just a bad joke. Basically our boss gave us a brilliant task. He literally said: "My current gun is a piece of shit. I want a gun that doesn't need cleaning and adjusting every second. I want something really good. For example, an RPG-7... ". Stupid fat bastard was actually serious, but do I have any option? We have been looking for days. We managed to find some warheads after long negotiations with some Freedom members. Now we need the big gun itself. I suppose it is something you can get, huh?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text21">
-		<text>Ты тупой или удачно прикидываешься? РПГ-7 ищу, ещё раз напомнить?</text>
+		<text>Are you dumb or something? Looking for an RPG-7?!</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor111">
-		<text>Да без базара, найду!</text>
+		<text>Say no more, I will find it!</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor112">
-		<text>Не, такое мне не потянуть.</text>
+		<text>Uh... this kind of thing is not for me.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1111">
-		<text>Оп-па, ну давай, ловлю на слове… Трепло, мля.</text>
+		<text>Come on, I wasn't aware that you're such a pussy.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1121">
-		<text>Удивил, как же. Вали своей дорогой, а то ведь и подопнуть могу.</text>
+		<text>I'm surprised! come back when you get it.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_task_name">
-		<text>Оружие, которое не клинит</text>
+		<text>Real deal</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_text">
-		<text>Найти для бандитов: РПГ-7.</text>
+		<text>Find RPG-7 for bandits</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_about">
-		<text>Бандиты на АТП возде Деревни новичков попросили найти РПГ-7.</text>
+		<text>I was asked to find and bring an RPG-7 for the bandits in Cordon.</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_finish">
-		<text>Тише ты, осторожно с этой хреновиной! Давай сюда, спокойнее… Ух, тяжёлая, зараза. Ну, братан, уважаю! Слово держишь, не балабол какой. Слышал я, что местные уже волноваться стали, рейд собирают - мне такие проблемы ни на кой ляд не нужны. Держи вот, благодарочку, а мы двинем отсюда скорее. Пахан наказал в лощину эту байду доставить, если есть желание - пришивайся, проводим.</text>
+		<text>Whoa, careful with that shit! ...Uh, it's really heavy. Well, bro, you got my respect! Here you go for your troubles, thank you, we'll get you out of here.</text>
 	</string>
 </string_table>
