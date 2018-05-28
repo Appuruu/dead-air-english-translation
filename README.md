@@ -17,7 +17,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_dialogs_darkvalley.xml - **done**
 
-- st_dialogs_escape.xml - *incomplete*
+- st_dialogs_escape.xml - **done**
 
 - st_dialogs_garbage.xml - **done**
 
