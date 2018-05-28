@@ -485,7 +485,7 @@
 		<text>A Freedomer needs his latest shipment delivered.</text>
 	</string>
 	<string id="simulation_task_26_about">
-		<text>Hey man, I'm expecting a shipment of, ah, "medical supplies" and I need someone to pick it up. Want to make some extra cash?</text>
+		<text>Hey man, I'm expecting a shipment of... ah, "medical supplies" and I need someone to pick it up. Want to make some extra cash?</text>
 	</string>
 	<string id="simulation_task_26_finish">
 		<text>Thanks man. Here's your cut.</text>
