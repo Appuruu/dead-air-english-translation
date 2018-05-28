@@ -192,16 +192,16 @@
 
 	
 	<string id="esc_m_trader_task_3_name">
-		<text>Доставка</text>
+		<text>Delivery</text>
 	</string>
 	<string id="esc_m_trader_task_3_text">
-		<text>Найти и принести контейнер Сидоровичу.</text>
+		<text>Find and bring the shipment for Sidorovich.</text>
 	</string>
-	<string id="esc_m_trader_task_3_about">
-		<text>Один из сталкеров взялся доставить мне один груз, но на половине пути влип в какую-то ситуацию. Сам еле живой вернулся, а контейнер, по его же словам, сбросил в ближайший тайник. Сейчас в тех местах уже должно быть безопасно, принесёшь?</text>
+	<string id="esc_m_trader_task_3_about"> <!-- revision -->
+		<text>One of the stalkers was supposed to deliver an important cargo to me, but the smartass got himself in some bad situation on his way back. He  barely made it alive and according to his words, the container was thrown into the nearest hideout. The place should be safe by now, would you bring it to me?</text>
 	</string>
 	<string id="esc_m_trader_task_3_finish">
-		<text>Молодец, сталкер!</text>
+		<text>Well done, stalker!</text>
 	</string>
 
 	
@@ -256,16 +256,16 @@
 	<!-- Wolf (Loner Honcho) Stalker Shoot Megaphone Task -->
 
 	<string id="esc_2_12_stalker_wolf_task_4_name">
-		<text>Молчание - золото</text>
+		<text>Silence is golden</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_text">
-		<text>Волк попросил заглушить мегафон на южном КПП.</text>
+		<text>Wolf asked you to shut down the megaphone on the military checkpoint for good.</text>
 	</string>
-	<string id="esc_2_12_stalker_wolf_task_4_about">
-		<text>Есть к тебе одна просьба немного личного характера. Слышишь звуки мегафона со стороны вояк? Эта зараза никогда не затыкается! Всех уже откровенно достала, ни днём ни ночью покоя не даёт. Пара метких выстрелов легко бы эту проблему решили, но близко подбираться - опасно, а для больших расстояний тут ни у кого нормальной винтовки нет. Может, ты возьмёшься эту фиговину сбить?</text>
+	<string id="esc_2_12_stalker_wolf_task_4_about"> <!-- revision -->
+		<text>I have a personal request. Can you hear that loud megaphone? It is coming from the military checkpoint to the south. It never shuts up! This thing must be taken down before I lose my mind... A couple of well-aimed shots would easily solve this problem, but it's dangerous to get any closer. It would be safer to deal with it from long distances, unfortunately no one has a reliable long-range rifle in this village. Maybe you can take this thing down?</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_finish">
-		<text>Молодец! Не знаю, как скоро они эту говорилку починят, но как минимум пара тихих ночей нам обеспечена.</text>
+		<text>Ahhhh I can hear myself thinking again! I don't know how long it will take them to fix that loud piece of crap, but at least we got ourselves a couple of quiet nights.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
