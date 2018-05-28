@@ -47,7 +47,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_generate_snames.xml - **done**
 
-- st_items_artefacts.xml - *incomplete*
+- st_items_artefacts.xml - **done**
 
 - st_items_equipment.xml - **done**
 
