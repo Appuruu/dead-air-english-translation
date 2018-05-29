@@ -31,7 +31,7 @@
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11111">
 		<text>What should I advise ... Do you have a backpack? If not - here, look, I will sell it for cheap. Comfortable, strong, roomy. A quick reset system to it is a good addition. Why do you need, you ask? You'll guess yourself when you'll have to run around with a full backpack of stuff from dogs. \n If you're sure that you can survive today - take care of the overnight stay. I would suggest a sleeping bag, but last week I sold the last one - I'll give you a blanket to cover for the time being. In the open it will not help much, it hurts the nights are cold, but in the camp near the fire a snooze is the very best thing that you can do. And do not even think of spending the night on someone else's place, decided to take a nap - set up your own place, such rules are here. \n I will not even tell you about the gas mask and the geiger counter - without them, either the experienced stalker, who knows all the paths, walks, or a rookie - you can't survive without those things. \n If you want to hunt, then the knife will do good enough, the boars itself are fresh. There is two types of stoves for different types of fuels, so that the meat can be cooked in any conditions. Or, as an option, disposable sets of fires can kill the mutant by cooking it - mutant is dead and served ready to eat. </text>
-	<string>	
+	</string>	
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111111">
 		<text>Oh, my head is all around now, and it's easier to choose. What else?></text>
@@ -42,7 +42,7 @@
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11121">
-        <text>They buy it, and how could they not?! For the beginners this is very needed, of course, the garbage is old, and not everyone wants to bother with it. But a smart stalker will find use every type of crap, if he has tools needed at hand. And these tools, by the way, are now very demanding - they are good in the economy, and technicians always have a demand for them. Well, if you still decided that it's not for you to do such a thing - drag all that stuff down here. I'll gladly buy it, the main thing - do not complain about prices.<text>
+        <text>They buy it, and how could they not?! For the beginners this is very needed, of course, the garbage is old, and not everyone wants to bother with it. But a smart stalker will find use every type of crap, if he has tools needed at hand. And these tools, by the way, are now very demanding - they are good in the economy, and technicians always have a demand for them. Well, if you still decided that it's not for you to do such a thing - drag all that stuff down here. I'll gladly buy it, the main thing - do not complain about prices.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111211">
@@ -54,7 +54,7 @@
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_11131">
-		<text>Look at you, what kind of intellectual! No, it would be nice to have something to eat, so he complains. Okay, do not frown so, too often the salagoes with such questions come. \ N In general, everything is simple. Good, human food is brought here only in small batches. Basically, it is canned food of all kinds, bread, vodka, more than that in detail. How lucky, in general. About the prices better, do not even start, I listen to it a hundred times a day. If you want to eat normally - pay. Deficiency is a deficit. True, the Zone itself is a dangerous place, therefore it is normal to take health risks here. So the local guys have long been accustomed to getting their own food from everything that comes to hand under the arm. And it usually turns something evil and radioactive ... But surprisingly nutritious, because meat - it's also mutants meat. Wild boars, flesh, chimeras - this is the most relish. And the fonite is not so strong, and the taste of the same simple pork is not distinguishable. Some of this meat is then mixed with bread, wrapped in paper and left for several days to allow radiation to be removed. Radiation can be and is displayed, but here the smell from the resulting "product" is no longer that good.<text>
+		<text>Look at you, what kind of intellectual! No, it would be nice to have something to eat, so he complains. Okay, do not frown so, too often the salagoes with such questions come. \ N In general, everything is simple. Good, human food is brought here only in small batches. Basically, it is canned food of all kinds, bread, vodka, more than that in detail. How lucky, in general. About the prices better, do not even start, I listen to it a hundred times a day. If you want to eat normally - pay. Deficiency is a deficit. True, the Zone itself is a dangerous place, therefore it is normal to take health risks here. So the local guys have long been accustomed to getting their own food from everything that comes to hand under the arm. And it usually turns something evil and radioactive ... But surprisingly nutritious, because meat - it's also mutants meat. Wild boars, flesh, chimeras - this is the most relish. And the fonite is not so strong, and the taste of the same simple pork is not distinguishable. Some of this meat is then mixed with bread, wrapped in paper and left for several days to allow radiation to be removed. Radiation can be and is displayed, but here the smell from the resulting "product" is no longer that good.</text>
 	</string>
     <string id="esc_2_12_stalker_trader_start_dialog_111311">
 		<text>Well, at least something, thanks for that.</text>
@@ -64,8 +64,8 @@
 		<text>Why do not I see any weapons on sale? I would like to buy a gun, or better, a shotgun.</text>
 	</string>
 
-		<text>It is not allowed for me to trade weapons. It's forbidden by the soldiers. What If I sell a weapon right under their noses to some idiot, and then he shoots half the checkpoint? They will equalize our whole camp with the ground, and they will put me on the wall. And at least some guarantee that I was not involved in this case. Say thank you, that I managed to agree on the ammunition. Caliber, though weak, will be enough till you leave the Cordon. A large game in our places almost does not arrive.</text>
 	<string id="esc_2_12_stalker_trader_start_dialog_11141">
+		<text>It is not allowed for me to trade weapons. It's forbidden by the soldiers. What If I sell a weapon right under their noses to some idiot, and then he shoots half the checkpoint? They will equalize our whole camp with the ground, and they will put me on the wall. And at least some guarantee that I was not involved in this case. Say thank you, that I managed to agree on the ammunition. Caliber, though weak, will be enough till you leave the Cordon. A large game in our places almost does not arrive.</text>
 	</string>
 
 	<string id="esc_2_12_stalker_trader_start_dialog_111411">
