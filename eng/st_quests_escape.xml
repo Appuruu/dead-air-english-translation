@@ -380,19 +380,19 @@
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor110">
-		<text>I see that something bad happened. What is your problem exactly?</text>
+		<text>Maybe I can help you with whatever your issue is.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1101">
-		<text>Well... first I thought it was just a bad joke. Basically our boss gave us a brilliant task. He literally said: "My current gun is a piece of shit. I want a gun that doesn't need cleaning and adjusting every second. I want something really good. For example, an RPG-7... ". Stupid fat bastard was actually serious, but do I have any option? We have been looking for days. We managed to find some warheads after long negotiations with some Freedom members. Now we need the big gun itself. I suppose it is something you can get, huh?</text>
+		<text>Well... first I thought it was just a bad joke. Basically our boss had a brilliant idea. He literally said: "My current gun is a piece of shit. I want a gun that doesn't need cleaning and adjusting every second for the raid. I want something really good. How about, an RPG-7... ". The stupid fat bastard was actually serious! but do I have any option? We have been looking for days. We managed to find some warheads after long negotiations with some Freedom members. Now we need the big gun itself. I suppose it is something you can manage, huh?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text21">
-		<text>Are you dumb or something? Looking for an RPG-7?!</text>
+		<text>Are you dumb or something?! We are looking for an RPG-7, remember?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor111">
-		<text>Say no more, I will find it!</text>
+		<text>Say no more, I will find it.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor112">
@@ -400,11 +400,11 @@
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1111">
-		<text>Come on, I wasn't aware that you're such a pussy.</text>
+		<text>You can really get that for me bro?! Great, come back when you have it.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1121">
-		<text>I'm surprised! come back when you get it.</text>
+		<text>Of course, what did I expect from a pussy?... get lost.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_task_name">
@@ -417,6 +417,6 @@
 		<text>I was asked to find and bring an RPG-7 for the bandits in Cordon.</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_finish">
-		<text>Whoa, careful with that shit! ...Uh, it's really heavy. Well, bro, you got my respect! Here you go for your troubles, thank you, we'll get you out of here.</text>
+		<text>Whoa, careful with that shit! ...Uh, this thing is really heavy. Well, bro, you got my respect! Here you go, for your troubles. Thank you, time for our next move.</text>
 	</string>
 </string_table>
