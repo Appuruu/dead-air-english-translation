@@ -587,7 +587,7 @@
 		<text>Need a stronger knife for this mutant</text>
 	</string>
 	<string id="st_key_notbinded">
-		<text>…</text>
+		<text>...</text>
 	</string>
 	<string id="st_only_campfire_load">
 		<text>Reloading while alive is disabled</text>
