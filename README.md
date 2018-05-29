@@ -67,9 +67,9 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_itm_minimod.xml - **done** - **REVISION NOT REQUIRED**
 
-- st_land_names.xml - **done**
+- st_land_names.xml - **done** - **REVISION NOT REQUIRED**
 
-- st_levels.xml - **done**
+- st_levels.xml - **done** - **REVISION NOT REQUIRED**
 
 - st_mm_atmosfear_texts.xml - **done**
 
@@ -111,7 +111,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_subtitles.xml - **done** - **REVISION NOT REQUIRED**
 
-- ui_st_credits.xml - **done**
+- ui_st_credits.xml - **done** - **REVISION NOT REQUIRED**
 
 - ui_st_encyclopedia.xml - **done** - **REVISION NOT REQUIRED**
 
@@ -125,12 +125,12 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_keybinding.xml - **done**
 
-- ui_st_loadscreen.xml - **done**
+- ui_st_loadscreen.xml - **done** - **REVISION NOT REQUIRED**
 
 - ui_st_mm.xml - **done**
 
 - ui_st_other.xml - **done**
 
-- ui_st_pda.xml - **done**
+- ui_st_pda.xml - **done** - **REVISION NOT REQUIRED**
 
 - ui_st_screen.xml - **done**
