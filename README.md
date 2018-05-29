@@ -1,7 +1,7 @@
 List of text files and their completion. **Upload both finished and unfinished files**.
 Feel free to edit this list (done, work in progress or incomplete).
 
-- st_achievement.xml - **done**
+- st_achievement.xml - **done** - **REVISED**
 
 - st_characters.xml - **done**
 
