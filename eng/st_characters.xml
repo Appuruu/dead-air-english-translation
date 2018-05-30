@@ -349,34 +349,34 @@
 		<text>Spotty</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>'Seriy'</text>
+		<text>Seriy</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>'Cap'</text>
+		<text>Cap</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>'Kaput'</text>
+		<text>Kaput</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>'Chef'</text>
+		<text>Chef</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
 		<text>Screw</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>'Lukash'</text>
+		<text>Lukash</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>'Max'</text>
+		<text>Max</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
 		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>'Skinflint'</text>
+		<text>Skinflint</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>'Murk'</text>
+		<text>Murk</text>
 	</string>
 	<string id="sar2_tiran_name">
 		<text>Tyran</text>
@@ -391,7 +391,7 @@
 		<text>General Voronin</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>'Wolf'</text>
+		<text>Wolf</text>
 	</string>
 	<string id="dar_kalugin_name">
 		<text>Piotr Kalugin</text>

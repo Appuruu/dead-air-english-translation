@@ -82,7 +82,7 @@
 		<text>Weapons</text>
 	</string>
 	<string id="kb_grp_squad">
-		<text>Управление отрядом</text>
+		<text>Squad management</text>
 	</string>
 	<string id="kb_inventory">
 		<text>Inventory</text>
@@ -199,7 +199,7 @@
 		<text>Weapon 6</text>
 	</string>
 	<string id="kb_weapon7">
-		<text>Граната / бинокль</text>
+		<text>Grenade/Binoculars</text>
 	</string>
 	<string id="kb_wpn_next">
 		<text>Change ammo type</text>
