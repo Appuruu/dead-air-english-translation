@@ -3,7 +3,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_achievement.xml - **done** - **REVISED**
 
-- st_characters.xml - **done**
+- st_characters.xml - **done** - **REVISED**
 
 - st_closecaption.xml - **done**
 
@@ -43,9 +43,9 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_game_relations.xml - **done** - **REVISION NOT REQUIRED**
 
-- st_generate_fnames.xml - **done**
+- st_generate_fnames.xml - **done** - **REVISION NOT REQUIRED**
 
-- st_generate_snames.xml - **done**
+- st_generate_snames.xml - **done** - **REVISION NOT REQUIRED**
 
 - st_items_artefacts.xml - **done**
 
@@ -123,7 +123,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_inventory.xml - **done**
 
-- ui_st_keybinding.xml - **done**
+- ui_st_keybinding.xml - **done** - **REVISED**
 
 - ui_st_loadscreen.xml - **done** - **REVISION NOT REQUIRED**
 
@@ -133,4 +133,4 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_pda.xml - **done** - **REVISION NOT REQUIRED**
 
-- ui_st_screen.xml - **done**
+- ui_st_screen.xml - **done** - **REVISION NOT REQUIRED**
