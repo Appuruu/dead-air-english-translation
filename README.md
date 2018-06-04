@@ -7,7 +7,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_closecaption.xml - **done**
 
-- st_closecaption_generic.xml - **done**
+- st_closecaption_generic.xml - **done** - **REVISED**
 
 - st_dialog_manager - **done**
 
