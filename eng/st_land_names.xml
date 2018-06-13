@@ -462,17 +462,17 @@
 	<string id="hos_2c_01_term_anomaly_spot_name">
 		<text>Morgue</text>
 	</string>
-	<string id="lim_2c_03_gravi_anomaly_spot_name">
-		<text>Alleyway</text>
-	</string>
-	<string id="lim_2c_04_electric_anomaly_spot_name">
-		<text>Discharge</text>
-	</string>
 	<string id="mil_2c_02_psy_anomal_spot_name">
 		<text>Silent House</text>
 	</string>
 	<string id="rad_2c_03_psy_anomaly_spot_name">
 		<text>Brain Teaser</text>
+	</string>
+	<string id="lim_2c_03_gravi_anomaly_spot_name">
+		<text>Alleyway</text>
+	</string>
+	<string id="lim_2c_04_electric_anomaly_spot_name">
+		<text>Discharge</text>
 	</string>
 	<string id="red_2c_01_double_anomal_spot_name">
 		<text>Puffin</text>
