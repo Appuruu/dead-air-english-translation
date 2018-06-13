@@ -726,7 +726,7 @@
 	<string id="simulation_task_48_fetch_about">
 		<text>I’m gathering a squad for a long-distance campaign, but we’re lacking something. Of course, I could head to a trade, but the prices... Well, you know. All that I need is %s. Can you help?</text>
 	</string>
-	<string id="simulation_task_48_finish">
+	<string id="simulation_task_48_fetch_finish">
 		<text>Thanks, mate!</text>
 	</string>
 
@@ -743,7 +743,7 @@
 	<string id="simulation_task_49_fetch_about"> <!-- revision -->
 		<text>Listen up stalker, The situation here wasn't that good as of late. "we" are having hard time transporting supplies under the hood. Things were calmer before, but now... some guards seems like keeping an eye on us, I can feel them watching very closely. Rumors began to spread about some of our guys being robbers. Is it Duty? Hell if I know! All what I know that it is time to get out of here and find a safer place. But we need the next shipment to be ready before moving on. We need someone to provide use with %s, will you help?</text>
 	</string>
-	<string id="simulation_task_49_finish">
+	<string id="simulation_task_49_fetch_finish">
 		<text>Ah, I can't be more thankful. Here, this is your reward.</text>
 	</string>
 
@@ -761,7 +761,7 @@
 		<text>I have a list of specific samples for study and researching. We need those samples as soon as possible, but the number and strength of our research groups is lacking. Because of that, it is necessary to involve other stalkers around in our research. So, our next sample on the list would be... %s, a few pieces. Can I count on you?
 		</text>
 	</string>
-	<string id="simulation_task_50_finish">
+	<string id="simulation_task_50_fetch_finish">
 		<text>Wonderful! Here's your payment.</text>
 	</string>
 
