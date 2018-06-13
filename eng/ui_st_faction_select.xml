@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
-	<string id="st_loadout1_caption"> 
-		<text>Использовано очков:</text>
+	<string id="st_loadout1_caption">
+		<text>Points used:</text>
 	</string>
 	<string id="st_loadout2_caption">
-		<text>Доступно очков:</text>
+		<text>Points available:</text>
 	</string>
 	<string id="st_loadout_points">
-		<text>%c[0,93,0,116] • %c[0,170,170,170] Требуется очков: </text>
+		<text>%c[0,93,0,116] • %c[0,170,170,170] Points required: </text>
 	</string>
 
 
 	<string id="st_loadout_1">
-		<text>Базовый комплект экипировки</text>
+		<text>Basic equipment</text>
 	</string>
 	<string id="st_loadout_1_descr">
-		<text>\n \nПростая кожаная куртка и обрез старого дробовика - самый минимум, для защиты себя от окружающей действительности. Похлопав по карманам, можно обнаружить тряпичную маску, ручной фонарь и пачку сигарет - негусто, но всё равно лучше, чем ничего.\n \n
+		<text>\n \nA simple leather jacket and an old shotgun is the bare minimum required to protect oneself from the surrounding reality. By examining the contents in the jacket, one may find a rag mask, a torch, and a pack of cigarettes. Bare-bones, but better than nothing.\n \n
 		</text>
 	</string>
 
 	<string id="st_loadout_2">
-		<text>Дополнительный набор оружия</text>
+		<text>Additional weapon set</text>
 	</string>
 	<string id="st_loadout_2_descr">
-		<text>\n \nНадёжное и хорошо зарекомендовавшее себя оружие в условиях ЧЗО. Старый-добрый АК74У, патроны к нему, несколько гранат и добротный нож - вполне универсальный набор против любой живой угрозы.\n \n</text>
+		<text>\n \nReliable and well-proven weaponry in the conditions of the Chernobyl Exclusion Zone: a good old-fashioned AK-74U with magazines, several grenades, and a high-quality knife, all constituting a versatile set of weaponry against any living, breathing threat.\n \n</text>
 	</string>
 
 	<string id="st_loadout_3">
-		<text>Набор провизии и медикаментов</text>
+		<text>Provisional and medicinal set</text>
 	</string>
 	<string id="st_loadout_3_descr">
-		<text>\n \nНебольшой запас провианта, рассчитанный на первые дни пребывания в опасной для жизни и здоровья среде, облегчающий процесс адаптации к оной. Включает в себя несколько банок консервов, аптечку, бинты, антирад, пачку активированного угля и фляжку с самогоном.\n \n</text>
+		<text>\n \nA small supply of food and medicine, designed for surviving in and adapting to the first few days in a life- and health-threatening environment. Includes several cans of food, a first-aid kit, bandages, anti-radiation pills, a pack of activated carbon, and home-brewed beverage.\n \n</text>
 	</string>
 
 	<string id="st_loadout_4">
-		<text>Набор охотника за артефактами</text>
+		<text>Artefact hunting kit</text>
 	</string>
-	<string id="st_loadout_4_descr">
-		<text>\n \nВсё самое необходимое для исследования аномалий - противогаз, дозиметр, детектор артефактов, свинцовый контейнер и, конечно же, вместительный рюкзак. Остальное уже будет зависеть от навыков, удачи и находчивости самого сталкера.\n \n</text>
+	<string id="st_loadout_4_descr"> 
+		<text>\n \nThe most important equipment for exploring anomalous areas: a gas mask, a dosimeter, an artefact detector, a lead container, and, of course, a capacious backpack. The rest depends on the skill, fortune, and ingenuity of the wearer themselves.\n \n</text>
 	</string>
 
 	<string id="st_loadout_5">
-		<text>Комплект начинающего техника</text>
+		<text>Beginner technician’s kit</text>
 	</string>
 	<string id="st_loadout_5_descr">
 		<text>\n \nДля тех, кто начинает жалеть о прошедшем дне, если не починил или не разобрал что-либо. Базовый набор инструментов, молоток, тюбик качественного клея, немного масла и синяя изолента - джентельменский набор любого уважающего себя техника. На вашу удачу и удивление, в ремнаборе нашёлся старенький оптический прицел. Что-то вам подсказывает, что торговец этого не заметил...\n \n</text>
 	</string>
 
 	<string id="st_loadout_6">
-		<text>Экипировка бывалого сталкера</text>
+		<text>Experienced stalker kit</text>
 	</string>
 	<string id="st_loadout_6_descr">
-		<text>\n \nКрепкий комбинезон с отличными сбалансированными характеристиками. К счастью, факт гибели двух предыдущих владельцев костюма никак не сказался на его внешнем виде и состоянии, а за отсутствие брезгливости и каких-либо предрассудков торговец предложил яркий налобный фонарь.\n \n</text>
+		<text>\n \nA strong outfit with excellently balanced properties. The death of the two previous owners of the suit has, fortunately, not affected its appearance or condition, and for the lack of disgust and any prejudice, the local trader has offered a capable torch.\n \n</text>
 	</string>
 
 	<string id="st_loadout_7">
-		<text>Экипировка наёмника</text>
+		<text>Mercenary equipment</text>
 	</string>
 	<string id="st_loadout_7_descr">
-		<text>\n \nНеплохая броня со множеством различного рода карманов и подсумков для хранения всяческой мелочи. Севшие батарейки, пистолетный глушитель, радиодетали, вырванная страница из журнала, старая зажигалка - непонятно, для чего было держать весь этот мусор при себе. С другой стороны, никто не знает заранее, что и когда может неожиданно пригодиться.\n \n</text>
+		<text>\n \nA favourable suit of armour with different kinds of pockets and pouches for storing a variety of small objects. Sowing batteries, silenced pistol, radio components, a torn page from a magazine, an old lighter; it is unclear how keeping all this rubbish to yourself would be of any use. On the other hand, no one knows in advance if something could come in handy.\n \n</text>
 	</string>
 
 
 	<!-- 20 -->
 
 	<string id="st_loadout_8">
-		<text>Навык: Мастер ножа</text>
+		<text>Skill: Master of the blade</text>
 	</string>
 	<string id="st_loadout_8_descr">
-		<text>\n \nХолодное оружие всегда привлекало вас: его ровный металлический блеск оказывает на Вас успокаивающее действие. Конечно, огнестрел - это удобно, но именно с ножом в руке Вы чувствуете себя целостным.\n \n</text><!--Урон от быстрого удара ножом существенно увеличен. \n \n-->
+		<text>\n \nThe arme blanche has always attracted you; its even metallic gloss has a calming effect on you. Of course, firearms are convenient, but with a knife in your hand, you feel complete.\n \n</text><!--Урон от быстрого удара ножом существенно увеличен.\n \n-->
 	</string>
 
 	<string id="st_loadout_9">
-		<text>Навык: Изобретатель</text>
+		<text>Skill: Inventor</text>
 	</string>
 	<string id="st_loadout_9_descr">
-		<text>\n \nВ детстве вы собрали радио из старых деталей в ящике отца, в юности чинили свой мотоцикл запчастями с барахолки, а теперь чувствуете, что обязательно найдете применение техническому мусору Зоны Отчуждения. \n \n</text><!--Количество доступных для создания предметов увеличено. \n \n-->
+		<text>\n \nAs a child, you assembled a radio from old parts in your father’s box. In your youth, you repaired your motorcycle with spare parts from a flea market. Now, you feel that you will find use to the technical debris of the Exclusion Zone with certainty.\n \n</text><!--Количество доступных для создания предметов увеличено.\n \n-->
 	</string>
 
 	<string id="st_loadout_10">
-		<text>Навык: Крепкий желудок</text>
+		<text>Skill: Strong stomach</text>
 	</string>
 	<string id="st_loadout_10_descr">
-		<text>\n \nВкусная и качественная пища в ЧЗО - редкость. То, чем обычно питаются сталкеры, полезным не назовёшь. Но Вы способны употребить и переварить даже то, что человек в здравом уме едой уже не считает.\n \n</text><!--Меньший вред здоровью при употреблении вредной пищи. \n \n-->
+		<text>\n \nTasty, high-quality food in the Zone is a rarity, and what stalkers usually eat is hard to consider useful; but you are able to consume and digest what any other person in their right mind won’t even consider having a bite of.\n \n</text><!--Меньший вред здоровью при употреблении вредной пищи.\n \n-->
 	</string>
 
 	<string id="st_loadout_11">
-		<text>Навык: Свинцовый рюкзак</text>
+		<text>Skill: Lead backpack</text>
 	</string>
 	<string id="st_loadout_11_descr">
-		<text>\n \nДары Зоны притягательны, но крайне опасны. Не так давно Вам достался особый рюкзак, который должен нейтрализовать часть их радиационного излучения. Пришло самое время испытать его в деле.\n \n</text><!--Снижено радиактивное излучение артефактов, находящихся в рюкзаке. \n \n-->
+		<text>\n \nThe gifts of the Zone are alluring but extremely dangerous. Not so long ago, you acquired a special backpack, which should be able to neutralise some of their radiation. The time has come to put it to use.\n \n</text><!--Снижено радиактивное излучение артефактов, находящихся в рюкзаке.\n \n-->
 	</string>
 
 
 	<!-- 30 -->
 
 	<string id="st_loadout_12">
-		<text>Навык: Твёрдая рука</text>
+		<text>Skill: Steady hand</text>
 	</string>
 	<string id="st_loadout_12_descr">
-		<text>\n \nВ каком бы состоянии и условиях вы не находились, будь то эмоциональное потрясение, дикое похмелье или небольшое землетрясение во время поездки на общественном транспорте - ваша рука никогда не дрогнет. Своё оружие вы держите так крепко, что оставляете после себя вмятины на цевье и прикладе.\n \n</text>
+		<text>\n \nIn whatever condition and situation you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while travelling on public transport; your hand never falters. The grip on your weapon is tight enough to leave dents on the hand guard and stock.\n \n</text>
 		<!--
 		Пугливый взгляд, трясущиеся руки, странная осанка
 		
@@ -117,36 +117,36 @@
 	</string>
 
 	<string id="st_loadout_13">
-		<text>Навык: Мясник</text>
+		<text>Skill: Butcher</text>
 	</string>
 	<string id="st_loadout_13_descr">
-		<text>\n \nВы буквально вселяете страх в тварей Зоны. И неудивительно, ведь в большинстве случаев Вы - последнее, что они видят в своей жизни. Узнав, как Вы расправляетесь с тушей мутанта после, вас начинают бояться уже люди.\n \n</text><!--Более быстрое и эффективное использование ножа при разделке дичи.\n \n-->
+		<text>\n \nYour presence instils fear into the creatures of the Zone; to little surprise, because you are the last thing they see in their life in the vast majority of cases. Having learned how to deal with the mutant carcass after an encounter, people begin to fear you.\n \n</text><!--Более быстрое и эффективное использование ножа при разделке дичи.\n \n-->
 	</string>
 
 	<string id="st_loadout_14">
-		<text>Навык: Авторитет</text>
+		<text>Skill: Authority</text>
 	</string>
 	<string id="st_loadout_14_descr">
-		<text>\n \nОбаянием ли, умением ли разговаривать или, возможно, тонким знанием человеческой психологии - не важно, чем, но вы легко завоевываете сердца любых людей, будь то жадный барыга или отъявленный психопат.\n \n</text><!--Количество напарников увеличено, более эффективная методика допросов, репутация копится значительно быстрее, больше возможностей в диалогах.\n \n-->
+		<text>\n \nWhether through charm, a natural ability to socialise, or perhaps a subtle knowledge of human psychology; it does not matter. You easily win the hearts of any person, whether it be a greedy huckster or an outspoken psychopath.\n \n</text><!--Количество напарников увеличено, более эффективная методика допросов, репутация копится значительно быстрее, больше возможностей в диалогах.\n \n-->
 	</string>
 
 	<string id="st_loadout_15">
-		<text>Навык: Внимательность</text>
+		<text>Skill: Mindfulness</text>
 	</string>
 	<string id="st_loadout_15_descr">
-		<text>\n \nВы приучены подмечать самые незначительные детали не только в поведении людей, но и в окружающей обстановке, а уж при обыске от вас не спрячется ни одна копейка, ни один болт, ни один человек…\n \n</text>
+		<text>\n \nYou have learned to notice the most insignificant details not only in the behaviour of people, but also in the surrounding environment. During searches, not a single kopeck, bolt, or person manages hides from you…\n \n</text>
 	</string>
 
 	<string id="st_loadout_16">
-		<text>Навык: Геолог</text>
+		<text>Skill: Geologist</text>
 	</string>
 	<string id="st_loadout_16_descr">
-		<text>\n \nГудящие, шипящие, плюющиеся - никакие аномалии более не способны Вас напугать, а жажда исследования подстёгивает к детальному изучению аномальных полей.\n \n</text>
+		<text>\n \nHumming, hissing, spitting; no types of anomalies are capable of intimidating you any longer, and your urge for exploration encourages a deep study of anomalous areas.\n \n</text>
 	</string>
 
 	<!--
 	<string id="st_loadout_9">
-		<text>Навык: Механик</text>
+		<text>Skill: Механик</text>
 	</string>
 	<string id="st_loadout_9_descr">
 		<text>\n \nописание st_loadout_9_descr</text>
@@ -155,7 +155,7 @@
 
 	<!--
 	<string id="st_loadout_12">
-		<text>Навык: Гурман</text>
+		<text>Skill: Гурман</text>
 	</string>
 	<string id="st_loadout_12_descr">
 		<text>\n \nВы не любите есть, вы любите чувствовать вкус. Чувство насыщения придёт быстрее, если пищу употребить правильным образом. Вы же способны превратить этот процесс в тонкое искусство, даже если на вашей тарелке лежит лишь кусок сухаря.</text>
