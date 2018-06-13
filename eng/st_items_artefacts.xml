@@ -72,6 +72,12 @@
 	<string id="st_af_electra_sparkler_name">
 		<text>Sparkler</text>
 	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Полупрозрачное аморфное образование, бьющее изнутри лучиками света. При ношении «подстегивает» организм, повышая выносливость владельца за счёт своей энергии. При длительном использовании теряет заряд и «умирает». Обнаружить можно рядом с аномалиями электрического типа. Распространение повсеместное. Интерес к артефакту проявляют научные организации, коллекционеры и ювелиры.\n \n%c[0,140,140,140]ХАРАКТЕРИСТИКИ:\n%c[0,153,225,225] • %c[0,140,140,140] высокая ценность</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>«Вспышка»</text>
+	</string>
 	<string id="st_af_eye_descr">
 		<text>This artifact, which resembles the human eye, considerably increases metabolism of the body, helping wounds heal quicker. Experienced stalkers say that Eye also brings luck. Irrespective of the validity of that statement, its positive effects are indeed quite potent. First of all, it reduces temperature of user's body and cools all objects in its vicinity. Secondly, it provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH of 7). Thirdly, this artifact soothes the pain and is extremely useful when treating wounds. These beneficial qualities, however, come at a price. This artifact is extremely dangerous when exposed to chemical anomalies as it amplifies their toxicity and increases their potency. It is hence highly recommended to keep the artifact in your backpack, never on the body, when exploring toxic areas unless you have a death wish. The artifact is also known colloquially as "copper eye" as it conducts electricity and amplifies its dangerous effects in the same way as copper does. Radiation output is very high on the artifact radiation scale.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
@@ -234,6 +240,12 @@
 	</string>
 
 	<!-- Dead Air -->
+	<string id="st_af_slime_descr">
+		<text>Артефакт представляет собой полупрозрачное желеобразное вещество. После попадания в химическую аномалию живых существ, это вещество окутывает и скрепляет их останки, порождая впоследствии артефакты «Кровь камня», «Ломоть мяса» и «Душа». По данным последних исследований, "слизь" является ничем иным, как колониями неизвестных науке бактерий (условное обозначение U-1), которые питаются производными и останками жертв химических аномалий. При ношении артефакт активно поглощает опасные химические испарения, защищая таким образом кожу, дыхательные пути и костюм хозяина. Порождается химическими аномалиями всех видов. Широко распространён. До сих пор неизвестно, насколько опасны новые бактерии, поэтому артефакты данного вида скупаются учёными в больших количествах в целях их срочного изучения в различных НИИ за пределами Зоны отчуждения.\n \n%c[0,140,140,140]ХАРАКТЕРИСТИКИ:\n%c[0,153,225,225] • %c[0,140,140,140] высокая ценность</text>
+	</string>
+	<string id="st_af_slime_name">
+		<text>«Слизь»</text>
+	</string>
 	<string id="st_af_thing_descr">
 		<text>Ingot is a common name for artifacts of gravitational nature, which are small pieces of old rusty metal with various abnormal properties. Such properties can be summarized by reduction the weight of backpacks. All anomalies of the gravitational type can generate it. Usually found in radioactive waste landfill and, as a result, it's considerably radioactive. Scientific organizations are interested in the artifact.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,225,225] 
