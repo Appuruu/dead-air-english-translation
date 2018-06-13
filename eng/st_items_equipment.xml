@@ -378,24 +378,22 @@
 		<text>Improvised stimpack</text>
 	</string>
 	<string id="st_stim_impro_descr">
-		<text>Improvised stimpacks are popular among novice Zoners as they are easy to obtain and inexpensive; though their strong side effects, which affect many users, are nothing to scoff at. Produced in the Zone from commonly available ingredients, without proper equipment and purification. This is the cause of many side effects which include headache, paraesthesia, and considerable increase in nutrition demand. Injected in the thigh.\n \n
+		<text>Improvised stimpacks are popular among novice Zoners as they are easy to obtain and inexpensive; though their strong side effects, which affect many users, are nothing to scoff at. Produced in the Zone from commonly available ingredients, without proper equipment and purification. Injected in the thigh.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] medicine\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] moderate body recovery time\n%c[0,204,0,51] 
-		Х %c[0,140,140,140] very strong side effects</text>
+		Х %c[0,140,140,140] fast, easy usage (syringe)\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] moderate body recovery time</text>
 	</string>
 	<string id="st_stim_military">
 		<text>Military stimpack</text>
 	</string>
 	<string id="st_stim_military_descr">
-		<text>Military stims constitute a part of standard-issue soldier equipment for field operations in the Zone. Easily available on the market and can be acquired for a moderate price. Popular among experienced Zoners. They are significantly more potent and faster working than their improvised counterparts, which makes them perfect for use in life-threatening situations. Produced from raw agents of high density which can take their toll on the body. Side effects include shock, extreme dizziness and increased hunger.\n \n
+		<text>Military stims constitute a part of standard-issue soldier equipment for field operations in the Zone. Easily available on the market and can be acquired for a moderate price. Popular among experienced Zoners. They are significantly more potent and faster working than their improvised counterparts, which makes them perfect for use in life-threatening situations.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] medicine\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] military item\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] fast usage (syringe)\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] fast body recovery time\n%c[0,204,0,51] 
-		Х %c[0,140,140,140] strong side effects</text>
+		Х %c[0,140,140,140] fast body recovery time</text>
 	</string>
 	<string id="st_stim_scientic">
 		<text>Scientific stimpack</text>
@@ -1103,13 +1101,14 @@
 		Х %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
 	</string>
 	<string id="st_geiger">
-		<text>Geiger counter</text>
+		<text>Dosimeter</text>
 	</string>
 	<string id="st_geiger_descr">
-		<text>A Geiger counter measures ionizing (radioactive) radiation. It detects the emission of alpha particles, beta particles and gamma particles. Invented in 1908, Geiger counters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n
+		<text>A radiation dosimeter is a device that measures exposure to ionizing radiation. It detects the emission of alpha particles, beta particles and gamma particles. Dosimeters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item \n%c[255,238,153,26] 
-		Х %c[0,140,140,140] measures the level of radioactive contamination</text>
+		Х %c[0,140,140,140] measures the level of radioactive contamination\n%c[0,153,255,255]
+		Х %c[0,140,140,140] low UPD consumption</text>
 	</string>
 	<string id="st_welding_goggles">
 		<text>Welding goggles</text>
@@ -1248,16 +1247,16 @@
 		<text>Only one out of ten batteries found in Zaton and Jupiter still carries some juice. Stalkers seem to throw them out when they're depleted since it's almost impossible to find a battery recharger. Their outer layer is corroded and covered in dirt, which is a strong indication that these are almost dead. Still, like everything in the Zone they also have their purpose and may prove useful for frequent UPD recharges.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] technological item\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] зар€дка:%c[0,170,170,170] +14%</text>
+		Х %c[0,140,140,140] UPD charge:%c[0,170,170,170] +14%</text>
 	</string>
 	<string id="st_marijuana">
-		<text>Marijuana</text>
+		<text>Cannabis pack</text>
 	</string>
 	<string id="st_marijuana_descr">
-		<text>Self-grown cannabis. Smoking it is a popular pastime, especially in Freedom. Marijuana bags can be bought here and there in the Zone. Some believe that the drug helps retain a balance of the mind.\n \n
+		<text>A pack of dried cannabis leaves. They can be bought here and there in the Zone. Some believe that the drug helps retain a balance of the mind.\n \n
 		%c[0,210,210,210]NOTE:\n \n%c[0,170,170,170]Smoking will help stabilizing the mental state after psi exposure.\n \n
 		%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] 
-		Х %c[0,140,140,140] stimulant\n%c[0,153,255,255] 
+		Х %c[0,140,140,140] valuable\n%c[0,153,255,255] 
 		Х %c[0,140,140,140] strong alleviation against psy-damage</text>
 	</string>
 	<string id="st_device_flashlight">
