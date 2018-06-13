@@ -292,4 +292,20 @@
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
 		<text>Great! Come back any time if you need me to take a look at your gear.</text>
 	</string>
+	
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_name">
+		<text>%s военным</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_text">
+		<text>Необходимо найти набор и отнести его медику военных.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_finish">
+		<text>Жизни нескольких человек зависели от этих инструментов, спасибо!</text>
+	</string> 
 </string_table>
