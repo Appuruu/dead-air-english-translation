@@ -644,6 +644,9 @@
 	<string id="st_wpn_ak74m">
 		<text>AK-74M</text>
 	</string>
+	<string id="st_wpn_ak74m_nimble">
+		<text>AK-74M (custom)</text>
+	</string>
 	<string id="st_wpn_aks74">
 		<text>AKS-74</text>
 	</string>
@@ -754,7 +757,7 @@
 	</string>
 	<string id="st_wpn_svt40_descr">
 		<text>The SVT-40 is a surplus semi automatic rifle chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n \n
-		%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116]• %c[0,140,140,140] PU special scope</text>
+		%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116]• %c[0,140,140,140] PU scope</text>
 	</string>
 	<string id="st_wpn_aek971">
 		<text>AEK-971</text>
