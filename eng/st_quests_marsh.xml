@@ -374,4 +374,22 @@
 	<string id="cit_doctor_task_3">
 		<text>A few scattered items are littered about the room left abandoned by Strelok. They should be investigated for potential clues.</text>
 	</string>
+	
+	
+	<string id="mar_smart_terrain_base_doctor_task_1_name">
+		<text>%s для «Чистого неба»</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_text">
+		<text>Необходимо найти набор и отнести его медику «Чистого неба».</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
+		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
+		<text>Жизни нескольких человек зависели от этих инструментов, спасибо!</text>
+	</string>
+	
 </string_table>
