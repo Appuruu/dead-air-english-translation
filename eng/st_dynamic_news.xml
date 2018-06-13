@@ -2050,6 +2050,34 @@
 		<text>Let's see what we got here... %s, nice. I'll get better. </text>
 	</string>
 
+	<string id="st_dyn_news_gossip_food_1"> <!-- here -->
+		<text>%s, неплохо, на дороге такое обычно не валяется.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_2">
+		<text>Эй, еду кому лучше продать? %s имеется, мне не особо нужно.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_3">
+		<text>Вот же зараза… %s, будь я проклят. На днях у торгаша выпросил, за тройную цену.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_4">
+		<text>%s, пацаны, нашёл-таки! Пошли на перекус.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_5">
+		<text>О! %s! Как раз апетит нагулял.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_6">
+		<text>%s нынче по чём? Или лучше себе оставить..?</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_7">
+		<text>Эй, кто там недавно с голоду помирал? %s подойдёт?</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_8">
+		<text>%s, мда. Бывало и лучше.</text>
+	</string>
+	<string id="st_dyn_news_gossip_food_9">
+		<text>%s, отлично! Прям в животе заурчало...</text>
+	</string>
+	
 	<!-- Arte gossip -->
 	<string id="st_dyn_news_gossip_arte_1">
 		<text>My lucky day! I just found a %s.</text>
