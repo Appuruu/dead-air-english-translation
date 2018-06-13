@@ -251,7 +251,7 @@
 		<text>You have been tasked to recapture territory for Duty. Report back to General Petrenko after the job is done.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
-		<text>I have an important mission available. Freedom has taken over one of our camps and I need a specialist to reclaim it.</text>
+		<text>I have an important mission available. The enemy has taken over one of our camps and I need a specialist to reclaim it.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
 		<text>The task is done? Good job.</text>
