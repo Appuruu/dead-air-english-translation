@@ -14,7 +14,7 @@
 		<text>No subtitles</text>
 	</string>
 	<string id="ui_mm_cc_storyonly">
-		<text>Important subtitles only</text>
+		<text>Important subtitles</text>
 	</string>
 	<string id="ui_mm_cc_all">
 		<text>All subtitles</text>
