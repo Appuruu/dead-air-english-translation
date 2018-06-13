@@ -471,11 +471,17 @@
 	<string id="st_cap_check_hardcore">
 		<text>Ironman mode</text>
 	</string>
+	<string id="st_cap_check_lasstand_mode">
+		<text>Last stand</text>
+	</string>
 	<string id="st_cap_check_easy_mode">
 		<text>Inflated rewards</text>
 	</string>
-	<string id="st_cap_check_lasstand_mode">
-		<text>Last stand</text>
+	<string id="st_cap_check_good_wpn">
+		<text>Хочу пострелять!</text>
+	</string>
+	<string id="st_cap_check_good_loot">
+		<text>Нажористый хабар</text> 
 	</string>
 	<string id="st_cap_check_hardcore_aim">
 		<text>Hardcore AI aim</text>
