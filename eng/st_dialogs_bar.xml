@@ -333,7 +333,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_bandit_permission_info_cost">
-		<text>This information will cost you 1000 RU</text>
+		<text>This information will cost you 1000 RU.</text>
 	</string>
 
 	<string id="bar_visitors_informer_stalker_bandit_permission_info_text">
@@ -345,7 +345,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_army_permission_info_cost">
-		<text>This information will cost you 4000 RU</text>
+		<text>This information will cost you 4000 RU.</text>
 	</string>
 
 	<string id="bar_visitors_informer_stalker_army_permission_info_text">
@@ -357,7 +357,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_killer_permission_info_cost">
-		<text>This information will cost you 2000 RU</text>
+		<text>This information will cost you 2000 RU.</text>
 	</string>
 
 	<string id="bar_visitors_informer_stalker_killer_permission_info_text">
