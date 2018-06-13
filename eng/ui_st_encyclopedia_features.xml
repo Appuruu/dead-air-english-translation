@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
-	<string id="encyclopedia_personae">
-		<text>Characters</text>
+	<string id="encyclopedia_personae"> 
+		<text>Персонажи</text>
 	</string>
 
 
 	<string id="encyclopedia_personae_comms">
-		<text>Factions</text>
+		<text>Группировки</text>
 	</string>
 
 	<string id="encyclopedia_personae_leaders">
-		<text>Faction leaders</text>
+		<text>Главы группировок</text>
 	</string>
 
 	<string id="encyclopedia_personae_traders">
-		<text>Traders</text>
+		<text>Торговцы</text>
 	</string>
 
 	<string id="encyclopedia_personae_medics">
-		<text>Medics</text>
+		<text>Медики</text>
 	</string>
 
 	<string id="encyclopedia_personae_techs">
-		<text>Technicians</text>
+		<text>Техники</text>
 	</string>
 
 
 	<string id="encyclopedia_equipement">
-		<text>Equipment</text>
+		<text>Экипировка</text>
 	</string>
 
 	<string id="encyclopedia_mutants">
-		<text>Mutants</text>
+		<text>Мутанты</text>
 	</string>
 
 	<string id="encyclopedia_survival">
-		<text>Survival</text>
+		<text>Выживание</text>
 	</string>
 
 	<string id="encyclopedia_hunting">
-		<text>Hunting</text>
+		<text>Охота</text>
 	</string>
 </string_table>
