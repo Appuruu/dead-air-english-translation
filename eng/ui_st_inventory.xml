@@ -476,4 +476,9 @@
 	<string id="ui_st_usable_parts">
 		<text>Parts</text>
 	</string>
+	
+	<!-- DEAD AIR -->
+	<string id="trade_dont_make">
+		<text>Невозможно совершить сделку</text>
+	</string>
 </string_table>
