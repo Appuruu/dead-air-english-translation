@@ -479,6 +479,6 @@
 	
 	<!-- DEAD AIR -->
 	<string id="trade_dont_make">
-		<text>Невозможно совершить сделку</text>
+		<text>Trading is not possible.</text>
 	</string>
 </string_table>
