@@ -14,15 +14,15 @@
 	</string>
 
 	<string id="pda_btn_encyclopedia_notify">
-		<text>Разблокирована новая статья</text>
+		<text>New article unblocked</text>
 	</string>
 
 	<string id="pda_btn_encyclopedia_locked">
-		<text>Статья заблокирована</text>
+		<text>Article is locked</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_text_locked">
-		<text>Информация отсутствует</text>
+		<text>Information is absent</text>
 	</string>
 	
 </string_table>
