@@ -477,11 +477,11 @@
 	<string id="st_cap_check_easy_mode">
 		<text>Inflated rewards</text>
 	</string>
-	<string id="st_cap_check_good_wpn">
-		<text>Хочу пострелять!</text>
+	<string id="st_cap_check_good_wpn"> <!-- revision -->
+		<text>Do you want to shoot!</text>
 	</string>
-	<string id="st_cap_check_good_loot">
-		<text>Нажористый хабар</text> 
+	<string id="st_cap_check_good_loot"> <!-- revision -->
+		<text>The harsh swag</text> 
 	</string>
 	<string id="st_cap_check_hardcore_aim">
 		<text>Hardcore AI aim</text>
