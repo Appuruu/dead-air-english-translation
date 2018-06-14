@@ -376,20 +376,20 @@
 	</string>
 	
 	
-	<string id="mar_smart_terrain_base_doctor_task_1_name">
-		<text>%s для «Чистого неба»</text>
+	<string id="mar_smart_terrain_base_doctor_task_1_name"> <!-- revision -->
+		<text>Find %s for Clear Sky</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_text">
-		<text>Необходимо найти набор и отнести его медику «Чистого неба».</text>
+		<text>The medic from Clear Sky has tasked you to find a set of medical supplies.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_about">
-		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
-		<text>Мне нужен хороший набор медицинских инструментов. Лёгкие ранения я быстро залатаю, а вот на что посерьёзнее простого скальпеля уже не хватает.</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
-		<text>Жизни нескольких человек зависели от этих инструментов, спасибо!</text>
+		<text>Many lives depend on these tools, thank you!</text>
 	</string>
 	
 </string_table>
