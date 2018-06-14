@@ -419,6 +419,6 @@
 		<text>Use ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_chemical_danger">
-		<text>Опасный уровень химического заражения.</text>
+		<text>Dangerous level of chemical contamination.</text>
 	</string>
 </string_table>
