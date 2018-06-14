@@ -380,7 +380,7 @@
 		<text>Find %s for Clear Sky</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_text">
-		<text>The medic from Clear Sky has tasked you to find a set of medical supplies.</text>
+		<text>The medic from Clear Sky has tasked you to find and bring a set of medical supplies.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_about">
 		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
