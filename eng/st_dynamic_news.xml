@@ -2025,57 +2025,57 @@
 	</string>
 
 	<!-- Medicine gossip -->
-	<string id="st_dyn_news_gossip_med_1">
+	<string id="st_dyn_news_gossip_med_1"> <!-- revision -->
 		<text>Oh! %s! Right in time to get your health fixed.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_2">
-		<text>%s, not too bad. You don't find this laying by road.</text>
+		<text>%s, not too bad. It’s hard to find stuff like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_3">
-		<text>Guys, who buys the medicine for best prices? I got %s and I haven't got much use for it.</text>
+		<text>Guys, who buys medical supplies for best prices around? I got %s and I haven't got much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_4">
-		<text>Goddammit... %s. The other day I got this the other day for triple the price from a trader.</text>
+		<text>Goddammit... %s! I got this the other day for triple the price from some asshole.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>%s, found it finally! Time to heal up.</text>
+		<text>%s, finally! Time to heal up.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
-		<text>What does %s go for at medics? Or should I rather leave it for myself..? </text>
+		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
 	</string>
 	<string id="st_dyn_news_gossip_med_7">
-		<text>Hey! Was close to dying? Will %s be of any help?</text>
+		<text>Hey! Who got bad injuries? Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_8">
-		<text>Let's see what we got here... %s, nice. I'll get better. </text>
+		<text>Let's see what we got here... %s, nice! That will help. </text>
 	</string>
 
-	<string id="st_dyn_news_gossip_food_1"> <!-- here -->
-		<text>%s, неплохо, на дороге такое обычно не валяется.</text>
+	<string id="st_dyn_news_gossip_food_1"> <!-- revision -->
+		<text>%s, not too bad. It’s hard to find food like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_2">
-		<text>Эй, еду кому лучше продать? %s имеется, мне не особо нужно.</text>
+		<text>Who buys food for best prices around? I got %s and I haven't got much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_3">
-		<text>Вот же зараза… %s, будь я проклят. На днях у торгаша выпросил, за тройную цену.</text>
+		<text>Goddammit... %s. I got this the other day for triple the price from a trader.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>%s, пацаны, нашёл-таки! Пошли на перекус.</text>
+		<text>%s, finally! Time to eat.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
-		<text>О! %s! Как раз апетит нагулял.</text>
+		<text>Oh! found some %s! About damn time.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_6">
-		<text>%s нынче по чём? Или лучше себе оставить..?</text>
+		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
 	</string>
 	<string id="st_dyn_news_gossip_food_7">
-		<text>Эй, кто там недавно с голоду помирал? %s подойдёт?</text>
+		<text>Hey! Who was starving to death? Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_8">
-		<text>%s, мда. Бывало и лучше.</text>
+		<text>%s, yeah. I had better days.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_9">
-		<text>%s, отлично! Прям в животе заурчало...</text>
+		<text>%s, great! My stomach was rumbling...</text>
 	</string>
 	
 	<!-- Arte gossip -->
