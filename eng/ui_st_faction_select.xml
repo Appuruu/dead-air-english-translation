@@ -44,8 +44,8 @@
 	<string id="st_loadout_5">
 		<text>Beginner technician’s kit</text>
 	</string>
-	<string id="st_loadout_5_descr">
-		<text>\n \nДля тех, кто начинает жалеть о прошедшем дне, если не починил или не разобрал что-либо. Базовый набор инструментов, молоток, тюбик качественного клея, немного масла и синяя изолента - джентельменский набор любого уважающего себя техника. На вашу удачу и удивление, в ремнаборе нашёлся старенький оптический прицел. Что-то вам подсказывает, что торговец этого не заметил...\n \n</text>
+	<string id="st_loadout_5_descr"> <!-- revision -->
+		<text>\n \nA kit for those who regret time spent if they haven't repaired or dismantled something. A basic set of tools, a hammer, a tube of quality glue, a little oil, and blue electrical tape. Luckily enough, there is an old optical sight as well. Looks like the trader mistakenly included it...\n \n</text>
 	</string>
 
 	<string id="st_loadout_6">
