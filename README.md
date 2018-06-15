@@ -115,7 +115,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_encyclopedia.xml - **done** - **REVISION NOT REQUIRED**
 
-- ui_st_encyclopedia_features.xml - **done** - **REVISION NOT REQUIRED**
+- ui_st_encyclopedia_features.xml - *Incomplete*
  
 - ui_st_faction_select.xml - **done**
 
