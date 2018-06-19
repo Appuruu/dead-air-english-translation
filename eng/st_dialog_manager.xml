@@ -2192,21 +2192,21 @@
 		<text>I found some old documents, are you interested?</text>
 	</string>
 	<string id="st_quest_doc_npc_start">
-		<text>Show me what you have.</text>
+		<text>Sure, let's see what you go there.</text>
 	</string>
 	
 	<string id="st_quest_doc_query_base">
-		<text>Well, I'll take it for %s RU. Fair enough?</text>
+		<text>I'll take it for %s RU.</text>
 	</string>
 	<string id="st_quest_doc_finish_base">
 		<text>That's great.</text>
 	</string>
 	
-	<string id="st_quest_doc_query_esc_2_12_stalker_trader">
-		<text>I will not even ask where you got it from. Such documents are exceptional, almost everyone will benefit from them... including me. I'm ready to buy them right now for %s RU, plus a brand new weapon. What do you think?</text>
+	<string id="st_quest_doc_query_esc_2_12_stalker_trader"> <!-- revision -->
+		<text>I will not even ask where you got it from. Such documents are exceptional, almost everyone will benefit from them... including me. I'm ready to buy them right now for %s RU, plus a container for artefacts. What do you think?</text>
 	</string>
 	<string id="st_quest_doc_finish_esc_2_12_stalker_trader">
-		<text>Excellent! If you find something similar, bring it to me immediately. I will make sure that you get something nice in returns! Do you see that shiny rifle on the shelf? It's looking right at you... Hehe.</text>
+		<text>Excellent! If you find something similar, bring it to me immediately. I will make sure that you get something nice in returns! Do you see that military armory behind me? It's looking right at you... Hehe.</text>
 	</string>
 	
 	<string id="st_quest_doc_query_mar_smart_terrain_base_stalker_leader_marsh">
@@ -2235,6 +2235,20 @@
 	</string>
 	<string id="st_quest_doc_finish_cit_killers_merc_trader_stalker">
 		<text>That's fine. In a couple of days, there will be a decent assortment for you. If you find the same kind of documents. bring them, don't be shy.</text>
+	</string>
+	
+	<string id="st_quest_doc_query_yan_stalker_sakharov">
+		<text>Very interesting stuff indeed! Such documents are not our specialty, but their contents can shed light on many of our studies. In addition, I have no doubts that our sponsors will be extremely interested in having them, which will have a very positive impact on our funding in returns. Do you want to conclude a special deal with us on this occasion? For documents like these, you can receive a monetary reward from us. I can arrange %s for the documents you just gave me. If I still manage to persuade our sponsors, we will receive new research equipment soon enough, supply of provisions and scientific equipment improvements. I assure you that you will get a significant benefit from this.</text>
+	</string>
+	<string id="st_quest_doc_finish_yan_stalker_sakharov">
+		<text>Thank you! I am very pleased with our new cooperation.</text>
+	</string>
+	
+	<string id="st_quest_doc_query_jup_a6_freedom_leader">
+		<text>Ha, where did you get these paper? You know, this kind of info can flip the world around upside down! I definitely won't hide it, not after what happened to us at least. The monolith fanatics broke through the Barrier, and started an aggressive attack on the Warehouses. Our squads managed to repel the monolith wave, but at what cost?... Most of our fighters died, few made it alive, and the remnants have gathered here in Jupiter. We can't reach out without support from the "big earth" movement, and these documents will absolutely help on our way to recovery. Our goal is to discover and reveal any kind of informations about the Zone to the outside world, no matter how secret it might be. If some illegal experiments happened in the past, people must know the truth. And "this" in your hands is just the start. Unfortunately, all what I can offer you for now is %s RU. And before you refuse, you should think of it this way: Today you are doing a good job, and tomorrow it will return to you in triple size. Despite the disaster that stroke our forces, we still have access to the black market. You will have access to a better kind of weapons and equipment. Don't worry about "Dolgovtsi" and the rest of Duty either, those blockheads won't know that you are somehow dealing with us.</text>
+	</string>
+	<string id="st_quest_doc_finish_jup_a6_freedom_leader">
+		<text>Perfect! If you find something else that can help us with, I will be very grateful.</text>
 	</string>
 	
 </string_table>

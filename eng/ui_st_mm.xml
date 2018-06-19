@@ -46,22 +46,22 @@
 		<text>MAP</text>
 	</string>
 	<string id="renderer_r1">
-		<text>DirectX 8 (Basic)</text>
+		<text>Dx9 (R1)</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>DirectX 9 (Basic)</text>
+		<text>Dx9 (R2a)</text>
 	</string>
 	<string id="renderer_r2">
-		<text>DirectX 9 (Normal)</text>
+		<text>Dx9 (R2)</text>
 	</string>
 	<string id="renderer_r2.5">
-		<text>DirectX 9 (Enhanced)</text>
+		<text>Dx9 (R2.5)</text>
 	</string>
 	<string id="renderer_r3">
-		<text>DirectX 10 (Enhanced)</text>
+		<text>Dx10 (R3)</text>
 	</string>
 	<string id="renderer_r4">
-		<text>DirectX 11 (Enhanced)</text>
+		<text>Dx11 (R4)</text>
 	</string>
 	<string id="st_opt_high">
 		<text>High</text>
