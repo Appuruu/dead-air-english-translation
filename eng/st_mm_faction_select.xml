@@ -75,13 +75,6 @@
 	<string id="st_mm_faction_cap_faction">
 		<text>Faction:</text>
 	</string>
-	<string id="st_mm_ck_story_desc">
-		<text>%c[0,245,245,220]Story mode starts the game with the 'Mysteries of the Zone' storyline, and with the goals to disable the Brain Scorcher and Miracle Machine.\n
-			\nElements from previous storylines are borrowed and recreated, so this is not for players who feel that strict story continuity is essential.\n
-			\nOnly available to the Clear Sky, Duty, Ecologist, Freedom, Loner, and Mercenary factions.\n
-			\nNot compatible with Azazel mode.
-		</text>
-	</string>
 	<string id="st_mm_ck_hardcore_desc">
 		<text>%c[0,245,245,220]Ironman mode is a feature that will remove your game saves upon death.\n
 			\nYou are free to make as many saves as you wish but dying will result in the removal of all saves made with this character.
@@ -102,17 +95,37 @@
 			\nIf you have companions, you will become one of them. This feature compliments the Ironman and/or Survival modes very well.\n
 			\nNot compatible with Story mode.</text>
 	</string>
+	<string id="st_mm_ck_laststand_desc">
+		<text>%c[0,245,245,220]Last survivor - option that breaks the thread of the player's fate. Will you find a good reason to live in a damn world that you yourself created?</text>
+	</string>
+	
+	
 	<string id="st_mm_ck_easy_desc">
 		<text>%c[0,245,245,220]High rewards mode -  an option designed to facilitate the gameplay. All kinds of rewards for the tasks completed by the player will be tripled. \ N
 			\ nFor those who do not like the pricing policy of the main game.</text>
 	</string>
-	<string id="st_mm_ck_laststand_desc">
-		<text>%c[0,245,245,220]Last survivor - option that breaks the thread of the player's fate. Will you find a good reason to live in a damn world that you yourself created?</text>
+	<string id="st_mm_ck_good_wpn_desc">
+		<text>%c[0,245,245,220]I wanna shoot! - an option designed to make the gameplay easier. Enemies drop weapons in better condition and with more ammo.\n
+        \nFor those who do not like the weapon balance of the base game.</text>
 	</string>
+	<string id="st_mm_ck_good_loot_desc">
+		<text>%c[0,245,245,220]Better loot - an option designed to make the gameplay easier. Enemies, as well as stashes, drop more equipment in better quality.\n
+        \nFor those, who do not like the lack of items of the base game.</text>
+	</string>
+	
+	
+	
 	<string id="st_mm_faction_random_location">
 		<text>Random Location</text>
 	</string>
-
+	<string id="st_mm_ck_story_desc">
+		<text>%c[0,245,245,220]Story mode starts the game with the 'Mysteries of the Zone' storyline, and with the goals to disable the Brain Scorcher and Miracle Machine.\n
+			\nElements from previous storylines are borrowed and recreated, so this is not for players who feel that strict story continuity is essential.\n
+			\nOnly available to the Clear Sky, Duty, Ecologist, Freedom, Loner, and Mercenary factions.\n
+			\nNot compatible with Azazel mode.
+		</text>
+	</string>
+	
 	<string id="st_mm_faction_money">
 		<text>Money</text>
 	</string>
