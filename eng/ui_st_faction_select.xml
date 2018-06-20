@@ -24,28 +24,28 @@
 		<text>Additional weapon set</text>
 	</string>
 	<string id="st_loadout_2_descr">
-		<text>\n \nReliable and well-proven weaponry in the conditions of the Chernobyl Exclusion Zone: a good old-fashioned AK-74U with magazines, several grenades, and a high-quality knife, all constituting a versatile set of weaponry against any living, breathing threat.\n \n</text>
+		<text>\n \nReliable and well-proven weaponry in the condition of the Chernobyl Exclusion Zone: a good old-fashioned AK-74U with magazines, several grenades, and a high-quality knife, all constituting a versatile set of weaponry against any living, breathing threat.\n \n</text>
 	</string>
 
 	<string id="st_loadout_3">
 		<text>Provisional and medicinal set</text>
 	</string>
 	<string id="st_loadout_3_descr">
-		<text>\n \nA small supply of food and medicine, designed for surviving in and adapting to the first few days in a life- and health-threatening environment. Includes several cans of food, a first-aid kit, bandages, anti-radiation pills, a pack of activated carbon, and home-brewed beverage.\n \n</text>
+		<text>\n \nA small supply of food and medicine, designed for surviving in and adapting to the first few days in a life, as well as in a health-threatening environment. Includes several cans of food, a first-aid kit, bandages, anti-radiation pills, a pack of activated carbon, and a home-brewed beverage.\n \n</text>
 	</string>
 
 	<string id="st_loadout_4">
 		<text>Artefact hunting kit</text>
 	</string>
-	<string id="st_loadout_4_descr"> 
-		<text>\n \nThe most important equipment for exploring anomalous areas: a gas mask, a dosimeter, an artefact detector, a lead container, and, of course, a capacious backpack. The rest depends on the skill, fortune, and ingenuity of the wearer themselves.\n \n</text>
+	<string id="st_loadout_4_descr">
+		<text>\n \nThe most important equipment for exploring anomalous areas: a gas mask, a geiger counter, an artefact detector, a lead container, and, of course, a capacious backpack. The rest depends on the skill, fortune, and ingenuity of the wearer themselves.\n \n</text>
 	</string>
 
 	<string id="st_loadout_5">
 		<text>Beginner technicianТs kit</text>
 	</string>
-	<string id="st_loadout_5_descr"> <!-- revision -->
-		<text>\n \nA kit for those who regret time spent if they haven't repaired or dismantled something. A basic set of tools, a hammer, a tube of quality glue, a little oil, and blue electrical tape. Luckily enough, there is an old optical sight as well. Looks like the trader mistakenly included it...\n \n</text>
+	<string id="st_loadout_5_descr">
+		<text>\n \nA kit for those who regret time spent if they havenТt repaired or dismantled something. A basic set of tools, a tube of quality glue, a little oil, and blue electrical tape: a set for any self-respecting technician.\n \n</text>
 	</string>
 
 	<string id="st_loadout_6">
@@ -69,7 +69,7 @@
 		<text>Skill: Master of the blade</text>
 	</string>
 	<string id="st_loadout_8_descr">
-		<text>\n \nThe arme blanche has always attracted you; its even metallic gloss has a calming effect on you. Of course, firearms are convenient, but with a knife in your hand, you feel complete.\n \n</text><!--”рон от быстрого удара ножом существенно увеличен.\n \n-->
+		<text>\n \nThe arme blanche has always attracted you; its even, metallic gloss has a calming effect on you. Of course, firearms are convenient, but with a knife in your hand, you feel complete.\n \n</text><!--”рон от быстрого удара ножом существенно увеличен.\n \n-->
 	</string>
 
 	<string id="st_loadout_9">
@@ -83,7 +83,7 @@
 		<text>Skill: Strong stomach</text>
 	</string>
 	<string id="st_loadout_10_descr">
-		<text>\n \nTasty, high-quality food in the Zone is a rarity, and what stalkers usually eat is hard to consider useful; but you are able to consume and digest what any other person in their right mind wonТt even consider having a bite of.\n \n</text><!--ћеньший вред здоровью при употреблении вредной пищи.\n \n-->
+		<text>\n \nTasty, high-quality food in the Zone is a rarity, and what stalkers usually eat is hard to consider useful; but you are able to consume and digest what any other person in their right mind wouldn't even consider having a bite of.\n \n</text><!--ћеньший вред здоровью при употреблении вредной пищи.\n \n-->
 	</string>
 
 	<string id="st_loadout_11">
