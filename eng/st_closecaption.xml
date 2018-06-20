@@ -14,7 +14,7 @@
 		<text>No subtitles</text>
 	</string>
 	<string id="ui_mm_cc_storyonly">
-		<text>Important subtitles</text>
+		<text>Important subtitles only</text>
 	</string>
 	<string id="ui_mm_cc_all">
 		<text>All subtitles</text>
@@ -747,7 +747,7 @@
 		<text>What do I do? If I go, I'll lose money. If I don't go, I'll end up dead.</text>
 	</string>
 	<string id="jup_a12_bandit_say_jump">
-		<text>Why… Is that change I still hear chingiling in your pockets?… Well, is it?</text>
+		<text>Why… Is that change I still hear jingling in your pockets?… Well, is it?</text>
 	</string>
 	<string id="jup_a12_bandit_threat_to_prisoner">
 		<text>One more step, and he's dead!</text>
@@ -2290,7 +2290,7 @@
 		<text>Let's move to the right along the building! Double time!</text>
 	</string>
 	<string id="pri_a28_continuation">
-		<text>Holy shit, you still here? Well, if you need anything, find me at the base. I am back and I have brought stalkers this time.</text> <!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says 'I don't trust you…' with a PDA voice effect -->
+		<text>Holy shit, you still here? Well, if you need anything, find me at the base. I'm back and I've brought stalkers this time.</text> <!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says 'I don't trust you…' with a PDA voice effect -->
 	</string>
 	<string id="pri_a28_evac_com_cant_wait">
 		<text>Our orders are to take off if we come under attack, so hurry the hell up!</text>
@@ -2374,7 +2374,7 @@
 		<text>Thanks, I'll do that.</text>
 	</string>
 	<string id="pri_b305_actor_it_is_underground">
-		<text>It's under ground.</text>
+		<text>It's underground.</text>
 	</string>
 	<string id="pri_b305_actor_need_center_to_know">
 		<text>We must inform the HQ of this as soon as possible.</text>
@@ -2383,7 +2383,7 @@
 		<text>Gotcha.</text>
 	</string>
 	<string id="pri_b305_actor_we_have_problems">
-		<text>We've got a problem. Our choppers are crashing for reasons that we've not understood yet.</text>
+		<text>We've got a problem. Our choppers are crashing for reasons that we haven't understood yet.</text>
 	</string>
 	<string id="pri_b305_actor_wondered">
 		<text>So that's what it is…</text>
@@ -2544,7 +2544,7 @@
 		<text>Hey there!</text>
 	</string>
 	<string id="bar_barman_hello_2">
-		<text>What's up, man? How goes it?</text>
+		<text>What's up, man? How's it going?</text>
 	</string>
 	<string id="bar_barman_hello_3">
 		<text>Still alive? That's great.</text>
