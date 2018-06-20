@@ -5,7 +5,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - st_characters.xml - **done** - **REVISED**
 
-- st_closecaption.xml - **done**
+- st_closecaption.xml - **done** - **REVISED**
 
 - st_closecaption_generic.xml - **done** - **REVISED**
 
@@ -117,7 +117,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_encyclopedia_features.xml - *Incomplete*
  
-- ui_st_faction_select.xml - **done**
+- ui_st_faction_select.xml - **done** - **REVISED**
 
 - ui_st_faction_starts.xml - **done** - **REVISION NOT REQUIRED**
 
