@@ -584,7 +584,7 @@
 		<text>You need a knife</text>
 	</string>
 	<string id="st_body_knife_weak">
-		<text>Need a stronger knife for this mutant</text>
+		<text>You need a stronger knife for this mutant</text>
 	</string>
 	<string id="st_key_notbinded">
 		<text>...</text>
