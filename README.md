@@ -121,7 +121,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_faction_starts.xml - **done** - **REVISION NOT REQUIRED**
 
-- ui_st_inventory.xml - **done**
+- ui_st_inventory.xml - **done**  - **REVISED**
 
 - ui_st_keybinding.xml - **done** - **REVISED**
 
@@ -129,7 +129,7 @@ Feel free to edit this list (done, work in progress or incomplete).
 
 - ui_st_mm.xml - **done** - **REVISED**
 
-- ui_st_other.xml - **done**
+- ui_st_other.xml - **done**  - **REVISED**
 
 - ui_st_pda.xml - **done** - **REVISION NOT REQUIRED**
 
