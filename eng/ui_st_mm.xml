@@ -46,22 +46,22 @@
 		<text>MAP</text>
 	</string>
 	<string id="renderer_r1">
-		<text>Dx9 (R1)</text>
+		<text>DirectX 9 (R1)</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>Dx9 (R2a)</text>
+		<text>DirectX 9 (R2a)</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Dx9 (R2)</text>
+		<text>DirectX 9 (R2)</text>
 	</string>
 	<string id="renderer_r2.5">
-		<text>Dx9 (R2.5)</text>
+		<text>DirectX 9 (R2.5)</text>
 	</string>
 	<string id="renderer_r3">
-		<text>Dx10 (R3)</text>
+		<text>DirectX 10 (R3)</text>
 	</string>
 	<string id="renderer_r4">
-		<text>Dx11 (R4)</text>
+		<text>DirectX 11 (R4)</text>
 	</string>
 	<string id="st_opt_high">
 		<text>High</text>
@@ -310,7 +310,7 @@
 		<text>Resolution</text>
 	</string>
 	<string id="ui_mm_color_correction">
-		<text>Color Correction</text>
+		<text>Color correction</text>
 	</string>
 	<string id="ui_mm_color_r">
 		<text>Red</text>
@@ -475,10 +475,10 @@
 		<text>Last stand</text>
 	</string>
 	<string id="st_cap_check_easy_mode">
-		<text>Inflated rewards</text>
+		<text>Increased rewards</text>
 	</string>
 	<string id="st_cap_check_good_wpn">
-		<text>I wanna shoot!</text>
+		<text>I want to shoot!</text>
 	</string>
 	<string id="st_cap_check_good_loot">
 		<text>Better loot</text> 
@@ -499,7 +499,7 @@
 		<text>Debug: show enemy health</text>
 	</string>
 	<string id="ui_mm_extra_animations">
-		<text>Interface: Animations</text>
+		<text>Interface: animations</text>
 	</string>
 	<string id="ui_mm_crouch_toggle">
 		<text>Crouch/stand mode</text>
@@ -508,22 +508,22 @@
 		<text>Autosaving</text>
 	</string>
 	<string id="ui_mm_mechanic_feature">
-		<text>Game: Delayed repairs</text>
+		<text>Game: delayed repairs</text>
 	</string>
 	<string id="ui_mm_heli_spawn">
-		<text>Game: Helicopter patrols</text>
+		<text>Game: helicopter patrols</text>
 	</string>
 	<string id="ui_mm_only_campfire">
-		<text>Game: Campfire saves</text>
+		<text>Game: campfire saves</text>
 	</string>
 	<string id="ui_mm_use_battery">
-		<text>Game: Use battery</text>
+		<text>Game: use battery</text>
 	</string>
 	<string id="ui_mm_dynamic_news">
-		<text>Game: News</text>
+		<text>Game: news</text>
 	</string>
 	<string id="ui_mm_sleep_deprived">
-		<text>Game: Sleep deprivation</text>
+		<text>Game: sleep deprivation</text>
 	</string>
 	<string id="ui_mm_release_dropped_items">
 		<text>Despawn dropped items</text>
@@ -532,34 +532,34 @@
 		<text>Show tracers</text>
 	</string>
 	<string id="ui_mm_radio_mod">
-		<text>Game: Radio music</text>
+		<text>Game: radio music</text>
 	</string>
 	<string id="ui_mm_heli_engine_sound">
-		<text>Game: Helicopter sounds</text>
+		<text>Game: helicopter sounds</text>
 	</string>
 	<string id="ui_mm_offline_battles">
-		<text>Game: Offline battles</text>
+		<text>Game: offline battles</text>
 	</string>
 	<string id="ui_mm_tips">
 		<text>NPC identification</text>
 	</string>
 	<string id="ui_mm_mask_hud">
-		<text>Interface: Helmet/mask</text>
+		<text>Interface: helmet/mask</text>
 	</string>
 	<string id="ui_mm_letterbox">
-		<text>Interface: Letterbox</text>
+		<text>Interface: letterbox</text>
 	</string>
 	<string id="ui_mm_photomode">
-		<text>Interface: Photo mode</text>
+		<text>Interface: photo mode</text>
 	</string>
 	<string id="ui_mm_slot_hud">
-		<text>Interface: Belt HUD</text>
+		<text>Interface: belt HUD</text>
 	</string>
 	<string id="ui_mm_hud_draw_info">
 		<text>Interface: HUD</text>
 	</string>
 	<string id="ui_mm_hud_draw_map">
-		<text>Interface: Minimap</text>
+		<text>Interface: minimap</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
 		<text>Dynamic crosshair</text>
@@ -580,7 +580,7 @@
 		<text>AI die to anomalies</text>
 	</string>
 	<string id="ui_mm_faction_sel">
-		<text>Specialisation</text>
+		<text>Specialization</text>
 	</string>
 	<string id="ui_mm_art_degrade">
 		<text>Artefact degradation</text>
@@ -607,7 +607,7 @@
 		<text>Population factor (stalkers)</text>
 	</string>
 	<string id="ui_mm_hud_fov">
-		<text>Hud FOV</text>
+		<text>HUD FOV</text>
 	</string>
 	<string id="ui_mm_fov">
 		<text>FOV</text>

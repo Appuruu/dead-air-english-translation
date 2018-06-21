@@ -61,7 +61,7 @@
 		<text>Forward</text>
 	</string>
 	<string id="kb_func">
-		<text>Under-barrel grenade launcher</text>
+		<text>Underbarrel grenade launcher</text>
 	</string>
 	<string id="kb_grp_common">
 		<text>General</text>
@@ -199,7 +199,7 @@
 		<text>Weapon 6</text>
 	</string>
 	<string id="kb_weapon7">
-		<text>Grenade/Binoculars</text>
+		<text>Grenade/binoculars</text>
 	</string>
 	<string id="kb_wpn_next">
 		<text>Change ammo type</text>

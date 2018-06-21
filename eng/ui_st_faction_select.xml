@@ -16,7 +16,7 @@
 		<text>Basic equipment</text>
 	</string>
 	<string id="st_loadout_1_descr">
-		<text>\n \nA simple leather jacket and an old shotgun is the bare minimum required to protect oneself from the surrounding reality. By examining the contents in the jacket, one may find a rag mask, a torch, and a pack of cigarettes. Bare-bones, but better than nothing.\n \n
+		<text>\n \nA simple leather jacket and an old shotgun is the bare minimum required to protect oneself from the surrounding reality. By examining the contents in the jacket, one may find a rag mask, a torch, and a pack of cigarettes. Barebones, but better than nothing.\n \n
 		</text>
 	</string>
 
@@ -24,42 +24,42 @@
 		<text>Additional weapon set</text>
 	</string>
 	<string id="st_loadout_2_descr">
-		<text>\n \nReliable and well-proven weaponry in the condition of the Chernobyl Exclusion Zone: a good old-fashioned AK-74U with magazines, several grenades, and a high-quality knife, all constituting a versatile set of weaponry against any living, breathing threat.\n \n</text>
+		<text>\n \nA good old-fashioned AKS-74U with magazines, several grenades, and a high-quality knife; all constituting a versatile set of weaponry against any living, breathing threat.\n \n</text>
 	</string>
 
 	<string id="st_loadout_3">
 		<text>Provisional and medicinal set</text>
 	</string>
 	<string id="st_loadout_3_descr">
-		<text>\n \nA small supply of food and medicine, designed for surviving in and adapting to the first few days in a life, as well as in a health-threatening environment. Includes several cans of food, a first-aid kit, bandages, anti-radiation pills, a pack of activated carbon, and a home-brewed beverage.\n \n</text>
+		<text>\n \nA small supply of food and medicine, designed for surviving in and adapting to the first few days in a health-threatening environment. Includes several cans of food, a first aid kit, bandages, anti-radiation pills, a pack of activated carbon, and a bottle of home-brewed beverage.\n \n</text>
 	</string>
 
 	<string id="st_loadout_4">
 		<text>Artefact hunting kit</text>
 	</string>
 	<string id="st_loadout_4_descr">
-		<text>\n \nThe most important equipment for exploring anomalous areas: a gas mask, a geiger counter, an artefact detector, a lead container, and, of course, a capacious backpack. The rest depends on the skill, fortune, and ingenuity of the wearer themselves.\n \n</text>
+		<text>\n \nAn equipment kit necessary for exploring anomalous areas: a gas mask, a geiger counter, an artefact detector, a lead container, and, of course, a capacious backpack. The rest depends on the skill and ingenuity of the wearer themselves.\n \n</text>
 	</string>
 
 	<string id="st_loadout_5">
 		<text>Beginner technicianТs kit</text>
 	</string>
 	<string id="st_loadout_5_descr">
-		<text>\n \nA kit for those who regret time spent if they havenТt repaired or dismantled something. A basic set of tools, a tube of quality glue, a little oil, and blue electrical tape: a set for any self-respecting technician.\n \n</text>
+		<text>\n \nA kit for those who regret any time spent without having repaired or dismantled something. A basic set of tools, a tube of quality glue, a little oil, and blue electrical tape; a set for any self-respecting technician.\n \n</text>
 	</string>
 
 	<string id="st_loadout_6">
 		<text>Experienced stalker kit</text>
 	</string>
 	<string id="st_loadout_6_descr">
-		<text>\n \nA strong outfit with excellently balanced properties. The death of the two previous owners of the suit has, fortunately, not affected its appearance or condition, and for the lack of disgust and any prejudice, the local trader has offered a capable torch.\n \n</text>
+		<text>\n \nA strong outfit with excellently balanced properties. The death of the suitТs two previous owners has, fortunately, not affected its appearance or condition, and for your lack of disgust and any prejudice, the local trader has offered a capable flashlight.\n \n</text>
 	</string>
 
 	<string id="st_loadout_7">
 		<text>Mercenary equipment</text>
 	</string>
 	<string id="st_loadout_7_descr">
-		<text>\n \nA favourable suit of armour with different kinds of pockets and pouches for storing a variety of small objects. Sowing batteries, silenced pistol, radio components, a torn page from a magazine, an old lighter; it is unclear how keeping all this rubbish to yourself would be of any use. On the other hand, no one knows in advance if something could come in handy.\n \n</text>
+		<text>\n \nA favorable suit of armor with different kinds of pockets and pouches for storing a variety of small objects. Sowing batteries, silenced pistol, radio components, a torn page from a magazine, and an old lighter; it is unclear how keeping all this garbage to yourself would be of any use. On the other hand, something could come in handy for the future.\n \n</text>
 	</string>
 
 
@@ -69,28 +69,28 @@
 		<text>Skill: Master of the blade</text>
 	</string>
 	<string id="st_loadout_8_descr">
-		<text>\n \nThe arme blanche has always attracted you; its even, metallic gloss has a calming effect on you. Of course, firearms are convenient, but with a knife in your hand, you feel complete.\n \n</text><!--”рон от быстрого удара ножом существенно увеличен.\n \n-->
+		<text>\n \nThe arme blanche has always attracted you; its even, metallic gloss has a calming effect. Firearms are a convenient option, of course, but with a knife in your hand, you feel complete.\n \n</text><!--”рон от быстрого удара ножом существенно увеличен.\n \n-->
 	</string>
 
 	<string id="st_loadout_9">
 		<text>Skill: Inventor</text>
 	</string>
 	<string id="st_loadout_9_descr">
-		<text>\n \nAs a child, you assembled a radio from old parts in your fatherТs box. In your youth, you repaired your motorcycle with spare parts from a flea market. Now, you feel that you will find use to the technical debris of the Exclusion Zone with certainty.\n \n</text><!-- оличество доступных дл€ создани€ предметов увеличено.\n \n-->
+		<text>\n \nAs a child, you assembled a radio from old parts in your fatherТs toolbox. In your youth, you repaired your motorcycle with spare parts from a flea market. Now, you feel that you will find some use in the technical debris lying in the Exclusion Zone.\n \n</text><!-- оличество доступных дл€ создани€ предметов увеличено.\n \n-->
 	</string>
 
 	<string id="st_loadout_10">
 		<text>Skill: Strong stomach</text>
 	</string>
 	<string id="st_loadout_10_descr">
-		<text>\n \nTasty, high-quality food in the Zone is a rarity, and what stalkers usually eat is hard to consider useful; but you are able to consume and digest what any other person in their right mind wouldn't even consider having a bite of.\n \n</text><!--ћеньший вред здоровью при употреблении вредной пищи.\n \n-->
+		<text>\n \nTasty, high-quality food in the Zone is a rarity, and what stalkers usually eat is hard to consider healthy, but you are able to consume and digest what any other person in their right mind wouldnТt even consider having a bite of.\n \n</text><!--ћеньший вред здоровью при употреблении вредной пищи.\n \n-->
 	</string>
 
 	<string id="st_loadout_11">
 		<text>Skill: Lead backpack</text>
 	</string>
 	<string id="st_loadout_11_descr">
-		<text>\n \nThe gifts of the Zone are alluring but extremely dangerous. Not so long ago, you acquired a special backpack, which should be able to neutralise some of their radiation. The time has come to put it to use.\n \n</text><!--—нижено радиактивное излучение артефактов, наход€щихс€ в рюкзаке.\n \n-->
+		<text>\n \nThe gifts of the Zone are alluring but extremely dangerous. Not so long ago, you acquired a special backpack, which should be able to neutralize some of their radiation. The time has come to put it to use.\n \n</text><!--—нижено радиактивное излучение артефактов, наход€щихс€ в рюкзаке.\n \n-->
 	</string>
 
 
@@ -100,7 +100,7 @@
 		<text>Skill: Steady hand</text>
 	</string>
 	<string id="st_loadout_12_descr">
-		<text>\n \nIn whatever condition and situation you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while travelling on public transport; your hand never falters. The grip on your weapon is tight enough to leave dents on the hand guard and stock.\n \n</text>
+		<text>\n \nIn whatever condition and situation you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while travelling on public transport, your hand never falters. The grip on your weapon is strong enough to leave dents on the handguard and stock.\n \n</text>
 		<!--
 		ѕугливый взгл€д, тр€сущиес€ руки, странна€ осанка
 		
@@ -127,21 +127,21 @@
 		<text>Skill: Authority</text>
 	</string>
 	<string id="st_loadout_14_descr">
-		<text>\n \nWhether through charm, a natural ability to socialise, or perhaps a subtle knowledge of human psychology; it does not matter. You easily win the hearts of any person, whether it be a greedy huckster or an outspoken psychopath.\n \n</text><!-- оличество напарников увеличено, более эффективна€ методика допросов, репутаци€ копитс€ значительно быстрее, больше возможностей в диалогах.\n \n-->
+		<text>\n \nWhether through charm, a natural ability to socialize, or perhaps a subtle knowledge of human psychology; it does not matter. You easily win the hearts of any person, whether it be a greedy huckster or an outspoken psychopath.\n \n</text><!-- оличество напарников увеличено, более эффективна€ методика допросов, репутаци€ копитс€ значительно быстрее, больше возможностей в диалогах.\n \n-->
 	</string>
 
 	<string id="st_loadout_15">
 		<text>Skill: Mindfulness</text>
 	</string>
 	<string id="st_loadout_15_descr">
-		<text>\n \nYou have learned to notice the most insignificant details not only in the behaviour of people, but also in the surrounding environment. During searches, not a single kopeck, bolt, or person manages hides from youЕ\n \n</text>
+		<text>\n \nYou have learned to notice the most insignificant details not only in the behavior of people, but also in the surrounding environment. During searches, not a single kopeck, bolt, or person manages hides from youЕ\n \n</text>
 	</string>
 
 	<string id="st_loadout_16">
 		<text>Skill: Geologist</text>
 	</string>
 	<string id="st_loadout_16_descr">
-		<text>\n \nHumming, hissing, spitting; no types of anomalies are capable of intimidating you any longer, and your urge for exploration encourages a deep study of anomalous areas.\n \n</text>
+		<text>\n \nHumming, hissing, spitting; no types of anomalies are capable of intimidating you any longer, and your urge for exploration encourages you to travel to areas filled with them.\n \n</text>
 	</string>
 
 	<!--
