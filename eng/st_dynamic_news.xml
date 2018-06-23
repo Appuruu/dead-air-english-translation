@@ -2025,57 +2025,57 @@
 	</string>
 
 	<!-- Medicine gossip -->
-	<string id="st_dyn_news_gossip_med_1"> <!-- revision -->
-		<text>Oh! %s! Right in time to get your health fixed.</text>
+	<string id="st_dyn_news_gossip_med_1">
+		<text>Oh! %s! Right on time. I need to heal up…</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_2">
-		<text>%s, not too bad. It’s hard to find stuff like this laying around.</text>
+		<text>%s. Not too bad. It’s hard to find stuff like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_3">
-		<text>Guys, who buys medical supplies for best prices around? I got %s and I haven’t got much use for it.</text>
+		<text>Guys, who’s buying medical supplies for a good price? I’ve got some %s, and I haven’t got much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_4">
 		<text>Goddammit… %s! I got this the other day for triple the price from some asshole.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>%s, finally! Time to heal up.</text>
+		<text>%s! Finally! Time to heal up.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
-		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
+		<text>Found %s. Should I sell it? Or just take it for myself…? </text>
 	</string>
 	<string id="st_dyn_news_gossip_med_7">
-		<text>Hey! Who got bad injuries? Will %s be of any help?</text>
+		<text>Hey! Wasn’t one of you about to die just a second ago? Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_8">
-		<text>Let’s see what we got here… %s, nice! That will help. </text>
+		<text>Let’s see what we got here… %s! nice! That will help.</text>
 	</string>
 
-	<string id="st_dyn_news_gossip_food_1"> <!-- revision -->
-		<text>%s, not too bad. It’s hard to find food like this laying around.</text>
+	<string id="st_dyn_news_gossip_food_1">
+		<text>%s. not too bad. It’s hard to find food like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_2">
-		<text>Who buys food for best prices around? I got %s and I haven’t got much use for it.</text>
+		<text>Who’s buying rations for best prices around? I’ve got some %s, and I haven’t got much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_3">
-		<text>Goddammit… %s. I got this the other day for triple the price from a trader.</text>
+		<text>Goddammit… %s! I got this the other day for triple the price from a trader.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>%s, finally! Time to eat.</text>
+		<text>%s! finally! Time to dine.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
-		<text>Oh! found some %s! About damn time.</text>
+		<text>Oh! Found some %s! About damn time.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_6">
-		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
+		<text>Found %s. Should I sell it? Or just take it for myself…? </text>
 	</string>
 	<string id="st_dyn_news_gossip_food_7">
-		<text>Hey! Who was starving to death? Will %s be of any help?</text>
+		<text>Hey! Wasn’t one of you starving just now? Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_8">
-		<text>%s, yeah. I had better days.</text>
+		<text>%s. Yeah. I’ve had better days.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_9">
-		<text>%s, great! My stomach was rumbling…</text>
+		<text>%s! Great! My stomach’s been rumbling…</text>
 	</string>
 	
 	<!-- Arte gossip -->
@@ -2184,7 +2184,7 @@
 		<text>I don’t think your friends are coming for you!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_5">
-		<text>Looking for offers on this dickhead. If not we’ll kill him!</text>
+		<text>Looking for offers on this dickhead. If not, we’ll kill him!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_6">
 		<text>Let’s see if we can extract information from this lowlife.</text>
@@ -2195,10 +2195,10 @@
 		<text>Looks like ol’ %s is looking for stalkers to do some work.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_2">
-		<text>Heads up, %s has some new work available.</text>
+		<text>Heads up: %s has some new work available.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_3">
-		<text>Any need some work? I just heard %s is looking for stalkers for a job.</text>
+		<text>Anyone need some work? I just heard %s is looking for stalkers to carry out something.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_4">
 		<text>%s has new work, if anyone is interested…</text>

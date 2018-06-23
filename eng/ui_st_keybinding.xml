@@ -121,7 +121,7 @@
 		<text>Exit</text>
 	</string>
 	<string id="kb_reload">
-		<text>Reload</text>
+		<text>Reload weapon/wipe mask</text>
 	</string>
 	<string id="kb_repair">
 		<text>Repair</text>
@@ -181,22 +181,22 @@
 		<text>Vote “Yes”</text>
 	</string>
 	<string id="kb_weapon1">
-		<text>Weapon 1</text>
+		<text>Knife</text>
 	</string>
 	<string id="kb_weapon2">
-		<text>Weapon 2</text>
+		<text>Main weapon</text>
 	</string>
 	<string id="kb_weapon3">
-		<text>Weapon 3</text>
+		<text>Secondary weapon</text>
 	</string>
 	<string id="kb_weapon4">
-		<text>Weapon 4</text>
+		<text>Quick melee</text>
 	</string>
 	<string id="kb_weapon5">
-		<text>Weapon 5</text>
+		<text>Pistol</text>
 	</string>
 	<string id="kb_weapon6">
-		<text>Weapon 6</text>
+		<text>Bolt</text>
 	</string>
 	<string id="kb_weapon7">
 		<text>Grenade/binoculars</text>
