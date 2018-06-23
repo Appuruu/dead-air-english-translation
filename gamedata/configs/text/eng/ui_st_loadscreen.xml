@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ls_header">
+		<text>В </text>
+	</string>
+
+	<list_renderer x="200" y="5" width="188" height="20" list_length="5" always_show_scroll="0">
+		<options_item entry="renderer" group="mm_opt_video" depend="restart"/>
+		<list_font r="170" g="170" b="170" font="letterica16"/>
+		<text_color>
+			<e r="170" g="170" b="170"/>
+			<d r="70" g="70" b="70"/>
+		</text_color>
+	</list_renderer>
+
+	<string id="ls_tip_number">
+		<text>XRay Engine 1.6.0</text>
+	</string>
+
+	<string id="ls_tip_1">
+		<text>txt1</text>
+	</string>
+
+	<string id="ls_tip_2">
+		<text>S.T.A.L.K.E.R.: Dead Air</text>
+	</string>
+
+	<string id="ls_tip_3">
+		<text>Basic, advanced and expert tools are required by most mechanics in order to perform certain upgrades on weapons and outfits. Such items can often be found in stashes received as rewards for completing tasks.</text>
+	</string>
+	
+	<string id="ls_tip_4">
+		<text>Sleep deprivation is an optional feature where the passage of time and using consumables will gradually drain the player - eventually requiring them to rest when prompted. Failing to do so may have dire consequences.</text>
+	</string>
+	
+	<string id="ls_tip_5">
+		<text>Helicopter gunships can be seen patrolling many of the Zone’s locations. When engaged in combat members of the helicopter’s faction may often call on it for air support to help destroy attacking or defending forces.</text>
+	</string>
+	
+	<string id="ls_tip_6">
+		<text>Ironman mode gives a true sense of mortality. When the player is killed all saves for that specific character are deleted and can never be restored. Pick your faction and starting location wisely.</text>
+	</string>
+	
+	<string id="ls_tip_7">
+		<text>Gunsmith and sewing kits are used to repair your weapons and outfits respectively when out in the field. Each allows up to three uses and are best used to repair items of greater value than the kits themselves.</text>
+	</string>
+	
+	<string id="ls_tip_8">
+		<text>Backpacks can be bought or found and then used to create a custom stash. Stashes created by the player are never de-spawned nor are they ever looted by other stalkers. They are permanent until all items are removed.</text>
+	</string>
+	
+	<string id="ls_tip_9">
+		<text>Sleeping bags are a great way to rest in the Zone if you are unable to find a decent bed to sleep in. They can be purchased from most major traders or potentially found in another stalker’s stash.</text>
+	</string>
+	
+	<string id="ls_tip_10">
+		<text>Truck Cemetery is a large graveyard of irradiated agricultural, civilian and military vehicles. As a great place to hide a stash, an eagle-eyed stalker may find many valuables among the wreckage.</text>
+	</string>
+	
+	<string id="ls_tip_11">
+		<text>Artefact types are indicative of the anomalies they are found in. Want one that boosts your burn resistance? Search for a “Burner” or “Comet” anomaly and go hunting with your detector.</text>
+	</string>
+	
+	<string id="ls_tip_12">
+		<text>Completing tasks for factions will increase your goodwill with them. As it increases their traders will gradually offer you greater discounts on their goods and services.</text>
+	</string>
+	
+	<string id="ls_tip_13">
+		<text>As you achieve more in-game your rank will increase, the available ranks are as follows: “Rookie,” “Trainee,” “Experienced,” “Professional,” “Veteran,” “Expert,” “Master” and “Legend.”</text>
+	</string>
+	
+	<string id="ls_tip_14">
+		<text>Most tasks can be cancelled after you agree to complete them. You can do this by speaking with the stalker who gave you the task. Just remember that cancelling a task will decrease your reputation and goodwill.</text>
+	</string>
+	
+	<string id="ls_tip_15">
+		<text>Reputation is a representation of how a stalker is viewed by their faction. It is gained and lost by helping or harming non-hostile stalkers respectively.</text>
+	</string>
+	
+	<string id="ls_tip_16">
+		<text>Reputation is dynamic and can frequently change, the available reputations are as follows: “Terrible,” “Dreary,” “Awful,” “Bad,” “Neutral,” “Good,” “Great,” “Brilliant” and “Excellent.”</text>
+	</string>
+	
+	<string id="ls_tip_17">
+		<text>Darkscape is a large forest between Cordon and Dark Valley. While there are few reasons to visit, it is frequently used as a hideout by loners and bandits with a bounty placed on their heads.</text>
+	</string>
+	
+	<string id="ls_tip_18">
+		<text>Remember to ask regular stalkers if they have any jobs available. Just because they aren’t anybody important doesn’t mean they won’t be willing to pay you to do their dirty work.</text>
+	</string>
+	
+	<string id="ls_tip_19">
+		<text>Rostok’s arena hosts two types of competitions: the traditional fights where stalkers battle each other for cash rewards, or challenges where they attempt to kill increasingly harder mutants.</text>
+	</string>
+	
+	<string id="ls_tip_20">
+		<text>Online exclusion radius can be set via the game options and defaults to 25m. It creates a no-spawn area around the player preventing mutants and other stalkers spawning unfairly and dangerously close.</text>
+	</string>
+	
+	<string id="ls_tip_21">
+		<text>Cold, Spore and the rest of Clear Sky’s major characters can be asked about their story. This will help you piece together how the faction survived after the events of S.T.A.L.K.E.R.: Clear Sky.</text>
+	</string>
+	
+	<string id="ls_tip_22">
+		<text>Freedom completely occupies Yanov Station in Jupiter after a mysterious stalker assisted them several years ago. Some of their well-known members have since relocated to their new northern base.</text>
+	</string>
+	
+	<string id="ls_tip_23">
+		<text>The “Completionist” achievement is received for unlocking all other available achievements. How many achievements are available to you depends on your faction and whether or not story mode is enabled.</text>
+	</string>
+	
+	<string id="ls_tip_24">
+		<text>It is much easier to avoid detection when travelling during the night or through heavy rain. However, you risk encountering fierce nocturnal mutants.</text>
+	</string>
+
+	<string id="ls_tip_25">
+		<text>We should ban selling imported goods. There’s no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker.</text>
+	</string>
+
+	<string id="ls_tip_26">
+		<text>Where the hell is my backpack? Freaking quick release system. Now I have no idea where I put it.</text>
+	</string>
+
+	<string id="ls_tip_27">
+		<text> If things are getting a little too tough for you, relax, drink some vodka and have a smoke.</text>
+	</string>
+
+	<string id="ls_tip_28">
+		<text>Move with no hesitation or you’ll lose your focus.</text>
+	</string>
+
+	<string id="ls_tip_29">
+		<text>Mess with Duty, Freedoms loves you. Mess with Freedom, Duty loves you. And I love conflict, so I mess with both of them.</text>
+	</string>
+
+	<string id="ls_tip_30">
+		<text>Whoever fights monsters should see to it that in the process he does not become a monster himself.</text>
+	</string>
+
+	<string id="ls_tip_31">
+		<text>Guide’s textbook: “The night is a beast in itself. If you have to leave shelter after dark, make sure you always have the stars (and the moon) to guide you.”</text>
+	</string>
+
+	<string id="ls_tip_32">
+		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you’ll need it. And maybe not, but take it nonetheless, ammo’s also a good source of income.</text>
+	</string>
+
+	<string id="ls_tip_33">
+		<text>Don’t ignore a weapon just because you haven’t been specially trained with it. Ammo is scarce, and even the greatest sniper will need to make a hasty escape once in a while.</text>
+	</string>
+
+	<string id="ls_tip_34">
+		<text>You’ll never hit your target if you’re scared.</text>
+	</string>
+
+	<string id="ls_tip_35">
+		<text> Trust your ears. Sound carries over hills and through dense bushes. A faint but familiar sound may be all you need to brace yourself for a sneak attack.</text>
+	</string>
+
+	<string id="ls_tip_36">
+		<text>Don’t throw this pistol out. Keep it and some ammunition as backup. You never know when you’ll need it.</text>
+	</string>
+
+	<string id="ls_tip_37">
+		<text>If you survive the dangers of the Zone but let your conscience die, you are no better than a mutant that shall be hunted down and destroyed.</text>
+	</string>
+
+	<string id="ls_tip_38">
+		<text>Always keep an eye on the sky. Birds and clouds are one hell of a sight, but if you see a flare, don’t think, just run.</text>
+	</string>
+
+	<string id="ls_tip_39">
+		<text>When in a fight, the only rule is to win. Cheat if you have to. Being fair is less important than being alive.</text>
+	</string>
+
+	<string id="ls_tip_40">
+		<text> If you’re being shot at, remain calm, count their rounds and pounce when they reload.</text>
+	</string>
+
+	<string id="ls_tip_41">
+		<text> Better safe than sorry. Survival is your responsibility!</text>
+	</string>
+
+	<string id="ls_tip_42">
+		<text>There are no woodpeckers in the Zone. Do you hear me? No woodpeckers! Whoa, what was that?</text>
+	</string>
+
+	<string id="ls_tip_43">
+		<text>Do you think Beard pays royalties for playing the music on Skadovsk?</text>
+	</string>
+
+	<string id="ls_tip_44">
+		<text>Did I ever tell you what the definition of insanity is? Going artifact hunting without appropriate gear.</text>
+	</string>
+
+	<string id="ls_tip_45">
+		<text> Forewarned is forearmed. Gather some info before you proceed.</text>
+	</string>
+
+	<string id="ls_tip_46">
+		<text>If you confront a controller, try to get an object to block your line of sight (tree, rock, wall). If it doesn’t see you, it can’t control you. And don’t listen to this Flint idiot.</text>
+	</string>
+
+	<string id="ls_tip_47">
+		<text> Your best means of defense against mutants are other Stalkers </text>
+	</string>
+
+	<string id="ls_tip_48">
+		<text>Stimpacks are quite useful. They’ll heal you much faster than medkits.</text>
+	</string>
+
+	<string id="ls_tip_49">
+		<text>Wearing a helmet affects your sprinting capabilities.</text>
+	</string>
+
+	<string id="ls_tip_50">
+		<text>I must say, you gotta love your ammo. Armor piercing, full metal jacket, depleted uranium, hollow point, chocolate bars… What the hell are chocolate bars doing here?</text>
+	</string>
+
+	<string id="ls_tip_51">
+		<text>So… freaking… heavy… Never… steel… plates…</text>
+	</string>
+
+	<string id="ls_tip_52">
+		<text>Never trust the bandits. Even friendly ones only want your artifacts, so they won’t think twice about stabbing you in the back.</text>
+	</string>
+
+	<string id="ls_tip_53">
+		<text>The military is NOT here to protect you from the Zone, so if you see a soldier, make a run for your life. And don’t look in the mirror.</text>
+	</string>
+
+	<string id="ls_tip_54">
+		<text> Maintain your equipment so that it can maintain you.</text>
+	</string>
+
+	<string id="ls_tip_55">
+		<text>Let every madman that dares to raise his hand against the Zone be sure that the Zone shall cut this hand without remorse.</text>
+	</string>
+
+	<string id="ls_tip_56">
+		<text> It doesn’t pay to help other people when they’re in a pinch. All you can expect is a bullet to the head when you drop your guard. So don’t bother.</text>
+	</string>
+
+	<string id="ls_tip_57">
+		<text>Avoid combat whenever possible. Be a mouse till you’re forced to roar.</text>
+	</string>
+
+	<string id="ls_tip_58">
+		<text>The Zone this, the Zone that. I don’t give a rat’s ass about it, and we usually stay out of each other’s way.</text>
+	</string>
+
+	<string id="ls_tip_59">
+		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Spare parts don’t appear out of thin air, and you pay extra for them, so it’s not really worth it.</text>
+	</string>
+
+	<string id="ls_tip_60">
+		<text>Listen to the sounds of anomalies: your sense of hearing can sometimes better indicate the position of an anomaly than your sight.</text>
+	</string>
+
+	<string id="ls_tip_61">
+		<text>Make sure your shooter is always loaded. Only anarchists keep their clips half empty.</text>
+	</string>
+
+	<string id="ls_tip_62">
+		<text>Always carry drugs lest an emission starts and there’s no shelter nearby. They may not protect you completely but maybe, just maybe will let you reach a safe spot before you’re roasted.</text>
+	</string>
+
+	<string id="ls_tip_63">
+		<text>Start collecting ammo for your favourite shooter as soon as you get the cash, even if you know it’s going to be a long wait. But it’s gonna hurt, if you don’t find the gun at all.</text>
+	</string>
+
+	<string id="ls_tip_64">
+		<text>Carry as little as possible when going out, so you can pick up more goodies and sell them to the traders when you return. Sorry, “if” you return.</text>
+	</string>
+
+	<string id="ls_tip_65">
+		<text>Have your artifact detector out as often as possible. Sometimes artifacts appear after psi storms.</text>
+	</string>
+
+	<string id="ls_tip_66">
+		<text>If you hear a bloodsucker and feel lucky, stand still. Turn towards the sound, locate it, and smile. Just kidding.</text>
+	</string>
+
+	<string id="ls_tip_67">
+		<text>Never pass enemy territory with direct sunlight in your eyes or with direct sunlight to your back. Better still, don’t pass enemy territory at all.</text>
+	</string>
+
+	<string id="ls_tip_68">
+		<text>You’d best abandon all notions of morality. The Zone is governed by its own unique set of rules that has nothing to do with what you learn in the Great Land.</text>
+	</string>
+
+	<string id="ls_tip_69">
+		<text>Don’t be a hero. Never be afraid to run from an enemy.</text>
+	</string>
+
+	<string id="ls_tip_70">
+		<text>Remember, you don’t have friends in the Zone. If you hear someone in distress, keep on walking as if nothing’s happened unless you fancy a quick death.</text>
+	</string>
+
+	<string id="ls_tip_71">
+		<text>Remember the sounds given off by mutants. Knowing what’s creeping up on you makes it easier to deal with the situation in a best possible way.</text>
+	</string>
+
+	<string id="ls_tip_72">
+		<text>Always carry a clip of armour-piercing rounds for whatever gun you have. Mutants might not wear armour, but hostile Stalkers do.</text>
+	</string>
+
+	<string id="ls_tip_73">
+		<text>Carry at least one bottle of vodka at all times. When you run out of antirads in the middle of an anomaly, you’ll thank me.</text>
+	</string>
+
+	<string id="ls_tip_74">
+		<text>A pack of cigarettes a day keeps the hunger at bay.</text>
+	</string>
+
+	<string id="ls_tip_75">
+		<text>When trying to sneak up on someone or something, remember to turn off your flashlight.</text>
+	</string>
+
+	<string id="ls_tip_76">
+		<text>Stay healthy. Avoid drugs if you can, eat clean food, drink purified water and sleep regularly.</text>
+	</string>
+
+	<string id="ls_tip_77">
+		<text>Take note of your mental state, relax when you can and find a favourite pastime to relieve stress. Most Stalkers stick to porn, but you can be a tiny bit more original.</text>
+	</string>
+
+	<string id="ls_tip_78">
+		<text>Examine an area carefully before you pass through. Spotting a bloodsucker before it spots you will most certainly save your life.</text>
+	</string>
+
+	<string id="ls_tip_79">
+		<text>The Zone is alive, I can tell you that. It eats, it breathes, and it shits. And when it shits, you had better take cover if you don’t fancy being flushed down the toilet.</text>
+	</string>
+
+	<string id="ls_tip_80">
+		<text>The beauty of it all is what struck me the most. You don’t have the time to admire it though “cause the Zone may strike you when you expect it the least.</text>
+	</string>
+
+	<string id="ls_tip_81">
+		<text>Foolish are those who fear nothing, yet claim to know everything.</text>
+	</string>
+
+	<string id="ls_tip_82">
+		<text>Never underestimate a hungry dog. When there’s one, there’s a dozen.</text>
+	</string>
+
+	<string id="ls_tip_83">
+		<text>Be careful when approaching a fellow Stalker. Men’s hearts hold shadows darker than the Zone itself.</text>
+	</string>
+
+	<string id="ls_tip_84">
+		<text> Friendship is magic. Even in the Zone.</text>
+	</string>
+
+	<string id="ls_tip_85">
+		<text>Day 1: My hair’s started to fall out. Day 2: My skin’s peeling off. Day 3: I can’t move. The greed. Wanted to save on meds. And now’s too late.</text>
+	</string>
+
+	<string id="ls_tip_86">
+		<text>Sultan is a scum. He’s gonna shank every Stalker that opposes him. So be nice, and he’ll be gentle.</text>
+	</string>
+
+	<string id="ls_tip_87">
+		<text>Whenever you feel depressed, rest at a campfire and listen to some music.</text>
+	</string>
+
+	<string id="ls_tip_88">
+		<text>Always explore every nook and cranny… You never know what someone may have stashed there.</text>
+	</string>
+
+	<string id="ls_tip_89">
+		<text>The whole world’s gone to hell. Economic collapse in the Great Land, and the Zone… The Zone is hell on earth, and its fires will consume you.</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>The Devil has spoken, and from his words the Zone emerged. And he spawned his powerful servants who spread his word and who shall bring the world to its doom.</text>
+	</string>
+
+	<string id="ls_tip_91">
+		<text>When putting your head down for the night, always keep your pistol within arm’s reach.</text>
+	</string>
+
+	<string id="ls_tip_92">
+		<text>Chimera’s two heads reflect its nature. It will flee only to return a second later to mercilessly murder you. It will attack you from behind just to leap into the darkness once again.</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>Bloodsuckers are masters of the shadow and you’d want to see them earlier than in the muzzle flash of your gun.</text>
+	</string>
+
+	<string id="ls_tip_94">
+		<text>Only venture into Monolith and Merc territories at night - patrols are less frequent and their bases less occupied.</text>
+	</string>
+
+	<string id="ls_tip_95">
+		<text>Controllers may try to stop your mind with their powers, but they cannot stop an RPG to their face.</text>
+	</string>
+
+	<string id="ls_tip_96">
+		<text>Contrary to popular belief, wearing a gasmask will not prevent you from eating or drinking.</text>
+	</string>
+
+	<string id="ls_tip_97">
+		<text>There’s no shame in hitting F9 when things go south.</text>
+	</string>
+
+	<string id="ls_tip_98">
+		<text>You’re easier to kill when you stop moving, so. don’t. stop. moving.</text>
+	</string>
+
+	<string id="ls_tip_99">
+		<text>Stay sharp Stalker, Death is always nearby. If you see it, aim for the head.</text>
+	</string>
+
+	<string id="ls_tip_100">
+		<text>You’ll die in a week if you don’t eat. But you can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
+	</string>
+</string_table>

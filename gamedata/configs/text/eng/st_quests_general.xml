@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<   CoC 1.4.10 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 14, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+	<string id="st_main_1_search_agr_ug_name">
+		<text>Agroprom Underground</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>Explore Agroprom underground in search of infromation.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>Lab X18</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>Explore Lab X18 in search of information.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>Lab X16</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>Explore Lab X16 in search of information.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>Lab X19 (X10)</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>Explore Lab X19 (X10) in search of information.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>Lab X8</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>Explore Lab X8 in search of information.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>“Pripyat-1” Underpass</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>Explore Jupiter underground in search of information.</text>
+	</string>
+	<string id="st_main_7_search_mon_con_name">
+		<text>ChNPP</text>
+	</string>
+	<string id="st_main_7_search_mon_con_text">
+		<text>Explore Chernobyl NPP in search of information.</text>
+	</string>
+
+
+	<!-- Procure Supplies for Clear Sky Simulation Task -->
+
+	<string id="simulation_task_1_name">
+		<text>Fetch %s</text>
+	</string>
+	<string id="simulation_task_1_text">
+		<text>Clear sky member asked me to bring him %s to help his group.</text>
+	</string>
+	<string id="simulation_task_1_about">
+		<text>Some things are urgently needed, but there is almost no time left. Can I rely on you?</text>
+	</string>
+	<string id="simulation_task_1_fetch_about">
+		<text>Bro, listen. We’ve got one important mission. Large groups of stalkers are being sent deep into the Zone, but provisions and equipment are scarce. We’ve managed to gather everything the first group needs, except for one thing. The last thing we need is %s, few pieces of it are needed. Can you get it?</text>
+	</string>
+	<string id="simulation_task_1_fetch_finish">
+		<text>Thanks, man!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+	<string id="simulation_task_2_name">
+		<text>Fetch %s</text>
+	</string>
+	<string id="simulation_task_2_text">
+		<text>Received order to find: %s.</text>
+	</string>
+	<string id="simulation_task_2_about">
+		<text>Relax hunting…</text>
+	</string>
+	<string id="simulation_task_2_fetch_about">
+		<text>Dude, do me a favor, get me something like this so I can relax with my friends the other day. %s, few pieces will do. Well?</text>
+	</string>
+	<string id="simulation_task_2_fetch_finish">
+		<text>Good! Well, now I’ll cheer the boys up. Oh yeah, here.</text>
+	</string>
+
+
+	<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_3_name">
+		<text>Mutant hunting</text>
+	</string>
+	<string id="simulation_task_3_text">
+		<text>A stalker has a special recipe for cooking mutants meat. He’s missing an ingredient - %s</text>
+	</string>
+	<string id="simulation_task_3_about">
+		<text>Work… exactly, you’re going to hunt mutants?</text>
+	</string>
+	<string id="simulation_task_3_fetch_about">
+		<text>We’re having a celebratory supper soon. Some local gourmet (I won’t point fingers) is especially happy to try my signature dish with a special sauce, which is its own juice with mayonnaise. Just thinking about it makes me drool. I need %s for that. Will you bring it to me? I’ll owe you.</text>
+	</string>
+	<string id="simulation_task_3_fetch_finish">
+		<text>Yes, finally we will have a normal dinner! Thank you, stalker!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_4_name">
+		<text>Find the artefact %s</text>
+	</string>
+	<string id="simulation_task_4_text">
+		<text>Stalker wants me to find %s artefact.</text>
+	</string>
+	<string id="simulation_task_4_about">
+		<text>I… I mean our group needs an artefact.</text>
+	</string>
+	<string id="simulation_task_4_fetch_about">
+		<text>Are you lucky in finding stuff? Could you help me out? If you find %s artefact, let me know. Me and my boys were looking for it but we just can’t find it. Don’t worry about the reward, I’ll pay you well.</text>
+	</string>
+	<string id="simulation_task_4_fetch_finish">
+		<text>At last! Well, I hope everything will work out, thank you. Here’s your share.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR STALKER TASK -->
+	<string id="simulation_task_5_name">
+		<text>Find weapon %s</text>
+	</string>
+	<string id="simulation_task_5_text">
+		<text>A stalker is in need of a weapon: the %s. Preferably in good condition.</text>
+	</string>
+	<string id="simulation_task_5_about">
+		<text>Can you help me find a new weapon?</text>
+	</string>
+	<string id="simulation_task_5_fetch_about">
+		<text>My shooter’s completely worn out. It doesn’t shoot half of the time, and I’ve never liked it anyway, but I don’t have any money for a new one… if I can even find a new weapon! Will you help me find a more reliable piece of weaponry? %s will do just fine; I’ve also managed to save a few cartridges for the calibre. The better the condition, the more I’ll pay. I promise!</text>
+	</string>
+	<string id="simulation_task_5_fetch_finish">
+		<text>Brilliant. Take this for the trouble, just like we agreed. I keep my word!</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+	<string id="simulation_task_6_name">
+		<text>Find weapon: %s</text>
+	</string>
+	<string id="simulation_task_6_text">
+		<text>Need to find a gun: %s</text>
+	</string>
+	<string id="simulation_task_6_about">
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one with good condition for me?</text>
+	</string>
+	<string id="simulation_task_6_fetch_about">
+		<text>Soon I will join my group on a serious mission, but I have a big problem. This piece of shit is worn, it jams constantly. I almost got myself killed last time I had to use it because it stop shooting at worst possible moments. I don’t want to risk my life over this, so I ask you to find something newer, preferably in excellent condition. Actually if you can get me a %s. I’ll make it worth your while.
+		</text>
+	</string>
+	<string id="simulation_task_6_fetch_finish">
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR STALKER TASK -->
+	<string id="simulation_task_7_name">
+		<text>Search and rescue</text>
+	</string>
+	<string id="simulation_task_7_text">
+		<text>A stalker’s buddy was kidnapped by a gang of bandits. He asked me to try and rescue him.</text>
+	</string>
+	<string id="simulation_task_7_about">
+		<text>I could really use some help, man. My friend was mugged and taken hostage by some bandits. I really don’t know what I should do. Do you think you can help me out and save my friend?</text>
+	</string>
+	<string id="simulation_task_7_finish">
+		<text>You did it! Thank you, stalker. It’s good to see my friend back and alive! Here, for your trouble.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR DUTY TASK -->
+	<string id="simulation_task_8_name">
+		<text>Search and rescue</text>
+	</string>
+	<string id="simulation_task_8_text">
+		<text>I’ve been tasked to rescue a member of Duty who is being held hostage.</text>
+	</string>
+	<string id="simulation_task_8_about">
+		<text>Stalker, our comrade was wounded and taken hostage! I’m in desperate need of someone capable enough to stage a rescue operation. Do you think you can help us out and save our friend?</text>
+	</string>
+	<string id="simulation_task_8_finish">
+		<text>Thank you, stalker. It’s good to see you saved our fellow comrade! Here, for your trouble.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+	<string id="simulation_task_9_name">
+		<text>Search and rescue</text>
+	</string>
+	<string id="simulation_task_9_text">
+		<text>I’ve been tasked to rescue a member of Freedom who is being held hostage.</text>
+	</string>
+	<string id="simulation_task_9_about">
+		<text>Yes, one of my comrades has been captured! Please rescue him!</text>
+	</string>
+	<string id="simulation_task_9_finish">
+		<text>You did it! Thank you, stalker. It’s good to see my friend back and alive! Here, for your trouble.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR ECOG TASK -->
+	<string id="simulation_task_10_name">
+		<text>Search and rescue</text>
+	</string>
+	<string id="simulation_task_10_text">
+		<text>Speak to Bandits and pay the ransom for the release of an Ecologist they are holding hostage.</text>
+	</string>
+	<string id="simulation_task_10_about">
+		<text>Yes, please help! One of my colleagues was kidnapped by bandits. They are demanding to be paid a ransom. Please, take this to them and bring my colleage back.</text>
+	</string>
+	<string id="simulation_task_10_finish">
+		<text>Thank you, stalker. It’s good to see my colleague back! Please accept this as a reward.</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR STALKER TASK -->
+	<string id="simulation_task_11_name">
+		<text>Hunting the hunters</text>
+	</string>
+	<string id="simulation_task_11_text">
+		<text>A stalker needs a bounty taken off his head.</text>
+	</string>
+	<string id="simulation_task_11_about">
+		<text>Yes, help me brother! Some bastard has put a price on my head. Take care of him for me and I will pay you double the bounty he has on me.</text>
+	</string>
+	<string id="simulation_task_11_finish">
+		<text>Oh, thank you stalker! Here is your payment. I can finally sleep for the first time in days!</text>
+	</string>
+
+
+	<!-- VENGEANCE  FOR STALKER TASK -->
+	<string id="simulation_task_12_name">
+		<text>Revenge</text>
+	</string>
+	<string id="simulation_task_12_text">
+		<text>A stalker wants me to avenge the death of his comrade.</text>
+	</string>
+	<string id="simulation_task_12_about">
+		<text>A bandit snuck into our camp last night and murdered my friend in cold blood. This kind of scum cannot be allowed to live. Kill him for me, stalker. In return I will give you my slain comrade’s rifle.</text>
+	</string>
+	<string id="simulation_task_12_finish">
+		<text>Thank you stalker, you are a good warrior. Join me in a drink to my fallen brother.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR BANDIT TASK -->
+	<string id="simulation_task_13_name">
+		<text>Find: %s</text>
+	</string>
+	<string id="simulation_task_13_text">
+		<text>A Bandit has some loot he wants to trade if I can bring him %s.</text>
+	</string>
+	<string id="simulation_task_13_about">
+		<text>You wanna to swap some loot?</text>
+	</string>
+	<string id="simulation_task_13_fetch_about">
+		<text>I’ve got some good shit I can give you if you can get me some %s.</text>
+	</string>
+	<string id="simulation_task_13_fetch_finish">
+		<text>Great man, thanks!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MILITARY TASK -->
+	<string id="simulation_task_14_name">
+		<text>Find: %s</text>
+	</string>
+	<string id="simulation_task_14_text">
+		<text>A soldier asked me to find %s for him.</text>
+	</string>
+	<string id="simulation_task_14_about">
+		<text>You have any supplies you want to trade?</text>
+	</string>
+	<string id="simulation_task_14_fetch_about">
+		<text>Tell you what, I’ll trade you some extra ammo I’ve got if you can get me some %s.</text>
+	</string>
+	<string id="simulation_task_14_fetch_finish">
+		<text>Great man, thanks!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR MILITARY TASK -->
+
+	<string id="simulation_task_15_name">
+		<text>Find the artifact: %s </text>
+	</string>
+	<string id="simulation_task_15_text">
+		<text>A soldier is offering a rifle in exchange for the %s artefact.</text>
+	</string>
+	<string id="simulation_task_15_about">
+		<text>Hey, listen man. I know this is against regulations, but I’m going to be rotating home soon and I want to bring back a souvenir. You think you can find an artefact for me?</text>
+	</string>
+	<string id="simulation_task_15_fetch_about">
+		<text>I want to get a %s. If you can find me one I’ll make it worth you a while.</text>
+	</string>
+	<string id="simulation_task_15_fetch_finish">
+		<text>Awesome! Here’s what I promised you. Don’t let the commander know I have this.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR BANDIT TASK -->
+	<string id="simulation_task_16_name">
+		<text>Find weapon</text>
+	</string>
+	<string id="simulation_task_16_text">
+		<text>A bandit needs an untraceable %s, no questions asked.</text>
+	</string>
+	<string id="simulation_task_16_about">
+		<text>Listen, I need a rifle that can’t be traced back to me, you know what I mean? You willing to help me out with this?</text>
+	</string>
+	<string id="simulation_task_16_fetch_about">
+		<text>I need a %s. Buy it, steal it, loot it, whatever you gotta do, just get me one. I’ll pay you double what it’s worth.</text>
+	</string>
+	<string id="simulation_task_16_fetch_finish">
+		<text>Great! Here’s what I promised you. And you never met me, got it?</text>
+	</string>
+
+
+	<!-- ASSASINATION   FOR MILITARY TASK -->
+	<string id="simulation_task_17_name">
+		<text>One shot</text>
+	</string>
+	<string id="simulation_task_17_text">
+		<text>A fellow soldier has bet his rifle that I can’t assassinate a high-value target.</text>
+	</string>
+	<string id="simulation_task_17_about">
+		<text>What, are you trying to climb the ranks or something? Tell you what hotshot, I happen to know the location of a certain high-value target the brass wants eliminated. I’ll bet you my rifle you can’t even get close to him.</text>
+	</string>
+	<string id="simulation_task_17_finish">
+		<text>For real? You really did it? Damn, if I though you had any chance I never would have made this bet. Well, a deal’s a deal. Here’s my rifle. But you better be covering my ass with it in the next firefight.</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
+	<string id="simulation_task_18_name">
+		<text>Order</text>
+	</string>
+	<string id="simulation_task_18_text">
+		<text>You have taken over a contract killing.</text>
+	</string>
+	<string id="simulation_task_18_about">
+		<text>I do, actually. I’ve taken on a few too many jobs. You want to take over one of my contracts for me? I’ll give you most of the bounty on it.</text>
+	</string>
+	<string id="simulation_task_18_finish">
+		<text>Great job. Here’s the money I owe you.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eliminate Enemy Forces for Monolith Simulation Task -->
+
+	<string id="simulation_task_19_name">
+		<text>Eliminate Enemy Forces</text>
+	</string>
+	<string id="simulation_task_19_text">
+		<text>The enemy has been spotted in the area. Engage the infidels in battle for the good of the Monolith.</text>
+	</string>
+	<string id="simulation_task_19_about">
+		<text>My brother, we have sighted the enemy in the area. We are going to alert our brothers to do battle. Go there now. Destroy them.</text>
+	</string>
+	<string id="simulation_task_19_finish">
+		<text>You have done well, my brother.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Scouting Expedition for Mercenary Simulation Task -->
+
+	<string id="simulation_task_20_name">
+		<text>Scouting Expedition</text>
+	</string>
+	<string id="simulation_task_20_text">
+		<text>Scout the area where enemy forces have been sighted. Engage any enemy encountered.</text>
+	</string>
+	<string id="simulation_task_20_about">
+		<text>There are reports of enemy activity in the neighboring area and our squad is tasked with engaging them. I’m looking for someone who is willing to scout ahead in preparation for our assault. </text>
+	</string>
+	<string id="simulation_task_20_finish">
+		<text>Excellent! Well done.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eliminate Dangerous Mutants for Duty, Clear Sky, or Monolith Simulation Task -->
+
+	<string id="simulation_task_21_name">
+		<text>Eliminate Dangerous Mutants for Duty</text>
+	</string>
+	<string id="simulation_task_21_text">
+		<text>Eliminate dangerous mutants in the area for the Duty faction.</text>
+	</string>
+	<string id="simulation_task_21_about">
+		<text>We can’t have so much dangerous mutant activity in the area, someone’s going to get killed. Head out there and thin out the herd a bit.</text>
+	</string>
+	<string id="simulation_task_21_finish">
+		<text>Well done, here’s your reward.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Clear Research Area for Ecologist Simulation Task -->
+
+	<string id="simulation_task_22_name">
+		<text>Clear the Research Area</text>
+	</string>
+	<string id="simulation_task_22_text">
+		<text>A local faction has been harassing a scientist. Clear them out of the area so he may conduct his research.</text>
+	</string>
+	<string id="simulation_task_22_about">
+		<text>There is an area that I must conduct some important research on but there is a group of squatters who have moved in there and they shoot at me anytime I go near there. I must perform this research stalker. Can you convince them to move along?</text>
+	</string>
+	<string id="simulation_task_22_finish">
+		<text>Thank you stalker you have aided me immensely. Please take this as a token of my gratitude.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Bring Supplies for Monolith Simulation Task -->
+
+	<string id="simulation_task_23_name">
+		<text>Bring %s to Monolith Member</text>
+	</string>
+	<string id="simulation_task_23_text">
+		<text>One of your brothers is ill and requires %s.</text>
+	</string>
+	<string id="simulation_task_23_about">
+		<text>I must be strong to serve the Monolith well but I confess my strength is weakening. Can you help me, brother?</text>
+	</string>
+	<string id="simulation_task_23_fetch_about">
+		<text>My brother, I am very ill. Cleric has graciously offered to pray for me but I’m pretty sure I just need %s. Please bring me some.</text>
+	</string>
+	<string id="simulation_task_23_fetch_finish">
+		<text>Thank you my brother. May the glory of the Monolith shine upon you.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Search the Stash Simulation Task -->
+
+	<string id="simulation_task_24_name">
+		<text>Search</text>
+	</string>
+	<string id="simulation_task_24_text">
+		<text>A stalker has offered the coordinates of a stash. In exchange for a PDA located in the stash, he offers a reward.</text>
+	</string>
+	<string id="simulation_task_24_about">
+		<text>I know the location of a hidey-hole that contains a PDA important to me. You won’t have any use for it, but if you bring it to me, you’ll get a reward. Deal?</text>
+	</string>
+	<string id="simulation_task_24_finish">
+		<text>Thanks, stalker!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Collect Mutant Tissue Sample for Ecologist Simulation Task -->
+
+	<string id="simulation_task_25_name">
+		<text>Collect %s Tissue Sample</text>
+	</string>
+	<string id="simulation_task_25_text">
+		<text>An Ecologist needs a tissue sample from a %s.</text>
+	</string>
+	<string id="simulation_task_25_about">
+		<text>I’m researching certain mutants in the area. I need someone to collect a tissue sample for me.</text>
+	</string>
+	<string id="simulation_task_25_fetch_about">
+		<text>If you could hunt one down for me, I need a sample of %s brought back to me. I can pay you for your trouble and, of course, the considerable risk involved.</text>
+	</string>
+	<string id="simulation_task_25_fetch_finish">
+		<text>Thank you, sir. This will help immensely in my research.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Drug Runner for Freedom Simulation Task -->
+
+	<string id="simulation_task_26_name">
+		<text>Drug Runner</text>
+	</string>
+	<string id="simulation_task_26_text">
+		<text>A Freedomer needs his latest shipment delivered.</text>
+	</string>
+	<string id="simulation_task_26_about">
+		<text>Hey man, I’m expecting a shipment of… ah, “medical supplies” and I need someone to pick it up. Want to make some extra cash?</text>
+	</string>
+	<string id="simulation_task_26_finish">
+		<text>Thanks man. Here’s your cut.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Retrieve Documents for Clear Sky Simulation Task -->
+
+	<string id="simulation_task_27_name">
+		<text>Documents for “Clear Sky”</text>
+	</string>
+	<string id="simulation_task_27_text">
+		<text>A Clear Sky member needs his documents returned to him.</text>
+	</string>
+	<string id="simulation_task_27_about">
+		<text>I have some important documents that I stashed away when I was attacked by mutants. I dread to go back there. If you can you get them for me, I’ll gladly pay you.</text>
+	</string>
+	<string id="simulation_task_27_finish">
+		<text>Thank you stalker!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Push Back Monolith Incursion for Freedom Simulation Task -->
+
+	<string id="simulation_task_28_name">
+		<text>Push Back Monolith Incursion</text>
+	</string>
+	<string id="simulation_task_28_text">
+		<text>Monolith fighters have been spotted near this location. Prevent them from encroaching on the area.</text>
+	</string>
+	<string id="simulation_task_28_about">
+		<text>Hey man, I just spotted some Monolith not too far from here. I’m going to alert Lukash, keep an eye on them.</text>
+	</string>
+	<string id="simulation_task_28_finish">
+		<text>Good job man. Lukash was sending out some reinforcements, I guess we won’t need them. He wanted me to give you this.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Interdict Enemy Forces for Duty Simulation Task -->
+
+	<string id="simulation_task_29_name">
+		<text>Interdict Enemy Forces</text>
+	</string>
+	<string id="simulation_task_29_text">
+		<text>Intercept the enemy forces moving in on the area.</text>
+	</string>
+	<string id="simulation_task_29_about">
+		<text>Bandits are moving in on the area. I’m going to alert the commander. Hold them off until I get back.</text>
+	</string>
+	<string id="simulation_task_29_finish">
+		<text>Outstanding! You are a fine soldier.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Redemption for Monolith Simulation Task -->
+
+	<string id="simulation_task_30_name">
+		<text>Redemption</text>
+	</string>
+	<string id="simulation_task_30_text">
+		<text>A Monolith brother was defeated by an infidel. Destroy him lest anyone begin to think the Monolith are not to be feared.</text>
+	</string>
+	<string id="simulation_task_30_about">
+		<text>My brother, Rabbit has asked of me that I slay one of the infidels for the good of the Monolith. I fear I have failed him, as I was not able to get to the target. Will you not complete my task and redeem my failure?</text>
+	</string>
+	<string id="simulation_task_30_finish">
+		<text>You have done well. It is an honor to serve the almighty Monolith along side with you.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Find Supplies for Merc Simulation Task -->
+
+	<string id="simulation_task_31_name">
+		<text>Find %s</text>
+	</string>
+	<string id="simulation_task_31_text">
+		<text>I was asked to find %s, by a Mercenary.</text>
+	</string>
+	<string id="simulation_task_31_about">
+		<text>Can you do me a huge favour? I’m running low on my supplies. Can you help me out?</text>
+	</string>
+	<string id="simulation_task_31_fetch_about">
+		<text>I’m low on %s. Come find me if you get your hands on any.</text>
+	</string>
+	<string id="simulation_task_31_fetch_finish">
+		<text>Thanks!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mutant Meat Stew for Bandit Simulation Task -->
+
+	<string id="simulation_task_32_name">
+		<text>%s Stew</text>
+	</string>
+	<string id="simulation_task_32_text">
+		<text>A Bandit has a special recipe for preparing mutant meat and needs %s brought to him.</text>
+	</string>
+	<string id="simulation_task_32_about">
+		<text>Man, you ever tried mutant meat? A lot of guys won’t touch it unless they’re starving but personally I love it. You any good at hunting?</text>
+	</string>
+	<string id="simulation_task_32_fetch_about">
+		<text>If you can get me a few good cuts of %s I’ll make it worth your while.  Mmm… I’m drooling just thinking about it.</text>
+	</string>
+	<string id="simulation_task_32_fetch_finish">
+		<text>Yes! I’m going to eat good tonight! Thanks man, here is your payment and a little loot for ya.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Find a Reliable Weapon for Merc Simulation Task -->
+
+	<string id="simulation_task_33_name">
+		<text>Find a reliable %s for Merc</text>
+	</string>
+	<string id="simulation_task_33_text">
+		<text>Procure a reliable %s for a Mercenary.</text>
+	</string>
+	<string id="simulation_task_33_about">
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one for me?</text>
+	</string>
+	<string id="simulation_task_33_fetch_about">
+		<text>Get me a %s. I’ll make it worth your while.</text>
+	</string>
+	<string id="simulation_task_33_fetch_finish">
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Find a Reliable Weapon for Military Simulation Task -->
+
+	<string id="simulation_task_34_name">
+		<text>Find a Reliable %s for Military</text>
+	</string>
+	<string id="simulation_task_34_text">
+		<text>Procure a reliable %s for Military.</text>
+	</string>
+	<string id="simulation_task_34_about">
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one for me?</text>
+	</string>
+	<string id="simulation_task_34_fetch_about">
+		<text>Get me a %s. I’ll make it worth your while.</text>
+	</string>
+	<string id="simulation_task_34_fetch_finish">
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Subcontractor for Bandit Simulation Task -->
+
+	<string id="simulation_task_35_name">
+		<text>Bandit Subcontractor</text>
+	</string>
+	<string id="simulation_task_35_text">
+		<text>You have taken over a contract killing for a Bandit.</text>
+	</string>
+	<string id="simulation_task_35_about">
+		<text>I’ve taken on a few too many jobs. You want to take over one of my contracts for me? I’ll give you most of the bounty on it.</text>
+	</string>
+	<string id="simulation_task_35_finish">
+		<text>Thanks. Here’s the money I owe you.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eliminate Dangerous Mutants for Clear Sky Simulation Task -->
+
+	<string id="simulation_task_36_name">
+		<text>Eliminate Dangerous Mutants for Clear Sky</text>
+	</string>
+	<string id="simulation_task_36_text">
+		<text>Eliminate dangerous mutants in the area for Clear Sky.</text>
+	</string>
+	<string id="simulation_task_36_about">
+		<text>I was just attacked by a pack of mutants. I’ll show you where they are, take them out before they kill somebody.</text>
+	</string>
+	<string id="simulation_task_36_finish">
+		<text>Thank you, please take this as a reward.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Eliminate Dangerous Mutants for Monolith Simulation Task -->
+
+	<string id="simulation_task_37_name">
+		<text>Eliminate Dangerous Mutants for Monolith</text>
+	</string>
+	<string id="simulation_task_37_text">
+		<text>Eliminate dangerous mutants in the area for the Monolith.</text>
+	</string>
+	<string id="simulation_task_37_about">
+		<text>There are dangerous mutants in the area. They have killed one of our brothers. Go eliminate them.</text>
+	</string>
+	<string id="simulation_task_37_finish">
+		<text>You have done well, my brother.</text>
+	</string>
+
+	<!-- Search simple stuff for everyone --> <!-- revision -->
+
+	<string id="simulation_task_38_name">
+		<text>Raid</text>
+	</string>
+	<string id="simulation_task_38_text">
+		<text>You have been tasked to infiltrate an enemy camp.</text>
+	</string>
+	<string id="simulation_task_38_about">
+		<text>Long story short, a certain group has moved recently in on a nearby area. That place should be ours. Got it?</text>
+	</string>
+	<string id="simulation_task_38_finish">
+		<text>Thanks! here’s your reward.</text>
+	</string>
+	
+	<!-- Search simple stuff for everyone --> <!-- revision -->
+	<string id="simulation_task_39_name">
+		<text>Find: %s</text>
+	</string>
+	<string id="simulation_task_39_text">
+		<text>I was asked to find a specific item.</text>
+	</string>
+	<string id="simulation_task_39_about">
+		<text>I need someone to get me specific item, are you up to it?</text>
+	</string>
+	<string id="simulation_task_39_fetch_about">
+		<text>I had an old order, let me see… Yep. %s, can you help me getting it?</text>
+	</string>
+	<string id="simulation_task_39_finish">
+		<text>Thanks man!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+<!-- Fetch for staler -->
+	<string id="simulation_task_48_name">
+		<text>Find %s</text>
+	</string>
+	<string id="simulation_task_48_text">
+		<text>A stalker has asked you to find %s.</text>
+	</string>
+	<string id="simulation_task_48_about">
+		<text>Got time to retrieve a couple of items?</text>
+	</string>
+	<string id="simulation_task_48_fetch_about">
+		<text>I’m gathering a squad for a long-distance campaign, but we’re lacking something. Of course, I could head to a trade, but the prices… Well, you know. All that I need is %s. Can you help?</text>
+	</string>
+	<string id="simulation_task_48_fetch_finish">
+		<text>Thanks, mate!</text>
+	</string>
+
+	<!-- Fetch for duty -->
+	<string id="simulation_task_49_name">
+		<text>Find: %s</text>
+	</string>
+	<string id="simulation_task_49_text">
+		<text>You have been tasked to find %s.</text>
+	</string>
+	<string id="simulation_task_49_about">
+		<text>I have an important request, but everything I say should be kept as a secret and only between us. Are we good?</text>
+	</string>
+	<string id="simulation_task_49_fetch_about"> <!-- revision -->
+		<text>Listen up stalker, The situation here wasn’t that good as of late. “we” are having hard time transporting supplies under the hood. Things were calmer before, but now… some guards seems like keeping an eye on us, I can feel them watching very closely. Rumors began to spread about some of our guys being robbers. Is it Duty? Hell if I know! All what I know that it is time to get out of here and find a safer place. But we need the next shipment to be ready before moving on. We need someone to provide use with %s, will you help?</text>
+	</string>
+	<string id="simulation_task_49_fetch_finish">
+		<text>Ah, I can’t be more thankful. Here, this is your reward.</text>
+	</string>
+
+	<!-- Fetch for ecolog -->
+	<string id="simulation_task_50_name">
+		<text>Find: %s</text>
+	</string>
+	<string id="simulation_task_50_text">
+		<text>I was asked to bring %s for Ecologists.</text>
+	</string>
+	<string id="simulation_task_50_about">
+		<text>I need samples for my research, interested?</text>
+	</string>
+	<string id="simulation_task_50_fetch_about"> <!-- revision -->
+		<text>I have a list of specific samples for study and researching. We need those samples as soon as possible, but the number and strength of our research groups is lacking. Because of that, it is necessary to involve other stalkers around in our research. So, our next sample on the list would be… %s, a few pieces. Can I count on you?
+		</text>
+	</string>
+	<string id="simulation_task_50_fetch_finish">
+		<text>Wonderful! Here’s your payment.</text>
+	</string>
+
+
+	<!-- HOSTAGE INTERACTION    TEXT -->
+
+	<string id="hostage_companion_task_1_start_dialog_1">
+		<text>Wh-Who are you? Are you here to help me, stalker?</text>
+	</string>
+	<string id="hostage_companion_task_1_actor_reply">
+		<text>Yeah, I’m gonna set you free.</text>
+	</string>
+
+	
+	
+	<string id="assault_smart_actor_start">
+		<text>Listen, brother, we should get out of here.</text>
+	</string>
+	<string id="assault_smart_npc_reply">
+		<text>What’s wrong?</text>
+	</string>
+	<string id="assault_smart_actor_reply"> <!-- revision -->
+		<text>This place is claimed by some people, very serious people. If you appreciate your life, then it’s better to leave before they come back.</text>
+	</string>
+	<string id="assault_smart_npc_agree"> <!-- revision -->
+		<text>Damn… I’ll see what I can do. Thanks for the heads-up.</text>
+	</string>
+	<string id="assault_smart_npc_refuse"> <!-- revision -->
+		<text>Is that so? let them come, I will make sure to give them a “warm welcome.”</text>
+	</string>
+	<string id="assault_smart_actor_end">
+		<text>Alright</text>
+	</string>
+	
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	<string id="esc_2_12_nimble_items_get_order_name">
+		<text>Special order: collect the goods</text>
+	</string>
+	<string id="esc_2_12_nimble_items_get_order_text">
+		<text>The goods have been delivered - time to collect them from Nimble.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_name">
+		<text>Special order: wait for delivery</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_text">
+		<text>The order has been made, so now you should wait for Nimble to get the goods.</text>
+	</string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	<string id="hide_from_surge_message">
+		<text>Attention! Emission imminent!</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>Emission imminent, proceed to shelter immediately!</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>You should not leave the shelter during an emission.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>Emission: Find shelter</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>Emission: Stay sheltered</text>
+	</string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_rad_message_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="hide_from_fallout_rad_message">
+		<text>Radioactive fallout begins.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_1_a">
+		<text>The level of radiation is dangerous. You should hide from the radioactive fallout.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_2_a">
+		<text>You shouldn’t leave the shelter during the radioactive fallout.</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_1">
+		<text>Radioactive fallout: Find shelter</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_2">
+		<text>Radioactive fallout: Stay sheltered</text>
+	</string>
+	<string id="end_fallout_rad_message_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="end_fallout_rad_message">
+		<text>Radioactive fallout has ended.</text>
+	</string>
+
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_acid_message_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="hide_from_fallout_acid_message">
+		<text>Chemical fallout begins.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_1_a">
+		<text>The level of contamination is dangerous. You should hide from the chemical fallout.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_2_a">
+		<text>You shouldn’t leave the shelter during the chemical fallout.</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_1">
+		<text>Chemical fallout: Find shelter</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_2">
+		<text>Chemical fallout: Stay sheltered</text>
+	</string>
+	<string id="end_fallout_acid_message_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="end_fallout_acid_message">
+		<text>Chemical fallout has ended.</text>
+	</string>
+
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="hide_from_psi_storm_message">
+		<text>Psi-storm begins.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_1_a">
+		<text>You should hide from the psi-storm.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_2_a">
+		<text>You shouldn’t leave the shelter during the psi-storm.</text>
+	</string>
+	<string id="hide_from_psi_storm_name_1">
+		<text>Psi-storm: Find shelter</text>
+	</string>
+	<string id="hide_from_psi_storm_name_2">
+		<text>Psi-storm: Stay sheltered</text>
+	</string>
+	<string id="end_psi_storm_caption">
+		<text>Attention!</text>
+	</string>
+	<string id="end_psi_storm_message">
+		<text>Psi-storm has ended</text>
+	</string>
+
+
+	<!-- YANTAR MIRACLE MACHINE MESSAGES -->
+	<string id="tips_labx16switcher_press">
+		<text>Turn off the Miracle Machine ($$ACTION_USE$$)</text>
+	</string>
+
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+	<string id="faction_base_defense_name">
+		<text>Defend the base against mutants</text>
+	</string>
+	<string id="faction_base_defense_yantar_name">
+		<text>Defend the scientists’ camp against zombified stalkers</text>
+	</string>
+	<string id="faction_base_defense_text">
+		<text>Mutants are attacking the base, help to defend it.</text>
+	</string>
+	<string id="faction_base_defense_yantar_text">
+		<text>Zombified stalkers are attacking the mobile lab, help to defend it. You can try to use the machine gun on the roof.</text>
+	</string>
+
+
+	<!-- MONSTER HUNTER -->
+
+	<string id="kill_rare_mutant_descr">
+		<text>Hunt down the rare mutant.</text>
+	</string>
+
+	<string id="kill_rare_mutant_finish">
+		<text>Excellent work!</text>
+	</string>
+
+	<string id="kill_rare_boar_title">
+		<text>Boar hunting</text>
+	</string>
+
+	<string id="kill_rare_bloodsucker_title">
+		<text>Hunt down the bloodsucker</text>
+	</string>
+
+	<string id="kill_rare_giant_title">
+		<text>Hunt down the giant</text>
+	</string>
+
+	<string id="kill_rare_chimera_title">
+		<text>Chimera hunting</text>
+	</string>
+
+	<string id="kill_rare_boar_about"> <!-- revision -->
+		<text>Our boys spotted a big wild boar nearby, and nothing better than some cooked boar meat. There is a good reward for those who will hunt it down. If you’re up to it, keep in mind that boars wander around in groups.</text>
+	</string>
+
+	<string id="kill_rare_bloodsucker_about"> <!-- revision -->
+		<text>There is a dangerous mutant that killed many experienced stalkers. Bloodsucker, Two meters hight, black skin, extremely fast and hardy, usually wander around but does not stick in one place for long. We need someone brave enough to take it down, what do you think?</text>
+	</string>
+
+	<string id="kill_rare_giant_about"> <!-- revision -->
+		<text>Recently, scientists have sent some interesting photos. Have you ever seen a pseudo-giant? I bet you’ve never seen anything like this before. Look at this, impressive size right? We were negotiating with the military to take this beast down. If you’re crazy enough to give it a try then go ahead, just bear in mind that to no one will search for your remains.</text>
+	</string>
+
+	<string id="kill_rare_chimera_about"> <!-- revision -->
+		<text>Seems like we got a double trouble. A lot rumors have spread about chimeras over the years, but this is completely out of the box. Long story shot, some people tried to take down an injured chimera. It was weak enough, but the sudden appearance of its “girlfriend” has turned everything upside down. Duty promised a big reward, but what fool will go on hunting two chimeras at once…?
+		</text>
+	</string>
+
+	<string id="bounty_hunt_target">
+		<text>Kill the target.</text>
+	</string>
+
+	<string id="bounty_hunt_return">
+		<text>Return for a reward.</text>
+	</string>
+</string_table>
