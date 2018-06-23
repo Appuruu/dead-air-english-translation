@@ -596,7 +596,7 @@
 		<text>We need some fucking help!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_13">
-		<text>We're in some deep shit here, boys!</text>
+		<text>We’re in some deep shit here, boys!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_14">
 		<text>Hey, hey, hey, we need help!</text>
@@ -2132,69 +2132,69 @@
 		<text>I just saw %s, %s. I heard someone put a bounty on his head.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_2">
-		<text>I heard that someone put a bounty on %s's head</text>
+		<text>I heard that someone put a bounty on %s’s head</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_3">
-		<text>Anyone know what's up with %s lately? He's been hanging around %s. It's almost like he is hiding from someone.</text>
+		<text>Anyone know what’s up with %s lately? He’s been hanging around %s. It’s almost like he is hiding from someone.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_4">
 		<text>I heard Sidorovich is looking for %s. I just saw him %s.</text>
 	</string>
 
 	<!-- Medicine gossip -->
-	<string id="st_dyn_news_gossip_med_1"> <!-- revision -->
-		<text>Oh! %s! Right in time to get your health fixed.</text>
+	<string id="st_dyn_news_gossip_med_1">
+		<text>Oh! %s! Right in time to get patched up.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_2">
-		<text>%s, not too bad. It’s hard to find stuff like this laying around.</text>
+		<text>%s. Not too bad. It’s hard to find supplies like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_3">
-		<text>Guys, who buys medical supplies for best prices around? I got %s and I haven't got much use for it.</text>
+		<text>Who’s buying medical supplies for the best available prices? I’ve got %s, and I don’t have much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_4">
-		<text>Goddammit... %s! I got this the other day for triple the price from some asshole.</text>
+		<text>Goddammit… %s! I got this for triple the price from some trader the other day.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>%s, finally! Time to heal up.</text>
+		<text>%s! Finally! Time to heal up.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
-		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
+		<text>Found %s. Should I sell it? Or just take it for myself…?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_7">
-		<text>Hey! Who got bad injuries? Will %s be of any help?</text>
+		<text>Hey! Didn’t one of you almost kick the bucket a second ago? Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_8">
-		<text>Let's see what we got here... %s, nice! That will help. </text>
+		<text>Let’s see what we got here… %s! Nice! That’ll be of use. </text>
 	</string>
 
-	<string id="st_dyn_news_gossip_food_1"> <!-- revision -->
-		<text>%s, not too bad. It’s hard to find food like this laying around.</text>
+	<string id="st_dyn_news_gossip_food_1">
+		<text>%s. Not too bad. It’s hard to find food like this laying around.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_2">
-		<text>Who buys food for best prices around? I got %s and I haven't got much use for it.</text>
+		<text>Who’s buying rations for the best available prices? I’ve got some %s, and I don’t have much use for it.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_3">
-		<text>Goddammit... %s. I got this the other day for triple the price from a trader.</text>
+		<text>Goddammit… %s! I got this for triple the price from some trader the other day.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>%s, finally! Time to eat.</text>
+		<text>%s! Finally! Time to munch.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
-		<text>Oh! found some %s! About damn time.</text>
+		<text>Oh! Found some %s! About damn time.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_6">
-		<text>Found %s. Should i sell it? Or just leave it for myself..? </text>
+		<text>Found %s. Should I sell it? Or just take it for myself…?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_7">
-		<text>Hey! Who was starving to death? Will %s be of any help?</text>
+		<text>Hey! Just found some chub for anyone who needs it! Will %s be of any help?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_8">
-		<text>%s, yeah. I had better days.</text>
+		<text>%s. Yeah. I’ve had better days.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_9">
-		<text>%s, great! My stomach was rumbling...</text>
+		<text>%s! Great! My stomach’s been rumbling…</text>
 	</string>
-	
+
 	<!-- Arte gossip -->
 	<string id="st_dyn_news_gossip_arte_1">
 		<text>My lucky day! I just found a %s.</text>
@@ -2220,7 +2220,7 @@
 		<text>Enemy seen %s. Air assistance needed, over.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_4">
-		<text>Ground to 'Airhog': we need backup ASAP!</text>
+		<text>Ground to “Airhog”: we need backup ASAP!</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_5">
 		<text>Requesting chopper assistance %s. We are under attack by %s.</text>
@@ -2234,16 +2234,16 @@
 
 	<!-- buy gossip -->
 	<string id="st_dyn_news_gossip_buy_1_1">
-		<text>%s has some very shitty deals. I think he ripped me off on a %s.</text>
+		<text>%s is having some very shitty deals. I think he ripped me off on a %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_2">
-		<text>Anyone know when %s will get more %s in stock?</text>
+		<text>Anyone know when %s is getting more %s in stock?</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_3">
-		<text>%s has some good deals on %s, today.</text>
+		<text>%s has some good deals on %s today.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_4">
-		<text>I'll be broke in no time if %s keeps raising his prices.</text>
+		<text>I’ll be broke in no time if %s keeps raising his prices.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_1">
 		<text>%s costs too much… damn.</text>
@@ -2252,18 +2252,18 @@
 		<text>Anyone know where I can buy %s? %s is out of them.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_3">
-		<text>Shit… Good deals on %s, today.</text>
+		<text>Shit… Good deals on %s today.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_4">
-		<text>I just bought %s. Just don't hope some asshole doesn't takes it from my stash…</text>
+		<text>I just bought %s. Just hope some asshole doesn’t grab it from my stash…</text>
 	</string>
 
 	<!-- kill wounded -->
 	<string id="st_dyn_news_gossip_kill_wounded_1">
-		<text>One is still alive. Put them out of their misery!</text>
+		<text>One is still alive. Put him out of his misery!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_2">
-		<text>Quick! Over there, he is still alive.</text>
+		<text>Quick! Over there. He’s still alive.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_3">
 		<text>This one thought he could get away by playing dead.</text>
@@ -2275,7 +2275,7 @@
 		<text>Let sleeping dogs lie.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_6">
-		<text>There is still one left. Let's see if we can extract information.</text>
+		<text>There is still one left. Let’s see if we can extract information.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_7">
 		<text>Put this dog down!</text>
@@ -2284,7 +2284,7 @@
 		<text>Surrender, asshole! We know you are wounded!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_9">
-		<text>He's wounded… Kill him!</text>
+		<text>He’s wounded… Kill him!</text>
 	</string>
 
 	<!-- hostage -->
@@ -2292,27 +2292,27 @@
 		<text>Looks like we got ourselves a hostage, boys.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_2">
-		<text>This punkass thought he could escape. Someone keep an eye on him.</text>
+		<text>This punk-ass thought he could escape. Someone keep an eye on him.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_3">
 		<text>Do you think those stalkers will pay his ransom?</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_4">
-		<text>I don't think your friends are coming for you!</text>
+		<text>I don’t think your friends are coming for you!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_5">
-		<text>Looking for offers on this dickhead. If not we'll kill him!</text>
+		<text>Looking for offers on this dickhead. If not we’ll kill him!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_6">
-		<text>Let's see if we can extract information from this lowlife.</text>
+		<text>Let’s see if we can extract information from this lowlife.</text>
 	</string>
 
 	<!-- Task -->
 	<string id="st_dyn_news_gossip_task_1">
-		<text>Looks like ol' %s is looking for stalkers to do some work.</text>
+		<text>Looks like ol’ %s is looking for stalkers to do some work.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_2">
-		<text>Heads up, %s has some new work available.</text>
+		<text>Heads up: %s has some new work available.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_3">
 		<text>Any need some work? I just heard %s is looking for stalkers for a job.</text>
@@ -2323,16 +2323,16 @@
 
 	<!-- Sentence Builders -->
 	<string id="st_dyn_news_builder_attacked_1">
-		<text>We're under fire from</text>
+		<text>We’re under fire from</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_2">
-		<text>We're taking fire from</text>
+		<text>We’re taking fire from</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_3">
-		<text>We're under attack by</text>
+		<text>We’re under attack by</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_4">
-		<text>We're getting shot at by</text>
+		<text>We’re getting shot at by</text>
 	</string>
 
 	<string id="st_dyn_news_builder_hear_1">
@@ -2357,10 +2357,10 @@
 		<text>I can hear</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_8">
-		<text>I'm hearing</text>
+		<text>I’m hearing</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_9">
-		<text>Guys, I'm hearing</text>
+		<text>Guys, I’m hearing</text>
 	</string>
 
 	<string id="st_dyn_news_builder_monster_far_1">
@@ -2373,7 +2373,7 @@
 		<text>Local drunkards rave that monolith themselves delivered</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_4">
-		<text>They're offering me a job here to go on a raid on</text>
+		<text>They’re offering me a job here to go on a raid on</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_5">
 		<text>Guys tell stories about seeing</text>
@@ -2426,10 +2426,10 @@
 		<text>I can see</text>
 	</string>
 	<string id="st_dyn_news_builder_sight_8">
-		<text>I'm seeing</text>
+		<text>I’m seeing</text>
 	</string>
 	<string id="st_dyn_news_builder_sight_9">
-		<text>Guys, I'm watching</text>
+		<text>Guys, I’m watching</text>
 	</string>
 
 	<string id="st_dyn_news_builder_middle_1">
@@ -2458,13 +2458,13 @@
 		<text>Watch your fire.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_3">
-		<text>Wonder what's up.</text>
+		<text>Wonder what’s up.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_4">
 		<text>Sounds rough.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_5">
-		<text>Anyone see what's happening?</text>
+		<text>Anyone see what’s happening?</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_6">
 		<text>Anyone nearby?</text>
@@ -2485,7 +2485,7 @@
 		<text>Be careful.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_12">
-		<text>I'd stay away if I were you.</text>
+		<text>I’d stay away if I were you.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_13">
 		<text>Anybody wanna check it out?</text>

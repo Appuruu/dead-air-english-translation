@@ -394,7 +394,7 @@
 		<text>Pistol toolkit</text>
 	</string>
 	<string id="st_toolkit_p_descr">
-		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[255,238,153,26] • %c[0,140,140,140] suitable for 5.7 ìì, 7.85ìì, 9 ìì, .45 and .357 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for pistols, but it can be combined with other materials or additional kits.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[0,153,255,255] • %c[0,140,140,140] valuable\n%c[255,238,153,26]• %c[0,140,140,140] intended for %c[0,170,170,170]maintaining %c[0,140,140,140]weapons\n%c[255,238,153,26] • %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]50%\n%c[255,238,153,26] • %c[0,140,140,140] base condition gain: %c[0,170,170,170]15%\n</text>
+		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[255,238,153,26] • %c[0,140,140,140] suitable for 5.7 ìì, 7.85ìì, 9 ìì, .45 and .357 weapon calibers\n \n%c[0,170,170,170]This kit contains tools for the disassembly and reassembly of weaponry. Ideal for eliminating basic faults but it cant do much for completely destroyed parts. This kit can only be used for pistols, but it can be combined with other materials or additional kits.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[0,153,255,255] • %c[0,140,140,140] valuable\n%c[255,238,153,26] • %c[0,140,140,140] intended for %c[0,170,170,170]maintaining %c[0,140,140,140]weapons\n%c[255,238,153,26] • %c[0,140,140,140] not usable below condition level: %c[0,170,170,170]50%\n%c[255,238,153,26] • %c[0,140,140,140] base condition gain: %c[0,170,170,170]15%\n</text>
 	</string>
 	<string id="st_toolkit_p_empty">
 		<text>Pistol tool set (empty)</text>
@@ -597,13 +597,13 @@
 		<text>“Moonshine” bottle</text>
 	</string>
 	<string id="st_bottle_metal_descr">
-		<text>Metal bottle containing a portion of what seems to be Zone-produced vodka. It doesn’t smell right and the fumes are strong.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] stimulant\n%c[0,204,0,51] • %c[0,140,140,140] strong, low quality alcohol\n%c[255,238,153,26]• %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
+		<text>Metal bottle containing a portion of what seems to be Zone-produced vodka. It doesn’t smell right, and the fumes are strong.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] stimulant\n%c[0,204,0,51] • %c[0,140,140,140] strong, low quality alcohol\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
 	</string>
 	<string id="st_geiger">
 		<text>Dosimeter</text>
 	</string>
 	<string id="st_geiger_descr">
-		<text>A radiation dosimeter is a device that measures exposure to ionizing radiation. It detects the emission of alpha particles, beta particles and gamma particles. Dosimeters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item \n%c[255,238,153,26] • %c[0,140,140,140] measures the level of radioactive contamination\n%c[0,153,255,255]• %c[0,140,140,140] low UPD consumption</text>
+		<text>A radiation dosimeter is a device that measures exposure to ionizing radiation. It detects the emission of alpha particles, beta particles and gamma particles. Dosimeters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item \n%c[255,238,153,26] • %c[0,140,140,140] measures the level of radioactive contamination\n%c[0,153,255,255] • %c[0,140,140,140] low UPD consumption</text>
 	</string>
 	<string id="st_welding_goggles">
 		<text>Welding goggles</text>
@@ -750,7 +750,7 @@
 		<text>“Stolichnaya” vodka</text>
 	</string>
 	<string id="st_vodka_quality_descr">
-		<text>A favorite amongst Russians and many people the world over. A Russian vodka of high quality. Highly popular in the Zone and widely available most probably owing to an outside connection of one of the traders. In order to avoid detection by the military units stationing around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] drink\n%c[0,153,255,255] • %c[0,140,140,140] stimulant\n%c[0,204,0,51]• %c[0,140,140,140] strong alcohol\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+4%)</text>
+		<text>A favorite amongst Russians and many people the world over. A Russian vodka of high quality. Highly popular in the Zone and widely available most probably owing to an outside connection of one of the traders. In order to avoid detection by the military units stationing around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] drink\n%c[0,153,255,255] • %c[0,140,140,140] stimulant\n%c[0,204,0,51] • %c[0,140,140,140] strong alcohol\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+4%)</text>
 	</string>
 	<string id="st_ammo_bad">
 		<text>Damaged ammo</text>
