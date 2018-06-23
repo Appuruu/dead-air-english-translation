@@ -35,7 +35,7 @@
 		<text>Receive your next task.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_about">
-		<text>I want you to meet with someone. He will have a job for you. Do it and don't ask any questions. Got it?</text>
+		<text>I want you to meet with someone. He will have a job for you. Do it and don’t ask any questions. Got it?</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_default_task_finish">
 		<text>Good luck stalker.</text>
@@ -51,17 +51,17 @@
 		<text>Sultan needs the contents of a lock box returned to him.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_about">
-		<text>I need you to retrieve a case for me. It's hidden in a stash. Whatever else is in that stash is yours, but the case is mine. Deal? I will give you the rest of your reward when you have brought it back to me.</text>
+		<text>I need you to retrieve a case for me. It’s hidden in a stash. Whatever else is in that stash is yours, but the case is mine. Deal? I will give you the rest of your reward when you have brought it back to me.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_1_finish">
 		<text>Excellent! You have done well.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Sultan (Bandit Honcho) Sultan's Enemy Storyline Task -->
+	<!-- Sultan (Bandit Honcho) Sultan’s Enemy Storyline Task -->
 
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_name">
-		<text>Sultan's Enemy</text>
+		<text>Sultan’s Enemy</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_2_text">
 		<text>Sultan wants revenge on a stalker who cheated him.</text>
@@ -83,7 +83,7 @@
 		<text>A fellow bandit has betrayed us. Sultan wants him eliminated.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_about">
-		<text>There is a traitor in our midst. One of our own has betrayed us, but he doesn't yet know that I know. He'll be easy to get; just walk up to him, point your pistol at his face and pull the trigger. Just watch out for how his buddies react, you'll probably have to kill them too. Talk to me again when he sleeps with the worms.</text>
+		<text>There is a traitor in our midst. One of our own has betrayed us, but he doesn’t yet know that I know. He’ll be easy to get; just walk up to him, point your pistol at his face and pull the trigger. Just watch out for how his buddies react, you’ll probably have to kill them too. Talk to me again when he sleeps with the worms.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_3_finish">
 		<text>Good, you got rid of that asshole! Here is what I promised.</text>
@@ -99,7 +99,7 @@
 		<text>Sultan has a buyer for some documents located inside Lab X-16 in Yantar.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_about">
-		<text>I have a customer who is willing to pay well for some documents located inside that creepy lab over in Yantar. None of these pussies want to go in there because they think it is haunted. If you can get me those documents I'll give you half of what he is paying me. What do you say? Or are you afraid of ghosts too?</text>
+		<text>I have a customer who is willing to pay well for some documents located inside that creepy lab over in Yantar. None of these pussies want to go in there because they think it is haunted. If you can get me those documents I’ll give you half of what he is paying me. What do you say? Or are you afraid of ghosts too?</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_task_4_finish">
 		<text>Well done. Here is your cut.</text>
@@ -134,10 +134,10 @@
 		<text>You know my contact in the Military? The one who used to look the other way when I brought weapons through the checkpoint? Can you believe that son of a bitch wants to start charging me a percentage? Fuck him. I want you to get my next shipment and sneak it past him.</text>
 	</string>
 	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_about">
-		<text>Go pick up %s. Get them past that little shit and I'll make it worth your while.</text>
+		<text>Go pick up %s. Get them past that little shit and I’ll make it worth your while.</text>
 	</string>
 	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_1_fetch_finish">
-		<text>Yes, you have done well. Here's your cut.</text>
+		<text>Yes, you have done well. Here’s your cut.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -150,7 +150,7 @@
 		<text>Olivius was double-crossed by a member of the Military and needs him to be taken care of.</text>
 	</string>
 	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
-		<text>You know our friend in the Military? The one who used to let us run weapons past the checkpoint if we slipped him a carton of cigarettes? That little shit now says he wants me to start paying a percentage every time or else he's going to turn us in. Who the hell does he think he's dealing with? I want him dead, you hear me? Dead! Bring me his head!</text>
+		<text>You know our friend in the Military? The one who used to let us run weapons past the checkpoint if we slipped him a carton of cigarettes? That little shit now says he wants me to start paying a percentage every time or else he’s going to turn us in. Who the hell does he think he’s dealing with? I want him dead, you hear me? Dead! Bring me his head!</text>
 	</string>
 	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
 		<text>Good. Fuck that guy.</text>
@@ -179,10 +179,10 @@
 		<text>Sultan will let you join the Bandits but first you must pay him a 5,000 RU tribute.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_about">
-		<text>You want to be a Bandit? Well, first you must pay tribute to Sultan... 5,000 RU. I don't trust you so I want it up front.</text>
+		<text>You want to be a Bandit? Well, first you must pay tribute to Sultan… 5,000 RU. I don’t trust you so I want it up front.</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_cf_task_1_finish">
-		<text>Very good. Grab a vodka and go meet your fellow Bandits. They're the finest scumbags in the Zone.</text>
+		<text>Very good. Grab a vodka and go meet your fellow Bandits. They’re the finest scumbags in the Zone.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -211,7 +211,7 @@
 		<text>There are many people in the Zone who have rubbed me the wrong way or shown me disrespect. Some of these pricks either owe me money or fucked up some deal. These people are nothing but rats that need stomped out. If you are up for the task, I will give you their information so that you can track them through GPS.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
-		<text>Great work! Here's a little something for your trouble:</text>
+		<text>Great work! Here’s a little something for your trouble:</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -257,10 +257,10 @@
 		<text>Mutants have been spotted near this location making the area dangerous. You have been tasked to eliminate the mutant threat within the area. Report back to Olivius after the job is done.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
-		<text>We've been looking for someone with enough balls to clear out mutants in a few places. Stalkers aren't coming around here because they are too afraid. If we don't do something about it we won't have anyone left to 'borrow' any goods from, then we will have to move out of this territory.</text>
+		<text>We’ve been looking for someone with enough balls to clear out mutants in a few places. Stalkers aren’t coming around here because they are too afraid. If we don’t do something about it we won’t have anyone left to “borrow” any goods from, then we will have to move out of this territory.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
-		<text>Fantastic! Here is your payment. I'll make sure to put a good word in for you with the boss.</text>
+		<text>Fantastic! Here is your payment. I’ll make sure to put a good word in for you with the boss.</text>
 	</string>
 
 	
@@ -275,7 +275,7 @@
 		<text>Bitches are moving into our territory. The boss gave me orders to recruit a low life with enough balls to reclaim some of these camps. What do you say? Do you have enough hair on your chest?</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
-		<text>Fantastic! Here is your payment. I'll make sure to put a good word in for you with the boss.</text>
+		<text>Fantastic! Here is your payment. I’ll make sure to put a good word in for you with the boss.</text>
 	</string>
 
 	
@@ -317,7 +317,7 @@
 		<text>%s are required by Limpid to install basic equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
-		<text>I'm in desperate need of new tools, man.  I can't do anything with the rusty shit I have and I'm running out of gun oil. If you are interested in helping me out, I will tell you what I need.</text>
+		<text>I’m in desperate need of new tools, man.  I can’t do anything with the rusty shit I have and I’m running out of gun oil. If you are interested in helping me out, I will tell you what I need.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
 		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
@@ -335,10 +335,10 @@
 		<text>%s are required by Limpid to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
-		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>The toolkit you brought me is great, but it doesn’t have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
-		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+		<text>I need an %s. I’m not sure where you can get one of these, but if you can find one, I need it.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
 		<text>You followed through again! Good deal, man, here is some money.</text>
@@ -353,10 +353,10 @@
 		<text>%s are required by Limpid to install expert equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
-		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>The toolkit you brought me is great, but it doesn’t have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
-		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+		<text>I need an %s. I’m not sure where you can get one of these, but if you can find one, I need it.</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
 		<text>You followed through again! Good deal, man, here is some money.</text>

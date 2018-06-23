@@ -31,7 +31,7 @@
 	</string>
 
 	<string id="ds2_gonta_quest_text1A">
-		<text>Try and have some fun here... We've been here for a long time, helped other in peace, helped newcomers to the Zone to survive.. all was fine until the bandits came around. I think its time to finally rid ourselves of this mess. But.. there is only three of us and I am very worried, we cannot do this on our own. Will you be willing to join us? We need to act quickly before they gather more people.</text>
+		<text>Try and have some fun here… We’ve been here for a long time, helped other in peace, helped newcomers to the Zone to survive.. all was fine until the bandits came around. I think its time to finally rid ourselves of this mess. But.. there is only three of us and I am very worried, we cannot do this on our own. Will you be willing to join us? We need to act quickly before they gather more people.</text>
 	</string>
 
 	<string id="ds2_gonta_quest_text1B">
@@ -39,15 +39,15 @@
 	</string>
 
 	<string id="ds2_gonta_quest_actor1A">
-		<text>Yes, no matter what, I'm with you!</text>
+		<text>Yes, no matter what, I’m with you!</text>
 	</string>
 
 	<string id="ds2_gonta_quest_actor1B">
-		<text>No, I can't now.</text>
+		<text>No, I can’t now.</text>
 	</string>
 
 	<string id="ds2_gonta_quest_text2A">
-		<text>Here's our man! Excellent! Now, let us prepare slowly - rest, check our equipment. We shall strike when it's dark, it would be best by midnight. We'll give them a taste of their own medicine..</text>
+		<text>Here’s our man! Excellent! Now, let us prepare slowly - rest, check our equipment. We shall strike when it’s dark, it would be best by midnight. We’ll give them a taste of their own medicine..</text>
 	</string>
 
 	<string id="ds2_gonta_quest_text2B">
@@ -77,11 +77,11 @@
 	<!-- PART 3A: Grand Finale -->
 
 	<string id="ds2_gonta_quest_complete1">
-		<text>This is great! I've just gotten information that there's no more bandits in the camp! How many of them were there? A dozen.. more? And they all fell? For such a miracle, take this gift from me, its not every day that something like this happens in the Zone!</text>
+		<text>This is great! I’ve just gotten information that there’s no more bandits in the camp! How many of them were there? A dozen.. more? And they all fell? For such a miracle, take this gift from me, its not every day that something like this happens in the Zone!</text>
 	</string>
 
 	<string id="ds2_gonta_quest_complete2">
-		<text>Thank you for your support, next time they'll think before crossing us. Here, for your soul.</text>
+		<text>Thank you for your support, next time they’ll think before crossing us. Here, for your soul.</text>
 	</string>
 
 	<string id="ds2_gonta_quest_complete3">
@@ -89,11 +89,11 @@
 	</string>
 
 	<string id="ds2_gonta_quest_complete4">
-		<text>You ran off and snitched, huh? Do you think we wouldn't notice how the bandits behaved after your arrival? You're a rat! </text>
+		<text>You ran off and snitched, huh? Do you think we wouldn’t notice how the bandits behaved after your arrival? You’re a rat! </text>
 	</string>
 
 	<string id="ds2_gonta_quest_actor4Ñ">
-		<text>So did I...</text>
+		<text>So did I…</text>
 	</string>
 
 	<string id="ds2_antigonta_quest_task_name">
@@ -108,7 +108,7 @@
 	</string>
 
 	<string id="ds2_antigonta_quest_task_complete">
-		<text>You're a serial killer! All I can say is well done. If you need to lay down or relax you can head down to our base not far from here, I'll tell our boys not to touch you.</text>
+		<text>You’re a serial killer! All I can say is well done. If you need to lay down or relax you can head down to our base not far from here, I’ll tell our boys not to touch you.</text>
 	</string>
 
 	<string id="ds2_antigonta_quest_actor0">
@@ -128,7 +128,7 @@
 	</string>
 
 	<string id="ds2_antigonta_quest_quest0111">
-		<text>Here's the fucking bitch! I talked to them, no need to wait - just kick them over. And here, for you.</text>
+		<text>Here’s the fucking bitch! I talked to them, no need to wait - just kick them over. And here, for you.</text>
 	</string>
 
 	<string id="ds2_antigonta_quest_quest0121">
@@ -144,6 +144,6 @@
 	</string>
 
 	<string id="ds2_antigonta_quest_quest011111">
-		<text>Oh so we have a saboteur? That's just it, a light on the crossing, and get there quickly and we'll talk.</text>
+		<text>Oh so we have a saboteur? That’s just it, a light on the crossing, and get there quickly and we’ll talk.</text>
 	</string>
 </string_table>

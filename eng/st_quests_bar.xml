@@ -37,7 +37,7 @@
 		<text>Lead a Duty raid against an enemy camp.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_about">
-		<text>We're preparing a raid on an enemy camp. I need you to lead the assault.</text>
+		<text>We’re preparing a raid on an enemy camp. I need you to lead the assault.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_finish">
 		<text>Excellent work. You are a fine warrior.</text>
@@ -63,10 +63,10 @@
 	<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
-		<text>Petrenko's Most Wanted</text>
+		<text>Petrenko’s Most Wanted</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_text">
-		<text>A certain faction member has risen to the top of General Petrenko's most wanted list and he wants him executed.</text>
+		<text>A certain faction member has risen to the top of General Petrenko’s most wanted list and he wants him executed.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_about">
 		<text>There is a member of a certain faction who has caused me more trouble than anyone else in the Zone. So far none of my men have been able to get to him. If you can kill him, I will reward you well.</text>
@@ -120,7 +120,7 @@
 		<text>I need some help, bro. A Dutier brought me in his rifle for repairs but I messed it up pretty bad. I need to find a replacement for him before he comes to pick it up.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>If you come across a %s, bring it to me. I don't have much money but I have something I can trade you for it.</text>
+		<text>If you come across a %s, bring it to me. I don’t have much money but I have something I can trade you for it.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
 		<text>Hey, great! You found one. Thanks bro, you saved my ass.</text>
@@ -136,10 +136,10 @@
 		<text>Mangun needs the road out of the Bar cleared of mutants.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
-		<text>Hey bro, can you do something for me? I gotta go somewhere but I heard there are mutants on the road leading out of the Bar. I'm no good at shooting, may aim is all shaky for some reason. Could you clear them out for me? I have a rifle that a customer never picked up that I can give you.</text>
+		<text>Hey bro, can you do something for me? I gotta go somewhere but I heard there are mutants on the road leading out of the Bar. I’m no good at shooting, may aim is all shaky for some reason. Could you clear them out for me? I have a rifle that a customer never picked up that I can give you.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_finish">
-		<text>Thanks bro. Here's the rifle I promised you. Hope you have better luck than its previous owner... poor guy. Good thing he paid me in advance, hehe.</text>
+		<text>Thanks bro. Here’s the rifle I promised you. Hope you have better luck than its previous owner… poor guy. Good thing he paid me in advance, hehe.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -153,7 +153,7 @@
 		<text>General Petrenko will let you join Duty for a fee of 12,000 RU.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_about">
-		<text>We would be more than happy to have you join Duty. There is an initiation fee, of course. If you can bring me 12,000 RU I'll get you in.</text>
+		<text>We would be more than happy to have you join Duty. There is an initiation fee, of course. If you can bring me 12,000 RU I’ll get you in.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
 		<text>Welcome to Duty, stalker. Do us proud.</text>
@@ -168,10 +168,10 @@
 		<text>You own a permit, which guarantees you 5 days of neutrality with the Military.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_about">
-		<text>You decided to visit Military? If you have 25 000 RU in your pocket, I can issue you the permit right now. I'll send a digital certificate to your PDA, and I will let them know about you through their channels. Permission will be valid for 5 days and it won't be prolonged. After that, you'll have to buy another permit.</text>
+		<text>You decided to visit Military? If you have 25 000 RU in your pocket, I can issue you the permit right now. I’ll send a digital certificate to your PDA, and I will let them know about you through their channels. Permission will be valid for 5 days and it won’t be prolonged. After that, you’ll have to buy another permit.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_finish">
-		<text>The period of permit's validity has expired.</text>
+		<text>The period of permit’s validity has expired.</text>
 	</string>
 
 	<!-- Informator killer permission task -->
@@ -183,10 +183,10 @@
 		<text>You own a permit, which guarantees you 7 days of neutrality with the Mercenaries.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_about">
-		<text>Pay me 50000 RU, and I'll get you the permit right now.</text>
+		<text>Pay me 50000 RU, and I’ll get you the permit right now.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_finish">
-		<text>The period of permit's validity has expired.</text>
+		<text>The period of permit’s validity has expired.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -202,7 +202,7 @@
 		<text>I have some problems with the supply of fresh meat. Interested?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
-		<text>Duty's recent mutant hunting was very unsuccessful. Fortunately, no one died, but I did get any meat. I still have to feed people with something. So, if you want to earn some money, get me a %s. I'll be very grateful, and I'll let Duty know about that.</text>
+		<text>Duty’s recent mutant hunting was very unsuccessful. Fortunately, no one died, but I did get any meat. I still have to feed people with something. So, if you want to earn some money, get me a %s. I’ll be very grateful, and I’ll let Duty know about that.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_finish">
 		<text>Well done, stalker!</text>
@@ -264,14 +264,14 @@
 		<text>General Petrenko has ordered you to find and eliminate a target.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
-		<text>I have a list of VIPs that need...taken care of. Some are informants, high-ranking Freedom members, squad leaders, tacticians or just plain scum. Extract information if you can, otherwise kill-on-sight.</text>
+		<text>I have a list of VIPs that need…taken care of. Some are informants, high-ranking Freedom members, squad leaders, tacticians or just plain scum. Extract information if you can, otherwise kill-on-sight.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
 		<text>Great! You do us proud. Here is what I promised.</text>
 	</string>
 	
 	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
-		<text>Destroy the mutant's lair</text>
+		<text>Destroy the mutant’s lair</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
 		<text>Colonel Petrenko ordered me to clean the area.</text>
@@ -280,7 +280,7 @@
 		<text>Some mutants have made themselves a new lair not so far away from here. Stalkers walk through that area all the time. We can not let any pseudo-dog bite any newcomer. Your task will be to clean the area and secure the way to the Bar.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_finish">
-		<text>Well done! Here's your reward.</text>
+		<text>Well done! Here’s your reward.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_5_name">
@@ -290,10 +290,10 @@
 		<text>I got an order to save the missing Stalker.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_5_about">
-		<text>A few days ago, a local Stalker disappeared. The men say he just went hunting and never came back. I can't organize a full-scale rescue operation for one person, but this case can't be left alone.</text>
+		<text>A few days ago, a local Stalker disappeared. The men say he just went hunting and never came back. I can’t organize a full-scale rescue operation for one person, but this case can’t be left alone.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_5_finish">
-		<text>Good job! You're a hero! Here's your reward.</text>
+		<text>Good job! You’re a hero! Here’s your reward.</text>
 	</string>
 
 	<!-- bar_visitors_stalker_mechanic -->
@@ -304,13 +304,13 @@
 		<text>%s are required by Mangun to install basic equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_about">
-		<text>I can really use a good set of tools, stalker...and maybe some money. If you are interested in helping me out, I will tell you what I am looking for.</text>
+		<text>I can really use a good set of tools, stalker…and maybe some money. If you are interested in helping me out, I will tell you what I am looking for.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
 		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
-		<text>Cool dude...uh, sorry I can't pay you. I'll give you a good discount though, man!</text>
+		<text>Cool dude…uh, sorry I can’t pay you. I’ll give you a good discount though, man!</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_name">
 		<text>Find %s for Mangun</text>
@@ -325,7 +325,7 @@
 		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
-		<text>Great...GREAT! Now maybe I can make some damn money. I'm gonna be BIG time, stalker...if I can just get my act together. I don't have much to offer you other then a discount. Sorry, bud.</text>
+		<text>Great…GREAT! Now maybe I can make some damn money. I’m gonna be BIG time, stalker…if I can just get my act together. I don’t have much to offer you other then a discount. Sorry, bud.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_name">
 		<text>Find %s for Mangun</text>
@@ -340,6 +340,6 @@
 		<text>I need a set of expert tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
-		<text>Great...GREAT! Now maybe I can make some damn money. I'm gonna be BIG time, stalker...if I can just get my act together. I don't have much to offer you other then a discount. Sorry, bud.</text>
+		<text>Great…GREAT! Now maybe I can make some damn money. I’m gonna be BIG time, stalker…if I can just get my act together. I don’t have much to offer you other then a discount. Sorry, bud.</text>
 	</string>
 </string_table>

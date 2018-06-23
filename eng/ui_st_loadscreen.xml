@@ -34,7 +34,7 @@
 	</string>
 	
 	<string id="ls_tip_5">
-		<text>Helicopter gunships can be seen patrolling many of the Zone's locations. When engaged in combat members of the helicopter's faction may often call on it for air support to help destroy attacking or defending forces.</text>
+		<text>Helicopter gunships can be seen patrolling many of the Zone’s locations. When engaged in combat members of the helicopter’s faction may often call on it for air support to help destroy attacking or defending forces.</text>
 	</string>
 	
 	<string id="ls_tip_6">
@@ -50,7 +50,7 @@
 	</string>
 	
 	<string id="ls_tip_9">
-		<text>Sleeping bags are a great way to rest in the Zone if you are unable to find a decent bed to sleep in. They can be purchased from most major traders or potentially found in another stalker's stash.</text>
+		<text>Sleeping bags are a great way to rest in the Zone if you are unable to find a decent bed to sleep in. They can be purchased from most major traders or potentially found in another stalker’s stash.</text>
 	</string>
 	
 	<string id="ls_tip_10">
@@ -58,7 +58,7 @@
 	</string>
 	
 	<string id="ls_tip_11">
-		<text>Artefact types are indicative of the anomalies they are found in. Want one that boosts your burn resistance? Search for a 'Burner' or 'Comet' anomaly and go hunting with your detector.</text>
+		<text>Artefact types are indicative of the anomalies they are found in. Want one that boosts your burn resistance? Search for a “Burner” or “Comet” anomaly and go hunting with your detector.</text>
 	</string>
 	
 	<string id="ls_tip_12">
@@ -66,7 +66,7 @@
 	</string>
 	
 	<string id="ls_tip_13">
-		<text>As you achieve more in-game your rank will increase, the available ranks are as follows: 'Rookie', 'Trainee', 'Experienced', 'Professional', 'Veteran', 'Expert', 'Master' and 'Legend'.</text>
+		<text>As you achieve more in-game your rank will increase, the available ranks are as follows: “Rookie,” “Trainee,” “Experienced,” “Professional,” “Veteran,” “Expert,” “Master” and “Legend.”</text>
 	</string>
 	
 	<string id="ls_tip_14">
@@ -78,7 +78,7 @@
 	</string>
 	
 	<string id="ls_tip_16">
-		<text>Reputation is dynamic and can frequently change, the available reputations are as follows: 'Terrible', 'Dreary', 'Awful', 'Bad', 'Neutral', 'Good', 'Great', 'Brilliant' and 'Excellent'.</text>
+		<text>Reputation is dynamic and can frequently change, the available reputations are as follows: “Terrible,” “Dreary,” “Awful,” “Bad,” “Neutral,” “Good,” “Great,” “Brilliant” and “Excellent.”</text>
 	</string>
 	
 	<string id="ls_tip_17">
@@ -86,11 +86,11 @@
 	</string>
 	
 	<string id="ls_tip_18">
-		<text>Remember to ask regular stalkers if they have any jobs available. Just because they aren't anybody important doesn't mean they won't be willing to pay you to do their dirty work.</text>
+		<text>Remember to ask regular stalkers if they have any jobs available. Just because they aren’t anybody important doesn’t mean they won’t be willing to pay you to do their dirty work.</text>
 	</string>
 	
 	<string id="ls_tip_19">
-		<text>Rostok's arena hosts two types of competitions: the traditional fights where stalkers battle each other for cash rewards, or challenges where they attempt to kill increasingly harder mutants.</text>
+		<text>Rostok’s arena hosts two types of competitions: the traditional fights where stalkers battle each other for cash rewards, or challenges where they attempt to kill increasingly harder mutants.</text>
 	</string>
 	
 	<string id="ls_tip_20">
@@ -98,7 +98,7 @@
 	</string>
 	
 	<string id="ls_tip_21">
-		<text>Cold, Spore and the rest of Clear Sky's major characters can be asked about their story. This will help you piece together how the faction survived after the events of S.T.A.L.K.E.R.: Clear Sky.</text>
+		<text>Cold, Spore and the rest of Clear Sky’s major characters can be asked about their story. This will help you piece together how the faction survived after the events of S.T.A.L.K.E.R.: Clear Sky.</text>
 	</string>
 	
 	<string id="ls_tip_22">
@@ -106,7 +106,7 @@
 	</string>
 	
 	<string id="ls_tip_23">
-		<text>The 'Completionist' achievement is received for unlocking all other available achievements. How many achievements are available to you depends on your faction and whether or not story mode is enabled.</text>
+		<text>The “Completionist” achievement is received for unlocking all other available achievements. How many achievements are available to you depends on your faction and whether or not story mode is enabled.</text>
 	</string>
 	
 	<string id="ls_tip_24">
@@ -114,7 +114,7 @@
 	</string>
 
 	<string id="ls_tip_25">
-		<text>We should ban selling imported goods. There's no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker.</text>
+		<text>We should ban selling imported goods. There’s no one to check their quality, so they must suck. Eat only Zone-produced food if you want to be a true Stalker.</text>
 	</string>
 
 	<string id="ls_tip_26">
@@ -126,7 +126,7 @@
 	</string>
 
 	<string id="ls_tip_28">
-		<text>Move with no hesitation or you'll lose your focus.</text>
+		<text>Move with no hesitation or you’ll lose your focus.</text>
 	</string>
 
 	<string id="ls_tip_29">
@@ -138,19 +138,19 @@
 	</string>
 
 	<string id="ls_tip_31">
-		<text>Guide's textbook: "The night is a beast in itself. If you have to leave shelter after dark, make sure you always have the stars (and the moon) to guide you."</text>
+		<text>Guide’s textbook: "The night is a beast in itself. If you have to leave shelter after dark, make sure you always have the stars (and the moon) to guide you."</text>
 	</string>
 
 	<string id="ls_tip_32">
-		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you'll need it. And maybe not, but take it nonetheless, ammo's also a good source of income.</text>
+		<text>Take every single bullet regardless of the type and stash it, maybe tomorrow you’ll need it. And maybe not, but take it nonetheless, ammo’s also a good source of income.</text>
 	</string>
 
 	<string id="ls_tip_33">
-		<text>Don't ignore a weapon just because you haven't been specially trained with it. Ammo is scarce, and even the greatest sniper will need to make a hasty escape once in a while.</text>
+		<text>Don’t ignore a weapon just because you haven’t been specially trained with it. Ammo is scarce, and even the greatest sniper will need to make a hasty escape once in a while.</text>
 	</string>
 
 	<string id="ls_tip_34">
-		<text>You'll never hit your target if you're scared.</text>
+		<text>You’ll never hit your target if you’re scared.</text>
 	</string>
 
 	<string id="ls_tip_35">
@@ -158,7 +158,7 @@
 	</string>
 
 	<string id="ls_tip_36">
-		<text>Don't throw this pistol out. Keep it and some ammunition as backup. You never know when you'll need it.</text>
+		<text>Don’t throw this pistol out. Keep it and some ammunition as backup. You never know when you’ll need it.</text>
 	</string>
 
 	<string id="ls_tip_37">
@@ -166,7 +166,7 @@
 	</string>
 
 	<string id="ls_tip_38">
-		<text>Always keep an eye on the sky. Birds and clouds are one hell of a sight, but if you see a flare, don't think, just run.</text>
+		<text>Always keep an eye on the sky. Birds and clouds are one hell of a sight, but if you see a flare, don’t think, just run.</text>
 	</string>
 
 	<string id="ls_tip_39">
@@ -174,7 +174,7 @@
 	</string>
 
 	<string id="ls_tip_40">
-		<text> If you're being shot at, remain calm, count their rounds and pounce when they reload.</text>
+		<text> If you’re being shot at, remain calm, count their rounds and pounce when they reload.</text>
 	</string>
 
 	<string id="ls_tip_41">
@@ -198,7 +198,7 @@
 	</string>
 
 	<string id="ls_tip_46">
-		<text>If you confront a controller, try to get an object to block your line of sight (tree, rock, wall). If it doesn't see you, it can't control you. And don't listen to this Flint idiot.</text>
+		<text>If you confront a controller, try to get an object to block your line of sight (tree, rock, wall). If it doesn’t see you, it can’t control you. And don’t listen to this Flint idiot.</text>
 	</string>
 
 	<string id="ls_tip_47">
@@ -206,7 +206,7 @@
 	</string>
 
 	<string id="ls_tip_48">
-		<text>Stimpacks are quite useful. They'll heal you much faster than medkits.</text>
+		<text>Stimpacks are quite useful. They’ll heal you much faster than medkits.</text>
 	</string>
 
 	<string id="ls_tip_49">
@@ -214,19 +214,19 @@
 	</string>
 
 	<string id="ls_tip_50">
-		<text>I must say, you gotta love your ammo. Armor piercing, full metal jacket, depleted uranium, hollow point, chocolate bars... What the hell are chocolate bars doing here?</text>
+		<text>I must say, you gotta love your ammo. Armor piercing, full metal jacket, depleted uranium, hollow point, chocolate bars… What the hell are chocolate bars doing here?</text>
 	</string>
 
 	<string id="ls_tip_51">
-		<text>So... freaking... heavy... Never... steel... plates...</text>
+		<text>So… freaking… heavy… Never… steel… plates…</text>
 	</string>
 
 	<string id="ls_tip_52">
-		<text>Never trust the bandits. Even friendly ones only want your artifacts, so they won't think twice about stabbing you in the back.</text>
+		<text>Never trust the bandits. Even friendly ones only want your artifacts, so they won’t think twice about stabbing you in the back.</text>
 	</string>
 
 	<string id="ls_tip_53">
-		<text>The military is NOT here to protect you from the Zone, so if you see a soldier, make a run for your life. And don't look in the mirror.</text>
+		<text>The military is NOT here to protect you from the Zone, so if you see a soldier, make a run for your life. And don’t look in the mirror.</text>
 	</string>
 
 	<string id="ls_tip_54">
@@ -238,19 +238,19 @@
 	</string>
 
 	<string id="ls_tip_56">
-		<text> It doesn't pay to help other people when they're in a pinch. All you can expect is a bullet to the head when you drop your guard. So don't bother.</text>
+		<text> It doesn’t pay to help other people when they’re in a pinch. All you can expect is a bullet to the head when you drop your guard. So don’t bother.</text>
 	</string>
 
 	<string id="ls_tip_57">
-		<text>Avoid combat whenever possible. Be a mouse till you're forced to roar.</text>
+		<text>Avoid combat whenever possible. Be a mouse till you’re forced to roar.</text>
 	</string>
 
 	<string id="ls_tip_58">
-		<text>The Zone this, the Zone that. I don't give a rat's ass about it, and we usually stay out of each other's way.</text>
+		<text>The Zone this, the Zone that. I don’t give a rat’s ass about it, and we usually stay out of each other’s way.</text>
 	</string>
 
 	<string id="ls_tip_59">
-		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Spare parts don't appear out of thin air, and you pay extra for them, so it's not really worth it.</text>
+		<text>When repairing heavily damaged weapons, technicians will charge you an arm and a leg. Spare parts don’t appear out of thin air, and you pay extra for them, so it’s not really worth it.</text>
 	</string>
 
 	<string id="ls_tip_60">
@@ -262,11 +262,11 @@
 	</string>
 
 	<string id="ls_tip_62">
-		<text>Always carry drugs lest an emission starts and there's no shelter nearby. They may not protect you completely but maybe, just maybe will let you reach a safe spot before you're roasted.</text>
+		<text>Always carry drugs lest an emission starts and there’s no shelter nearby. They may not protect you completely but maybe, just maybe will let you reach a safe spot before you’re roasted.</text>
 	</string>
 
 	<string id="ls_tip_63">
-		<text>Start collecting ammo for your favourite shooter as soon as you get the cash, even if you know it's going to be a long wait. But it's gonna hurt, if you don't find the gun at all.</text>
+		<text>Start collecting ammo for your favourite shooter as soon as you get the cash, even if you know it’s going to be a long wait. But it’s gonna hurt, if you don’t find the gun at all.</text>
 	</string>
 
 	<string id="ls_tip_64">
@@ -282,23 +282,23 @@
 	</string>
 
 	<string id="ls_tip_67">
-		<text>Never pass enemy territory with direct sunlight in your eyes or with direct sunlight to your back. Better still, don't pass enemy territory at all.</text>
+		<text>Never pass enemy territory with direct sunlight in your eyes or with direct sunlight to your back. Better still, don’t pass enemy territory at all.</text>
 	</string>
 
 	<string id="ls_tip_68">
-		<text>You'd best abandon all notions of morality. The Zone is governed by its own unique set of rules that has nothing to do with what you learn in the Great Land.</text>
+		<text>You’d best abandon all notions of morality. The Zone is governed by its own unique set of rules that has nothing to do with what you learn in the Great Land.</text>
 	</string>
 
 	<string id="ls_tip_69">
-		<text>Don't be a hero. Never be afraid to run from an enemy.</text>
+		<text>Don’t be a hero. Never be afraid to run from an enemy.</text>
 	</string>
 
 	<string id="ls_tip_70">
-		<text>Remember, you don't have friends in the Zone. If you hear someone in distress, keep on walking as if nothing's happened unless you fancy a quick death.</text>
+		<text>Remember, you don’t have friends in the Zone. If you hear someone in distress, keep on walking as if nothing’s happened unless you fancy a quick death.</text>
 	</string>
 
 	<string id="ls_tip_71">
-		<text>Remember the sounds given off by mutants. Knowing what's creeping up on you makes it easier to deal with the situation in a best possible way.</text>
+		<text>Remember the sounds given off by mutants. Knowing what’s creeping up on you makes it easier to deal with the situation in a best possible way.</text>
 	</string>
 
 	<string id="ls_tip_72">
@@ -306,7 +306,7 @@
 	</string>
 
 	<string id="ls_tip_73">
-		<text>Carry at least one bottle of vodka at all times. When you run out of antirads in the middle of an anomaly, you'll thank me.</text>
+		<text>Carry at least one bottle of vodka at all times. When you run out of antirads in the middle of an anomaly, you’ll thank me.</text>
 	</string>
 
 	<string id="ls_tip_74">
@@ -330,11 +330,11 @@
 	</string>
 
 	<string id="ls_tip_79">
-		<text>The Zone is alive, I can tell you that. It eats, it breathes, and it shits. And when it shits, you had better take cover if you don't fancy being flushed down the toilet.</text>
+		<text>The Zone is alive, I can tell you that. It eats, it breathes, and it shits. And when it shits, you had better take cover if you don’t fancy being flushed down the toilet.</text>
 	</string>
 
 	<string id="ls_tip_80">
-		<text>The beauty of it all is what struck me the most. You don't have the time to admire it though 'cause the Zone may strike you when you expect it the least.</text>
+		<text>The beauty of it all is what struck me the most. You don’t have the time to admire it though “cause the Zone may strike you when you expect it the least.</text>
 	</string>
 
 	<string id="ls_tip_81">
@@ -342,11 +342,11 @@
 	</string>
 
 	<string id="ls_tip_82">
-		<text>Never underestimate a hungry dog. When there's one, there's a dozen.</text>
+		<text>Never underestimate a hungry dog. When there’s one, there’s a dozen.</text>
 	</string>
 
 	<string id="ls_tip_83">
-		<text>Be careful when approaching a fellow Stalker. Men's hearts hold shadows darker than the Zone itself.</text>
+		<text>Be careful when approaching a fellow Stalker. Men’s hearts hold shadows darker than the Zone itself.</text>
 	</string>
 
 	<string id="ls_tip_84">
@@ -354,11 +354,11 @@
 	</string>
 
 	<string id="ls_tip_85">
-		<text>Day 1: My hair's started to fall out. Day 2: My skin's peeling off. Day 3: I can't move. The greed. Wanted to save on meds. And now's too late.</text>
+		<text>Day 1: My hair’s started to fall out. Day 2: My skin’s peeling off. Day 3: I can’t move. The greed. Wanted to save on meds. And now’s too late.</text>
 	</string>
 
 	<string id="ls_tip_86">
-		<text>Sultan is a scum. He's gonna shank every Stalker that opposes him. So be nice, and he'll be gentle.</text>
+		<text>Sultan is a scum. He’s gonna shank every Stalker that opposes him. So be nice, and he’ll be gentle.</text>
 	</string>
 
 	<string id="ls_tip_87">
@@ -366,11 +366,11 @@
 	</string>
 
 	<string id="ls_tip_88">
-		<text>Always explore every nook and cranny... You never know what someone may have stashed there.</text>
+		<text>Always explore every nook and cranny… You never know what someone may have stashed there.</text>
 	</string>
 
 	<string id="ls_tip_89">
-		<text>The whole world's gone to hell. Economic collapse in the Great Land, and the Zone... The Zone is hell on earth, and its fires will consume you.</text>
+		<text>The whole world’s gone to hell. Economic collapse in the Great Land, and the Zone… The Zone is hell on earth, and its fires will consume you.</text>
 	</string>
 
 	<string id="ls_tip_90">
@@ -378,15 +378,15 @@
 	</string>
 
 	<string id="ls_tip_91">
-		<text>When putting your head down for the night, always keep your pistol within arm's reach.</text>
+		<text>When putting your head down for the night, always keep your pistol within arm’s reach.</text>
 	</string>
 
 	<string id="ls_tip_92">
-		<text>Chimera's two heads reflect its nature. It will flee only to return a second later to mercilessly murder you. It will attack you from behind just to leap into the darkness once again.</text>
+		<text>Chimera’s two heads reflect its nature. It will flee only to return a second later to mercilessly murder you. It will attack you from behind just to leap into the darkness once again.</text>
 	</string>
 
 	<string id="ls_tip_93">
-		<text>Bloodsuckers are masters of the shadow and you'd want to see them earlier than in the muzzle flash of your gun.</text>
+		<text>Bloodsuckers are masters of the shadow and you’d want to see them earlier than in the muzzle flash of your gun.</text>
 	</string>
 
 	<string id="ls_tip_94">
@@ -402,11 +402,11 @@
 	</string>
 
 	<string id="ls_tip_97">
-		<text>There's no shame in hitting F9 when things go south.</text>
+		<text>There’s no shame in hitting F9 when things go south.</text>
 	</string>
 
 	<string id="ls_tip_98">
-		<text>You're easier to kill when you stop moving, so. don't. stop. moving.</text>
+		<text>You’re easier to kill when you stop moving, so. don’t. stop. moving.</text>
 	</string>
 
 	<string id="ls_tip_99">
@@ -414,6 +414,6 @@
 	</string>
 
 	<string id="ls_tip_100">
-		<text>You'll die in a week if you don't eat. But you can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
+		<text>You’ll die in a week if you don’t eat. But you can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
 	</string>
 </string_table>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="cs_light_outfit_name">
-		<text>CS-1 body armour</text>
+		<text>CS-1 body armor</text>
 	</string>
 	<string id="cs_outfit_name">
-		<text>CS-2 body armour</text>
+		<text>CS-2 body armor</text>
 	</string>
 	<string id="cs_heavy3a_outfit_name">
-		<text>CS-3a body armour</text>
+		<text>CS-3a body armor</text>
 	</string>
 	<string id="csky_heavy_outfit_name">
-		<text>CS-3b body armour</text>
+		<text>CS-3b body armor</text>
 	</string>
 	<string id="dolg_heavy_outfit_name">
-		<text>PSZ-9d Duty armour</text>
+		<text>PSZ-9d Duty armor</text>
 	</string>
 	<string id="dolg_outfit_name">
 		<text>PS5-M Universal Protection</text>
@@ -22,7 +22,7 @@
 		<text>Exoskeleton</text>
 	</string>
 	<string id="military_outfit_name">
-		<text>Bulat armoured suit</text>
+		<text>Bulat armored suit</text>
 	</string>
 	<string id="novice_outfit_name">
 		<text>Light overcoat</text>
@@ -31,165 +31,61 @@
 		<text>Bandit overcoat</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>%c[0,170,170,170]An ordinary that will keep the wearer warm during rain and strong winds. It provides minimal protection from any dangerous effects and partial protection against low doses of radiation when used in combination with a gas mask.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light equipment\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+10%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
+		<text>%c[0,170,170,170]An ordinary coat that will keep the wearer warm during rain and strong winds. It provides minimal protection from any dangerous effects and partial protection against low doses of radiation when used in combination with a gas mask.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light equipment\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+10%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
 	</string>
 	<string id="trenchcoat_outfit_name">
 		<text>Overcoat</text>
 	</string>
 	<string id="trenchcoat_outfit_description">
-		<text>%c[0,170,170,170]A long overcoat made of high quality leather. In criminal circles, it is considered prestigious apparel as well as a sign of status, explaining its popularity. Together with a gas mask, such an overcoat provides reliable protection against low doses of radiation.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light equipment\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+13%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
+		<text>%c[0,170,170,170]A long overcoat made of high quality leather. In criminal circles, it is considered prestigious apparel as well as a sign of status, explaining its popularity. Together with a gas mask, such an overcoat provides reliable protection against low doses of radiation.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light equipment\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+13%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]IIA\n \n</text>
 	</string>
 	<string id="scientific_outfit_name">
 		<text>SEVA bodysuit</text>
 	</string>
 	<string id="specops_outfit_name">
-		<text>Berill-5M armoured suit</text>
+		<text>Berill-5M armored suit</text>
 	</string>
 	<string id="st_helm_battle">
 		<text>Sphere M12 headgear set</text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>%c[0,170,170,170]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. Supports the installation of a night sight 1PN93-1. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] armored helmet with night-vision\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+20%)\n \n
-		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] M12 titanium helmet %c[0,170,170,170]2420 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] Class IV anti-ballistic visor %c[0,170,170,170]370 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] breathing apparatus %c[0,170,170,170]145 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] 40mm breathing filter %c[0,170,170,170]390 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] 1PN93-1 nvd with mount. %c[0,170,170,170]1550 g\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]III\n \n</text>
+		<text>%c[0,170,170,170]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. Supports the installation of a night sight 1PN93-1. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] armored helmet with night-vision\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+20%)\n \n%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] • %c[0,140,140,140] M12 titanium helmet %c[0,170,170,170]2420 g\n%c[0,93,0,116] • %c[0,140,140,140] Class IV anti-ballistic visor %c[0,170,170,170]370 g\n%c[0,93,0,116] • %c[0,140,140,140] breathing apparatus %c[0,170,170,170]145 g\n%c[0,93,0,116] • %c[0,140,140,140] 40mm breathing filter %c[0,170,170,170]390 g\n%c[0,93,0,116] • %c[0,140,140,140] 1PN93-1 nvd with mount. %c[0,170,170,170]1550 g\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]III\n \n</text>
 	</string>
 	<string id="st_helm_hardhat">
 		<text>M40 steel helmet</text>
 	</string>
 	<string id="st_helm_hardhat_descr">
-		<text>%c[0,170,170,170]A standard steel army helmet without any additional elements. Produced in Russia. Provides no protection against anomalies or radiation, but can deflect bullets - effectively preventing damage to the head. This helmet has never been particularly popular in the Zone, except for the use in brief armed conflicts between factions.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] medium combat helmet\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+12%)\n \n
-		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] M40 steel helmet %c[0,170,170,170]2480 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]190 g\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A standard steel army helmet without any additional elements. Produced in Russia. Provides no protection against anomalies or radiation, but can deflect bullets, effectively preventing damage to the head. This helmet has never been particularly popular in the Zone, except for the use in brief armed conflicts between factions.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] medium combat helmet\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+12%)\n \n%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] • %c[0,140,140,140] M40 steel helmet %c[0,170,170,170]2480 g\n%c[0,93,0,116] • %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]190 g\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_cs">
 		<text>Steel helmet CS-2</text>
 	</string>
 	<string id="st_helm_cs_descr">
-		<text>%c[0,170,170,170]A steel combat helmet modified by technicians of "Clear sky". Includes a modified respirator similar to the version used in tactical helmet "Fera 08", which protects against chemicals and radioactive dust. Some heavy steel components have been replaced with lighter ones.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] combat helmet with built-in air filtration system\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+16%)\n \n
-		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] M40 steel helmet (modernized) %c[0,170,170,170]1410 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]180 g\n \n%c[0,93,0,116] 
-		• %c[0,140,140,140] breathing apparatus %c[0,170,170,170]120 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] breathing filter 2хПДЕ-1 (modified) %c[0,170,170,170]280 g\n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A steel combat helmet modified by technicians of "Clear sky". Includes a modified respirator similar to the version used in tactical helmet "Fera 08", which protects against chemicals and radioactive dust. Some heavy steel components have been replaced with lighter ones.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] combat helmet with built-in air filtration system\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+16%)\n \n%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] • %c[0,140,140,140] M40 steel helmet (modernized) %c[0,170,170,170]1410 g\n%c[0,93,0,116] • %c[0,140,140,140] Class IIIA anti-ballistic visor %c[0,170,170,170]180 g\n \n%c[0,93,0,116] • %c[0,140,140,140] breathing apparatus %c[0,170,170,170]120 g\n%c[0,93,0,116] • %c[0,140,140,140] breathing filter 2хПДЕ-1 (modified) %c[0,170,170,170]280 g\n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_respirator">
 		<text>EO-20 PBF gas mask</text>
 	</string>
 	<string id="st_helm_respirator_descr">
-		<text>%c[0,170,170,170]A modernized, significantly more compact version of classic EO-19 PBF gas mask. Updated EO-20 particulate filters underwent a significant miniaturization, but their protective properties were increased nevertheless. Radiation shielding has also been enhanced thanks to the implementation of lead elements in the apparatus. It should be noted, however, that while it serves its purpose well in areas of increased radioactivity levels, the mask suffers from a high failure rate in toxic environments and is also prone to get irreversibly damaged if subjected to direct impact.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light gas mask\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+8%)\n \n
-		%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] PBF gas mask %c[0,170,170,170]760 g\n%c[0,93,0,116] 
-		• %c[0,140,140,140] 2x EO-19 breathing filter %c[0,170,170,170]210 g\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A modernized, significantly more compact version of classic EO-19 PBF gas mask. Updated EO-20 particulate filters underwent a significant miniaturization, but their protective properties were increased nevertheless. Radiation shielding has also been enhanced thanks to the implementation of lead elements in the apparatus. It should be noted, however, that while it serves its purpose well in areas of increased radioactivity levels, the mask suffers from a high failure rate in toxic environments and is also prone to get irreversibly damaged if subjected to direct impact.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light gas mask\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+8%)\n \n%c[0,170,170,170]COMPONENTS:\n%c[0,93,0,116] • %c[0,140,140,140] PBF gas mask %c[0,170,170,170]760 g\n%c[0,93,0,116] • %c[0,140,140,140] 2x EO-19 breathing filter %c[0,170,170,170]210 g\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_cloth_mask">
 		<text>Cloth mask</text>
 	</string>
 	<string id="st_helm_cloth_mask_descr">
-		<text>%c[0,170,170,170]A simple piece of cloth forming a mask. It is often used by stalkers to prevent deadly radiation particles from entering the body and is usually worn at all times as a form of precaution. The mask, however suited for such purpose, is not without defects as it will not protect from large concentrations of radioactive particles and the material will gradually absorb such quantities that it'll become not only incapable of protection but also dangerous to the user. It is thus advisable to take spare masks when venturing into the Zone for longer periods of time.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] cloth wrap\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit, weapon repairs (+4%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A simple piece of cloth forming a mask. It is often used by stalkers to prevent deadly radiation particles from entering the body and is usually worn at all times as a form of precaution. The mask, however suited for such purpose, is not without defects as it will not protect from large concentrations of radioactive particles and the material will gradually absorb such quantities that it’ll become not only incapable of protection but also dangerous to the user. It is thus advisable to take spare masks when venturing into the Zone for longer periods of time.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] cloth wrap\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit, weapon repairs (+4%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_m40">
 		<text>PMK gas mask</text>
 	</string>
 	<string id="st_helm_m40_descr">
-		<text>%c[0,170,170,170]PMK set is built around a single, multi-layered, 40 mm breathing filter placed on the left side of valve apparatus. Reinforced construction makes it more resistant to physical damage at the cost of even more extra weight. The PMK mask was designed for use by Ukrainian Spetsnaz but never went into mass production.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light gas mask\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+9%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]PMK set is built around a single, multi-layered, 40 mm breathing filter placed on the left side of valve apparatus. Reinforced construction makes it more resistant to physical damage at the cost of even more extra weight. The PMK mask was designed for use by Ukrainian Spetsnaz but never went into mass production.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light gas mask\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+9%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_helm_tactic">
 		<text>Sphere 08 headgear set</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>%c[0,170,170,170]A modern, high-quality, Western-made combat helmet with built-in air filtration system and night-vision technology. Comes with multiple layers of Kevlar and hard armor to protect the user from physical damage. As it is made entirely from composites, it does not conduct electricity, thus rising overall electrical resistance of the user.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] armored helmet with air filtration system and night-vision\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+18%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]IV\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]IIIA\n \n</text>
+		<text>%c[0,170,170,170]A modern, high-quality, Western-made combat helmet with built-in air filtration system and night-vision technology. Comes with multiple layers of Kevlar and hard armor to protect the user from physical damage. As it is made entirely from composites, it does not conduct electricity, thus rising overall electrical resistance of the user.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] armored helmet with air filtration system and night-vision\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+18%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]IIIA\n \n</text>
 	</string>
 	<string id="stalker_outfit_name">
 		<text>Sunrise bodysuit</text>
@@ -204,55 +100,19 @@
 		<text>Monolith suit</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
-		<text>Freedom Guard bodysuit</text>
+		<text>Freedom guard bodysuit</text>
 	</string>
 	<string id="banditmerc_outfit_name">
 		<text>Bandit bodysuit</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="merc_outfit_description">
-		<text>%c[0,170,170,170]Outfit of choice for the Mercenaries. Lightweight overalls. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]Outfit of choice for the Mercenaries. Lightweight overalls. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Comes with built-in body armor and armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="banditmerc_outfit_description">
-		<text>%c[0,170,170,170]Handicraft suit that regularly used by mercenaries, which happened to be popular among bandits. Made of low-quality and cheap materials, as a result of environmental protection is almost absent, but the relatively cheap price might convince someone to ignore all the flaws.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]Handicraft suit that regularly used by mercenaries, which happened to be popular among bandits. Made of low-quality and cheap materials, as a result of environmental protection is almost absent, but the relatively cheap price might convince someone to ignore all the flaws.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
 		<text>Wind of Freedom bodysuit</text>
@@ -261,226 +121,46 @@
 		<text>M2 bodysuit</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>%c[0,170,170,170]This modern version of Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, this suit provides good protection against anomalies while also being capable of stopping a pistol bullet. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system instead.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This modern version of Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, this suit provides good protection against anomalies while also being capable of stopping a pistol bullet. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system instead.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] moderate overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>%c[0,170,170,170]This modern military armored suit is designed for assault operations in anomalous areas. Mainly designed for Spetsnaz Units for the purposes of high risk operations. Comprises a PSZ-12p heavy military armored suit, built-in compensation suit, and an anomalous protection bodysuit. The armor provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer's mobility. Comes with built-in armor attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n\n \n</text>
+		<text>%c[0,170,170,170]This modern military armored suit is designed for assault operations in anomalous areas. Mainly designed for Spetsnaz Units for the purposes of high risk operations. Comprises a PSZ-12p heavy military armored suit, built-in compensation suit, and an anomalous protection bodysuit. The armor provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer’s mobility. Comes with built-in armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n\n \n</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>%c[0,170,170,170]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+44%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+44%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>%c[0,170,170,170]This item comprises military PS5 series body armor and beryllium sputter modified for use in the Zone. Designed for assault operations in high-radiation conditions, it is ineffective in areas of anomalous activity. The suit makes its way to the stalker community through the military, who exchange it for loot. Comes with built-in armor attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]This item comprises military PS5 series body armor and beryllium sputter modified for use in the Zone. Designed for assault operations in high-radiation conditions, it is ineffective in areas of anomalous activity. The suit makes its way to the stalker community through the military, who exchange it for loot. Comes with built-in armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="svoboda_berill_outfit_description">
-		<text>%c[0,170,170,170]Модифицированный под нужды группировки «-вобода» бронежилет Берилл. Предназначен для проведения штурмовых операций. Физическая защита незначительно снижена в угоду усиления недостаточной антианомальной защиты. Попадает в hands «-вободы» небольшими партиями через армейских генералов, которым выгодно поддерживать войну между группировками, зарабатывая на этом деньги.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]Модифицированный под нужды группировки «-вобода» бронежилет Берилл. Предназначен для проведения штурмовых операций. Физическая защита незначительно снижена в угоду усиления недостаточной антианомальной защиты. Попадает в hands «-вободы» небольшими партиями через армейских генералов, которым выгодно поддерживать войну между группировками, зарабатывая на этом деньги.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>%c[0,170,170,170]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] moderate overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
-		<text>\n \n%c[0,170,170,170]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armour. Created specifically for members of the Ecologist faction, this suit is modeled after the popular Sunrise suit.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] medium armour\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>\n \n%c[0,170,170,170]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armor. Created specifically for members of the Ecologist faction, this suit is modeled after the popular Sunrise suit.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] medium armor\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_outfit_description">
-		<text>%c[0,170,170,170]A heavier outfit worn by members of Clear Sky, providing good protection from both anomalous exposure and bullets of various calibres.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]A heavier outfit worn by members of Clear Sky, providing good protection from both anomalous exposure and bullets of various calibres.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] moderate overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="svoboda_outfit_description">
-		<text>%c[0,170,170,170]This stalker bodysuit with reinforced body armour made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armour comprises armour plating and ten Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] moderate overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This stalker bodysuit with reinforced body armor made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armor comprises armor plating and ten Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] moderate overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+30%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="dolg_heavy_outfit_description">
-		<text>%c[0,170,170,170]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armor modified in the Zone. The suit is capable of stopping a rifle bullet, however this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]
-		• %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]
-		• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116]
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]III\n%c[0,93,0,116]
-		• %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n</text>
+		<text>%c[0,170,170,170]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armor modified in the Zone. The suit is capable of stopping a rifle bullet, however this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection. The suit cannot be modified with an armor attachment module, but may be upgraded with a combat support system.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+48%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116]• %c[0,140,140,140] torso: %c[0,170,170,170]IV\n%c[0,93,0,116]• %c[0,140,140,140] shoulders: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] arms: %c[0,170,170,170]I\n%c[0,93,0,116]• %c[0,140,140,140] hands: %c[0,170,170,170]II\n%c[0,93,0,116]• %c[0,140,140,140] thighs: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] knees and calves: %c[0,170,170,170]III\n%c[0,93,0,116]• %c[0,140,140,140] feet: %c[0,170,170,170]III\n \n</text>
 	</string>
 	<string id="cs_heavy3a_outfit_description"> <!-- revision -->
-		<text>%c[0,170,170,170]Regular equipment for heavy assault units of "Clear sky". This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]Regular equipment for heavy assault units of "Clear sky". This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[255,238,153,26]average\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="csky_3b_outfit_description"> <!-- revision -->
-		<text>%c[0,170,170,170]Regular equipment for heavy assault units of "Clear sky". This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies. While it has a lesser physical protection comparing to CS-3a, it is in demand due to its ability of taking more weight.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
+		<text>%c[0,170,170,170]Regular equipment for heavy assault units of Clear Sky. This protective suit not only can stop 9mm bullet, but also provides an average protection against protection from biological anomalies. While it has a lesser physical protection comparing to CS-3a, it is in demand due to its ability of taking more weight.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy combat suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+40%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n \n</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>%c[0,170,170,170]A SSP-99 chemical protection suit specifically designed for the Zone. It is used primarily by scientific expeditions and eco-stalkers. It has an integrated air filtering and conditioning system, thanks to which it offers excellent protection against radiation and chemical agents. It also includes a so called anomaly suppression system which provides exceptional heat and electrical resistance. Not fit for combat purposes, so it provides neither bullet nor shrapnel protection. Has no built-in mounts for additional modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]A SSP-99 chemical protection suit specifically designed for the Zone. It is used primarily by scientific expeditions and eco-stalkers. It has an integrated air filtering and conditioning system, thanks to which it offers excellent protection against radiation and chemical agents. It also includes a so called anomaly suppression system which provides exceptional heat and electrical resistance. Not fit for combat purposes, so it provides neither bullet nor shrapnel protection. Has no built-in mounts for additional modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="st_ecologist_outfit_grn_description">
-		<text>%c[0,170,170,170]Modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions as it provides good protection from radiation and biological anomalies. It is also resistant to chemical anomalies and other forms of anomalous threats. Has no built-in mounts for additional modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
+		<text>%c[0,170,170,170]Modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions as it provides good protection from radiation and biological anomalies. It is also resistant to chemical anomalies and other forms of anomalous threats. Has no built-in mounts for additional modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] environmental suit with closed-cycle respiratory module\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] head: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] eyes: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] chin: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] neck: %c[0,170,170,170]none\n \n</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
 		<text>SEVA bodysuit</text>
@@ -494,49 +174,13 @@
 	<string id="exolight_outfit_name">
 		<text>TB-1</text>
 	</string>
-	<string id="exolight_outfit_description"> <!-- revision -->
-		<text>heavy armored suit (Also known as "TB-1") has the highest physical protection among all suits available in the Zone. Presumably, it was originally made for Monolith elite, but soon enough it got slipped under stalkers hands. After that, all groups start requesting orders on it. Because of the extremely large weight, stalkers usually get involved into long arguments about the suit. Some say that wearing this it is like wearing a coffin because of that weight, while others argue that having extreme physical protection will save you in the most hopeless conditions.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]IV\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]V\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]V\n \n</text>
+	<string id="exolight_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses the highest physical protection of all suits available in the Zone. Presumably, it was originally made for Monolith elite brigades, but in time, it ended up in the possession of ordinary stalkers, after which all groups and factions in the Zone have begun requesting orders on it. Because of its extremely heavy weight, stalkers usually get into lengthy arguments about the suit. Some say that wearing the TB-1 is like being entrapped in a coffin due to its weight, while others argue that its extreme physical protection will save you in even the most hopeless conditions.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] heavy armored suit\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,204,0,51]very low\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+50%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]V\n \n</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. Like the Sunrise suit, the Wind of Freedom comes with built-in body armor and armor attachment modules.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 	<string id="cs_light_outfit_description">
-		<text>%c[0,170,170,170]A lightweight bodysuit for "Clear Sky", this suit served as standard issue for the faction’s light assault troops. Despite the fact that the body armour is incapable of protecting the wearer from regular bullets, it provides a fair amount of protection against anomalous exposure.\n \n
-		%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] 
-		• %c[0,140,140,140] light overall\n%c[0,153,255,255] 
-		• %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] 
-		• %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n
-		%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] 
-		• %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] 
-		• %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] 
-		• %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] 
-		• %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
+		<text>%c[0,170,170,170]A lightweight bodysuit made for Clear Sky, this suit served as standard issue for the faction’s light assault troops. Despite the fact that the body armor is incapable of protecting the wearer from regular bullets, it provides a fair amount of protection against anomalous exposure.\n \n%c[0,170,170,170]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] light overall\n%c[0,153,255,255] • %c[0,140,140,140] comfort: %c[0,51,255,102]high\n%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+25%)\n \n%c[0,170,170,170]ENVIRONMENTAL PROTECTION:\n%c[0,93,0,116] • %c[0,140,140,140] torso: %c[0,170,170,170]II\n%c[0,93,0,116] • %c[0,140,140,140] shoulders: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] arms: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] hands: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] thighs: %c[0,170,170,170]none\n%c[0,93,0,116] • %c[0,140,140,140] knees and calves: %c[0,170,170,170]I\n%c[0,93,0,116] • %c[0,140,140,140] feet: %c[0,170,170,170]I\n \n</text>
 	</string>
 </string_table>

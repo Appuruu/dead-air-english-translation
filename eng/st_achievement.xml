@@ -4,13 +4,13 @@
 		<text>Knife Master</text>
 	</string>
 	<string id="st_perk_knife_master_hint">
-		<text>Damage from quick knife hits is significantly increased.</text>
+		<text>Damage from quick knife attacks is significantly increased.</text>
 	</string>
 	<string id="st_perk_knife_master_descr">
-		<text>Cold weapons always attracted you; their smooth metallic shine calms you down. Of course, firearms are more comfortable, but with knife in your hands you feel more comprehensive.</text>
+		<text>The arme blanche has always attracted you; its even, metallic gloss has a calming effect. Firearms are a convenient option, of course, but with a knife in your hand, you feel complete.</text>
 	</string>
 	<string id="st_perk_knife_master_unlock">
-		<text>You unlocked the «Knife Master» achievement.</text>
+		<text>You have unlocked the Knife Master achievement.</text>
 	</string>
 
 	<string id="st_perk_mech_name">
@@ -23,98 +23,98 @@
 		<text>description st_perk_mech_descr</text>
 	</string>
 	<string id="st_perk_mech_unlock">
-		<text>You unlocked the «Mechanic» achievement.</text>
+		<text>You have unlocked the Mechanic achievement.</text>
 	</string>
 
 	<string id="st_perk_craft_name">
-		<text>Crafter</text>
+		<text>Craftsman</text>
 	</string>
 	<string id="st_perk_craft_hint">
 		<text>Number of items available for crafting increased.</text>
 	</string>
 	<string id="st_perk_craft_descr">
-		<text>At young age you made a radio from old parts in your fathers' box, in your youth you repaired your motorcycle using spare parts from flea markets, but now you feel that you will certainly find use of technical garbage in The Zone.</text>
+		<text>As a child, you assembled a radio from old parts in your father’s toolbox. In your youth, you repaired your motorcycle with spare parts from a flea market. Now, you feel that you will find some use in the technical debris lying in the Exclusion Zone.</text>
 	</string>
 	<string id="st_perk_craft_unlock">
-		<text>You unlocked the «Crafter» achievement.</text>
+		<text>You have unlocked the Craftsman achievement.</text>
 	</string>
 
 	<string id="st_perk_butcher_name">
 		<text>Butcher</text>
 	</string>
 	<string id="st_perk_butcher_hint">
-		<text>More rapid and effective use of the knife when cutting prey.</text>
+		<text>You extract items from your prey more rapidly and effectively with your knife.</text>
 	</string>
 	<string id="st_perk_butcher_descr">
-		<text>You cause fear to the mutants of the Zone, and not surprisingly. In most cases, you are the last thing they see before they die. Learning what you do to the body of the mutants after, people become even more afraid of you.</text>
+		<text>Your presence instils fear into the creatures of the Zone; to little surprise, because you are the last thing they see in their life in the vast majority of cases. Having learned how to deal with carcass of a mutant after an encounter, people begin to fear you.</text>
 	</string>
 	<string id="st_perk_butcher_unlock">
-		<text>You unlocked the «Butcher» achievement.</text>
+		<text>You have unlocked the Butcher achievement.</text>
 	</string>
 
 	<string id="st_perk_strong_stomach_name">
 		<text>Strong Stomach</text>
 	</string>
 	<string id="st_perk_strong_stomach_hint">
-		<text>Less harm to health when eating harmful food.</text>
+		<text>Less damage when consuming harmful food.</text>
 	</string>
 	<string id="st_perk_strong_stomach_descr">
-		<text>Delicious and high-quality food in The Zone is a rarity, but you are able to consume and digest even what a stalker wouldn't.</text>
+		<text>Tasty, high-quality food in the Zone is a rarity, but you are able to consume and digest what any other person in their right mind wouldn’t even consider having a bite of.</text>
 	</string>
 	<string id="st_perk_strong_stomach_unlock">
-		<text>You unlocked the «Strong Stomach» achievement.</text>
+		<text>You have unlocked the Strong Stomach achievement.</text>
 	</string>
 
 	<string id="st_perk_lead_backpack_name">
 		<text>Lead Backpack</text>
 	</string>
 	<string id="st_perk_lead_backpack_hint">
-		<text>Reduced radiation of artifacts in your backpack.</text>
+		<text>Reduced radiation from artifacts in your backpack.</text>
 	</string>
 	<string id="st_perk_lead_backpack_descr">
-		<text>Gifts of The Zone are attractive, but extremely dangerous. Not so long ago you got a special backpack, which should neutralize some of their radiation. It's time to try it out in business.</text>
+		<text>The gifts of the Zone are alluring but extremely dangerous. Not so long ago, you acquired a special backpack, which should be able to neutralize some of their radiation. The time has come to put it to use.</text>
 	</string>
 	<string id="st_perk_lead_backpack_unlock">
-		<text>You unlocked the «Lead Backpack» achievement.</text>
+		<text>You have unlocked the Lead Backpack achievement.</text>
 	</string>
 
 	<string id="st_perk_thoroughness_name">
 		<text>Attentive</text>
 	</string>
 	<string id="st_perk_thoroughness_hint">
-		<text>Increased chance to find more things in caches.</text>
+		<text>Higher chance of finding additional items in stashes.</text>
 	</string>
 	<string id="st_perk_thoroughness_descr">
-		<text>You are accustomed to notice the most insignificant details not only in the behavior of people, but also in the surrounding environment, and even searching in a stash. Not one cent, nor a single bolt can hide from you.</text>
+		<text>You have learned to notice the most insignificant details not only in the behavior of people, but also in the surrounding environment. During searches, not a single kopeck, bolt, or person manages hides from you…</text>
 	</string>
 	<string id="st_perk_thoroughness_unlock">
-		<text>You unlocked the «Attentive» achievement.</text>
+		<text>You have unlocked the Attentive achievement.</text>
 	</string>
 
 	<string id="st_perk_geologist_name">
 		<text>Geologist</text>
 	</string>
 	<string id="st_perk_geologist_hint">
-		<text>Chance to find artifacts is increased.</text>
+		<text>Higher chance of finding artifacts.</text>
 	</string>
 	<string id="st_perk_geologist_descr">
-		<text>Humming, hissing and spitting - Anomalies are no longer able to scare you, and the urge for research has led to a detailed study of anomalous fields.</text>
+		<text>Humming, hissing, spitting; no types of anomalies are capable of intimidating you any longer, and your urge for exploration encourages you to travel to areas filled with them.</text>
 	</string>
 	<string id="st_perk_geologist_unlock">
-		<text>You unlocked the «Geologist» achievement.</text>
+		<text>You have unlocked the Geologist achievement.</text>
 	</string>
 
 	<string id="st_perk_authority_name">
 		<text>Authority</text>
 	</string>
 	<string id="st_perk_authority_hint">
-		<text>Number of companions increased, interrogations are more effective, reputation is gained faster, more opportunities in dialogues.</text>
+		<text>Number of companions increased, interrogations are more effective, reputation is gained faster, additional opportunities in dialogues.</text>
 	</string>
 	<string id="st_perk_authority_descr">
-		<text>Whether it's a charm, an ability to talk or perhaps a subtle knowledge of human psychology - it does not matter what, but you easily win the hearts of many people, whether a greedy huckster or an outspoken psychopath.</text>
+		<text>Whether through charm, a natural ability to socialize, or perhaps a subtle knowledge of human psychology; it does not matter. You easily win the hearts of any person, whether it be a greedy huckster or an outspoken psychopath.</text>
 	</string>
 	<string id="st_perk_authority_unlock">
-		<text>You unlocked the «Authority» achievement.</text>
+		<text>You have unlocked the Authority achievement.</text>
 	</string>
 
 	<string id="st_perk_steady_hands_name">
@@ -124,9 +124,9 @@
 		<text>Recoil of small arms is significantly reduced.</text>
 	</string>
 	<string id="st_perk_steady_hands_descr">
-		<text>In whatever condition you are, whether it be an emotional shock, a wild hangover or a small earthquake while traveling on public transport - your hand will never falter. You keep your weapons so tight that you leave dents on the grip and buttstock.</text>
+		<text>In whatever condition you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while traveling on public transport, your hand never falters. The grip on your weapon is strong enough to leave dents on the handguard and stock.</text>
 	</string>
 	<string id="st_perk_steady_hands_unlock">
-		<text>You unlocked the «Steady Hands» achievement.</text>
+		<text>You have unlocked the Steady Hands achievement.</text>
 	</string>
 </string_table>

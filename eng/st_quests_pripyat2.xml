@@ -179,7 +179,7 @@
 		<text>You are to become Monolith, you will have no more need for money. Give Rabbit 1,000 RU to let you join the almighty Monolith.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_about">
-		<text>It's good you have come to your senses, my child. We will welcome you into the order of the Monolith but you must first relinquish all of your worldly possessions in the form of 1,000 RU.</text>
+		<text>It’s good you have come to your senses, my child. We will welcome you into the order of the Monolith but you must first relinquish all of your worldly possessions in the form of 1,000 RU.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_finish">
 		<text>Good. Welcome to the brotherhood of the Monolith.</text>
@@ -330,7 +330,7 @@
 		<text>Okay, I need a %s. Go, now.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
-		<text>You've done well.</text>
+		<text>You’ve done well.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
 		<text>Find %s for Cleric</text>
@@ -345,7 +345,7 @@
 		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
-		<text>Good. You've brought them to me.</text>
+		<text>Good. You’ve brought them to me.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
 		<text>Find %s for Cleric</text>
@@ -360,6 +360,6 @@
 		<text>I need a set of expert tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
-		<text>Good. You've brought them to me.</text>
+		<text>Good. You’ve brought them to me.</text>
 	</string>
 </string_table>

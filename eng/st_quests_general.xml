@@ -68,7 +68,7 @@
 		<text>Some things are urgently needed, but there is almost no time left. Can I rely on you?</text>
 	</string>
 	<string id="simulation_task_1_fetch_about">
-		<text>Bro, listen. We've got one important mission. Large groups of stalkers are being sent deep into the Zone, but provisions and equipment are scarce. We've managed to gather everything the first group needs, except for one thing. The last thing we need is %s, few pieces of it are needed. Can you get it?</text>
+		<text>Bro, listen. We’ve got one important mission. Large groups of stalkers are being sent deep into the Zone, but provisions and equipment are scarce. We’ve managed to gather everything the first group needs, except for one thing. The last thing we need is %s, few pieces of it are needed. Can you get it?</text>
 	</string>
 	<string id="simulation_task_1_fetch_finish">
 		<text>Thanks, man!</text>
@@ -83,13 +83,13 @@
 		<text>Received order to find: %s.</text>
 	</string>
 	<string id="simulation_task_2_about">
-		<text>Relax hunting...</text>
+		<text>Relax hunting…</text>
 	</string>
 	<string id="simulation_task_2_fetch_about">
 		<text>Dude, do me a favor, get me something like this so I can relax with my friends the other day. %s, few pieces will do. Well?</text>
 	</string>
 	<string id="simulation_task_2_fetch_finish">
-		<text>Good! Well, now I'll cheer the boys up. Oh yeah, here.</text>
+		<text>Good! Well, now I’ll cheer the boys up. Oh yeah, here.</text>
 	</string>
 
 
@@ -98,13 +98,13 @@
 		<text>Mutant hunting</text>
 	</string>
 	<string id="simulation_task_3_text">
-		<text>A stalker has a special recipe for cooking mutants meat. He's missing an ingredient - %s</text>
+		<text>A stalker has a special recipe for cooking mutants meat. He’s missing an ingredient - %s</text>
 	</string>
 	<string id="simulation_task_3_about">
-		<text>Work... exactly, you're going to hunt mutants?</text>
+		<text>Work… exactly, you’re going to hunt mutants?</text>
 	</string>
 	<string id="simulation_task_3_fetch_about">
-		<text>We're having a celebratory supper soon. Some local gourmet (I won't point fingers) is especially happy to try my signature dish with a special sauce, which is its own juice with mayonnaise. Just thinking about it makes me drool. I need %s for that. Will you bring it to me? I'll owe you.</text>
+		<text>We’re having a celebratory supper soon. Some local gourmet (I won’t point fingers) is especially happy to try my signature dish with a special sauce, which is its own juice with mayonnaise. Just thinking about it makes me drool. I need %s for that. Will you bring it to me? I’ll owe you.</text>
 	</string>
 	<string id="simulation_task_3_fetch_finish">
 		<text>Yes, finally we will have a normal dinner! Thank you, stalker!</text>
@@ -119,13 +119,13 @@
 		<text>Stalker wants me to find %s artefact.</text>
 	</string>
 	<string id="simulation_task_4_about">
-		<text>I... I mean our group needs an artefact.</text>
+		<text>I… I mean our group needs an artefact.</text>
 	</string>
 	<string id="simulation_task_4_fetch_about">
-		<text>Are you lucky in finding stuff? Could you help me out? If you find %s artefact, let me know. Me and my boys were looking for it but we just can't find it. Don't worry about the reward, I'll pay you well.</text>
+		<text>Are you lucky in finding stuff? Could you help me out? If you find %s artefact, let me know. Me and my boys were looking for it but we just can’t find it. Don’t worry about the reward, I’ll pay you well.</text>
 	</string>
 	<string id="simulation_task_4_fetch_finish">
-		<text>At last! Well, I hope everything will work out, thank you. Here's your share.</text>
+		<text>At last! Well, I hope everything will work out, thank you. Here’s your share.</text>
 	</string>
 
 	<!-- FIND WEAPON FOR STALKER TASK -->
@@ -139,7 +139,7 @@
 		<text>Can you help me find a new weapon?</text>
 	</string>
 	<string id="simulation_task_5_fetch_about">
-		<text>My shooter’s completely worn out. It doesn’t shoot half of the time, and I’ve never liked it anyway, but I don’t have any money for a new one... if I can even find a new weapon! Will you help me find a more reliable piece of weaponry? %s will do just fine; I’ve also managed to save a few cartridges for the calibre. The better the condition, the more I’ll pay. I promise!</text>
+		<text>My shooter’s completely worn out. It doesn’t shoot half of the time, and I’ve never liked it anyway, but I don’t have any money for a new one… if I can even find a new weapon! Will you help me find a more reliable piece of weaponry? %s will do just fine; I’ve also managed to save a few cartridges for the calibre. The better the condition, the more I’ll pay. I promise!</text>
 	</string>
 	<string id="simulation_task_5_fetch_finish">
 		<text>Brilliant. Take this for the trouble, just like we agreed. I keep my word!</text>
@@ -154,14 +154,14 @@
 		<text>Need to find a gun: %s</text>
 	</string>
 	<string id="simulation_task_6_about">
-		<text>This rifle I was issued is shit. I need one that won't jam on me in every firefight. Can you find a new one with good condition for me?</text>
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one with good condition for me?</text>
 	</string>
 	<string id="simulation_task_6_fetch_about">
-		<text>Soon I will join my group on a serious mission, but I have a big problem. This piece of shit is worn, it jams constantly. I almost got myself killed last time I had to use it because it stop shooting at worst possible moments. I don't want to risk my life over this, so I ask you to find something newer, preferably in excellent condition. Actually if you can get me a %s. I'll make it worth your while.
+		<text>Soon I will join my group on a serious mission, but I have a big problem. This piece of shit is worn, it jams constantly. I almost got myself killed last time I had to use it because it stop shooting at worst possible moments. I don’t want to risk my life over this, so I ask you to find something newer, preferably in excellent condition. Actually if you can get me a %s. I’ll make it worth your while.
 		</text>
 	</string>
 	<string id="simulation_task_6_fetch_finish">
-		<text>Excellent! She's a beauty. Here, take this for your trouble.</text>
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
 	</string>
 
 
@@ -170,13 +170,13 @@
 		<text>Search and rescue</text>
 	</string>
 	<string id="simulation_task_7_text">
-		<text>A stalker's buddy was kidnapped by a gang of bandits. He asked me to try and rescue him.</text>
+		<text>A stalker’s buddy was kidnapped by a gang of bandits. He asked me to try and rescue him.</text>
 	</string>
 	<string id="simulation_task_7_about">
-		<text>I could really use some help, man. My friend was mugged and taken hostage by some bandits. I really don't know what I should do. Do you think you can help me out and save my friend?</text>
+		<text>I could really use some help, man. My friend was mugged and taken hostage by some bandits. I really don’t know what I should do. Do you think you can help me out and save my friend?</text>
 	</string>
 	<string id="simulation_task_7_finish">
-		<text>You did it! Thank you, stalker. It's good to see my friend back and alive! Here, for your trouble.</text>
+		<text>You did it! Thank you, stalker. It’s good to see my friend back and alive! Here, for your trouble.</text>
 	</string>
 
 
@@ -185,13 +185,13 @@
 		<text>Search and rescue</text>
 	</string>
 	<string id="simulation_task_8_text">
-		<text>I've been tasked to rescue a member of Duty who is being held hostage.</text>
+		<text>I’ve been tasked to rescue a member of Duty who is being held hostage.</text>
 	</string>
 	<string id="simulation_task_8_about">
-		<text>Stalker, our comrade was wounded and taken hostage! I'm in desperate need of someone capable enough to stage a rescue operation. Do you think you can help us out and save our friend?</text>
+		<text>Stalker, our comrade was wounded and taken hostage! I’m in desperate need of someone capable enough to stage a rescue operation. Do you think you can help us out and save our friend?</text>
 	</string>
 	<string id="simulation_task_8_finish">
-		<text>Thank you, stalker. It's good to see you saved our fellow comrade! Here, for your trouble.</text>
+		<text>Thank you, stalker. It’s good to see you saved our fellow comrade! Here, for your trouble.</text>
 	</string>
 
 
@@ -200,13 +200,13 @@
 		<text>Search and rescue</text>
 	</string>
 	<string id="simulation_task_9_text">
-		<text>I've been tasked to rescue a member of Freedom who is being held hostage.</text>
+		<text>I’ve been tasked to rescue a member of Freedom who is being held hostage.</text>
 	</string>
 	<string id="simulation_task_9_about">
 		<text>Yes, one of my comrades has been captured! Please rescue him!</text>
 	</string>
 	<string id="simulation_task_9_finish">
-		<text>You did it! Thank you, stalker. It's good to see my friend back and alive! Here, for your trouble.</text>
+		<text>You did it! Thank you, stalker. It’s good to see my friend back and alive! Here, for your trouble.</text>
 	</string>
 
 
@@ -221,7 +221,7 @@
 		<text>Yes, please help! One of my colleagues was kidnapped by bandits. They are demanding to be paid a ransom. Please, take this to them and bring my colleage back.</text>
 	</string>
 	<string id="simulation_task_10_finish">
-		<text>Thank you, stalker. It's good to see my colleague back! Please accept this as a reward.</text>
+		<text>Thank you, stalker. It’s good to see my colleague back! Please accept this as a reward.</text>
 	</string>
 
 
@@ -248,7 +248,7 @@
 		<text>A stalker wants me to avenge the death of his comrade.</text>
 	</string>
 	<string id="simulation_task_12_about">
-		<text>A bandit snuck into our camp last night and murdered my friend in cold blood. This kind of scum cannot be allowed to live. Kill him for me, stalker. In return I will give you my slain comrade's rifle.</text>
+		<text>A bandit snuck into our camp last night and murdered my friend in cold blood. This kind of scum cannot be allowed to live. Kill him for me, stalker. In return I will give you my slain comrade’s rifle.</text>
 	</string>
 	<string id="simulation_task_12_finish">
 		<text>Thank you stalker, you are a good warrior. Join me in a drink to my fallen brother.</text>
@@ -266,7 +266,7 @@
 		<text>You wanna to swap some loot?</text>
 	</string>
 	<string id="simulation_task_13_fetch_about">
-		<text>I've got some good shit I can give you if you can get me some %s.</text>
+		<text>I’ve got some good shit I can give you if you can get me some %s.</text>
 	</string>
 	<string id="simulation_task_13_fetch_finish">
 		<text>Great man, thanks!</text>
@@ -284,7 +284,7 @@
 		<text>You have any supplies you want to trade?</text>
 	</string>
 	<string id="simulation_task_14_fetch_about">
-		<text>Tell you what, I'll trade you some extra ammo I've got if you can get me some %s.</text>
+		<text>Tell you what, I’ll trade you some extra ammo I’ve got if you can get me some %s.</text>
 	</string>
 	<string id="simulation_task_14_fetch_finish">
 		<text>Great man, thanks!</text>
@@ -300,13 +300,13 @@
 		<text>A soldier is offering a rifle in exchange for the %s artefact.</text>
 	</string>
 	<string id="simulation_task_15_about">
-		<text>Hey, listen man. I know this is against regulations, but I'm going to be rotating home soon and I want to bring back a souvenir. You think you can find an artefact for me?</text>
+		<text>Hey, listen man. I know this is against regulations, but I’m going to be rotating home soon and I want to bring back a souvenir. You think you can find an artefact for me?</text>
 	</string>
 	<string id="simulation_task_15_fetch_about">
-		<text>I want to get a %s. If you can find me one I'll make it worth you a while.</text>
+		<text>I want to get a %s. If you can find me one I’ll make it worth you a while.</text>
 	</string>
 	<string id="simulation_task_15_fetch_finish">
-		<text>Awesome! Here's what I promised you. Don't let the commander know I have this.</text>
+		<text>Awesome! Here’s what I promised you. Don’t let the commander know I have this.</text>
 	</string>
 
 
@@ -318,13 +318,13 @@
 		<text>A bandit needs an untraceable %s, no questions asked.</text>
 	</string>
 	<string id="simulation_task_16_about">
-		<text>Listen, I need a rifle that can't be traced back to me, you know what I mean? You willing to help me out with this?</text>
+		<text>Listen, I need a rifle that can’t be traced back to me, you know what I mean? You willing to help me out with this?</text>
 	</string>
 	<string id="simulation_task_16_fetch_about">
-		<text>I need a %s. Buy it, steal it, loot it, whatever you gotta do, just get me one. I'll pay you double what it's worth.</text>
+		<text>I need a %s. Buy it, steal it, loot it, whatever you gotta do, just get me one. I’ll pay you double what it’s worth.</text>
 	</string>
 	<string id="simulation_task_16_fetch_finish">
-		<text>Great! Here's what I promised you. And you never met me, got it?</text>
+		<text>Great! Here’s what I promised you. And you never met me, got it?</text>
 	</string>
 
 
@@ -333,13 +333,13 @@
 		<text>One shot</text>
 	</string>
 	<string id="simulation_task_17_text">
-		<text>A fellow soldier has bet his rifle that I can't assassinate a high-value target.</text>
+		<text>A fellow soldier has bet his rifle that I can’t assassinate a high-value target.</text>
 	</string>
 	<string id="simulation_task_17_about">
-		<text>What, are you trying to climb the ranks or something? Tell you what hotshot, I happen to know the location of a certain high-value target the brass wants eliminated. I'll bet you my rifle you can't even get close to him.</text>
+		<text>What, are you trying to climb the ranks or something? Tell you what hotshot, I happen to know the location of a certain high-value target the brass wants eliminated. I’ll bet you my rifle you can’t even get close to him.</text>
 	</string>
 	<string id="simulation_task_17_finish">
-		<text>For real? You really did it? Damn, if I though you had any chance I never would have made this bet. Well, a deal's a deal. Here's my rifle. But you better be covering my ass with it in the next firefight.</text>
+		<text>For real? You really did it? Damn, if I though you had any chance I never would have made this bet. Well, a deal’s a deal. Here’s my rifle. But you better be covering my ass with it in the next firefight.</text>
 	</string>
 
 
@@ -351,10 +351,10 @@
 		<text>You have taken over a contract killing.</text>
 	</string>
 	<string id="simulation_task_18_about">
-		<text>I do, actually. I've taken on a few too many jobs. You want to take over one of my contracts for me? I'll give you most of the bounty on it.</text>
+		<text>I do, actually. I’ve taken on a few too many jobs. You want to take over one of my contracts for me? I’ll give you most of the bounty on it.</text>
 	</string>
 	<string id="simulation_task_18_finish">
-		<text>Great job. Here's the money I owe you.</text>
+		<text>Great job. Here’s the money I owe you.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -383,7 +383,7 @@
 		<text>Scout the area where enemy forces have been sighted. Engage any enemy encountered.</text>
 	</string>
 	<string id="simulation_task_20_about">
-		<text>There are reports of enemy activity in the neighboring area and our squad is tasked with engaging them. I'm looking for someone who is willing to scout ahead in preparation for our assault. </text>
+		<text>There are reports of enemy activity in the neighboring area and our squad is tasked with engaging them. I’m looking for someone who is willing to scout ahead in preparation for our assault. </text>
 	</string>
 	<string id="simulation_task_20_finish">
 		<text>Excellent! Well done.</text>
@@ -399,10 +399,10 @@
 		<text>Eliminate dangerous mutants in the area for the Duty faction.</text>
 	</string>
 	<string id="simulation_task_21_about">
-		<text>We can't have so much dangerous mutant activity in the area, someone's going to get killed. Head out there and thin out the herd a bit.</text>
+		<text>We can’t have so much dangerous mutant activity in the area, someone’s going to get killed. Head out there and thin out the herd a bit.</text>
 	</string>
 	<string id="simulation_task_21_finish">
-		<text>Well done, here's your reward.</text>
+		<text>Well done, here’s your reward.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -434,7 +434,7 @@
 		<text>I must be strong to serve the Monolith well but I confess my strength is weakening. Can you help me, brother?</text>
 	</string>
 	<string id="simulation_task_23_fetch_about">
-		<text>My brother, I am very ill. Cleric has graciously offered to pray for me but I'm pretty sure I just need %s. Please bring me some.</text>
+		<text>My brother, I am very ill. Cleric has graciously offered to pray for me but I’m pretty sure I just need %s. Please bring me some.</text>
 	</string>
 	<string id="simulation_task_23_fetch_finish">
 		<text>Thank you my brother. May the glory of the Monolith shine upon you.</text>
@@ -466,7 +466,7 @@
 		<text>An Ecologist needs a tissue sample from a %s.</text>
 	</string>
 	<string id="simulation_task_25_about">
-		<text>I'm researching certain mutants in the area. I need someone to collect a tissue sample for me.</text>
+		<text>I’m researching certain mutants in the area. I need someone to collect a tissue sample for me.</text>
 	</string>
 	<string id="simulation_task_25_fetch_about">
 		<text>If you could hunt one down for me, I need a sample of %s brought back to me. I can pay you for your trouble and, of course, the considerable risk involved.</text>
@@ -485,10 +485,10 @@
 		<text>A Freedomer needs his latest shipment delivered.</text>
 	</string>
 	<string id="simulation_task_26_about">
-		<text>Hey man, I'm expecting a shipment of... ah, "medical supplies" and I need someone to pick it up. Want to make some extra cash?</text>
+		<text>Hey man, I’m expecting a shipment of… ah, "medical supplies" and I need someone to pick it up. Want to make some extra cash?</text>
 	</string>
 	<string id="simulation_task_26_finish">
-		<text>Thanks man. Here's your cut.</text>
+		<text>Thanks man. Here’s your cut.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -501,7 +501,7 @@
 		<text>A Clear Sky member needs his documents returned to him.</text>
 	</string>
 	<string id="simulation_task_27_about">
-		<text>I have some important documents that I stashed away when I was attacked by mutants. I dread to go back there. If you can you get them for me, I'll gladly pay you.</text>
+		<text>I have some important documents that I stashed away when I was attacked by mutants. I dread to go back there. If you can you get them for me, I’ll gladly pay you.</text>
 	</string>
 	<string id="simulation_task_27_finish">
 		<text>Thank you stalker!</text>
@@ -517,10 +517,10 @@
 		<text>Monolith fighters have been spotted near this location. Prevent them from encroaching on the area.</text>
 	</string>
 	<string id="simulation_task_28_about">
-		<text>Hey man, I just spotted some Monolith not too far from here. I'm going to alert Lukash, keep an eye on them.</text>
+		<text>Hey man, I just spotted some Monolith not too far from here. I’m going to alert Lukash, keep an eye on them.</text>
 	</string>
 	<string id="simulation_task_28_finish">
-		<text>Good job man. Lukash was sending out some reinforcements, I guess we won't need them. He wanted me to give you this.</text>
+		<text>Good job man. Lukash was sending out some reinforcements, I guess we won’t need them. He wanted me to give you this.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -533,7 +533,7 @@
 		<text>Intercept the enemy forces moving in on the area.</text>
 	</string>
 	<string id="simulation_task_29_about">
-		<text>Bandits are moving in on the area. I'm going to alert the commander. Hold them off until I get back.</text>
+		<text>Bandits are moving in on the area. I’m going to alert the commander. Hold them off until I get back.</text>
 	</string>
 	<string id="simulation_task_29_finish">
 		<text>Outstanding! You are a fine soldier.</text>
@@ -565,10 +565,10 @@
 		<text>I was asked to find %s, by a Mercenary.</text>
 	</string>
 	<string id="simulation_task_31_about">
-		<text>Can you do me a huge favour? I'm running low on my supplies. Can you help me out?</text>
+		<text>Can you do me a huge favour? I’m running low on my supplies. Can you help me out?</text>
 	</string>
 	<string id="simulation_task_31_fetch_about">
-		<text>I'm low on %s. Come find me if you get your hands on any.</text>
+		<text>I’m low on %s. Come find me if you get your hands on any.</text>
 	</string>
 	<string id="simulation_task_31_fetch_finish">
 		<text>Thanks!</text>
@@ -584,13 +584,13 @@
 		<text>A Bandit has a special recipe for preparing mutant meat and needs %s brought to him.</text>
 	</string>
 	<string id="simulation_task_32_about">
-		<text>Man, you ever tried mutant meat? A lot of guys won't touch it unless they're starving but personally I love it. You any good at hunting?</text>
+		<text>Man, you ever tried mutant meat? A lot of guys won’t touch it unless they’re starving but personally I love it. You any good at hunting?</text>
 	</string>
 	<string id="simulation_task_32_fetch_about">
-		<text>If you can get me a few good cuts of %s I'll make it worth your while.  Mmm... I'm drooling just thinking about it.</text>
+		<text>If you can get me a few good cuts of %s I’ll make it worth your while.  Mmm… I’m drooling just thinking about it.</text>
 	</string>
 	<string id="simulation_task_32_fetch_finish">
-		<text>Yes! I'm going to eat good tonight! Thanks man, here is your payment and a little loot for ya.</text>
+		<text>Yes! I’m going to eat good tonight! Thanks man, here is your payment and a little loot for ya.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -603,13 +603,13 @@
 		<text>Procure a reliable %s for a Mercenary.</text>
 	</string>
 	<string id="simulation_task_33_about">
-		<text>This rifle I was issued is shit. I need one that won't jam on me in every firefight. Can you find a new one for me?</text>
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one for me?</text>
 	</string>
 	<string id="simulation_task_33_fetch_about">
-		<text>Get me a %s. I'll make it worth your while.</text>
+		<text>Get me a %s. I’ll make it worth your while.</text>
 	</string>
 	<string id="simulation_task_33_fetch_finish">
-		<text>Excellent! She's a beauty. Here, take this for your trouble.</text>
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -622,13 +622,13 @@
 		<text>Procure a reliable %s for Military.</text>
 	</string>
 	<string id="simulation_task_34_about">
-		<text>This rifle I was issued is shit. I need one that won't jam on me in every firefight. Can you find a new one for me?</text>
+		<text>This rifle I was issued is shit. I need one that won’t jam on me in every firefight. Can you find a new one for me?</text>
 	</string>
 	<string id="simulation_task_34_fetch_about">
-		<text>Get me a %s. I'll make it worth your while.</text>
+		<text>Get me a %s. I’ll make it worth your while.</text>
 	</string>
 	<string id="simulation_task_34_fetch_finish">
-		<text>Excellent! She's a beauty. Here, take this for your trouble.</text>
+		<text>Excellent! She’s a beauty. Here, take this for your trouble.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -641,10 +641,10 @@
 		<text>You have taken over a contract killing for a Bandit.</text>
 	</string>
 	<string id="simulation_task_35_about">
-		<text>I've taken on a few too many jobs. You want to take over one of my contracts for me? I'll give you most of the bounty on it.</text>
+		<text>I’ve taken on a few too many jobs. You want to take over one of my contracts for me? I’ll give you most of the bounty on it.</text>
 	</string>
 	<string id="simulation_task_35_finish">
-		<text>Thanks. Here's the money I owe you.</text>
+		<text>Thanks. Here’s the money I owe you.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -657,7 +657,7 @@
 		<text>Eliminate dangerous mutants in the area for Clear Sky.</text>
 	</string>
 	<string id="simulation_task_36_about">
-		<text>I was just attacked by a pack of mutants. I'll show you where they are, take them out before they kill somebody.</text>
+		<text>I was just attacked by a pack of mutants. I’ll show you where they are, take them out before they kill somebody.</text>
 	</string>
 	<string id="simulation_task_36_finish">
 		<text>Thank you, please take this as a reward.</text>
@@ -691,7 +691,7 @@
 		<text>Long story short, a certain group has moved recently in on a nearby area. That place should be ours. Got it?</text>
 	</string>
 	<string id="simulation_task_38_finish">
-		<text>Thanks! here's your reward.</text>
+		<text>Thanks! here’s your reward.</text>
 	</string>
 	
 	<!-- Search simple stuff for everyone --> <!-- revision -->
@@ -705,7 +705,7 @@
 		<text>I need someone to get me specific item, are you up to it?</text>
 	</string>
 	<string id="simulation_task_39_fetch_about">
-		<text>I had an old order, let me see... Yep. %s, can you help me getting it?</text>
+		<text>I had an old order, let me see… Yep. %s, can you help me getting it?</text>
 	</string>
 	<string id="simulation_task_39_finish">
 		<text>Thanks man!</text>
@@ -724,7 +724,7 @@
 		<text>Got time to retrieve a couple of items?</text>
 	</string>
 	<string id="simulation_task_48_fetch_about">
-		<text>I’m gathering a squad for a long-distance campaign, but we’re lacking something. Of course, I could head to a trade, but the prices... Well, you know. All that I need is %s. Can you help?</text>
+		<text>I’m gathering a squad for a long-distance campaign, but we’re lacking something. Of course, I could head to a trade, but the prices… Well, you know. All that I need is %s. Can you help?</text>
 	</string>
 	<string id="simulation_task_48_fetch_finish">
 		<text>Thanks, mate!</text>
@@ -741,10 +741,10 @@
 		<text>I have an important request, but everything I say should be kept as a secret and only between us. Are we good?</text>
 	</string>
 	<string id="simulation_task_49_fetch_about"> <!-- revision -->
-		<text>Listen up stalker, The situation here wasn't that good as of late. "we" are having hard time transporting supplies under the hood. Things were calmer before, but now... some guards seems like keeping an eye on us, I can feel them watching very closely. Rumors began to spread about some of our guys being robbers. Is it Duty? Hell if I know! All what I know that it is time to get out of here and find a safer place. But we need the next shipment to be ready before moving on. We need someone to provide use with %s, will you help?</text>
+		<text>Listen up stalker, The situation here wasn’t that good as of late. "we" are having hard time transporting supplies under the hood. Things were calmer before, but now… some guards seems like keeping an eye on us, I can feel them watching very closely. Rumors began to spread about some of our guys being robbers. Is it Duty? Hell if I know! All what I know that it is time to get out of here and find a safer place. But we need the next shipment to be ready before moving on. We need someone to provide use with %s, will you help?</text>
 	</string>
 	<string id="simulation_task_49_fetch_finish">
-		<text>Ah, I can't be more thankful. Here, this is your reward.</text>
+		<text>Ah, I can’t be more thankful. Here, this is your reward.</text>
 	</string>
 
 	<!-- Fetch for ecolog -->
@@ -758,11 +758,11 @@
 		<text>I need samples for my research, interested?</text>
 	</string>
 	<string id="simulation_task_50_fetch_about"> <!-- revision -->
-		<text>I have a list of specific samples for study and researching. We need those samples as soon as possible, but the number and strength of our research groups is lacking. Because of that, it is necessary to involve other stalkers around in our research. So, our next sample on the list would be... %s, a few pieces. Can I count on you?
+		<text>I have a list of specific samples for study and researching. We need those samples as soon as possible, but the number and strength of our research groups is lacking. Because of that, it is necessary to involve other stalkers around in our research. So, our next sample on the list would be… %s, a few pieces. Can I count on you?
 		</text>
 	</string>
 	<string id="simulation_task_50_fetch_finish">
-		<text>Wonderful! Here's your payment.</text>
+		<text>Wonderful! Here’s your payment.</text>
 	</string>
 
 
@@ -772,7 +772,7 @@
 		<text>Wh-Who are you? Are you here to help me, stalker?</text>
 	</string>
 	<string id="hostage_companion_task_1_actor_reply">
-		<text>Yeah, I'm gonna set you free.</text>
+		<text>Yeah, I’m gonna set you free.</text>
 	</string>
 
 	
@@ -781,13 +781,13 @@
 		<text>Listen, brother, we should get out of here.</text>
 	</string>
 	<string id="assault_smart_npc_reply">
-		<text>What's wrong?</text>
+		<text>What’s wrong?</text>
 	</string>
 	<string id="assault_smart_actor_reply"> <!-- revision -->
-		<text>This place is claimed by some people, very serious people. If you appreciate your life, then it's better to leave before they come back.</text>
+		<text>This place is claimed by some people, very serious people. If you appreciate your life, then it’s better to leave before they come back.</text>
 	</string>
 	<string id="assault_smart_npc_agree"> <!-- revision -->
-		<text>Damn... I'll see what I can do. Thanks for the heads-up.</text>
+		<text>Damn… I’ll see what I can do. Thanks for the heads-up.</text>
 	</string>
 	<string id="assault_smart_npc_refuse"> <!-- revision -->
 		<text>Is that so? let them come, I will make sure to give them a "warm welcome".</text>
@@ -841,7 +841,7 @@
 		<text>The level of radiation is dangerous. You should hide from the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_descr_2_a">
-		<text>You shouldn't leave the shelter during the radioactive fallout.</text>
+		<text>You shouldn’t leave the shelter during the radioactive fallout.</text>
 	</string>
 	<string id="hide_from_fallout_rad_name_1">
 		<text>Radioactive fallout: Find shelter</text>
@@ -868,7 +868,7 @@
 		<text>The level of contamination is dangerous. You should hide from the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_descr_2_a">
-		<text>You shouldn't leave the shelter during the chemical fallout.</text>
+		<text>You shouldn’t leave the shelter during the chemical fallout.</text>
 	</string>
 	<string id="hide_from_fallout_acid_name_1">
 		<text>Chemical fallout: Find shelter</text>
@@ -895,7 +895,7 @@
 		<text>You should hide from the psi-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_descr_2_a">
-		<text>You shouldn't leave the shelter during the psi-storm.</text>
+		<text>You shouldn’t leave the shelter during the psi-storm.</text>
 	</string>
 	<string id="hide_from_psi_storm_name_1">
 		<text>Psi-storm: Find shelter</text>
@@ -921,7 +921,7 @@
 		<text>Defend the base against mutants</text>
 	</string>
 	<string id="faction_base_defense_yantar_name">
-		<text>Defend the scientists' camp against zombified stalkers</text>
+		<text>Defend the scientists’ camp against zombified stalkers</text>
 	</string>
 	<string id="faction_base_defense_text">
 		<text>Mutants are attacking the base, help to defend it.</text>
@@ -958,7 +958,7 @@
 	</string>
 
 	<string id="kill_rare_boar_about"> <!-- revision -->
-		<text>Our boys spotted a big wild boar nearby, and nothing better than some cooked boar meat. There is a good reward for those who will hunt it down. If you're up to it, keep in mind that boars wander around in groups.</text>
+		<text>Our boys spotted a big wild boar nearby, and nothing better than some cooked boar meat. There is a good reward for those who will hunt it down. If you’re up to it, keep in mind that boars wander around in groups.</text>
 	</string>
 
 	<string id="kill_rare_bloodsucker_about"> <!-- revision -->
@@ -966,11 +966,11 @@
 	</string>
 
 	<string id="kill_rare_giant_about"> <!-- revision -->
-		<text>Recently, scientists have sent some interesting photos. Have you ever seen a pseudo-giant? I bet you've never seen anything like this before. Look at this, impressive size right? We were negotiating with the military to take this beast down. If you're crazy enough to give it a try then go ahead, just bear in mind that to no one will search for your remains.</text>
+		<text>Recently, scientists have sent some interesting photos. Have you ever seen a pseudo-giant? I bet you’ve never seen anything like this before. Look at this, impressive size right? We were negotiating with the military to take this beast down. If you’re crazy enough to give it a try then go ahead, just bear in mind that to no one will search for your remains.</text>
 	</string>
 
 	<string id="kill_rare_chimera_about"> <!-- revision -->
-		<text>Seems like we got a double trouble. A lot rumors have spread about chimeras over the years, but this is completely out of the box. Long story shot, some people tried to take down an injured chimera. It was weak enough, but the sudden appearance of its "girlfriend" has turned everything upside down. Duty promised a big reward, but what fool will go on hunting two chimeras at once...?
+		<text>Seems like we got a double trouble. A lot rumors have spread about chimeras over the years, but this is completely out of the box. Long story shot, some people tried to take down an injured chimera. It was weak enough, but the sudden appearance of its "girlfriend" has turned everything upside down. Duty promised a big reward, but what fool will go on hunting two chimeras at once…?
 		</text>
 	</string>
 

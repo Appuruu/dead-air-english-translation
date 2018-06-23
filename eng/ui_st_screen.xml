@@ -7,7 +7,7 @@
 		<text> </text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>You're too overloaded to move.</text>
+		<text>You’re too overloaded to move.</text>
 	</string>
 	<string id="car_character_use">
 		<text>Open door ($$ACTION_USE$$)</text>
@@ -145,10 +145,10 @@
 		<text>A Freedom Guard suit has been placed in the personal box at Yanov for helping Freedom.</text>
 	</string>
 	<string id="st_freeplay_text_ok">
-		<text>You didn't manage to reach the helicopters and the evacuation team left the Zone without you.</text>
+		<text>You didn’t manage to reach the helicopters and the evacuation team left the Zone without you.</text>
 	</string>
 	<string id="st_freeplay_text_yes_no">
-		<text>Are you ready to leave the Zone? There's no way back.</text>
+		<text>Are you ready to leave the Zone? There’s no way back.</text>
 	</string>
 	<string id="st_game_over">
 		<text> </text>
@@ -288,7 +288,7 @@
 
 	<!-- Call of Chernobyl -->
 	<string id="bar_arena_actor_afraid">
-		<text>The fight is off! The challenger got cold feet and didn't come out to fight at all!</text>
+		<text>The fight is off! The challenger got cold feet and didn’t come out to fight at all!</text>
 	</string>
 	<string id="bar_arena_fight_10">
 		<text>10 seconds have passed!</text>
@@ -321,28 +321,28 @@
 		<text>The fight has begun!</text>
 	</string>
 	<string id="bar_arena_fight_bloodsucker">
-		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner is the Zone's most dreaded nightmare, the ever-hungry Bloodsucker! And in the right corner… A man? Yes, it's a man! Your applause, please!</text>
+		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner is the Zone’s most dreaded nightmare, the ever-hungry Bloodsucker! And in the right corner… A man? Yes, it’s a man! Your applause, please!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
 		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner is the spoon-bending kung-fu master himself: the burer! And in the right corner: the man constantly on the lookout!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
-		<text>So, the challenger has been killed! Now there's a surprise!</text>
+		<text>So, the challenger has been killed! Now there’s a surprise!</text>
 	</string>
 	<string id="bar_arena_fight_lose">
-		<text>Well, the challenger killed his opponent, but he didn't do it in time. He loses the fight!</text>
+		<text>Well, the challenger killed his opponent, but he didn’t do it in time. He loses the fight!</text>
 	</string>
 	<string id="bar_arena_fight_pseudodog">
-		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner; it's white, it's fluffy and it's pissed off like hell… The pseudodog! And in the right corner is one who comes from nowhere, and that's precisely where he's headed!</text>
+		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner; it’s white, it’s fluffy and it’s pissed off like hell… The pseudodog! And in the right corner is one who comes from nowhere, and that’s precisely where he’s headed!</text>
 	</string>
 	<string id="bar_arena_fight_savage">
-		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner; you know him, you love him, and he hates you right back! It's the Beast! And in the right corner is the man who's alive and kicking, at least for the moment!</text>
+		<text>Attention! Attention! A new fight is about to start in the Arena. In the left corner; you know him, you love him, and he hates you right back! It’s the Beast! And in the right corner is the man who’s alive and kicking, at least for the moment!</text>
 	</string>
 	<string id="bar_arena_fight_snork">
 		<text>Attention! Attention! A new fight is about to start in the Arena! In the left corner is the martial arts guru and health specialist: the snork! And in the right corner: the man with no past and no future.</text>
 	</string>
 	<string id="bar_arena_fight_timeout">
-		<text>The time's up! The challenger lost, but he's still fighting for his life!</text>
+		<text>The time’s up! The challenger lost, but he’s still fighting for his life!</text>
 	</string>
 	<string id="bar_arena_fight_victory">
 		<text>Yes! The challenger killed his opponent in time! He wins!</text>
@@ -351,7 +351,7 @@
 		<text>Someone is holding the door.</text>
 	</string>
 	<string id="st_death_count">
-		<text>You've died %s times.</text>
+		<text>You’ve died %s times.</text>
 	</string>
 	<string id="st_extinguish_fire">
 		<text>Extinguish ($$ACTION_USE$$)</text>
@@ -363,7 +363,7 @@
 		<text>Ignite ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_labx18_pass_to_1st_door">
-		<text>Excellent, Colleague. I'm glad that you've received 2nd level access. At last, you will find out what goes on in our laboratory. Your access code is 1243. Chief of laboratory X18, Piotr Ilyitch Kalugin.</text>
+		<text>Excellent, Colleague. I’m glad that you’ve received 2nd level access. At last, you will find out what goes on in our laboratory. Your access code is 1243. Chief of laboratory X18, Piotr Ilyitch Kalugin.</text>
 	</string>
 	<string id="st_labx18_pass_to_2nd_door">
 		<text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of laboratory X18, Piotr Ilyitch Kalugin.</text>
@@ -390,13 +390,13 @@
 		<text>Sit ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_yan_saharov_message">
-		<text>Good. You made it after all. It's extremely important that we study the machine in the lab. Try turning it off so that we can have a look at it.</text>
+		<text>Good. You made it after all. It’s extremely important that we study the machine in the lab. Try turning it off so that we can have a look at it.</text>
 	</string>
 	<string id="st_yan_saharov_message_2">
-		<text>Listen, this prototype won't protect you from powerful emissions for long. I expected this, so every time an emission is detected, a timer is activated. When the time runs out, the prototype will no longer protect you, so be careful and keep an eye on the time.</text>
+		<text>Listen, this prototype won’t protect you from powerful emissions for long. I expected this, so every time an emission is detected, a timer is activated. When the time runs out, the prototype will no longer protect you, so be careful and keep an eye on the time.</text>
 	</string>
 	<string id="st_yan_saharov_message_3">
-		<text>Great work. The emission has been turned off, and you're still alive. Oh, and by the way, pop into our bunker every once in a while, won't you?</text>
+		<text>Great work. The emission has been turned off, and you’re still alive. Oh, and by the way, pop into our bunker every once in a while, won’t you?</text>
 	</string>
 	<string id="tip_door_coded">
 		<text>The door is locked by a code</text>

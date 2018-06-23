@@ -28,7 +28,7 @@
 		<text>Burnt farmstead</text>
 	</string>
 	<string id="st_zat_fire_name">
-		<text>Barge's Inferno anomaly</text>
+		<text>Barge’s Inferno anomaly</text>
 	</string>
 	<string id="st_zat_b53_name">
 		<text>Boiler anomaly</text>
@@ -103,7 +103,7 @@
 		<text>Cracked Earth anomaly</text>
 	</string>
 	<string id="st_jup_b6_name">
-		<text>Scientists' bunker</text>
+		<text>Scientists’ bunker</text>
 	</string>
 	<string id="st_jup_b205_name">
 		<text>Volkhov AA complex</text>
@@ -190,10 +190,10 @@
 		<text>Volcano anomaly</text>
 	</string>
 	<string id="st_mar_2c_01_anomaly_spot_name">
-		<text>God's Acre anomaly</text>
+		<text>God’s Acre anomaly</text>
 	</string>
 	<string id="st_mar_2c_02_anomaly_spot_name">
-		<text>Explorer's Fate anomaly</text>
+		<text>Explorer’s Fate anomaly</text>
 	</string>
 	<string id="st_ds_2c_01_anomaly_spot_name">
 		<text>Rock Trap anomaly</text>
@@ -358,7 +358,7 @@
 		<text>Mauler anomaly</text>
 	</string>
 	<string id="st_gar_smart_terrain_5_6_anomaly_spot_name">
-		<text>Witches' Jelly anomaly</text>
+		<text>Witches’ Jelly anomaly</text>
 	</string>
 	<string id="st_gar_smart_terrain_1_7_anomaly_spot_name">
 		<text>Slammer anomaly</text>
@@ -436,13 +436,13 @@
 		<text>Carousel anomaly</text>
 	</string>
 	<string id="st_red_smart_terrain_3_1_anomaly_spot_name">
-		<text>Slutsky's Rest anomaly</text>
+		<text>Slutsky’s Rest anomaly</text>
 	</string>
 	<string id="st_gen_smart_terrain_urod_anomaly_spot_name">
 		<text>Meat Grinder anomaly</text>
 	</string>
 	<string id="st_trc_sim_13_anomal_zone_spot_name">
-		<text>Zealot's Maze anomaly</text>
+		<text>Zealot’s Maze anomaly</text>
 	</string>
 	<string id="cit_2c_03_gravi_anomal_spot_name">
 		<text>Cage</text>

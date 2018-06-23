@@ -81,7 +81,7 @@
 		<text>Receive your next task.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_about">
-		<text>I have a customer for you. I've marked his location on your map.</text>
+		<text>I have a customer for you. I’ve marked his location on your map.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_finish">
 		<text>Good luck stalker.</text>
@@ -100,7 +100,7 @@
 		<text>Hey, some of the boys have spotted an enemy camp in the area and are heading out to ambush them. If you hurry, you can probably catch up with them.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
-		<text>Great job. Here's your cut.</text>
+		<text>Great job. Here’s your cut.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -129,13 +129,13 @@
 		<text>Kill the mutant that attacked Hog and bring him its %s.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_about">
-		<text>You're out in the field a lot. If you come across a certain mutant I want you to kill it.</text>
+		<text>You’re out in the field a lot. If you come across a certain mutant I want you to kill it.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_about">
-		<text>Just last week I was attacked by a mutant. Bastard nearly ended me but then it disappeared before I could blast its ass. It got me good, I'm gonna have this scar the rest of my life. If you see the damn thing, kill it, gut it, bring me its goddamn %s. I will reward you well in return.</text>
+		<text>Just last week I was attacked by a mutant. Bastard nearly ended me but then it disappeared before I could blast its ass. It got me good, I’m gonna have this scar the rest of my life. If you see the damn thing, kill it, gut it, bring me its goddamn %s. I will reward you well in return.</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
-		<text>You killed it! Great! Take that you little fuck! Thanks man, you've done well.</text>
+		<text>You killed it! Great! Take that you little fuck! Thanks man, you’ve done well.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -253,10 +253,10 @@
 		<text>I have a proposition for you. If you can bring me some new tools, you will receive payment. Are you up for it?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
-		<text>Good. I've been looking all over for a %s. It should contain some oil and tools I need to do work on firearms. I will pay you for one of these toolkits if you can bring a full set back to me.</text>
+		<text>Good. I’ve been looking all over for a %s. It should contain some oil and tools I need to do work on firearms. I will pay you for one of these toolkits if you can bring a full set back to me.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
-		<text>Right, on. This is what I've been looking for, thank!</text>
+		<text>Right, on. This is what I’ve been looking for, thank!</text>
 	</string>
 
 
@@ -268,10 +268,10 @@
 		<text>%s are required by Hog to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
-		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn’t have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
-		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+		<text>I need an %s. I’m not sure where you can get one of these, but if you can find one, I need it.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
 		<text>Everything I need is here. Thank you.</text>
@@ -286,10 +286,10 @@
 		<text>%s are required by Hog to install expert equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
-		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn’t have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
-		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+		<text>I need an %s. I’m not sure where you can get one of these, but if you can find one, I need it.</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
 		<text>Everything I need is here. Thank you.</text>
@@ -303,10 +303,10 @@
 		<text>Surgeon is on shortage of %s, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
 		<text>Great, back to work.</text>

@@ -33,7 +33,7 @@
 		<text>Receive your next task.</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_default_task_about">
-		<text>Ha ha! I'm glad you are here, stalker. I know a man who could use your help. See if you can be of assistance to him.</text>
+		<text>Ha ha! I’m glad you are here, stalker. I know a man who could use your help. See if you can be of assistance to him.</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_default_task_finish">
 		<text>Good luck stalker.</text>
@@ -81,7 +81,7 @@
 		<text>Receive your next task.</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_default_task_about">
-		<text>If ya ain't bringin' me no dead mutants there ain't nothing we got to talk about. Better keep on walking.</text>
+		<text>If ya ain’t bringin’ me no dead mutants there ain’t nothing we got to talk about. Better keep on walking.</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_default_task_finish">
 		<text>Good luck stalker.</text>
@@ -91,35 +91,35 @@
 	<!-- Noah (Loner Honcho) Dog Food Storyline Task -->
 
 	<string id="drx_sl_zat_b18_noah_task_1_name">
-		<text>Find %s for Noah's Dog</text>
+		<text>Find %s for Noah’s Dog</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_1_text">
-		<text>Noah's mutant pet is hungry for %s. Better find some soon before it turns on the old coot.</text>
+		<text>Noah’s mutant pet is hungry for %s. Better find some soon before it turns on the old coot.</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_1_about">
-		<text>Where the hell you been boy? I'm out of dog food! This little bitch is gonna eat me out of house and home. She's a looker though, ain't she? Just like her master.</text>
+		<text>Where the hell you been boy? I’m out of dog food! This little bitch is gonna eat me out of house and home. She’s a looker though, ain’t she? Just like her master.</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_1_fetch_about">
 		<text>Well what the hell you standing there for? Get me some damn %s to feed my dog!</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_1_fetch_finish">
-		<text>About damn time! Here you go girl, eat up. She's such a pretty lass. Look how full that coat is. What? You still here? Here, take this if it will get you to go away.</text>
+		<text>About damn time! Here you go girl, eat up. She’s such a pretty lass. Look how full that coat is. What? You still here? Here, take this if it will get you to go away.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Noah (Loner Honcho) Exterminate Mutant Infestation Storyline Task -->
 
 	<string id="drx_sl_zat_b18_noah_task_2_name">
-		<text>Exterminate Noah's Mutant Infestation</text>
+		<text>Exterminate Noah’s Mutant Infestation</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_2_text">
 		<text>The old coot Noah is having trouble keeping the area clear of mutants. Help the old guy out.</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_2_about">
-		<text>You're late! There's mutants everywhere out here! You expect me to keep killing them all? Get the hell out there and get rid of them damn things!</text>
+		<text>You’re late! There’s mutants everywhere out here! You expect me to keep killing them all? Get the hell out there and get rid of them damn things!</text>
 	</string>
 	<string id="drx_sl_zat_b18_noah_task_2_finish">
-		<text>You've been gone all day! How the hell long does it take to kill a couple damn mutants? Take your damn pay and get the hell off my boat. And pet my dog on the way out will you? She loves attention and stalker fingers.</text>
+		<text>You’ve been gone all day! How the hell long does it take to kill a couple damn mutants? Take your damn pay and get the hell off my boat. And pet my dog on the way out will you? She loves attention and stalker fingers.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -145,7 +145,7 @@
 		<text>Mutants are afoot. Hunt them down and clear the area.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_about">
-		<text>Shh... Listen, hear that? Some mutants howling. Still gives me the chills after all this time. How about you go out there and take care of them? I'll make it worth your while.</text>
+		<text>Shh… Listen, hear that? Some mutants howling. Still gives me the chills after all this time. How about you go out there and take care of them? I’ll make it worth your while.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_finish">
 		<text>Haha! Well done stalker! Have a drink on Beard!</text>
@@ -160,10 +160,10 @@
 		<text>Beard wants you to find the %s artefact for him.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_about">
-		<text>I deal in artefacts. I usually don't buy them from stalkers, but there is one in particular I would like to get my hands on. Do you want to try to get one for me?</text>
+		<text>I deal in artefacts. I usually don’t buy them from stalkers, but there is one in particular I would like to get my hands on. Do you want to try to get one for me?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_about">
-		<text>I'm looking for the %s. You ever seen one? If you can find it I will pay you well.</text>
+		<text>I’m looking for the %s. You ever seen one? If you can find it I will pay you well.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_finish">
 		<text>Good hunting stalker! Have a drink on the house!</text>
@@ -178,10 +178,10 @@
 		<text>Convince the military commander to call off his search for a fellow stalker.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_3_about">
-		<text>You see that guy in the corner there? Spetsnaz is looking for him. He's been hiding out here for weeks. They say he ran through the Brain Scorcher to escape them. I don't know how he survived, though he ain't quite right in the head anymore. Anyway, you want to help the poor fellow? I happen to know where the military commander who wants him is stationed. Maybe you can convince him to leave the guy alone.</text>
+		<text>You see that guy in the corner there? Spetsnaz is looking for him. He’s been hiding out here for weeks. They say he ran through the Brain Scorcher to escape them. I don’t know how he survived, though he ain’t quite right in the head anymore. Anyway, you want to help the poor fellow? I happen to know where the military commander who wants him is stationed. Maybe you can convince him to leave the guy alone.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_3_finish">
-		<text>Ah, you killed him! Well, that's effective diplomacy! Good man! Free drinks for you!</text>
+		<text>Ah, you killed him! Well, that’s effective diplomacy! Good man! Free drinks for you!</text>
 	</string>
 
 	
@@ -196,7 +196,7 @@
 		<text>There are many people in the Zone who have rubbed me the wrong way or shown me disrespect. Some of these pricks either owe me money or fucked up some deal. These people are nothing but rats that need stomped out. If you are up for the task, I will give you their information so that you can track them through GPS.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
-		<text>Great work! Here's a little something for your trouble:</text>
+		<text>Great work! Here’s a little something for your trouble:</text>
 	</string>
 	<!-- zat_a2_stalker_mechanic -->
 	<string id="zat_a2_stalker_mechanic_task_1_name">
@@ -212,7 +212,7 @@
 		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
-		<text>Great, stalker. You brought exactly what I've asked. Thanks.</text>
+		<text>Great, stalker. You brought exactly what I’ve asked. Thanks.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_name">
 		<text>Find %s for Cardan</text>
@@ -251,7 +251,7 @@
 		<text>Safe spot: reach Skadovsk</text>
 	</string>
 	<string id="zat_a2_reach_base_text">
-		<text>The only relatively safe places in the Zone are large camps. The nearest one is Skadovsk - that's where you should be headed.</text>
+		<text>The only relatively safe places in the Zone are large camps. The nearest one is Skadovsk - that’s where you should be headed.</text>
 	</string>
 	<string id="zat_b100_guide_maps_01_name">
 		<text>Area maps: find someone interested in the maps</text>
@@ -260,7 +260,7 @@
 		<text>Area maps: offer the maps to Pilot</text>
 	</string>
 	<string id="zat_b100_guide_maps_02_text">
-		<text>It's possible that Pilot, the local guide, could be interested in maps of the area between Zaton and Jupiter.</text>
+		<text>It’s possible that Pilot, the local guide, could be interested in maps of the area between Zaton and Jupiter.</text>
 	</string>
 	<string id="zat_b100_heli_2_crash_name">
 		<text>Stingray 2: investigate the crash site</text>
@@ -296,7 +296,7 @@
 		<text>Food: take the food to the mercenaries</text>
 	</string>
 	<string id="zat_b103_merc_supplies_got_text">
-		<text>You must take the food you've collected to the mercenaries in the substation workshops.</text>
+		<text>You must take the food you’ve collected to the mercenaries in the substation workshops.</text>
 	</string>
 	<string id="zat_b103_toolkit_2_substation_workshop_name">
 		<text>Tools: investigate the substation workshops</text>
@@ -305,7 +305,7 @@
 		<text>They say there might be tools in the substation workshops. You might even find the ones the technician is after.</text>
 	</string>
 	<string id="zat_b106_find_chimera_name">
-		<text>Hunting the chimera: find the mutant while it's sleeping</text>
+		<text>Hunting the chimera: find the mutant while it’s sleeping</text>
 	</string>
 	<string id="zat_b106_find_chimera_text">
 		<text>You need to find the chimera before it wakes up.</text>
@@ -314,13 +314,13 @@
 		<text>In search of Magpie: inform Gonta</text>
 	</string>
 	<string id="zat_b106_found_soroka_text">
-		<text>It looks like Magpie, the stalker who set up Gonta's squad, has been found. He has joined Freedom and now calls himself Flint.</text>
+		<text>It looks like Magpie, the stalker who set up Gonta’s squad, has been found. He has joined Freedom and now calls himself Flint.</text>
 	</string>
 	<string id="zat_b106_kill_chimera_name">
 		<text>Hunting the chimera: kill the mutant</text>
 	</string>
 	<string id="zat_b106_kill_chimera_text">
-		<text>The chimera is awake and you should kill it before it's too late.</text>
+		<text>The chimera is awake and you should kill it before it’s too late.</text>
 	</string>
 	<string id="zat_b106_meet_with_gonta_at_night_name">
 		<text>Hunting the chimera: meet Gonta in the bar at 3AM</text>
@@ -338,7 +338,7 @@
 		<text>In search of Magpie: find the stalker</text>
 	</string>
 	<string id="zat_b106_search_soroka_text">
-		<text>A stalker called Magpie set up Gonta's squad to be attacked by a chimera. They've asked you to find the bastard.</text>
+		<text>A stalker called Magpie set up Gonta’s squad to be attacked by a chimera. They’ve asked you to find the bastard.</text>
 	</string>
 	<string id="zat_b107_evacuation_jupiter_name">
 		<text>Evacuation locations: investigate position B205</text>
@@ -374,7 +374,7 @@
 		<text>Strange phenomenon: take the artefact to Beard</text>
 	</string>
 	<string id="zat_b14_bring_strange_object_text">
-		<text>The source of the strange glow was an equally strange artefact. It's bound to be of interest to Beard.</text>
+		<text>The source of the strange glow was an equally strange artefact. It’s bound to be of interest to Beard.</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
 		<text>Strange phenomenon: ask stalkers about the artefact</text>
@@ -398,7 +398,7 @@
 		<text>Strange phenomenon: tell Beard about the artefact</text>
 	</string>
 	<string id="zat_b14_tell_svyaznoy_about_all_text">
-		<text>The source of the strange glow was an equally strange artefact. Even though you don't have the artefact, you should tell Beard about it.</text>
+		<text>The source of the strange glow was an equally strange artefact. Even though you don’t have the artefact, you should tell Beard about it.</text>
 	</string>
 	<string id="zat_b20_cross_the_teleport_name">
 		<text>Getting to the plateau: jump into the anomaly</text>
@@ -407,10 +407,10 @@
 		<text>It looks like the way to the plateau is through the anomaly. You need to jump into it.</text>
 	</string>
 	<string id="zat_b20_find_the_teleport_name">
-		<text>Getting to the plateau: find Noah's secret path</text>
+		<text>Getting to the plateau: find Noah’s secret path</text>
 	</string>
 	<string id="zat_b20_find_the_teleport_text">
-		<text>Noah's PDA mentioned his own "secret path" to the plateau. You need to find it.</text>
+		<text>Noah’s PDA mentioned his own "secret path" to the plateau. You need to find it.</text>
 	</string>
 	<string id="zat_b20_plato_talk_to_noah_name">
 		<text>Getting to the plateau: find out how to get there from Noah </text>
@@ -419,16 +419,16 @@
 		<text>They say a stalker called Noah knows a path onto the plateau. You need to find out how to get there.</text>
 	</string>
 	<string id="zat_b22_bring_proof_name">
-		<text>Missing stalkers: bring back proof of Tremor's involvement</text>
+		<text>Missing stalkers: bring back proof of Tremor’s involvement</text>
 	</string>
 	<string id="zat_b22_bring_proof_text">
-		<text>You need to take the PDA with Tremor's recordings to Skadovsk and show it to Beard. The recordings make it clear that the medic was the one responsible for stalker disappearances.</text>
+		<text>You need to take the PDA with Tremor’s recordings to Skadovsk and show it to Beard. The recordings make it clear that the medic was the one responsible for stalker disappearances.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_start_1">
 		<text>Ïðèâåò!</text>
 	</string>
 	<string id="zat_b22_find_proof_name">
-		<text>Missing stalkers: find proof of Tremor's involvement</text>
+		<text>Missing stalkers: find proof of Tremor’s involvement</text>
 	</string>
 	<string id="zat_b22_find_proof_text">
 		<text>You need to check whether Tremor left any evidence of his involvement in stalker disappearances.</text>
@@ -449,7 +449,7 @@
 		<text>You need to bring Beard the artefact, but there is a report that another group has already found one. You should track the signal and try to complete the job before your competitors do.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_4">
-		<text>You need to bring Beard the artefact, but another group has already done that. Now you'll only get half your fee for the artefact.</text>
+		<text>You need to bring Beard the artefact, but another group has already done that. Now you’ll only get half your fee for the artefact.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_5">
 		<text>You need to bring Beard the artefact.</text>
@@ -488,7 +488,7 @@
 		<text>You need to find the artefact for Beard, but there is a report that another group has already found one. You should track the signal and try to complete the job before your competitors do.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_4">
-		<text>You need to find the artefact for Beard, but another group has already completed the order. Now you'll only get half your fee for the artefact.</text>
+		<text>You need to find the artefact for Beard, but another group has already completed the order. Now you’ll only get half your fee for the artefact.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_5">
 		<text>You need to find the artefact for Beard.</text>
@@ -521,7 +521,7 @@
 		<text>Compass: locate Noah and find out where you can get the rare artefact</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_find_text">
-		<text>You need to locate Noah at the old barge and find out where you can get the rare Compass artefact. Beard has been looking for the artefact for a long time and he's willing to pay well for it.</text>
+		<text>You need to locate Noah at the old barge and find out where you can get the rare Compass artefact. Beard has been looking for the artefact for a long time and he’s willing to pay well for it.</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_give_name">
 		<text>Compass: take the artefact to Beard</text>
@@ -542,7 +542,7 @@
 		<text>Shady business: get your cut from Beard</text>
 	</string>
 	<string id="zat_b30_percent_task_text">
-		<text>You should get your cut of Beard's revenue from him.</text>
+		<text>You should get your cut of Beard’s revenue from him.</text>
 	</string>
 	<string id="zat_b30_sultan_task_1_name">
 		<text>Tempting business: talk to Sultan</text>
@@ -554,22 +554,22 @@
 		<text>Shady business: take detectors from stalkers </text>
 	</string>
 	<string id="zat_b30_sultan_task_2_text">
-		<text>You must do whatever you can to take the detector prototypes away from the stalkers who are searching for artefacts for Beard. If he has no detectors, he'll have to agree to Sultan's terms.</text>
+		<text>You must do whatever you can to take the detector prototypes away from the stalkers who are searching for artefacts for Beard. If he has no detectors, he’ll have to agree to Sultan’s terms.</text>
 	</string>
 	<string id="zat_b30_sultan_task_3_name">
 		<text>Shady business: talk to Sultan</text>
 	</string>
 	<string id="zat_b30_sultan_task_3_text">
-		<text>Beard doesn't have the detectors, so you should speak to Sultan to find out whether he has resolved the problem with Beard's other suppliers.</text>
+		<text>Beard doesn’t have the detectors, so you should speak to Sultan to find out whether he has resolved the problem with Beard’s other suppliers.</text>
 	</string>
 	<string id="zat_b30_sultan_task_4_name">
 		<text>Shady business: force Beard to work for Sultan</text>
 	</string>
 	<string id="zat_b30_sultan_task_4_text">
-		<text>Now that Beard no longer has any suppliers or detectors, he can't do anything on his own - force him to work for Sultan.</text>
+		<text>Now that Beard no longer has any suppliers or detectors, he can’t do anything on his own - force him to work for Sultan.</text>
 	</string>
 	<string id="zat_b30_sultan_task_6_name">
-		<text>Shady business: find out about Beard's current business</text>
+		<text>Shady business: find out about Beard’s current business</text>
 	</string>
 	<string id="zat_b30_sultan_task_6_text">
 		<text>You need to find out what business Beard is involved in at the moment. This will help you cut off his supply channels.</text>
@@ -578,13 +578,13 @@
 		<text>Shady business: take the second detector away from stalkers </text>
 	</string>
 	<string id="zat_b30_sultan_task_7_text">
-		<text>You must do whatever you can to take the detector prototypes away from the stalkers who are searching for artefacts for Beard. If he has no detectors, he'll have to agree to Sultan's terms.</text>
+		<text>You must do whatever you can to take the detector prototypes away from the stalkers who are searching for artefacts for Beard. If he has no detectors, he’ll have to agree to Sultan’s terms.</text>
 	</string>
 	<string id="zat_b30_task_1_name">
 		<text>Tempting business: bring Tukarev three Veles detectors</text>
 	</string>
 	<string id="zat_b30_task_1_text">
-		<text>Owl the trader has offered you to participate in a lucrative venture. Your job is to find three Veles detectors and take them to Tukarev in the scientists' bunker.</text>
+		<text>Owl the trader has offered you to participate in a lucrative venture. Your job is to find three Veles detectors and take them to Tukarev in the scientists’ bunker.</text>
 	</string>
 	<string id="zat_b30_task_2_name">
 		<text>Tempting business: wait until Owl gets the detectors</text>
@@ -596,7 +596,7 @@
 		<text>Tempting business: talk to Owl</text>
 	</string>
 	<string id="zat_b30_task_3_text">
-		<text>Owl the trader has contacted you by radio to tell you that he's having problems and that he wants to see you.</text>
+		<text>Owl the trader has contacted you by radio to tell you that he’s having problems and that he wants to see you.</text>
 	</string>
 	<string id="zat_b30_task_4_name">
 		<text>Tempting business: convince Beard to stick to the agreement</text>
@@ -608,13 +608,13 @@
 		<text>Tempting business: demand a cut from Owl</text>
 	</string>
 	<string id="zat_b30_task_5_text">
-		<text>Beard believes he doesn't owe Owl anything - you need to find out who is right and demand your cut from that person.</text>
+		<text>Beard believes he doesn’t owe Owl anything - you need to find out who is right and demand your cut from that person.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_01">
-		<text>Snag has asked you to bring him his container. He hid it in an old Zaporozhets car, which fell into a crack following an earthquake. Snag is afraid to go down there because it's full of snorks.</text>
+		<text>Snag has asked you to bring him his container. He hid it in an old Zaporozhets car, which fell into a crack following an earthquake. Snag is afraid to go down there because it’s full of snorks.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_02">
-		<text>You have Snag's container and you should now take it back to the owner to split its contents fairly.</text>
+		<text>You have Snag’s container and you should now take it back to the owner to split its contents fairly.</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
 		<text>Bloodsucker lair: tell the stalkers</text>
@@ -638,7 +638,7 @@
 		<text>Missing stalkers: find out what happened</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
-		<text>Looks like Tremor isn't as innocent as he seemed. You need to work out what happened.</text>
+		<text>Looks like Tremor isn’t as innocent as he seemed. You need to work out what happened.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
 		<text>Missing stalkers: find Grouse</text>
@@ -650,7 +650,7 @@
 		<text>Missing stalkers: find out where Grouse is</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
-		<text>Grouse isn't where he normally is. You should ask Beard where he went.</text>
+		<text>Grouse isn’t where he normally is. You should ask Beard where he went.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
 		<text>Missing stalkers: find the missing hunter</text>
@@ -680,7 +680,7 @@
 		<text>Missing stalkers: meet Grouse</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
-		<text>The place Grouse indicated had a dead bloodsucker and no signs of Danila the hunter. However, it seems that Grouse has found something interesting and he's asking you to join him.</text>
+		<text>The place Grouse indicated had a dead bloodsucker and no signs of Danila the hunter. However, it seems that Grouse has found something interesting and he’s asking you to join him.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
 		<text>As it turns out, bloodsuckers had nothing to do with stalker disappearances - it was Tremor, the Skadovsk medic.</text>
@@ -731,28 +731,28 @@
 		<text>Mercenary camp: take any information you can find</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_01_text">
-		<text>Owl the trader promised good payment for any media you can find in the mercenary camp at the waste processing station. He is interested in the mercenaries' plans.</text>
+		<text>Owl the trader promised good payment for any media you can find in the mercenary camp at the waste processing station. He is interested in the mercenaries’ plans.</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_02_name">
 		<text>Mercenary camp: take any information you can find</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_02_text">
-		<text>Owl the trader promised good payment for any media you can find in the mercenary camp at the waste processing station. He is interested in the mercenaries' plans.</text>
+		<text>Owl the trader promised good payment for any media you can find in the mercenary camp at the waste processing station. He is interested in the mercenaries’ plans.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_barge_name">
-		<text>Three comrades: find out about Barge's fate</text>
+		<text>Three comrades: find out about Barge’s fate</text>
 	</string>
 	<string id="zat_b44_tech_buddies_barge_text">
 		<text>Cardan asked you to pass on his apologies to his comrade, a stalker called Barge. They had an argument and Barge left in an unknown direction.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_both_name">
-		<text>Three comrades: find out about Barge's and Joker's fates</text>
+		<text>Three comrades: find out about Barge’s and Joker’s fates</text>
 	</string>
 	<string id="zat_b44_tech_buddies_both_text">
 		<text>Cardan asked you to pass on his apologies to his comrades, stalkers called Barge and Joker. They had an argument and his comrades left in an unknown direction.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_joker_name">
-		<text>Three comrades: find out about Joker's fate</text>
+		<text>Three comrades: find out about Joker’s fate</text>
 	</string>
 	<string id="zat_b44_tech_buddies_joker_text">
 		<text>Cardan asked you to pass on his apologies to his comrade, a stalker called Joker. They had an argument and Joker left in an unknown direction.</text>
@@ -785,7 +785,7 @@
 		<text>You need to find Snag and force him to keep his mouth shut. There are no clues to his whereabouts at the moment.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text_5">
-		<text>You need to find Snag and force him to keep his mouth shut. Judging by the PDA found on one of the bandits, Sultan's people are looking for Snag. Unfortunately, there aren't any clues as to where he can be found.</text>
+		<text>You need to find Snag and force him to keep his mouth shut. Judging by the PDA found on one of the bandits, Sultan’s people are looking for Snag. Unfortunately, there aren’t any clues as to where he can be found.</text>
 	</string>
 	<string id="zat_b52_reputation_know_there_snog_name">
 		<text>Reputation: find out where Snag disappeared to</text>
@@ -818,7 +818,7 @@
 		<text>You will need poisonous gas to destroy the bloodsucker lair. Owl should know where you can get some.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
-		<text>You will need poisonous gas to destroy the bloodsucker lair. Owl claims that you'll find gas canisters at the deserted military convoy.</text>
+		<text>You will need poisonous gas to destroy the bloodsucker lair. Owl claims that you’ll find gas canisters at the deserted military convoy.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
 		<text>Bloodsucker lair: find keys to the container</text>
@@ -896,7 +896,7 @@
 		<text>Transaction: eliminate witnesses</text>
 	</string>
 	<string id="zat_b5_kill_stalkers_text">
-		<text>The trader's transaction didn't work out, so you need to take out all the witnesses.</text>
+		<text>The trader’s transaction didn’t work out, so you need to take out all the witnesses.</text>
 	</string>
 	<string id="zat_b5_protect_dealer_name">
 		<text>Transaction: protect the trader</text>
@@ -932,7 +932,7 @@
 		<text>Transaction: talk to the bandit leader</text>
 	</string>
 	<string id="zat_b5_talk_to_sultan_text">
-		<text>You need to inform the bandit leader you're ready to take part in the transaction.</text>
+		<text>You need to inform the bandit leader you’re ready to take part in the transaction.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_name">
 		<text>The hit: decide what to do</text>
@@ -944,7 +944,7 @@
 		<text>The hit: collect your reward</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
-		<text>The attack on the camp was repelled, so you can talk to the stalkers to get your reward. They would probably have had a very tough time if they hadn't been warned about the attack.</text>
+		<text>The attack on the camp was repelled, so you can talk to the stalkers to get your reward. They would probably have had a very tough time if they hadn’t been warned about the attack.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_text">
 		<text>A group of stalkers has turned to a bandit existence of robbing their own kind. You need to decide whether to take part in their assault, warn the stalkers or not get involved.</text>

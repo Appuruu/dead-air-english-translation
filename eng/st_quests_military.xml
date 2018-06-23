@@ -49,7 +49,7 @@
 		<text>Lukash has a target he needs eliminated.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
-		<text>Hey, I'm glad you came. I have something I need you to do for me. There is a mutual enemy of ours that needs to be eliminated. He is dangerous. Take him down immediately.</text>
+		<text>Hey, I’m glad you came. I have something I need you to do for me. There is a mutual enemy of ours that needs to be eliminated. He is dangerous. Take him down immediately.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
 		<text>Awesome bro! Thanks.</text>
@@ -65,10 +65,10 @@
 		<text>Lukash has asked you to lead Freedom in an assault against the Monolith.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
-		<text>Monolith forces keep breaking through our blockade. I want to take the fight to them for once. I've recruited an assault squad and want you to lead them in an invasion on Monolith territory. Take them out.</text>
+		<text>Monolith forces keep breaking through our blockade. I want to take the fight to them for once. I’ve recruited an assault squad and want you to lead them in an invasion on Monolith territory. Take them out.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
-		<text>Man, you've got a set on you. Great job.</text>
+		<text>Man, you’ve got a set on you. Great job.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -108,7 +108,7 @@
 		<text>Lukash wants 15,000 RU to let you join Freedom.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>Ah, good. You will enjoy joining Freedom. Just pay the 15,000 RU fee and you're in.</text>
+		<text>Ah, good. You will enjoy joining Freedom. Just pay the 15,000 RU fee and you’re in.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
 		<text>Welcome to Freedom, bro.</text>
@@ -123,7 +123,7 @@
 		<text>Lukash wants 15,000 RU to let you join Freedom.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>Ah, good. You will enjoy joining Freedom. Just pay the 15,000 RU fee and you're in.</text>
+		<text>Ah, good. You will enjoy joining Freedom. Just pay the 15,000 RU fee and you’re in.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
 		<text>Welcome to Freedom, bro.</text>
@@ -184,7 +184,7 @@
 		<text>I have an important mission if you are willing. There is a Duty officer that must be taken care of at any cost, can you handle it?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
-		<text>Well done, here's your payment.</text>
+		<text>Well done, here’s your payment.</text>
 	</string>
 
 	
@@ -231,7 +231,7 @@
 		<text>I have just the job for you, man, if you are not afraid of a few mutants. Are you interested?</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
-		<text>Some of the guys bring me back a kill or two every now and again. But it's been slow lately - So if you aren't too busy and you are out and about, I need %s. Our cook kills and processes the meat, right here in the kitchen.</text>
+		<text>Some of the guys bring me back a kill or two every now and again. But it’s been slow lately - So if you aren’t too busy and you are out and about, I need %s. Our cook kills and processes the meat, right here in the kitchen.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
 		<text>Great, you are a good hunter! I have payment for you.</text>
@@ -247,7 +247,7 @@
 		<text>Skinflint has a delivery that needs to be picked up.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
-		<text>I have a delivery that I need to pick up. If you're willing to get it for me I can give you an item from my inventory.</text>
+		<text>I have a delivery that I need to pick up. If you’re willing to get it for me I can give you an item from my inventory.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
 		<text>Thank you stalker!</text>

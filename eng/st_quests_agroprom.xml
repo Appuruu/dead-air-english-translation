@@ -65,7 +65,7 @@
 		<text>Lead your squad in the assault on an enemy encampment.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
-		<text>We're preparing an assault on an enemy camp. The commander has issued everyone new weapons. I need you to be on point for the inital attack.</text>
+		<text>We’re preparing an assault on an enemy camp. The commander has issued everyone new weapons. I need you to be on point for the inital attack.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
 		<text>Excellent work. You are a fine warrior.</text>
@@ -113,7 +113,7 @@
 		<text>Lieutenant Kirilov has learned the location of enemy battle plans and needs them captured.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
-		<text>An informant has revealed the location of the enemy's battle plans. I need you to infiltrate the area and retrieve the plans.</text>
+		<text>An informant has revealed the location of the enemy’s battle plans. I need you to infiltrate the area and retrieve the plans.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_1_finish">
 		<text>Well done! You haved saved many lives with this.</text>
@@ -129,7 +129,7 @@
 		<text>Patrol the area around Agoroprom.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
-		<text>It's your turn for sentry duty. Patrol the local area and keep an eye out for any unauthorized personnel.</text>
+		<text>It’s your turn for sentry duty. Patrol the local area and keep an eye out for any unauthorized personnel.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_task_2_finish">
 		<text>Good work. The commander will be pleased.</text>
@@ -158,7 +158,7 @@
 		<text>Major Kuznetsov will accept a 8,000 RU payment to let you join the Military</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_about">
-		<text>You want to enlist? Well, you'll never pass the physical requirements will all the radiation you've absorbed in the Zone. Tell you what though, if you're willing to slip me 8,000 RU I might be persuaded to look the other way.</text>
+		<text>You want to enlist? Well, you’ll never pass the physical requirements will all the radiation you’ve absorbed in the Zone. Tell you what though, if you’re willing to slip me 8,000 RU I might be persuaded to look the other way.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_cf_task_1_finish">
 		<text>Very well. Welcome to the Military, soldier.</text>
@@ -190,7 +190,7 @@
 		<text>HQ is concerned about the rising number of incursions into the Zone. I want you to take a squad and sweep the local area for unauthorized personnel. Keep alert for any friendlies, but anyone else you see you are cleared to shoot on sight.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
-		<text>Great job. Keep it up you'll be in line for a commendation.</text>
+		<text>Great job. Keep it up you’ll be in line for a commendation.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -206,7 +206,7 @@
 		<text>Our unit has been tasked with pushing further into the Zone. The commander is looking for volunteers to capture territory for us. Can I inform him of your cooperation?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
-		<text>The task is done? Good job. I'll inform the commander right away of your success.</text>
+		<text>The task is done? Good job. I’ll inform the commander right away of your success.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -254,7 +254,7 @@
 		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
-		<text>Great! You brought exactly what I've asked. Thanks.</text>
+		<text>Great! You brought exactly what I’ve asked. Thanks.</text>
 	</string>
 
 
@@ -300,10 +300,10 @@
 		<text>You have been assigned to find and bring a set of medical supplies for the military.</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_finish">
 		<text>Great, back to work.</text>

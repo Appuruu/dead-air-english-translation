@@ -47,10 +47,10 @@
 		<text>Retrieve documents left by a Clear Sky operative and return them to Lebdev.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
-		<text>One of my operatives has left some documents for me at an unmarked drop point. I want you to retrieve them for me. Don't let anyone follow you. If you see someone tailing you, kill them immediately.</text>
+		<text>One of my operatives has left some documents for me at an unmarked drop point. I want you to retrieve them for me. Don’t let anyone follow you. If you see someone tailing you, kill them immediately.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_finish">
-		<text>You weren't followed here were you? Good work.</text>
+		<text>You weren’t followed here were you? Good work.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -63,7 +63,7 @@
 		<text>Remove any hostile forces in the area to prevent them from discovering Clear Sky base.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
-		<text>There has been an increase of activity in the swamp. I can't risk having anyone blunder into our base. I want you to clear the area of anyone hostile to Clear Sky.</text>
+		<text>There has been an increase of activity in the swamp. I can’t risk having anyone blunder into our base. I want you to clear the area of anyone hostile to Clear Sky.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
 		<text>You have done well. Thank you stalker.</text>
@@ -130,10 +130,10 @@
 		<text>Librarian knows of a mutant lair in the area he would like cleared out.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_about">
-		<text>There's a mutant lair not too far from here. Go poke it with a stick.</text>
+		<text>There’s a mutant lair not too far from here. Go poke it with a stick.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_1_finish">
-		<text>Heh, nice job. Here's something for your trouble.</text>
+		<text>Heh, nice job. Here’s something for your trouble.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -146,7 +146,7 @@
 		<text>Librarian has asked me to bring him %s.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_2_about">
-		<text>I could use your help. Provisions are running low and it's not easy getting resupplied down here.</text>
+		<text>I could use your help. Provisions are running low and it’s not easy getting resupplied down here.</text>
 	</string>
 	<string id="drx_sl_mar_base_stalker_barmen_task_2_fetch_about">
 		<text>We need %s.</text>
@@ -178,10 +178,10 @@
 		<text>Cold will indoctrinate you into Clear Sky for 15,000 RU.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_about">
-		<text>Yes, we've been watching you. You will be a good fit for Clear Sky. We insist every initiate pays a 15,000 RU fee, this helps fund our research and pays our protection. What do you say?</text>
+		<text>Yes, we’ve been watching you. You will be a good fit for Clear Sky. We insist every initiate pays a 15,000 RU fee, this helps fund our research and pays our protection. What do you say?</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_finish">
-		<text>Good. We're glad to have you aboard Clear Sky.</text>
+		<text>Good. We’re glad to have you aboard Clear Sky.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -207,7 +207,7 @@
 		<text>Spore needs you to deliver an encrypted PDA to Nimble in Cordon.</text>
 	</string>
 	<string id="mar_base_owl_stalker_trader_task_1_about">
-		<text>Okay, hotshot. Need a job? This PDA needs delivered to a dude who hangs out at the Rookie camp in Cordon; His name is Nimble. He will compensate you on delivery. Don't drop it in a puddle or some dumb shit like that... or I'll have your ass. While you are there check out what he has to offer, he can get his hands on some nice equipment... for a price.</text>
+		<text>Okay, hotshot. Need a job? This PDA needs delivered to a dude who hangs out at the Rookie camp in Cordon; His name is Nimble. He will compensate you on delivery. Don’t drop it in a puddle or some dumb shit like that… or I’ll have your ass. While you are there check out what he has to offer, he can get his hands on some nice equipment… for a price.</text>
 	</string>
 	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
 	<string id="mar_base_owl_stalker_trader_task_2_name">
@@ -217,7 +217,7 @@
 		<text>Spore is fed up and wants you to destroy the helicopter. He will offer you a discount if you follow through.</text>
 	</string>
 	<string id="mar_base_owl_stalker_trader_task_2_about">
-		<text>That damn chopper is driving me nuts. I have bad tinnitus and every time that fucking thing is patrolling the southern border it makes my ears scream! Makes me want to bludgeon a baby flesh! Down the fucking thing and I'll give you a discount, please, before I kill somebody.</text>
+		<text>That damn chopper is driving me nuts. I have bad tinnitus and every time that fucking thing is patrolling the southern border it makes my ears scream! Makes me want to bludgeon a baby flesh! Down the fucking thing and I’ll give you a discount, please, before I kill somebody.</text>
 	</string>
 	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
 	<string id="mar_base_owl_stalker_trader_task_3_name">
@@ -244,7 +244,7 @@
 		<text>Are you an avid hunter? We need to make the marshes a bit safer by clearing out the mutants in areas that our faction frequents. Take a few volunteers and lead them on a hunt to eliminate the threat.</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_1_finish">
-		<text>Fantastic! Here is your payment. I'll make sure to pass the word around that it's safe there once again. Thank you, stalker.</text>
+		<text>Fantastic! Here is your payment. I’ll make sure to pass the word around that it’s safe there once again. Thank you, stalker.</text>
 	</string>
 
 	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
@@ -258,7 +258,7 @@
 		<text>We have a big problem with bandits in the area. Those murderous thugs have been ambushing our camps outside the main base trying to take the territory over. It will deny us passage through many safe routes through the marshes; as long as they are in the area. We need an experienced stalker to lead a raid on a local Bandit camp to clear them out. Will you help us out?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_2_finish">
-		<text>Fantastic! Here is your payment. I'll make sure to pass the word around that it's safe there once again. Thank you, stalker.</text>
+		<text>Fantastic! Here is your payment. I’ll make sure to pass the word around that it’s safe there once again. Thank you, stalker.</text>
 	</string>
 	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
 	<string id="mar_base_stalker_barmen_task_3_name">
@@ -271,7 +271,7 @@
 		<text>If you are good with a rifle and not afraid of a few mutants, then I have a job for you. Are you interested?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_3_fetch_about">
-		<text>Rations are running low and I need to keep everyone in camp's bellies full. Some of the guys bring me back a kill or two every now and again. But it's been slow lately - So if you aren't too busy and you are out and about, I need %s. I kill and process the meat, right here in my kitchen. Keep in mind that getting the mutants all riled up makes the meat tough because of the adrenaline. Also, the lesser the bleeding, the better the meat tastes. So, just be careful with your shots, okay?</text>
+		<text>Rations are running low and I need to keep everyone in camp’s bellies full. Some of the guys bring me back a kill or two every now and again. But it’s been slow lately - So if you aren’t too busy and you are out and about, I need %s. I kill and process the meat, right here in my kitchen. Keep in mind that getting the mutants all riled up makes the meat tough because of the adrenaline. Also, the lesser the bleeding, the better the meat tastes. So, just be careful with your shots, okay?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
 		<text>Great, you are a good hunter after all! I have payment for you.</text>
@@ -283,7 +283,7 @@
 		<text>I have been asked to clean out a camp from the bandits.</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_6_about">
-		<text>Up to the North, there is a remarkable camp not far from here. Usually the place is quiet enough, but recently some bandits have settled there. According to the latest reports, they plan to further strengthen their positions in the Swamps. This is a bad sign, would you take the mission to bring them down before it's too late?</text>
+		<text>Up to the North, there is a remarkable camp not far from here. Usually the place is quiet enough, but recently some bandits have settled there. According to the latest reports, they plan to further strengthen their positions in the Swamps. This is a bad sign, would you take the mission to bring them down before it’s too late?</text>
 	</string>
 	<string id="mar_base_stalker_barmen_task_6_finish">
 		<text>Great, now the swamps will be a quieter place.</text>
@@ -298,7 +298,7 @@
 		<text>%s are required by Novikov to install basic equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_1_about">
-		<text>It's really hard to come by tools here in the Zone. I would be able to perform upgrades on a greater variety of equipment if I can just get my hands on some new tools. If you are interested, I will tell you what I need.</text>
+		<text>It’s really hard to come by tools here in the Zone. I would be able to perform upgrades on a greater variety of equipment if I can just get my hands on some new tools. If you are interested, I will tell you what I need.</text>
 	</string>
 	<string id="mar_base_stalker_tech_task_1_fetch_about">
 		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
@@ -383,10 +383,10 @@
 		<text>The medic from Clear Sky has tasked you to find and bring a set of medical supplies.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
-		<text>I can handle small wounds for now, but few bandages and medkits won't keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
+		<text>I can handle small wounds for now, but few bandages and medkits won’t keep everyone alive forever. I need a good set of medical supplies, can you bring them to me?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
 		<text>Many lives depend on these tools, thank you!</text>

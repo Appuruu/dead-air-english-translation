@@ -97,7 +97,7 @@
 		<text>repair</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>You can't run Render 2 on your PC</text>
+		<text>You can’t run Render 2 on your PC</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
 		<text>Connection error: Your CD-Key is disabled. Contact customer service.</text>
@@ -277,7 +277,7 @@
 		<text>Zulu joins the squad</text>
 	</string>
 	<string id="st_save_jup_a10_gonna_return_debt">
-		<text>Vano's debt repaid</text>
+		<text>Vano’s debt repaid</text>
 	</string>
 	<string id="st_save_jup_b218_vano_in_squad">
 		<text>Vano joins the squad</text>
@@ -313,7 +313,7 @@
 		<text>reinforcements arrived</text>
 	</string>
 	<string id="st_save_pri_a18_searched_antenna">
-		<text>'antenna' examined</text>
+		<text>’antenna’ examined</text>
 	</string>
 	<string id="st_save_pri_a21_approached_mad_sentry">
 		<text>missing sentry found</text>
@@ -512,7 +512,7 @@
 		<text>You were killed whilst unconscious</text>
 	</string>
 	<string id="st_sleep_event">
-		<text>You aren't crazy enough to rest during this</text>
+		<text>You aren’t crazy enough to rest during this</text>
 	</string>
 	<string id="st_sleep_exhausted">
 		<text>You are exhausted and need to rest</text>
@@ -543,7 +543,7 @@
 		<text>Body is badly decayed</text>
 	</string>
 	<string id="st_future_maps_descr">
-		<text>You can't go there.</text>
+		<text>You can’t go there.</text>
 	</string>
 	<string id="st_hold_then_release">
 		<text>Hold then release</text>
@@ -587,7 +587,7 @@
 		<text>You need a stronger knife for this mutant</text>
 	</string>
 	<string id="st_key_notbinded">
-		<text>...</text>
+		<text>É</text>
 	</string>
 	<string id="st_only_campfire_load">
 		<text>Reloading while alive is disabled</text>
@@ -611,7 +611,7 @@
 		<text>This item is too damaged to be repaired with these tools.</text> <!-- revision -->
 	</string>
 	<string id="st_upd_disconnected">
-		<text>You don't have a Universal Power Device (UPD)</text>
+		<text>You don’t have a Universal Power Device (UPD)</text>
 	</string>
 	<string id="st_upd_low">
 		<text>Low battery power</text>

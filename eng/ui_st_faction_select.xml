@@ -100,7 +100,7 @@
 		<text>Skill: Steady hand</text>
 	</string>
 	<string id="st_loadout_12_descr">
-		<text>\n \nIn whatever condition and situation you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while travelling on public transport, your hand never falters. The grip on your weapon is strong enough to leave dents on the handguard and stock.\n \n</text>
+		<text>\n \nIn whatever condition you find yourself in, whether it be in emotional shock, a wild hangover, or a small earthquake while traveling on public transport, your hand never falters. The grip on your weapon is strong enough to leave dents on the handguard and stock.\n \n</text>
 		<!--
 		Пугливый взгляд, трясущиеся руки, странная осанка
 		
@@ -120,7 +120,7 @@
 		<text>Skill: Butcher</text>
 	</string>
 	<string id="st_loadout_13_descr">
-		<text>\n \nYour presence instils fear into the creatures of the Zone; to little surprise, because you are the last thing they see in their life in the vast majority of cases. Having learned how to deal with the mutant carcass after an encounter, people begin to fear you.\n \n</text><!--Более быстрое и эффективное использование ножа при разделке дичи.\n \n-->
+		<text>\n \nYour presence instils fear into the creatures of the Zone; to little surprise, because you are the last thing they see in their life in the vast majority of cases. Having learned how to deal with the carcass of a mutant after an encounter, people begin to fear you.\n \n</text><!--Более быстрое и эффективное использование ножа при разделке дичи.\n \n-->
 	</string>
 
 	<string id="st_loadout_14">

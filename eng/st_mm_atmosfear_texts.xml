@@ -85,7 +85,7 @@
 		<text>Give task</text>
 	</string>
 	<string id="st_list_task_none">
-		<text>Don't give task</text>
+		<text>Don’t give task</text>
 	</string>
 	<string id="st_cap_moon_phases">
 		<text>Moon phases</text>
@@ -160,7 +160,7 @@
 		<text>28 days</text>
 	</string>
 	<string id="st_cap_moon_static">
-		<text>Don't change and show</text>
+		<text>Don’t change and show</text>
 	</string>
 	<string id="st_cap_moon_phase_0">
 		<text>New moon</text>
