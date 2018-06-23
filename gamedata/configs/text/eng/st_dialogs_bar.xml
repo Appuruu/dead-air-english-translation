@@ -307,15 +307,15 @@
 	</string>
 
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_21">
-		<text>Слушай, а где тут оружие хорошее можно достать?</text>
+		<text>So, where can I get good weapons in this place?</text>
 	</string>
 
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_22">
-		<text>Да, брат, есть такая проблема. Место у нас популярное, поток сталкеров большой - всё новое оружие, что поступает, скупают почти моментально. Ещё и «долговцы» под боком обосновались, а им тоже стрелять из чего-то надо. Нынче на старый АКСУ очередь уже на неделю вперёд, не говоря уже про что-нибудь более солидное. В общем, ловить у нас однозначно нечего. Придётся тебе либо дальше, на север топать, где народ позажиточнее, либо с военными пробовать договориться. А если не особо придирчив и определённые связи имеешь, то можешь к бандитам попробовать наведаться. У них пусть и старьё всякое, но всё же стреляет. Заодним там же и сбыть весь свой хлам можешь, если имеется. Местный торгаш пусть и за бесценок, но зато всё подряд скупает.</text>
+		<text>There is a "little" problem as you can see. This is a popular place, the number of daily visitors is quite impressive. All the new weapons that come in are bought almost instantly. Also, the Duters have just settled down, they need to shoot stuff around too. And the old AKSU line is already a week ahead. In general, you're out of luck in this place. You'll have to either go search somewhere else, like the north for example, where you can find serious equipments for serious people, or to try to negotiate with the military. If you are not particularly picky and have some connections, then you can give the bandits a visit. They have stuff for everyone.</text>
 	</string>
-
+	
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_23">
-		<text>Вот как оно всё… Спасибо, что рассказал.</text>
+		<text>That's how it is then? Alright, thanks for the info.</text>
 	</string>
 
 <!------------------ bar_visitors_informer ----------->
