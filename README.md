@@ -1,138 +1,138 @@
-# Spatial Anomaly
+# Dead Air
 Welcome to the page of an English translation of *[Dead Air](https://www.moddb.com/mods/dead-air)*, a mod for the *[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)* series!
 A list of all files with their detailed progress can be found below.
 
 ---
 
 - [st_achievement.xml](gamedata/configs/text/eng/st_achievement.xml)
-		- complete
+        - complete
 - [st_characters.xml](gamedata/configs/text/eng/st_characters.xml)
-		- complete
+        - complete
 - [st_closecaption.xml](gamedata/configs/text/eng/st_closecaption.xml)
-		- complete
+        - complete
 - [st_closecaption_generic.xml](gamedata/configs/text/eng/st_closecaption_generic.xml)
-		- translated
+        - translated
 - [st_dialogs.xml](gamedata/configs/text/eng/st_dialogs.xml)
-		- complete
+        - complete
 - [st_dialogs_bar.xml](gamedata/configs/text/eng/st_dialogs_bar.xml)
-		- translated
+        - translated
 - [st_dialogs_darkvalley.xml](gamedata/configs/text/eng/st_dialogs_darkvalley.xml)
-		- translated
+        - translated
 - [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
-		- translated
+        - translated
 - [st_dialogs_garbage.xml](gamedata/configs/text/eng/st_dialogs_garbage.xml)
-		- translated
+        - translated
 - [st_dialogs_jupiter.xml](gamedata/configs/text/eng/st_dialogs_jupiter.xml)
-		- translated
+        - translated
 - [st_dialogs_katacomb.xml](gamedata/configs/text/eng/st_dialogs_katacomb.xml)
-		- complete
+        - complete
 - [st_dialogs_marsh.xml](gamedata/configs/text/eng/st_dialogs_marsh.xml)
-		- translated
+        - translated
 - [st_dialogs_pripyat.xml](gamedata/configs/text/eng/st_dialogs_pripyat.xml)
-		- complete
+        - complete
 - [st_dialogs_redforest.xml](gamedata/configs/text/eng/st_dialogs_redforest.xml)
-		- translated
+        - translated
 - [st_dialogs_warlab.xml](gamedata/configs/text/eng/st_dialogs_warlab.xml)
-		- translated
+        - translated
 - [st_dialogs_yantar.xml](gamedata/configs/text/eng/st_dialogs_yantar.xml)
-		- translated
+        - translated
 - [st_dialogs_zaton.xml](gamedata/configs/text/eng/st_dialogs_zaton.xml)
-		- translated
+        - translated
 - [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
-		- translated
+        - translated
 - [st_dynamic_news.xml](gamedata/configs/text/eng/st_dynamic_news.xml)
-		- translated
+        - translated
 - [st_game_relations.xml](gamedata/configs/text/eng/st_game_relations.xml)
-		- complete
+        - complete
 - [st_generate_fnames.xml](gamedata/configs/text/eng/st_generate_fnames.xml)
-		- complete
+        - complete
 - [st_generate_snames.xml](gamedata/configs/text/eng/st_generate_snames.xml)
-		- complete
+        - complete
 - [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
-		- translated
+        - translated
 - [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
-		- translated
+        - translated
 - [st_items_letters.xml](gamedata/configs/text/eng/st_items_letters.xml)
-		- incomplete
+        - incomplete
 - [st_items_mutant_parts.xml](gamedata/configs/text/eng/st_items_mutant_parts.xml)
-		- translated
+        - translated
 - [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
-		- translated
+        - translated
 - [st_items_patches.xml](gamedata/configs/text/eng/st_items_patches.xml)
-		- complete
+        - complete
 - [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
-		- translated
+        - translated
 - [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- translated
+        - translated
 - [st_items_weapons_upgrades.xml](gamedata/configs/text/eng/st_items_weapons_upgrades.xml)
-		- translated
+        - translated
 - [st_itm_minimod.xml](gamedata/configs/text/eng/st_itm_minimod.xml)
-		- complete
+        - complete
 - [st_land_names.xml](gamedata/configs/text/eng/st_land_names.xml)
-		- complete
+        - complete
 - [st_levels.xml](gamedata/configs/text/eng/st_levels.xml)
-		- complete
+        - complete
 - [st_mm_atmosfear_texts.xml](gamedata/configs/text/eng/st_mm_atmosfear_texts.xml)
-		- translated
+        - translated
 - [st_mm_faction_select.xml](gamedata/configs/text/eng/st_mm_faction_select.xml)
-		- translated
+        - translated
 - [st_quests_agroprom.xml](gamedata/configs/text/eng/st_quests_agroprom.xml)
-		- translated
+        - translated
 - [st_quests_bar.xml](gamedata/configs/text/eng/st_quests_bar.xml)
-		- translated
+        - translated
 - [st_quests_darkscape.xml](gamedata/configs/text/eng/st_quests_darkscape.xml)
-		- translated
+        - translated
 - [st_quests_darkvalley.xml](gamedata/configs/text/eng/st_quests_darkvalley.xml)
-		- translated
+        - translated
 - [st_quests_deadcity.xml](gamedata/configs/text/eng/st_quests_deadcity.xml)
-		- translated
+        - translated
 - [st_quests_escape.xml](gamedata/configs/text/eng/st_quests_escape.xml)
-		- translated
+        - translated
 - [st_quests_general.xml](gamedata/configs/text/eng/st_quests_general.xml)
-		- translated
+        - translated
 - [st_quests_jupiter.xml](gamedata/configs/text/eng/st_quests_jupiter.xml)
-		- translated
+        - translated
 - [st_quests_marsh.xml](gamedata/configs/text/eng/st_quests_marsh.xml)
-		- translated
+        - translated
 - [st_quests_military.xml](gamedata/configs/text/eng/st_quests_military.xml)
-		- translated
+        - translated
 - [st_quests_pripyat.xml](gamedata/configs/text/eng/st_quests_pripyat.xml)
-		- complete
+        - complete
 - [st_quests_pripyat2.xml](gamedata/configs/text/eng/st_quests_pripyat2.xml)
-		- translated
+        - translated
 - [st_quests_radar.xml](gamedata/configs/text/eng/st_quests_radar.xml)
-		- complete
+        - complete
 - [st_quests_sarcofag.xml](gamedata/configs/text/eng/st_quests_sarcofag.xml)
-		- translated
+        - translated
 - [st_quests_warlab.xml](gamedata/configs/text/eng/st_quests_warlab.xml)
-		- complete
+        - complete
 - [st_quests_yantar.xml](gamedata/configs/text/eng/st_quests_yantar.xml)
-		- translated
+        - translated
 - [st_quests_zaton.xml](gamedata/configs/text/eng/st_quests_zaton.xml)
-		- translated
+        - translated
 - [st_subtitles.xml](gamedata/configs/text/eng/st_subtitles.xml)
-		- complete
+        - complete
 - [ui_st_credits.xml](gamedata/configs/text/eng/ui_st_credits.xml)
-		- complete
+        - complete
 - [ui_st_encyclopedia.xml](gamedata/configs/text/eng/ui_st_encyclopedia.xml)
-		- complete
+        - complete
 - [ui_st_encyclopedia_features.xml](gamedata/configs/text/eng/ui_st_encyclopedia_features.xml)
-		- incomplete
+        - incomplete
 - [ui_st_faction_select.xml](gamedata/configs/text/eng/ui_st_faction_select.xml)
-		- complete
+        - complete
 - [ui_st_faction_starts.xml](gamedata/configs/text/eng/ui_st_faction_starts.xml)
-		- complete
+        - complete
 - [ui_st_inventory.xml](gamedata/configs/text/eng/ui_st_inventory.xml)
-		- complete
+        - complete
 - [ui_st_keybinding.xml](gamedata/configs/text/eng/ui_st_keybinding.xml)
-		- complete
+        - complete
 - [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
-		- complete
+        - complete
 - [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
-		- complete
+        - complete
 - [ui_st_other.xml](gamedata/configs/text/eng/ui_st_other.xml)
-		- complete
+        - complete
 - [ui_st_pda.xml](gamedata/configs/text/eng/ui_st_pda.xml)
-		- complete
+        - complete
 - [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
-		- complete
+        - complete
