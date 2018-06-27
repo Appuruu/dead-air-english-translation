@@ -483,4 +483,746 @@
 	<string id="name_lieutenant_2">
 		<text>Senior Lieutenant</text>
 	</string>
+
+	<string id="name_bandit_trader_0">
+		<text>Sanya</text>
+	</string>
+	<string id="name_bandit_trader_1">
+		<text>Sanek</text>
+	</string>
+	<string id="name_bandit_trader_2">
+		<text>Shurik</text>
+	</string>
+	<string id="name_bandit_trader_3">
+		<text>Lenya</text>
+	</string>
+	<string id="name_bandit_trader_4">
+		<text>Alex</text>
+	</string>
+	<string id="name_bandit_trader_5">
+		<text>Leshka</text>
+	</string>
+	<string id="name_bandit_trader_6">
+		<text>Tolik</text>
+	</string>
+	<string id="name_bandit_trader_7">
+		<text>Anton</text>
+	</string>
+	<string id="name_bandit_trader_8">
+		<text>Toshka</text>
+	</string>
+	<string id="name_bandit_trader_9">
+		<text>Artem</text>
+	</string>
+	<string id="name_bandit_trader_10">
+		<text>Arthur</text>
+	</string>
+	<string id="name_bandit_trader_11">
+		<text>Borya</text>
+	</string>
+	<string id="name_bandit_trader_12">
+		<text>Borka</text>
+	</string>
+	<string id="name_bandit_trader_13">
+		<text>Bohdan</text>
+	</string>
+	<string id="name_bandit_trader_14">
+		<text>Slavik</text>
+	</string>
+	<string id="name_bandit_trader_15">
+		<text>Vadim</text>
+	</string>
+	<string id="name_bandit_trader_16">
+		<text>Vadya</text>
+	</string>
+	<string id="name_bandit_trader_17">
+		<text>Vadik</text>
+	</string>
+	<string id="name_bandit_trader_18">
+		<text>Valik</text>
+	</string>
+	<string id="name_bandit_trader_19">
+		<text>Valera</text>
+	</string>
+	<string id="name_bandit_trader_20">
+		<text>Vasya</text>
+	</string>
+	<string id="name_bandit_trader_21">
+		<text>Vaska</text>
+	</string>
+	<string id="name_bandit_trader_22">
+		<text>Vasko</text>
+	</string>
+	<string id="name_bandit_trader_23">
+		<text>Venya</text>
+	</string>
+	<string id="name_bandit_trader_24">
+		<text>Vitya</text>
+	</string>
+	<string id="name_bandit_trader_25">
+		<text>Vitka</text>
+	</string>
+	<string id="name_bandit_trader_26">
+		<text>Vitalik</text>
+	</string>
+	<string id="name_bandit_trader_27">
+		<text>Vlad</text>
+	</string>
+	<string id="name_bandit_trader_28">
+		<text>Vova</text>
+	</string>
+	<string id="name_bandit_trader_29">
+		<text>Vovka</text>
+	</string>
+	<string id="name_bandit_trader_30">
+		<text>Seva</text>
+	</string>
+	<string id="name_bandit_trader_31">
+		<text>Sevka</text>
+	</string>
+	<string id="name_bandit_trader_32">
+		<text>Gena</text>
+	</string>
+	<string id="name_bandit_trader_33">
+		<text>Genka</text>
+	</string>
+	<string id="name_bandit_trader_34">
+		<text>George</text>
+	</string>
+	<string id="name_bandit_trader_35">
+		<text>Gosha</text>
+	</string>
+	<string id="name_bandit_trader_36">
+		<text>Zhora</text>
+	</string>
+	<string id="name_bandit_trader_37">
+		<text>Mark</text>
+	</string>
+	
+	<string id="name_mechanic_0">
+		<text>Sanya</text>
+	</string>
+	<string id="name_mechanic_1">
+		<text>Sanek</text>
+	</string>
+	<string id="name_mechanic_10">
+		<text>Arthur</text>
+	</string>
+	<string id="name_mechanic_100">
+		<text>Yashka</text>
+	</string>
+	<string id="name_mechanic_101">
+		<text>Yarik</text>
+	</string>
+	<string id="name_mechanic_102">
+		<text>Yara</text>
+	</string>
+	<string id="name_mechanic_103">
+		<text>Slava</text>
+	</string>
+	<string id="name_mechanic_11">
+		<text>Borya</text>
+	</string>
+	<string id="name_mechanic_12">
+		<text>Borka</text>
+	</string>
+	<string id="name_mechanic_13">
+		<text>Bohdan</text>
+	</string>
+	<string id="name_mechanic_14">
+		<text>Slavik</text>
+	</string>
+	<string id="name_mechanic_15">
+		<text>Vadim</text>
+	</string>
+	<string id="name_mechanic_16">
+		<text>Vadya</text>
+	</string>
+	<string id="name_mechanic_17">
+		<text>Vadik</text>
+	</string>
+	<string id="name_mechanic_18">
+		<text>Valik</text>
+	</string>
+	<string id="name_mechanic_19">
+		<text>Valera</text>
+	</string>
+	<string id="name_mechanic_2">
+		<text>Shurik</text>
+	</string>
+	<string id="name_mechanic_20">
+		<text>Vasya</text>
+	</string>
+	<string id="name_mechanic_21">
+		<text>Vaska</text>
+	</string>
+	<string id="name_mechanic_22">
+		<text>Vasko</text>
+	</string>
+	<string id="name_mechanic_23">
+		<text>Venya</text>
+	</string>
+	<string id="name_mechanic_24">
+		<text>Vitya</text>
+	</string>
+	<string id="name_mechanic_25">
+		<text>Vitka</text>
+	</string>
+	<string id="name_mechanic_26">
+		<text>Vitalik</text>
+	</string>
+	<string id="name_mechanic_27">
+		<text>Vlad</text>
+	</string>
+	<string id="name_mechanic_28">
+		<text>Vova</text>
+	</string>
+	<string id="name_mechanic_29">
+		<text>Vovka</text>
+	</string>
+	<string id="name_mechanic_3">
+		<text>Lenya</text>
+	</string>
+	<string id="name_mechanic_30">
+		<text>Seva</text>
+	</string>
+	<string id="name_mechanic_31">
+		<text>Sevka</text>
+	</string>
+	<string id="name_mechanic_32">
+		<text>Gena</text>
+	</string>
+	<string id="name_mechanic_33">
+		<text>Genka</text>
+	</string>
+	<string id="name_mechanic_34">
+		<text>George</text>
+	</string>
+	<string id="name_mechanic_35">
+		<text>Gosha</text>
+	</string>
+	<string id="name_mechanic_36">
+		<text>Zhora</text>
+	</string>
+	<string id="name_mechanic_37">
+		<text>Mark</text>
+	</string>
+	<string id="name_mechanic_38">
+		<text>Gleb</text>
+	</string>
+	<string id="name_mechanic_39">
+		<text>Grisha</text>
+	</string>
+	<string id="name_mechanic_4">
+		<text>Alex</text>
+	</string>
+	<string id="name_mechanic_40">
+		<text>Grishka</text>
+	</string>
+	<string id="name_mechanic_41">
+		<text>Grishko</text>
+	</string>
+	<string id="name_mechanic_42">
+		<text>Danya</text>
+	</string>
+	<string id="name_mechanic_43">
+		<text>Kiryukha</text>
+	</string>
+	<string id="name_mechanic_44">
+		<text>Danko</text>
+	</string>
+	<string id="name_mechanic_45">
+		<text>Dennis</text>
+	</string>
+	<string id="name_mechanic_46">
+		<text>Dima</text>
+	</string>
+	<string id="name_mechanic_47">
+		<text>Dimka</text>
+	</string>
+	<string id="name_mechanic_48">
+		<text>Dmitro</text>
+	</string>
+	<string id="name_mechanic_49">
+		<text>Zhenya</text>
+	</string>
+	<string id="name_mechanic_5">
+		<text>Leshka</text>
+	</string>
+	<string id="name_mechanic_50">
+		<text>Zhenka</text>
+	</string>
+	<string id="name_mechanic_51">
+		<text>Egor</text>
+	</string>
+	<string id="name_mechanic_52">
+		<text>Egorka</text>
+	</string>
+	<string id="name_mechanic_53">
+		<text>Fima</text>
+	</string>
+	<string id="name_mechanic_54">
+		<text>Vanya</text>
+	</string>
+	<string id="name_mechanic_55">
+		<text>Vanka</text>
+	</string>
+	<string id="name_mechanic_56">
+		<text>Igorek</text>
+	</string>
+	<string id="name_mechanic_57">
+		<text>Ilya</text>
+	</string>
+	<string id="name_mechanic_58">
+		<text>Kostya</text>
+	</string>
+	<string id="name_mechanic_59">
+		<text>Kostik</text>
+	</string>
+	<string id="name_mechanic_6">
+		<text>Tolik</text>
+	</string>
+	<string id="name_mechanic_60">
+		<text>Leva</text>
+	</string>
+	<string id="name_mechanic_61">
+		<text>Lenya</text>
+	</string>
+	<string id="name_mechanic_62">
+		<text>Lyonka</text>
+	</string>
+	<string id="name_mechanic_63">
+		<text>Max</text>
+	</string>
+	<string id="name_mechanic_64">
+		<text>Matvei</text>
+	</string>
+	<string id="name_mechanic_65">
+		<text>Mitya</text>
+	</string>
+	<string id="name_mechanic_66">
+		<text>Misha </text>
+	</string>
+	<string id="name_mechanic_67">
+		<text>Mishka</text>
+	</string>
+	<string id="name_mechanic_68">
+		<text>Nikita</text>
+	</string>
+	<string id="name_mechanic_69">
+		<text>Nik</text>
+	</string>
+	<string id="name_mechanic_7">
+		<text>Anton</text>
+	</string>
+	<string id="name_mechanic_70">
+		<text>Kolya</text>
+	</string>
+	<string id="name_mechanic_71">
+		<text>Oleg</text>
+	</string>
+	<string id="name_mechanic_72">
+		<text>Pasha</text>
+	</string>
+	<string id="name_mechanic_73">
+		<text>Pashka</text>
+	</string>
+	<string id="name_mechanic_74">
+		<text>Petro</text>
+	</string>
+	<string id="name_mechanic_75">
+		<text>Petya</text>
+	</string>
+	<string id="name_mechanic_76">
+		<text>Petka</text>
+	</string>
+	<string id="name_mechanic_77">
+		<text>Roma</text>
+	</string>
+	<string id="name_mechanic_78">
+		<text>Romka</text>
+	</string>
+	<string id="name_mechanic_79">
+		<text>Rostik</text>
+	</string>
+	<string id="name_mechanic_8">
+		<text>Toshka</text>
+	</string>
+	<string id="name_mechanic_80">
+		<text>Rus</text>
+	</string>
+	<string id="name_mechanic_81">
+		<text>Savva</text>
+	</string>
+	<string id="name_mechanic_82">
+		<text>Semyon</text>
+	</string>
+	<string id="name_mechanic_83">
+		<text>Sema</text>
+	</string>
+	<string id="name_mechanic_84">
+		<text>Serega</text>
+	</string>
+	<string id="name_mechanic_85">
+		<text>Rusik</text>
+	</string>
+	<string id="name_mechanic_86">
+		<text>Stepan</text>
+	</string>
+	<string id="name_mechanic_87">
+		<text>Stepa</text>
+	</string>
+	<string id="name_mechanic_88">
+		<text>Tima</text>
+	</string>
+	<string id="name_mechanic_89">
+		<text>Timka</text>
+	</string>
+	<string id="name_mechanic_9">
+		<text>Artem</text>
+	</string>
+	<string id="name_mechanic_90">
+		<text>Fedor</text>
+	</string>
+	<string id="name_mechanic_91">
+		<text>Fedya</text>
+	</string>
+	<string id="name_mechanic_92">
+		<text>Fedka</text>
+	</string>
+	<string id="name_mechanic_93">
+		<text>Filya</text>
+	</string>
+	<string id="name_mechanic_94">
+		<text>Filka</text>
+	</string>
+	<string id="name_mechanic_95">
+		<text>Edik</text>
+	</string>
+	<string id="name_mechanic_96">
+		<text>Yurka</text>
+	</string>
+	<string id="name_mechanic_97">
+		<text>Yurik</text>
+	</string>
+	<string id="name_mechanic_98">
+		<text>Yurko</text>
+	</string>
+	<string id="name_mechanic_99">
+		<text>Yasha</text>
+	</string>
+
+	<string id="name_medic_0">
+		<text>Sanya</text>
+	</string>
+	<string id="name_medic_1">
+		<text>Sanek</text>
+	</string>
+	<string id="name_medic_10">
+		<text>Arthur</text>
+	</string>
+	<string id="name_medic_100">
+		<text>Yashka</text>
+	</string>
+	<string id="name_medic_101">
+		<text>Yarik</text>
+	</string>
+	<string id="name_medic_102">
+		<text>Yara</text>
+	</string>
+	<string id="name_medic_103">
+		<text>Slava</text>
+	</string>
+	<string id="name_medic_11">
+		<text>Borya</text>
+	</string>
+	<string id="name_medic_12">
+		<text>Borka</text>
+	</string>
+	<string id="name_medic_13">
+		<text>Bohdan</text>
+	</string>
+	<string id="name_medic_14">
+		<text>Slavik</text>
+	</string>
+	<string id="name_medic_15">
+		<text>Vadim</text>
+	</string>
+	<string id="name_medic_16">
+		<text>Vadya</text>
+	</string>
+	<string id="name_medic_17">
+		<text>Vadik</text>
+	</string>
+	<string id="name_medic_18">
+		<text>Valik</text>
+	</string>
+	<string id="name_medic_19">
+		<text>Valera</text>
+	</string>
+	<string id="name_medic_2">
+		<text>Shurik</text>
+	</string>
+	<string id="name_medic_20">
+		<text>Vasya</text>
+	</string>
+	<string id="name_medic_21">
+		<text>Vaska</text>
+	</string>
+	<string id="name_medic_22">
+		<text>Vasko</text>
+	</string>
+	<string id="name_medic_23">
+		<text>Venya</text>
+	</string>
+	<string id="name_medic_24">
+		<text>Vitya</text>
+	</string>
+	<string id="name_medic_25">
+		<text>Vitka</text>
+	</string>
+	<string id="name_medic_26">
+		<text>Vitalik</text>
+	</string>
+	<string id="name_medic_27">
+		<text>Vlad</text>
+	</string>
+	<string id="name_medic_28">
+		<text>Vova</text>
+	</string>
+	<string id="name_medic_29">
+		<text>Vovka</text>
+	</string>
+	<string id="name_medic_3">
+		<text>Lenya</text>
+	</string>
+	<string id="name_medic_30">
+		<text>Seva</text>
+	</string>
+	<string id="name_medic_31">
+		<text>Sevka</text>
+	</string>
+	<string id="name_medic_32">
+		<text>Gena</text>
+	</string>
+	<string id="name_medic_33">
+		<text>Genka</text>
+	</string>
+	<string id="name_medic_34">
+		<text>George</text>
+	</string>
+	<string id="name_medic_35">
+		<text>Gosha</text>
+	</string>
+	<string id="name_medic_36">
+		<text>Zhora</text>
+	</string>
+	<string id="name_medic_37">
+		<text>Mark</text>
+	</string>
+	<string id="name_medic_38">
+		<text>Gleb</text>
+	</string>
+	<string id="name_medic_39">
+		<text>Grisha</text>
+	</string>
+	<string id="name_medic_4">
+		<text>Alex</text>
+	</string>
+	<string id="name_medic_40">
+		<text>Grishka</text>
+	</string>
+	<string id="name_medic_41">
+		<text>Grishko</text>
+	</string>
+	<string id="name_medic_42">
+		<text>Danya</text>
+	</string>
+	<string id="name_medic_43">
+		<text>Kiryukha</text>
+	</string>
+	<string id="name_medic_44">
+		<text>Danko</text>
+	</string>
+	<string id="name_medic_45">
+		<text>Dennis</text>
+	</string>
+	<string id="name_medic_46">
+		<text>Dima</text>
+	</string>
+	<string id="name_medic_47">
+		<text>Dimka</text>
+	</string>
+	<string id="name_medic_48">
+		<text>Dmitro</text>
+	</string>
+	<string id="name_medic_49">
+		<text>Zhenya</text>
+	</string>
+	<string id="name_medic_5">
+		<text>Leshka</text>
+	</string>
+	<string id="name_medic_50">
+		<text>Zhenka</text>
+	</string>
+	<string id="name_medic_51">
+		<text>Egor</text>
+	</string>
+	<string id="name_medic_52">
+		<text>Egorka</text>
+	</string>
+	<string id="name_medic_53">
+		<text>Fima</text>
+	</string>
+	<string id="name_medic_54">
+		<text>Vanya</text>
+	</string>
+	<string id="name_medic_55">
+		<text>Vanka</text>
+	</string>
+	<string id="name_medic_56">
+		<text>Igorek</text>
+	</string>
+	<string id="name_medic_57">
+		<text>Ilya</text>
+	</string>
+	<string id="name_medic_58">
+		<text>Kostya</text>
+	</string>
+	<string id="name_medic_59">
+		<text>Kostik</text>
+	</string>
+	<string id="name_medic_6">
+		<text>Tolik</text>
+	</string>
+	<string id="name_medic_60">
+		<text>Leva</text>
+	</string>
+	<string id="name_medic_61">
+		<text>Lenya</text>
+	</string>
+	<string id="name_medic_62">
+		<text>Lyonka</text>
+	</string>
+	<string id="name_medic_63">
+		<text>Max</text>
+	</string>
+	<string id="name_medic_64">
+		<text>Matvei</text>
+	</string>
+	<string id="name_medic_65">
+		<text>Mitya</text>
+	</string>
+	<string id="name_medic_66">
+		<text>Misha </text>
+	</string>
+	<string id="name_medic_67">
+		<text>Mishka</text>
+	</string>
+	<string id="name_medic_68">
+		<text>Nikita</text>
+	</string>
+	<string id="name_medic_69">
+		<text>Nik</text>
+	</string>
+	<string id="name_medic_7">
+		<text>Anton</text>
+	</string>
+	<string id="name_medic_70">
+		<text>Kolya</text>
+	</string>
+	<string id="name_medic_71">
+		<text>Oleg</text>
+	</string>
+	<string id="name_medic_72">
+		<text>Pasha</text>
+	</string>
+	<string id="name_medic_73">
+		<text>Pashka</text>
+	</string>
+	<string id="name_medic_74">
+		<text>Petro</text>
+	</string>
+	<string id="name_medic_75">
+		<text>Petya</text>
+	</string>
+	<string id="name_medic_76">
+		<text>Petka</text>
+	</string>
+	<string id="name_medic_77">
+		<text>Roma</text>
+	</string>
+	<string id="name_medic_78">
+		<text>Romka</text>
+	</string>
+	<string id="name_medic_79">
+		<text>Rostik</text>
+	</string>
+	<string id="name_medic_8">
+		<text>Toshka</text>
+	</string>
+	<string id="name_medic_80">
+		<text>Rus</text>
+	</string>
+	<string id="name_medic_81">
+		<text>Savva</text>
+	</string>
+	<string id="name_medic_82">
+		<text>Semyon</text>
+	</string>
+	<string id="name_medic_83">
+		<text>Sema</text>
+	</string>
+	<string id="name_medic_84">
+		<text>Serega</text>
+	</string>
+	<string id="name_medic_85">
+		<text>Rusik</text>
+	</string>
+	<string id="name_medic_86">
+		<text>Stepan</text>
+	</string>
+	<string id="name_medic_87">
+		<text>Stepa</text>
+	</string>
+	<string id="name_medic_88">
+		<text>Tima</text>
+	</string>
+	<string id="name_medic_89">
+		<text>Timka</text>
+	</string>
+	<string id="name_medic_9">
+		<text>Artem</text>
+	</string>
+	<string id="name_medic_90">
+		<text>Fedor</text>
+	</string>
+	<string id="name_medic_91">
+		<text>Fedya</text>
+	</string>
+	<string id="name_medic_92">
+		<text>Fedka</text>
+	</string>
+	<string id="name_medic_93">
+		<text>Filya</text>
+	</string>
+	<string id="name_medic_94">
+		<text>Filka</text>
+	</string>
+	<string id="name_medic_95">
+		<text>Edik</text>
+	</string>
+	<string id="name_medic_96">
+		<text>Yurka</text>
+	</string>
+	<string id="name_medic_97">
+		<text>Yurik</text>
+	</string>
+	<string id="name_medic_98">
+		<text>Yurko</text>
+	</string>
+	<string id="name_medic_99">
+		<text>Yasha</text>
+	</string>
+	
 </string_table>
