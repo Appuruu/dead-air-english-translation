@@ -213,17 +213,17 @@
 	<string id="st_list_periods_clear">
 		<text>Sunny</text>
 	</string>
-	<string id="st_list_periods_clear_foggy">
-		<text>Sunny / Foggy</text>
+	<string id="st_list_periods_cloudy">
+		<text>Cloudy</text>
 	</string>
 	<string id="st_list_periods_foggy">
 		<text>Foggy</text>
 	</string>
-	<string id="st_list_periods_foggy_rainy">
-		<text>Foggy / Rainy</text>
+	<string id="st_list_periods_veryfoggy">
+		<text>Very Foggy</text>
 	</string>
 	<string id="st_list_periods_wet">
-		<text>Морось</text>
+		<text>Drizzle</text>
 	</string>
 	<string id="st_list_periods_rainy">
 		<text>Rainy</text>
@@ -235,13 +235,13 @@
 		<text>Load default colour balance and brightness settings</text>
 	</string>
 	<string id="st_btn_load_color_default">
-		<text>Настройки освещения: стандарт</text>
+		<text>Lighting settings: standard</text>
 	</string>
 	<string id="st_btn_load_color_high">
-		<text>Настройки освещения: ярко</text>
+		<text>Lighting settings: bright</text>
 	</string>
 	<string id="st_btn_load_color_low">
-		<text>Настройки освещения: тёмно</text>
+		<text>Lighting settings: dark</text>
 	</string>
 	<string id="st_btn_load_default_settings">
 		<text>Restore default weather, event, and moon settings</text>
